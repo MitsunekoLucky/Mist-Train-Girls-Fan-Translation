@@ -6,16 +6,16 @@ def decode(sort_path):
     """sort"""
     final_path = PATH + sort_path
     write_path = PATH + "Decoded/"
-    decoded = []
     for filename in os.listdir(final_path):
+
+        decoded = []
         path_a = os.path.join(final_path, filename)
-        with open(path_a,'r',encoding='utf8') as f:
+        with open(path_a,'r',encoding='utf-8') as f:
             for line in f:
-                decoded += line.encode('utf8').decode('utf8')
+                decoded += line.encode('utf-8').decode('unicode-escape', 'replace')
 
         path_b = os.path.join(write_path, filename)
-        with open(path_b,'w',encoding='utf8') as f:
-            for data in decoded:
-                f.write(data)
+        with open(path_b,'w', encoding='unicode-escape') as f:
+            f.writelines(decoded)
 
 decode("Translated/")
