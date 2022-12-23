@@ -34,7 +34,7 @@ IDs = [
 
 A = PATH + "/DMM/"
 B = PATH + "/Nutaku Johren/"
-WRITE = PATH + "/Try/"
+WRITE = PATH + "/Translated/"
 
 untranslated: int = 0
 
@@ -131,7 +131,6 @@ for filename in os.listdir(A):
             fWRITE.truncate()     # remove remaining part
 
         print("FORMAT SUCCESS")
-        print("Untranslated: " + str(untranslated))
 
     else:
         print("File {" + filename + "} of path {" + A + "} didn't exist on path {" + B + "}")
@@ -145,3 +144,5 @@ for filename in os.listdir(A):
                 fWRITE.truncate()
 
         print("Created file: " + filename)
+
+    print("Total untranslated: " + str(untranslated))

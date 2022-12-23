@@ -12,7 +12,6 @@ IDs = [
     "MMissionId"
 ]
 PATH = "../Menu Text/"
-FILE = "MWorldViewModel.json"
 
 def recursive_sort(data):
     """sort"""
@@ -26,17 +25,18 @@ def recursive_sort(data):
         for key in data:
             recursive_sort(data[key])
 
-    
+
 def sort(sort_path):
     """sort"""
     final_path = PATH + sort_path
-    path_a = os.path.join(final_path, FILE)
-    with open(path_a, "r+", encoding = "utf8") as file_a:
-        data = json.load(file_a)
-        recursive_sort(data)
-        file_a.seek(0)
-        json.dump(data, file_a, indent=4)
-        file_a.truncate()
+    for filename in os.listdir(final_path):
+        path_a = os.path.join(final_path, filename)
+        with open(path_a, "r+", encoding = "utf8") as file_a:
+            data = json.load(file_a)
+            recursive_sort(data)
+            file_a.seek(0)
+            json.dump(data, file_a, indent=4)
+            file_a.truncate()
 
 
 sort("Nutaku Johren/")
