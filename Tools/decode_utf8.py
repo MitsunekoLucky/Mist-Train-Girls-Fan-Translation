@@ -15,7 +15,11 @@ def decode(sort_path):
                 decoded += line.encode('utf-8').decode('unicode-escape', 'replace')
 
         path_b = os.path.join(write_path, filename)
-        with open(path_b,'w', encoding='unicode-escape') as f:
-            f.writelines(decoded)
+        with open(path_b,'w', encoding='utf-8') as f:
+            for data in decoded:
+                try:
+                    f.write(data)
+                except UnicodeEncodeError:
+                    print("Error")
 
 decode("Translated/")
