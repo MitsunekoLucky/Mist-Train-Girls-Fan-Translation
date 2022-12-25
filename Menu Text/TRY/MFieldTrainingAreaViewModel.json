@@ -1,0 +1,2207 @@
+[
+{
+"Id": 1,
+"MAreaId": 1200011,
+"RecommendAttribute": "刃",
+"RecommendPower": "60000",
+"BossMCharacterId": 9401,
+"AreaNo": 1,
+"MFieldTraingRanks": [
+{
+"Id": 1001,
+"FieldTrainingRank": 4,
+"Rewards": [
+{
+"ItemId": 394,
+"ItemType": 4,
+"Quantity": 100
+},
+{
+"ItemId": 0,
+"ItemType": 7,
+"Quantity": 400
+},
+{
+"ItemId": 419,
+"ItemType": 4,
+"Quantity": 1
+}
+]
+},
+{
+"Id": 1002,
+"FieldTrainingRank": 3,
+"Rewards": [
+{
+"ItemId": 394,
+"ItemType": 4,
+"Quantity": 50
+},
+{
+"ItemId": 0,
+"ItemType": 7,
+"Quantity": 300
+}
+]
+},
+{
+"Id": 1003,
+"FieldTrainingRank": 2,
+"Rewards": [
+{
+"ItemId": 394,
+"ItemType": 4,
+"Quantity": 50
+},
+{
+"ItemId": 0,
+"ItemType": 7,
+"Quantity": 200
+}
+]
+},
+{
+"Id": 1004,
+"FieldTrainingRank": 1,
+"Rewards": [
+{
+"ItemId": 394,
+"ItemType": 4,
+"Quantity": 200
+},
+{
+"ItemId": 0,
+"ItemType": 7,
+"Quantity": 100
+}
+]
+}
+],
+"MFieldTrainingPanels": [
+{
+"Id": 1001,
+"FieldTrainingPanelType": 0,
+"StepNo": 1,
+"StageNo": 1,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+1002,
+1003
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 1024,
+"FieldTrainingPanelType": 3,
+"StepNo": 11,
+"StageNo": 1,
+"MQuestId": 213001116,
+"NextMFieldTrainingPanelIds": [],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 1023,
+"FieldTrainingPanelType": 2,
+"StepNo": 10,
+"StageNo": 2,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+1024
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 1022,
+"FieldTrainingPanelType": 1,
+"StepNo": 10,
+"StageNo": 1,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+1024
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 1021,
+"FieldTrainingPanelType": 5,
+"StepNo": 9,
+"StageNo": 3,
+"MQuestId": 213001115,
+"NextMFieldTrainingPanelIds": [
+1023
+],
+"MFieldTrainingSkills": [
+{
+"Id": 1025,
+"MSkillId": 900000043
+},
+{
+"Id": 1026,
+"MSkillId": 900000047
+},
+{
+"Id": 1027,
+"MSkillId": 900000055
+}
+]
+},
+{
+"Id": 1020,
+"FieldTrainingPanelType": 5,
+"StepNo": 9,
+"StageNo": 2,
+"MQuestId": 213001114,
+"NextMFieldTrainingPanelIds": [
+1022,
+1023
+],
+"MFieldTrainingSkills": [
+{
+"Id": 1025,
+"MSkillId": 900000043
+},
+{
+"Id": 1026,
+"MSkillId": 900000047
+},
+{
+"Id": 1027,
+"MSkillId": 900000055
+}
+]
+},
+{
+"Id": 1019,
+"FieldTrainingPanelType": 4,
+"StepNo": 9,
+"StageNo": 1,
+"MQuestId": 213001113,
+"NextMFieldTrainingPanelIds": [
+1022
+],
+"MFieldTrainingSkills": [
+{
+"Id": 1022,
+"MSkillId": 900000038
+},
+{
+"Id": 1023,
+"MSkillId": 900000041
+},
+{
+"Id": 1024,
+"MSkillId": 900000045
+}
+]
+},
+{
+"Id": 1017,
+"FieldTrainingPanelType": 2,
+"StepNo": 8,
+"StageNo": 1,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+1020,
+1019
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 1016,
+"FieldTrainingPanelType": 1,
+"StepNo": 7,
+"StageNo": 3,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+1018
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 1015,
+"FieldTrainingPanelType": 5,
+"StepNo": 7,
+"StageNo": 2,
+"MQuestId": 213001111,
+"NextMFieldTrainingPanelIds": [
+1017,
+1018
+],
+"MFieldTrainingSkills": [
+{
+"Id": 1019,
+"MSkillId": 900000031
+},
+{
+"Id": 1020,
+"MSkillId": 900000034
+},
+{
+"Id": 1021,
+"MSkillId": 900000037
+}
+]
+},
+{
+"Id": 1014,
+"FieldTrainingPanelType": 4,
+"StepNo": 7,
+"StageNo": 1,
+"MQuestId": 213001110,
+"NextMFieldTrainingPanelIds": [
+1017
+],
+"MFieldTrainingSkills": [
+{
+"Id": 1018,
+"MSkillId": 900000035
+},
+{
+"Id": 1016,
+"MSkillId": 900000029
+},
+{
+"Id": 1017,
+"MSkillId": 900000032
+}
+]
+},
+{
+"Id": 1013,
+"FieldTrainingPanelType": 4,
+"StepNo": 6,
+"StageNo": 2,
+"MQuestId": 213001109,
+"NextMFieldTrainingPanelIds": [
+1015,
+1016
+],
+"MFieldTrainingSkills": [
+{
+"Id": 1018,
+"MSkillId": 900000035
+},
+{
+"Id": 1016,
+"MSkillId": 900000029
+},
+{
+"Id": 1017,
+"MSkillId": 900000032
+}
+]
+},
+{
+"Id": 1018,
+"FieldTrainingPanelType": 4,
+"StepNo": 8,
+"StageNo": 2,
+"MQuestId": 213001112,
+"NextMFieldTrainingPanelIds": [
+1020,
+1021
+],
+"MFieldTrainingSkills": [
+{
+"Id": 1022,
+"MSkillId": 900000038
+},
+{
+"Id": 1023,
+"MSkillId": 900000041
+},
+{
+"Id": 1024,
+"MSkillId": 900000045
+}
+]
+},
+{
+"Id": 1011,
+"FieldTrainingPanelType": 5,
+"StepNo": 5,
+"StageNo": 3,
+"MQuestId": 213001107,
+"NextMFieldTrainingPanelIds": [
+1013
+],
+"MFieldTrainingSkills": [
+{
+"Id": 1013,
+"MSkillId": 900000012
+},
+{
+"Id": 1014,
+"MSkillId": 900000015
+},
+{
+"Id": 1015,
+"MSkillId": 900000019
+}
+]
+},
+{
+"Id": 1012,
+"FieldTrainingPanelType": 5,
+"StepNo": 6,
+"StageNo": 1,
+"MQuestId": 213001108,
+"NextMFieldTrainingPanelIds": [
+1014,
+1015
+],
+"MFieldTrainingSkills": [
+{
+"Id": 1013,
+"MSkillId": 900000012
+},
+{
+"Id": 1014,
+"MSkillId": 900000015
+},
+{
+"Id": 1015,
+"MSkillId": 900000019
+}
+]
+},
+{
+"Id": 1003,
+"FieldTrainingPanelType": 4,
+"StepNo": 2,
+"StageNo": 2,
+"MQuestId": 213001102,
+"NextMFieldTrainingPanelIds": [
+1005,
+1006
+],
+"MFieldTrainingSkills": [
+{
+"Id": 1001,
+"MSkillId": 900000001
+},
+{
+"Id": 1002,
+"MSkillId": 900000004
+},
+{
+"Id": 1003,
+"MSkillId": 900000007
+}
+]
+},
+{
+"Id": 1004,
+"FieldTrainingPanelType": 1,
+"StepNo": 3,
+"StageNo": 1,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+1007
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 1005,
+"FieldTrainingPanelType": 5,
+"StepNo": 3,
+"StageNo": 2,
+"MQuestId": 213001103,
+"NextMFieldTrainingPanelIds": [
+1008,
+1007
+],
+"MFieldTrainingSkills": [
+{
+"Id": 1004,
+"MSkillId": 900000003
+},
+{
+"Id": 1005,
+"MSkillId": 900000006
+},
+{
+"Id": 1006,
+"MSkillId": 900000009
+}
+]
+},
+{
+"Id": 1006,
+"FieldTrainingPanelType": 4,
+"StepNo": 3,
+"StageNo": 3,
+"MQuestId": 213001104,
+"NextMFieldTrainingPanelIds": [
+1008
+],
+"MFieldTrainingSkills": [
+{
+"Id": 1007,
+"MSkillId": 900000010
+},
+{
+"Id": 1008,
+"MSkillId": 900000013
+},
+{
+"Id": 1009,
+"MSkillId": 900000017
+}
+]
+},
+{
+"Id": 1002,
+"FieldTrainingPanelType": 4,
+"StepNo": 2,
+"StageNo": 1,
+"MQuestId": 213001101,
+"NextMFieldTrainingPanelIds": [
+1004,
+1005
+],
+"MFieldTrainingSkills": [
+{
+"Id": 1001,
+"MSkillId": 900000001
+},
+{
+"Id": 1002,
+"MSkillId": 900000004
+},
+{
+"Id": 1003,
+"MSkillId": 900000007
+}
+]
+},
+{
+"Id": 1008,
+"FieldTrainingPanelType": 2,
+"StepNo": 4,
+"StageNo": 2,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+1010,
+1011
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 1009,
+"FieldTrainingPanelType": 1,
+"StepNo": 5,
+"StageNo": 1,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+1012
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 1010,
+"FieldTrainingPanelType": 4,
+"StepNo": 5,
+"StageNo": 2,
+"MQuestId": 213001106,
+"NextMFieldTrainingPanelIds": [
+1012,
+1013
+],
+"MFieldTrainingSkills": [
+{
+"Id": 1010,
+"MSkillId": 900000021
+},
+{
+"Id": 1011,
+"MSkillId": 900000024
+},
+{
+"Id": 1012,
+"MSkillId": 900000039
+}
+]
+},
+{
+"Id": 1007,
+"FieldTrainingPanelType": 4,
+"StepNo": 4,
+"StageNo": 1,
+"MQuestId": 213001105,
+"NextMFieldTrainingPanelIds": [
+1009,
+1010
+],
+"MFieldTrainingSkills": [
+{
+"Id": 1007,
+"MSkillId": 900000010
+},
+{
+"Id": 1008,
+"MSkillId": 900000013
+},
+{
+"Id": 1009,
+"MSkillId": 900000017
+}
+]
+}
+],
+"PrevMFieldTrainingAreaIds": [],
+"Message": "持久力\r\nサポート力"
+},
+{
+"Id": 2,
+"MAreaId": 1200012,
+"RecommendAttribute": "衝",
+"RecommendPower": "60000",
+"BossMCharacterId": 49402,
+"AreaNo": 2,
+"MFieldTraingRanks": [
+{
+"Id": 2001,
+"FieldTrainingRank": 4,
+"Rewards": [
+{
+"ItemId": 0,
+"ItemType": 7,
+"Quantity": 400
+},
+{
+"ItemId": 420,
+"ItemType": 4,
+"Quantity": 1
+},
+{
+"ItemId": 394,
+"ItemType": 4,
+"Quantity": 100
+}
+]
+},
+{
+"Id": 2002,
+"FieldTrainingRank": 3,
+"Rewards": [
+{
+"ItemId": 394,
+"ItemType": 4,
+"Quantity": 50
+},
+{
+"ItemId": 0,
+"ItemType": 7,
+"Quantity": 300
+}
+]
+},
+{
+"Id": 2003,
+"FieldTrainingRank": 2,
+"Rewards": [
+{
+"ItemId": 394,
+"ItemType": 4,
+"Quantity": 50
+},
+{
+"ItemId": 0,
+"ItemType": 7,
+"Quantity": 200
+}
+]
+},
+{
+"Id": 2004,
+"FieldTrainingRank": 1,
+"Rewards": [
+{
+"ItemId": 394,
+"ItemType": 4,
+"Quantity": 200
+},
+{
+"ItemId": 0,
+"ItemType": 7,
+"Quantity": 100
+}
+]
+}
+],
+"MFieldTrainingPanels": [
+{
+"Id": 2014,
+"FieldTrainingPanelType": 4,
+"StepNo": 7,
+"StageNo": 1,
+"MQuestId": 213002109,
+"NextMFieldTrainingPanelIds": [
+2017
+],
+"MFieldTrainingSkills": [
+{
+"Id": 2018,
+"MSkillId": 900000035
+},
+{
+"Id": 2016,
+"MSkillId": 900000029
+},
+{
+"Id": 2017,
+"MSkillId": 900000032
+}
+]
+},
+{
+"Id": 2023,
+"FieldTrainingPanelType": 2,
+"StepNo": 10,
+"StageNo": 2,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+2024
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 2022,
+"FieldTrainingPanelType": 1,
+"StepNo": 10,
+"StageNo": 1,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+2024
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 2021,
+"FieldTrainingPanelType": 4,
+"StepNo": 9,
+"StageNo": 3,
+"MQuestId": 213002115,
+"NextMFieldTrainingPanelIds": [
+2023
+],
+"MFieldTrainingSkills": [
+{
+"Id": 2030,
+"MSkillId": 900000066
+},
+{
+"Id": 2028,
+"MSkillId": 900000024
+},
+{
+"Id": 2029,
+"MSkillId": 900000052
+}
+]
+},
+{
+"Id": 2020,
+"FieldTrainingPanelType": 5,
+"StepNo": 9,
+"StageNo": 2,
+"MQuestId": 213002114,
+"NextMFieldTrainingPanelIds": [
+2022,
+2023
+],
+"MFieldTrainingSkills": [
+{
+"Id": 2025,
+"MSkillId": 900000043
+},
+{
+"Id": 2026,
+"MSkillId": 900000047
+},
+{
+"Id": 2027,
+"MSkillId": 900000055
+}
+]
+},
+{
+"Id": 2019,
+"FieldTrainingPanelType": 4,
+"StepNo": 9,
+"StageNo": 1,
+"MQuestId": 213002113,
+"NextMFieldTrainingPanelIds": [
+2022
+],
+"MFieldTrainingSkills": [
+{
+"Id": 2022,
+"MSkillId": 900000038
+},
+{
+"Id": 2023,
+"MSkillId": 900000041
+},
+{
+"Id": 2024,
+"MSkillId": 900000045
+}
+]
+},
+{
+"Id": 2018,
+"FieldTrainingPanelType": 4,
+"StepNo": 8,
+"StageNo": 2,
+"MQuestId": 213002112,
+"NextMFieldTrainingPanelIds": [
+2020,
+2021
+],
+"MFieldTrainingSkills": [
+{
+"Id": 2022,
+"MSkillId": 900000038
+},
+{
+"Id": 2023,
+"MSkillId": 900000041
+},
+{
+"Id": 2024,
+"MSkillId": 900000045
+}
+]
+},
+{
+"Id": 2017,
+"FieldTrainingPanelType": 2,
+"StepNo": 8,
+"StageNo": 1,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+2020,
+2019
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 2016,
+"FieldTrainingPanelType": 5,
+"StepNo": 7,
+"StageNo": 3,
+"MQuestId": 213002111,
+"NextMFieldTrainingPanelIds": [
+2018
+],
+"MFieldTrainingSkills": [
+{
+"Id": 2021,
+"MSkillId": 900000037
+},
+{
+"Id": 2020,
+"MSkillId": 900000034
+},
+{
+"Id": 2019,
+"MSkillId": 900000031
+}
+]
+},
+{
+"Id": 2015,
+"FieldTrainingPanelType": 5,
+"StepNo": 7,
+"StageNo": 2,
+"MQuestId": 213002110,
+"NextMFieldTrainingPanelIds": [
+2017,
+2018
+],
+"MFieldTrainingSkills": [
+{
+"Id": 2021,
+"MSkillId": 900000037
+},
+{
+"Id": 2020,
+"MSkillId": 900000034
+},
+{
+"Id": 2019,
+"MSkillId": 900000031
+}
+]
+},
+{
+"Id": 2013,
+"FieldTrainingPanelType": 1,
+"StepNo": 6,
+"StageNo": 2,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+2015,
+2016
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 2024,
+"FieldTrainingPanelType": 3,
+"StepNo": 11,
+"StageNo": 1,
+"MQuestId": 213002116,
+"NextMFieldTrainingPanelIds": [],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 2011,
+"FieldTrainingPanelType": 4,
+"StepNo": 5,
+"StageNo": 3,
+"MQuestId": 213002107,
+"NextMFieldTrainingPanelIds": [
+2013
+],
+"MFieldTrainingSkills": [
+{
+"Id": 2013,
+"MSkillId": 900000021
+},
+{
+"Id": 2014,
+"MSkillId": 900000024
+},
+{
+"Id": 2015,
+"MSkillId": 900000039
+}
+]
+},
+{
+"Id": 2010,
+"FieldTrainingPanelType": 5,
+"StepNo": 5,
+"StageNo": 2,
+"MQuestId": 213002106,
+"NextMFieldTrainingPanelIds": [
+2012,
+2013
+],
+"MFieldTrainingSkills": [
+{
+"Id": 2010,
+"MSkillId": 900000012
+},
+{
+"Id": 2011,
+"MSkillId": 900000015
+},
+{
+"Id": 2012,
+"MSkillId": 900000019
+}
+]
+},
+{
+"Id": 2009,
+"FieldTrainingPanelType": 1,
+"StepNo": 5,
+"StageNo": 1,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+2012
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 2008,
+"FieldTrainingPanelType": 1,
+"StepNo": 4,
+"StageNo": 2,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+2010,
+2011
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 2007,
+"FieldTrainingPanelType": 4,
+"StepNo": 4,
+"StageNo": 1,
+"MQuestId": 213002105,
+"NextMFieldTrainingPanelIds": [
+2009,
+2010
+],
+"MFieldTrainingSkills": [
+{
+"Id": 2007,
+"MSkillId": 900000010
+},
+{
+"Id": 2008,
+"MSkillId": 900000013
+},
+{
+"Id": 2009,
+"MSkillId": 900000017
+}
+]
+},
+{
+"Id": 2006,
+"FieldTrainingPanelType": 4,
+"StepNo": 3,
+"StageNo": 3,
+"MQuestId": 213002104,
+"NextMFieldTrainingPanelIds": [
+2008
+],
+"MFieldTrainingSkills": [
+{
+"Id": 2007,
+"MSkillId": 900000010
+},
+{
+"Id": 2008,
+"MSkillId": 900000013
+},
+{
+"Id": 2009,
+"MSkillId": 900000017
+}
+]
+},
+{
+"Id": 2005,
+"FieldTrainingPanelType": 2,
+"StepNo": 3,
+"StageNo": 2,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+2008,
+2007
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 2004,
+"FieldTrainingPanelType": 5,
+"StepNo": 3,
+"StageNo": 1,
+"MQuestId": 213002103,
+"NextMFieldTrainingPanelIds": [
+2007
+],
+"MFieldTrainingSkills": [
+{
+"Id": 2006,
+"MSkillId": 900000009
+},
+{
+"Id": 2004,
+"MSkillId": 900000003
+},
+{
+"Id": 2005,
+"MSkillId": 900000006
+}
+]
+},
+{
+"Id": 2003,
+"FieldTrainingPanelType": 4,
+"StepNo": 2,
+"StageNo": 2,
+"MQuestId": 213002102,
+"NextMFieldTrainingPanelIds": [
+2005,
+2006
+],
+"MFieldTrainingSkills": [
+{
+"Id": 2003,
+"MSkillId": 900000007
+},
+{
+"Id": 2001,
+"MSkillId": 900000001
+},
+{
+"Id": 2002,
+"MSkillId": 900000004
+}
+]
+},
+{
+"Id": 2002,
+"FieldTrainingPanelType": 4,
+"StepNo": 2,
+"StageNo": 1,
+"MQuestId": 213002101,
+"NextMFieldTrainingPanelIds": [
+2004,
+2005
+],
+"MFieldTrainingSkills": [
+{
+"Id": 2003,
+"MSkillId": 900000007
+},
+{
+"Id": 2001,
+"MSkillId": 900000001
+},
+{
+"Id": 2002,
+"MSkillId": 900000004
+}
+]
+},
+{
+"Id": 2001,
+"FieldTrainingPanelType": 0,
+"StepNo": 1,
+"StageNo": 1,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+2002,
+2003
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 2012,
+"FieldTrainingPanelType": 4,
+"StepNo": 6,
+"StageNo": 1,
+"MQuestId": 213002108,
+"NextMFieldTrainingPanelIds": [
+2014,
+2015
+],
+"MFieldTrainingSkills": [
+{
+"Id": 2013,
+"MSkillId": 900000021
+},
+{
+"Id": 2014,
+"MSkillId": 900000024
+},
+{
+"Id": 2015,
+"MSkillId": 900000039
+}
+]
+}
+],
+"PrevMFieldTrainingAreaIds": [
+1
+],
+"Message": "サポート力"
+},
+{
+"Id": 3,
+"MAreaId": 1200013,
+"RecommendAttribute": "貫",
+"RecommendPower": "60000",
+"BossMCharacterId": 76401,
+"AreaNo": 3,
+"MFieldTraingRanks": [
+{
+"Id": 3001,
+"FieldTrainingRank": 4,
+"Rewards": [
+{
+"ItemId": 421,
+"ItemType": 4,
+"Quantity": 1
+},
+{
+"ItemId": 394,
+"ItemType": 4,
+"Quantity": 100
+},
+{
+"ItemId": 0,
+"ItemType": 7,
+"Quantity": 400
+}
+]
+},
+{
+"Id": 3002,
+"FieldTrainingRank": 3,
+"Rewards": [
+{
+"ItemId": 394,
+"ItemType": 4,
+"Quantity": 50
+},
+{
+"ItemId": 0,
+"ItemType": 7,
+"Quantity": 300
+}
+]
+},
+{
+"Id": 3003,
+"FieldTrainingRank": 2,
+"Rewards": [
+{
+"ItemId": 0,
+"ItemType": 7,
+"Quantity": 200
+},
+{
+"ItemId": 394,
+"ItemType": 4,
+"Quantity": 50
+}
+]
+},
+{
+"Id": 3004,
+"FieldTrainingRank": 1,
+"Rewards": [
+{
+"ItemId": 394,
+"ItemType": 4,
+"Quantity": 200
+},
+{
+"ItemId": 0,
+"ItemType": 7,
+"Quantity": 100
+}
+]
+}
+],
+"MFieldTrainingPanels": [
+{
+"Id": 3015,
+"FieldTrainingPanelType": 5,
+"StepNo": 7,
+"StageNo": 2,
+"MQuestId": 213003110,
+"NextMFieldTrainingPanelIds": [
+3017,
+3018
+],
+"MFieldTrainingSkills": [
+{
+"Id": 3021,
+"MSkillId": 900000037
+},
+{
+"Id": 3020,
+"MSkillId": 900000034
+},
+{
+"Id": 3019,
+"MSkillId": 900000031
+}
+]
+},
+{
+"Id": 3016,
+"FieldTrainingPanelType": 5,
+"StepNo": 7,
+"StageNo": 3,
+"MQuestId": 213003111,
+"NextMFieldTrainingPanelIds": [
+3018
+],
+"MFieldTrainingSkills": [
+{
+"Id": 3021,
+"MSkillId": 900000037
+},
+{
+"Id": 3020,
+"MSkillId": 900000034
+},
+{
+"Id": 3019,
+"MSkillId": 900000031
+}
+]
+},
+{
+"Id": 3017,
+"FieldTrainingPanelType": 2,
+"StepNo": 8,
+"StageNo": 1,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+3020,
+3019
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 3019,
+"FieldTrainingPanelType": 5,
+"StepNo": 9,
+"StageNo": 1,
+"MQuestId": 213003113,
+"NextMFieldTrainingPanelIds": [
+3022
+],
+"MFieldTrainingSkills": [
+{
+"Id": 3025,
+"MSkillId": 900000043
+},
+{
+"Id": 3026,
+"MSkillId": 900000047
+},
+{
+"Id": 3027,
+"MSkillId": 900000055
+}
+]
+},
+{
+"Id": 3024,
+"FieldTrainingPanelType": 3,
+"StepNo": 11,
+"StageNo": 1,
+"MQuestId": 213003116,
+"NextMFieldTrainingPanelIds": [],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 3021,
+"FieldTrainingPanelType": 4,
+"StepNo": 9,
+"StageNo": 3,
+"MQuestId": 213003115,
+"NextMFieldTrainingPanelIds": [
+3023
+],
+"MFieldTrainingSkills": [
+{
+"Id": 3028,
+"MSkillId": 900000024
+},
+{
+"Id": 3029,
+"MSkillId": 900000052
+},
+{
+"Id": 3030,
+"MSkillId": 900000066
+}
+]
+},
+{
+"Id": 3022,
+"FieldTrainingPanelType": 1,
+"StepNo": 10,
+"StageNo": 1,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+3024
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 3023,
+"FieldTrainingPanelType": 2,
+"StepNo": 10,
+"StageNo": 2,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+3024
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 3014,
+"FieldTrainingPanelType": 4,
+"StepNo": 7,
+"StageNo": 1,
+"MQuestId": 213003109,
+"NextMFieldTrainingPanelIds": [
+3017
+],
+"MFieldTrainingSkills": [
+{
+"Id": 3016,
+"MSkillId": 900000029
+},
+{
+"Id": 3017,
+"MSkillId": 900000032
+},
+{
+"Id": 3018,
+"MSkillId": 900000035
+}
+]
+},
+{
+"Id": 3020,
+"FieldTrainingPanelType": 5,
+"StepNo": 9,
+"StageNo": 2,
+"MQuestId": 213003114,
+"NextMFieldTrainingPanelIds": [
+3022,
+3023
+],
+"MFieldTrainingSkills": [
+{
+"Id": 3025,
+"MSkillId": 900000043
+},
+{
+"Id": 3026,
+"MSkillId": 900000047
+},
+{
+"Id": 3027,
+"MSkillId": 900000055
+}
+]
+},
+{
+"Id": 3013,
+"FieldTrainingPanelType": 1,
+"StepNo": 6,
+"StageNo": 2,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+3015,
+3016
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 3018,
+"FieldTrainingPanelType": 4,
+"StepNo": 8,
+"StageNo": 2,
+"MQuestId": 213003112,
+"NextMFieldTrainingPanelIds": [
+3020,
+3021
+],
+"MFieldTrainingSkills": [
+{
+"Id": 3022,
+"MSkillId": 900000038
+},
+{
+"Id": 3023,
+"MSkillId": 900000041
+},
+{
+"Id": 3024,
+"MSkillId": 900000045
+}
+]
+},
+{
+"Id": 3011,
+"FieldTrainingPanelType": 4,
+"StepNo": 5,
+"StageNo": 3,
+"MQuestId": 213003107,
+"NextMFieldTrainingPanelIds": [
+3013
+],
+"MFieldTrainingSkills": [
+{
+"Id": 3013,
+"MSkillId": 900000021
+},
+{
+"Id": 3014,
+"MSkillId": 900000024
+},
+{
+"Id": 3015,
+"MSkillId": 900000039
+}
+]
+},
+{
+"Id": 3010,
+"FieldTrainingPanelType": 5,
+"StepNo": 5,
+"StageNo": 2,
+"MQuestId": 213003106,
+"NextMFieldTrainingPanelIds": [
+3012,
+3013
+],
+"MFieldTrainingSkills": [
+{
+"Id": 3010,
+"MSkillId": 900000012
+},
+{
+"Id": 3011,
+"MSkillId": 900000015
+},
+{
+"Id": 3012,
+"MSkillId": 900000019
+}
+]
+},
+{
+"Id": 3009,
+"FieldTrainingPanelType": 1,
+"StepNo": 5,
+"StageNo": 1,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+3012
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 3008,
+"FieldTrainingPanelType": 1,
+"StepNo": 4,
+"StageNo": 2,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+3010,
+3011
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 3007,
+"FieldTrainingPanelType": 4,
+"StepNo": 4,
+"StageNo": 1,
+"MQuestId": 213003105,
+"NextMFieldTrainingPanelIds": [
+3009,
+3010
+],
+"MFieldTrainingSkills": [
+{
+"Id": 3007,
+"MSkillId": 900000010
+},
+{
+"Id": 3008,
+"MSkillId": 900000013
+},
+{
+"Id": 3009,
+"MSkillId": 900000017
+}
+]
+},
+{
+"Id": 3006,
+"FieldTrainingPanelType": 4,
+"StepNo": 3,
+"StageNo": 3,
+"MQuestId": 213003104,
+"NextMFieldTrainingPanelIds": [
+3008
+],
+"MFieldTrainingSkills": [
+{
+"Id": 3007,
+"MSkillId": 900000010
+},
+{
+"Id": 3008,
+"MSkillId": 900000013
+},
+{
+"Id": 3009,
+"MSkillId": 900000017
+}
+]
+},
+{
+"Id": 3005,
+"FieldTrainingPanelType": 5,
+"StepNo": 3,
+"StageNo": 2,
+"MQuestId": 213003103,
+"NextMFieldTrainingPanelIds": [
+3008,
+3007
+],
+"MFieldTrainingSkills": [
+{
+"Id": 3006,
+"MSkillId": 900000009
+},
+{
+"Id": 3005,
+"MSkillId": 900000006
+},
+{
+"Id": 3004,
+"MSkillId": 900000003
+}
+]
+},
+{
+"Id": 3004,
+"FieldTrainingPanelType": 2,
+"StepNo": 3,
+"StageNo": 1,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+3007
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 3003,
+"FieldTrainingPanelType": 4,
+"StepNo": 2,
+"StageNo": 2,
+"MQuestId": 213003102,
+"NextMFieldTrainingPanelIds": [
+3005,
+3006
+],
+"MFieldTrainingSkills": [
+{
+"Id": 3002,
+"MSkillId": 900000004
+},
+{
+"Id": 3003,
+"MSkillId": 900000007
+},
+{
+"Id": 3001,
+"MSkillId": 900000001
+}
+]
+},
+{
+"Id": 3002,
+"FieldTrainingPanelType": 4,
+"StepNo": 2,
+"StageNo": 1,
+"MQuestId": 213003101,
+"NextMFieldTrainingPanelIds": [
+3004,
+3005
+],
+"MFieldTrainingSkills": [
+{
+"Id": 3002,
+"MSkillId": 900000004
+},
+{
+"Id": 3003,
+"MSkillId": 900000007
+},
+{
+"Id": 3001,
+"MSkillId": 900000001
+}
+]
+},
+{
+"Id": 3001,
+"FieldTrainingPanelType": 0,
+"StepNo": 1,
+"StageNo": 1,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+3002,
+3003
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 3012,
+"FieldTrainingPanelType": 4,
+"StepNo": 6,
+"StageNo": 1,
+"MQuestId": 213003108,
+"NextMFieldTrainingPanelIds": [
+3014,
+3015
+],
+"MFieldTrainingSkills": [
+{
+"Id": 3013,
+"MSkillId": 900000021
+},
+{
+"Id": 3014,
+"MSkillId": 900000024
+},
+{
+"Id": 3015,
+"MSkillId": 900000039
+}
+]
+}
+],
+"PrevMFieldTrainingAreaIds": [
+2
+],
+"Message": "攻撃性能\r\n連携力"
+},
+{
+"Id": 4,
+"MAreaId": 1200014,
+"RecommendAttribute": "火/水/風/光/闇",
+"RecommendPower": "70000",
+"BossMCharacterId": 46401,
+"AreaNo": 4,
+"MFieldTraingRanks": [
+{
+"Id": 4001,
+"FieldTrainingRank": 4,
+"Rewards": [
+{
+"ItemId": 394,
+"ItemType": 4,
+"Quantity": 100
+},
+{
+"ItemId": 0,
+"ItemType": 7,
+"Quantity": 400
+},
+{
+"ItemId": 464,
+"ItemType": 4,
+"Quantity": 1
+}
+]
+},
+{
+"Id": 4002,
+"FieldTrainingRank": 3,
+"Rewards": [
+{
+"ItemId": 394,
+"ItemType": 4,
+"Quantity": 50
+},
+{
+"ItemId": 0,
+"ItemType": 7,
+"Quantity": 300
+}
+]
+},
+{
+"Id": 4003,
+"FieldTrainingRank": 2,
+"Rewards": [
+{
+"ItemId": 394,
+"ItemType": 4,
+"Quantity": 50
+},
+{
+"ItemId": 0,
+"ItemType": 7,
+"Quantity": 200
+}
+]
+},
+{
+"Id": 4004,
+"FieldTrainingRank": 1,
+"Rewards": [
+{
+"ItemId": 394,
+"ItemType": 4,
+"Quantity": 200
+},
+{
+"ItemId": 0,
+"ItemType": 7,
+"Quantity": 100
+}
+]
+}
+],
+"MFieldTrainingPanels": [
+{
+"Id": 4014,
+"FieldTrainingPanelType": 4,
+"StepNo": 7,
+"StageNo": 1,
+"MQuestId": 213004109,
+"NextMFieldTrainingPanelIds": [
+4017
+],
+"MFieldTrainingSkills": [
+{
+"Id": 4022,
+"MSkillId": 900000038
+},
+{
+"Id": 4023,
+"MSkillId": 900000041
+},
+{
+"Id": 4024,
+"MSkillId": 900000045
+}
+]
+},
+{
+"Id": 4015,
+"FieldTrainingPanelType": 1,
+"StepNo": 7,
+"StageNo": 2,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+4017,
+4018
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 4016,
+"FieldTrainingPanelType": 5,
+"StepNo": 7,
+"StageNo": 3,
+"MQuestId": 213004110,
+"NextMFieldTrainingPanelIds": [
+4018
+],
+"MFieldTrainingSkills": [
+{
+"Id": 4025,
+"MSkillId": 900000043
+},
+{
+"Id": 4026,
+"MSkillId": 900000047
+},
+{
+"Id": 4027,
+"MSkillId": 900000055
+}
+]
+},
+{
+"Id": 4017,
+"FieldTrainingPanelType": 5,
+"StepNo": 8,
+"StageNo": 1,
+"MQuestId": 213004111,
+"NextMFieldTrainingPanelIds": [
+4020,
+4019
+],
+"MFieldTrainingSkills": [
+{
+"Id": 4025,
+"MSkillId": 900000043
+},
+{
+"Id": 4026,
+"MSkillId": 900000047
+},
+{
+"Id": 4027,
+"MSkillId": 900000055
+}
+]
+},
+{
+"Id": 4022,
+"FieldTrainingPanelType": 1,
+"StepNo": 10,
+"StageNo": 1,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+4024
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 4019,
+"FieldTrainingPanelType": 4,
+"StepNo": 9,
+"StageNo": 1,
+"MQuestId": 213004113,
+"NextMFieldTrainingPanelIds": [
+4022
+],
+"MFieldTrainingSkills": [
+{
+"Id": 4028,
+"MSkillId": 900000024
+},
+{
+"Id": 4029,
+"MSkillId": 900000052
+},
+{
+"Id": 4030,
+"MSkillId": 900000066
+}
+]
+},
+{
+"Id": 4020,
+"FieldTrainingPanelType": 1,
+"StepNo": 9,
+"StageNo": 2,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+4022,
+4023
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 4021,
+"FieldTrainingPanelType": 5,
+"StepNo": 9,
+"StageNo": 3,
+"MQuestId": 213004114,
+"NextMFieldTrainingPanelIds": [
+4023
+],
+"MFieldTrainingSkills": [
+{
+"Id": 4032,
+"MSkillId": 900000062
+},
+{
+"Id": 4031,
+"MSkillId": 900000058
+},
+{
+"Id": 4033,
+"MSkillId": 900000064
+}
+]
+},
+{
+"Id": 4013,
+"FieldTrainingPanelType": 5,
+"StepNo": 6,
+"StageNo": 2,
+"MQuestId": 213004108,
+"NextMFieldTrainingPanelIds": [
+4015,
+4016
+],
+"MFieldTrainingSkills": [
+{
+"Id": 4021,
+"MSkillId": 900000037
+},
+{
+"Id": 4019,
+"MSkillId": 900000031
+},
+{
+"Id": 4020,
+"MSkillId": 900000034
+}
+]
+},
+{
+"Id": 4018,
+"FieldTrainingPanelType": 4,
+"StepNo": 8,
+"StageNo": 2,
+"MQuestId": 213004112,
+"NextMFieldTrainingPanelIds": [
+4020,
+4021
+],
+"MFieldTrainingSkills": [
+{
+"Id": 4028,
+"MSkillId": 900000024
+},
+{
+"Id": 4029,
+"MSkillId": 900000052
+},
+{
+"Id": 4030,
+"MSkillId": 900000066
+}
+]
+},
+{
+"Id": 4012,
+"FieldTrainingPanelType": 4,
+"StepNo": 6,
+"StageNo": 1,
+"MQuestId": 213004107,
+"NextMFieldTrainingPanelIds": [
+4014,
+4015
+],
+"MFieldTrainingSkills": [
+{
+"Id": 4016,
+"MSkillId": 900000029
+},
+{
+"Id": 4017,
+"MSkillId": 900000032
+},
+{
+"Id": 4018,
+"MSkillId": 900000035
+}
+]
+},
+{
+"Id": 4006,
+"FieldTrainingPanelType": 2,
+"StepNo": 3,
+"StageNo": 3,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+4008
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 4010,
+"FieldTrainingPanelType": 5,
+"StepNo": 5,
+"StageNo": 2,
+"MQuestId": 213004106,
+"NextMFieldTrainingPanelIds": [
+4012,
+4013
+],
+"MFieldTrainingSkills": [
+{
+"Id": 4013,
+"MSkillId": 900000021
+},
+{
+"Id": 4014,
+"MSkillId": 900000024
+},
+{
+"Id": 4015,
+"MSkillId": 900000039
+}
+]
+},
+{
+"Id": 4009,
+"FieldTrainingPanelType": 1,
+"StepNo": 5,
+"StageNo": 1,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+4012
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 4008,
+"FieldTrainingPanelType": 4,
+"StepNo": 4,
+"StageNo": 2,
+"MQuestId": 213004105,
+"NextMFieldTrainingPanelIds": [
+4010,
+4011
+],
+"MFieldTrainingSkills": [
+{
+"Id": 4010,
+"MSkillId": 900000012
+},
+{
+"Id": 4011,
+"MSkillId": 900000015
+},
+{
+"Id": 4012,
+"MSkillId": 900000019
+}
+]
+},
+{
+"Id": 4007,
+"FieldTrainingPanelType": 5,
+"StepNo": 4,
+"StageNo": 1,
+"MQuestId": 213004104,
+"NextMFieldTrainingPanelIds": [
+4009,
+4010
+],
+"MFieldTrainingSkills": [
+{
+"Id": 4007,
+"MSkillId": 900000010
+},
+{
+"Id": 4008,
+"MSkillId": 900000013
+},
+{
+"Id": 4009,
+"MSkillId": 900000017
+}
+]
+},
+{
+"Id": 4005,
+"FieldTrainingPanelType": 4,
+"StepNo": 3,
+"StageNo": 2,
+"MQuestId": 213004103,
+"NextMFieldTrainingPanelIds": [
+4008,
+4007
+],
+"MFieldTrainingSkills": [
+{
+"Id": 4005,
+"MSkillId": 900000006
+},
+{
+"Id": 4006,
+"MSkillId": 900000009
+},
+{
+"Id": 4004,
+"MSkillId": 900000003
+}
+]
+},
+{
+"Id": 4004,
+"FieldTrainingPanelType": 1,
+"StepNo": 3,
+"StageNo": 1,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+4007
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 4003,
+"FieldTrainingPanelType": 4,
+"StepNo": 2,
+"StageNo": 2,
+"MQuestId": 213004102,
+"NextMFieldTrainingPanelIds": [
+4005,
+4006
+],
+"MFieldTrainingSkills": [
+{
+"Id": 4001,
+"MSkillId": 900000001
+},
+{
+"Id": 4002,
+"MSkillId": 900000004
+},
+{
+"Id": 4003,
+"MSkillId": 900000007
+}
+]
+},
+{
+"Id": 4002,
+"FieldTrainingPanelType": 4,
+"StepNo": 2,
+"StageNo": 1,
+"MQuestId": 213004101,
+"NextMFieldTrainingPanelIds": [
+4004,
+4005
+],
+"MFieldTrainingSkills": [
+{
+"Id": 4001,
+"MSkillId": 900000001
+},
+{
+"Id": 4002,
+"MSkillId": 900000004
+},
+{
+"Id": 4003,
+"MSkillId": 900000007
+}
+]
+},
+{
+"Id": 4001,
+"FieldTrainingPanelType": 0,
+"StepNo": 1,
+"StageNo": 1,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+4002,
+4003
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 4023,
+"FieldTrainingPanelType": 2,
+"StepNo": 10,
+"StageNo": 2,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+4024
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 4011,
+"FieldTrainingPanelType": 2,
+"StepNo": 5,
+"StageNo": 3,
+"MQuestId": null,
+"NextMFieldTrainingPanelIds": [
+4013
+],
+"MFieldTrainingSkills": []
+},
+{
+"Id": 4024,
+"FieldTrainingPanelType": 3,
+"StepNo": 11,
+"StageNo": 1,
+"MQuestId": 213004115,
+"NextMFieldTrainingPanelIds": [],
+"MFieldTrainingSkills": []
+}
+],
+"PrevMFieldTrainingAreaIds": [
+3
+],
+"Message": "持久力\r\n連携力"
+}
+]
