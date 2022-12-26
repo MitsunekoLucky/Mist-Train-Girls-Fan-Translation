@@ -1,11 +1,11 @@
 {
-  "MSceneId": 42028201,
+  "MSceneId": 42028202,
   "MSceneDetailViewModel": [
     {
       "GroupOrder": 1,
       "ViewOrder": 1,
       "Name": "",
-      "Phrase": "Santa's morning is early.",
+      "Phrase": "Flying through the blizzard in a mysterious flying snowmobile.",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
@@ -34,14 +34,14 @@
       "GroupOrder": 2,
       "ViewOrder": 1,
       "Name": "Shibuya",
-      "Phrase": "Udon-chan~!",
+      "Phrase": "Hyahaaaaa! Shibuya-san is the strongest and the fastest today too☆",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
       "IsSpeakingFlags": 4,
       "FrameImage": 0,
-      "VoiceFileName": "e_42028201_001",
+      "VoiceFileName": "e_42028202_001",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -72,14 +72,14 @@
       "GroupOrder": 3,
       "ViewOrder": 1,
       "Name": "Udon Thani",
-      "Phrase": "Yes♪",
+      "Phrase": "Hyahaha~! Desunano~♪",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
       "IsSpeakingFlags": 4,
       "FrameImage": 0,
-      "VoiceFileName": "e_42028201_002",
+      "VoiceFileName": "e_42028202_002",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -90,8 +90,8 @@
         {
           "MCharacterId": 72401,
           "Position": 3,
-          "Action": 1,
-          "Emotion": 0,
+          "Action": 0,
+          "Emotion": 1,
           "FacialExpression": 5,
           "EnterAction": 0
         }
@@ -109,46 +109,8 @@
     {
       "GroupOrder": 4,
       "ViewOrder": 1,
-      "Name": "Shibuya",
-      "Phrase": "Goshujin~!",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_003",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 48402,
-          "Position": 3,
-          "Action": 0,
-          "Emotion": 1,
-          "FacialExpression": 5,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 5,
-      "ViewOrder": 1,
       "Name": "",
-      "Phrase": "I'm here.",
+      "Phrase": "While being slightly taken back by the two of them who seem to be having so much fun, I cling desperately to the body of the snowmobile so that I don't get shaken off. Usually I'm in the role of carrying everyone on the train, so this position is a bit new to me.",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
@@ -162,13 +124,50 @@
       "SE": "",
       "Effect": null,
       "BackgroundEffectType": 0,
+      "StandCharacters": [],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 5,
+      "ViewOrder": 1,
+      "Name": "Shibuya",
+      "Phrase": "Be careful not to fall off, Goshujin! When it's snowing like this, it's hard to find and catch you on the way down!",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 2,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_003",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
       "StandCharacters": [
         {
-          "MCharacterId": 48402,
-          "Position": 3,
+          "MCharacterId": 72401,
+          "Position": 2,
           "Action": 0,
           "Emotion": 0,
-          "FacialExpression": 5,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 48402,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 0,
           "EnterAction": 0
         }
       ],
@@ -186,14 +185,14 @@
       "GroupOrder": 6,
       "ViewOrder": 1,
       "Name": "Udon Thani",
-      "Phrase": "Shibuya anego~!",
+      "Phrase": "That's right, be careful or you'll be in trouble~? If you fall from here, you'll be flat no~?",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
       "IsSpeakingFlags": 8,
       "FrameImage": 0,
-      "VoiceFileName": "e_42028201_004",
+      "VoiceFileName": "e_42028202_004",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -204,8 +203,8 @@
         {
           "MCharacterId": 72401,
           "Position": 2,
-          "Action": 0,
-          "Emotion": 1,
+          "Action": 3,
+          "Emotion": 0,
           "FacialExpression": 5,
           "EnterAction": 0
         },
@@ -214,7 +213,7 @@
           "Position": 4,
           "Action": 0,
           "Emotion": 0,
-          "FacialExpression": 5,
+          "FacialExpression": 0,
           "EnterAction": 0
         }
       ],
@@ -231,15 +230,15 @@
     {
       "GroupOrder": 7,
       "ViewOrder": 1,
-      "Name": "Shibuya",
-      "Phrase": "Yes yes yees~!",
+      "Name": "",
+      "Phrase": "Why is this snowmobile flying in the first place...? Doesn't it go against the laws of physics?",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
+      "IsSpeakingFlags": 0,
       "FrameImage": 0,
-      "VoiceFileName": "e_42028201_005",
+      "VoiceFileName": "",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -258,9 +257,9 @@
         {
           "MCharacterId": 48402,
           "Position": 4,
-          "Action": 1,
+          "Action": 0,
           "Emotion": 0,
-          "FacialExpression": 5,
+          "FacialExpression": 0,
           "EnterAction": 0
         }
       ],
@@ -277,8 +276,54 @@
     {
       "GroupOrder": 8,
       "ViewOrder": 1,
+      "Name": "Shibuya",
+      "Phrase": "Ehehe~, isn't it Santa-like?♪",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 2,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_005",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 72401,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 48402,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 1,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 9,
+      "ViewOrder": 1,
       "Name": "",
-      "Phrase": "You only have to say 'yes' once. Anyway - it looks like we're all here.",
+      "Phrase": "That's true, but. I'm afraid I don't understand the logic.",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
@@ -321,17 +366,63 @@
       }
     },
     {
-      "GroupOrder": 9,
+      "GroupOrder": 10,
+      "ViewOrder": 1,
+      "Name": "Udon Thani",
+      "Phrase": "Hmmm. To put it simply, this snowmobile is fly with my buoyancy~",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 8,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_006",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 72401,
+          "Position": 2,
+          "Action": 5,
+          "Emotion": 0,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 48402,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 11,
       "ViewOrder": 1,
       "Name": "Shibuya",
-      "Phrase": "Of course, Goshujin! Shibuya-san is a baddie punk, so I fully approve of the evil shady corporate customs of no tardiness and no absence! I will work until I die without ever complaining, even if I don't get paid!",
+      "Phrase": "Udon-chan, your whole body radiates buoyancy magic. That's why you float around and can't even dive underwater.",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
       "IsSpeakingFlags": 2,
       "FrameImage": 0,
-      "VoiceFileName": "e_42028201_006",
+      "VoiceFileName": "e_42028202_007",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -344,13 +435,13 @@
           "Position": 2,
           "Action": 0,
           "Emotion": 0,
-          "FacialExpression": 5,
+          "FacialExpression": 0,
           "EnterAction": 0
         },
         {
           "MCharacterId": 48402,
           "Position": 4,
-          "Action": 5,
+          "Action": 0,
           "Emotion": 0,
           "FacialExpression": 0,
           "EnterAction": 0
@@ -367,17 +458,17 @@
       }
     },
     {
-      "GroupOrder": 10,
+      "GroupOrder": 12,
       "ViewOrder": 1,
       "Name": "Udon Thani",
-      "Phrase": "That's what I'm talk about~, Anego! A good girl instead of a baddie on the contrary...!",
+      "Phrase": "Yes~. I'm in the swim club, but I can't even dive.",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
       "IsSpeakingFlags": 8,
       "FrameImage": 0,
-      "VoiceFileName": "e_42028201_007",
+      "VoiceFileName": "e_42028202_008",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -413,109 +504,17 @@
       }
     },
     {
-      "GroupOrder": 11,
-      "ViewOrder": 1,
-      "Name": "",
-      "Phrase": "Enough of the chatter. You've got plenty of work to do today, don't you?",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 0,
-      "FrameImage": 0,
-      "VoiceFileName": "",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 7,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 12,
-      "ViewOrder": 1,
-      "Name": "Shibuya",
-      "Phrase": "Of course! Today I'm going to be like Santa and hand out presents to all the good kids in the country~!",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_008",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 7,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 5,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
       "GroupOrder": 13,
       "ViewOrder": 1,
       "Name": "Udon Thani",
-      "Phrase": "Anego! I just have a question!",
+      "Phrase": "And there's more. Recently, I've been practice with the swim team and train with the SSS, and it seems that my buoyancy is getting stronger.",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
       "IsSpeakingFlags": 8,
       "FrameImage": 0,
-      "VoiceFileName": "e_42028201_009",
+      "VoiceFileName": "e_42028202_009",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -526,7 +525,7 @@
         {
           "MCharacterId": 72401,
           "Position": 2,
-          "Action": 5,
+          "Action": 0,
           "Emotion": 0,
           "FacialExpression": 0,
           "EnterAction": 0
@@ -553,15 +552,15 @@
     {
       "GroupOrder": 14,
       "ViewOrder": 1,
-      "Name": "Shibuya",
-      "Phrase": "Yes? What is it, Udon-chan!? I've just been scolded for wasting my time talking, but Shibuya is a bad girl and will repeat the same mistakes!",
+      "Name": "Udon Thani",
+      "Phrase": "If I really get my buoyancy up~, hey hey♪ Throw a lot of heavy containers on the snowmobile is just a piece of cake!",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
+      "IsSpeakingFlags": 8,
       "FrameImage": 0,
-      "VoiceFileName": "e_42028201_010",
+      "VoiceFileName": "e_42028202_010",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -571,6 +570,1546 @@
       "StandCharacters": [
         {
           "MCharacterId": 72401,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 48402,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 15,
+      "ViewOrder": 1,
+      "Name": "Shibuya",
+      "Phrase": "We're making use of Udon-chan's special ability(?) to create a completely new kind of flying delivery business! In our company!",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 2,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_011",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 72401,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 48402,
+          "Position": 4,
+          "Action": 5,
+          "Emotion": 0,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 16,
+      "ViewOrder": 1,
+      "Name": "Shibuya",
+      "Phrase": "There's so much snow on the ground that even ordinary horse-drawn carriages can't move, and it's difficult to transport supplies, which are in short supply all over the world, unless we do this.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_012",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 48402,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 17,
+      "ViewOrder": 1,
+      "Name": "",
+      "Phrase": "I see. Flying delivery companies... Once this kind of thing becomes commonplace, even the Mist Train will be obsolete.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 0,
+      "FrameImage": 0,
+      "VoiceFileName": "",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 48402,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 18,
+      "ViewOrder": 1,
+      "Name": "Shibuya",
+      "Phrase": "Doubtful it'll become common, will it? This is a method that relies completely on Udon-chan's special abilities, you know?",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_013",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 48402,
+          "Position": 3,
+          "Action": 5,
+          "Emotion": 0,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 19,
+      "ViewOrder": 1,
+      "Name": "Shibuya",
+      "Phrase": "Udon-chan, from what I've heard, is an ancient person who time-traveled ahead in time from long ago, right? It's rare to find such a person anywhere else, isn't it?",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_014",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 48402,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 20,
+      "ViewOrder": 1,
+      "Name": "Udon Thani",
+      "Phrase": "Yes~. Unfortunately, I have never met anyone in my position~",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_015",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 72401,
+          "Position": 3,
+          "Action": 3,
+          "Emotion": 0,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 21,
+      "ViewOrder": 1,
+      "Name": "Udon Thani",
+      "Phrase": "I don't remember much about the time I was there originally... I'd like someone who knows what they're talk about to tell I about the past.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_016",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 72401,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 22,
+      "ViewOrder": 1,
+      "Name": "Udon Thani",
+      "Phrase": "I don't even know where I was born and raised, a pity.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_017",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 72401,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 23,
+      "ViewOrder": 1,
+      "Name": "Shibuya",
+      "Phrase": "That must be difficult too~ Not only are there no other ancient people, but there seems to be very little ancient knowledge left behind.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_018",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 48402,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 24,
+      "ViewOrder": 1,
+      "Name": "Shibuya",
+      "Phrase": "Even when I asked 3000 years old Chitose obaa-san, she told me that the things from that time period are 'long ago' for her too.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_019",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 48402,
+          "Position": 3,
+          "Action": 5,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 25,
+      "ViewOrder": 1,
+      "Name": "",
+      "Phrase": "Super-ancient times, far before 3,000 years? For us, it was a time of unidentified ruins, railway lines and the like.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 0,
+      "FrameImage": 0,
+      "VoiceFileName": "",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 48402,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 26,
+      "ViewOrder": 1,
+      "Name": "Shibuya",
+      "Phrase": "What are the railway tracks for, anyway? Thanks to them, trains can run, which is a great help to us as the SSS, right?",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_020",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 48402,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 8,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 27,
+      "ViewOrder": 1,
+      "Name": "",
+      "Phrase": "I don't know how to respond to your 'what'. That's one of the biggest mysteries in the world that even I can't answer.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 0,
+      "FrameImage": 0,
+      "VoiceFileName": "",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 48402,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 28,
+      "ViewOrder": 1,
+      "Name": "Udon Thani",
+      "Phrase": "Ummm... I wish I could have remembered things like when the railway line was built and all that.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 8,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_021",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 72401,
+          "Position": 2,
+          "Action": 3,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 48402,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 29,
+      "ViewOrder": 1,
+      "Name": "Shibuya",
+      "Phrase": "It's no use asking for something you don't have! You have to do the best you can with what you can get your hands on.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 2,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_022",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 72401,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 48402,
+          "Position": 4,
+          "Action": 2,
+          "Emotion": 0,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 30,
+      "ViewOrder": 1,
+      "Name": "Oshiage",
+      "Phrase": "AHA! Don'cha think you're barking up the wrong tree!?",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_023",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 147401,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 5,
+          "EnterAction": 2
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 31,
+      "ViewOrder": 1,
+      "Name": "Shibuya",
+      "Phrase": "WAGYAH!?",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_024",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 48402,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 4,
+          "FacialExpression": 1,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 32,
+      "ViewOrder": 1,
+      "Name": "",
+      "Phrase": "Suddenly, a new member of the Special Steel Squad, 'Shitamachi no Dai Oyabun', Oshiage appeared from the depths of the blizzard, surprising us. The snowmobile came to a sudden halt, and Shibuya asked frothily on her purpose.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 0,
+      "FrameImage": 0,
+      "VoiceFileName": "",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 48402,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 1,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 33,
+      "ViewOrder": 1,
+      "Name": "Shibuya",
+      "Phrase": "O-O-Oshiage anebo! Wh-Wha-Why are you floating in the air!?",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 2,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_025",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 147401,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 48402,
+          "Position": 4,
+          "Action": 1,
+          "Emotion": 0,
+          "FacialExpression": 1,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 34,
+      "ViewOrder": 1,
+      "Name": "Shibuya",
+      "Phrase": "I thought we were going to crash...! I didn't expect you to fly in the sky, anego's rockin' as always!",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 2,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_026",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 147401,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 48402,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 1,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 35,
+      "ViewOrder": 1,
+      "Name": "Oshiage",
+      "Phrase": "I'm the one who should be saying 'ya rock'. Why are ya flying around so high up in the sky like a bird or a winged insect?",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 8,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_027",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 147401,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 3,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 48402,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 1,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 36,
+      "ViewOrder": 1,
+      "Name": "Oshiage",
+      "Phrase": "I thought ya'll are flying monsters that's gonna attack me, I was so chilled.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 8,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_028",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 147401,
+          "Position": 2,
+          "Action": 3,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 48402,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 1,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 37,
+      "ViewOrder": 1,
+      "Name": "Udon Thani",
+      "Phrase": "Uhuhu, not a monster ya~? It's Santa~, here here♪",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_029",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 72401,
+          "Position": 3,
+          "Action": 1,
+          "Emotion": 0,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 38,
+      "ViewOrder": 1,
+      "Name": "",
+      "Phrase": "Oshiage softened her expressions, then got curious watching as Udon Thani was showing off her cute outfit.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 0,
+      "FrameImage": 0,
+      "VoiceFileName": "",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 72401,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 39,
+      "ViewOrder": 1,
+      "Name": "Oshiage",
+      "Phrase": "What're ya, this kiddo? Friend of yers, Shibuya-chan?",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_030",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 147401,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 8,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 40,
+      "ViewOrder": 1,
+      "Name": "Shibuya",
+      "Phrase": "Osu! This is my part-time friend Udon-chan!",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_031",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 48402,
+          "Position": 3,
+          "Action": 5,
+          "Emotion": 0,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 41,
+      "ViewOrder": 1,
+      "Name": "Oshiage",
+      "Phrase": "Heeh, that's quite a tasty name♪ Good good, wanna eat some kaminari-okoshi?",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_032",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 147401,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 1,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 42,
+      "ViewOrder": 1,
+      "Name": "Udon Thani",
+      "Phrase": "I'll have some~! I get hungry when I'm float! Munch munch♪",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_033",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 72401,
+          "Position": 3,
+          "Action": 1,
+          "Emotion": 0,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 43,
+      "ViewOrder": 1,
+      "Name": "Shibuya",
+      "Phrase": "Anego~, please don't feed my part-timer friend, okay?",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_034",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 48402,
+          "Position": 3,
+          "Action": 3,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 44,
+      "ViewOrder": 1,
+      "Name": "Udon Thani",
+      "Phrase": "Anego？ Shibuya anego's anego, meaning super anego?",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_035",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 72401,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 8,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 45,
+      "ViewOrder": 1,
+      "Name": "Oshiage",
+      "Phrase": "Ah, I'm a steeplejack from downtown, Oshiage at'cha service. While in the SSS, I'm ya junior methinks.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 2,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_036",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 72401,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 8,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 147401,
+          "Position": 4,
+          "Action": 5,
+          "Emotion": 0,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 46,
+      "ViewOrder": 1,
+      "Name": "Udon Thani",
+      "Phrase": "You're my junior? Wow, I'm finally the senior I've always want to be...☆",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 8,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_037",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 72401,
+          "Position": 2,
+          "Action": 1,
+          "Emotion": 0,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 147401,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 47,
+      "ViewOrder": 1,
+      "Name": "Oshiage",
+      "Phrase": "Aha! Whaat~ an innocent and cute girl 'ere♪",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 2,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_038",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 72401,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 147401,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 48,
+      "ViewOrder": 1,
+      "Name": "Shibuya",
+      "Phrase": "Isn't that right? She's very popular as our company's mascot character these days! We're planning to make her into merchandise too! The first one is a 'Talking Udon-chan Alarm Clock'!",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_039",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 48402,
+          "Position": 3,
+          "Action": 1,
+          "Emotion": 0,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 49,
+      "ViewOrder": 1,
+      "Name": "Udon Thani",
+      "Phrase": "Udooon~, Udooon~! I'll let you know when it's six in the morning~!",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_040",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 72401,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 1,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 50,
+      "ViewOrder": 1,
+      "Name": "Oshiage",
+      "Phrase": "Ahaha, like the saying of the samurai that pretends he has eaten well when he has no food, Shibuya-chan's family's rich and noble yet doing a business like that huh.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_041",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 147401,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 1,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 51,
+      "ViewOrder": 1,
+      "Name": "Shibuya",
+      "Phrase": "Well... Normally I'm just a reeegular delivery person, but now is the time of year for that, so I'm dressed as Santa.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 2,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_042",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 147401,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 48402,
+          "Position": 4,
+          "Action": 3,
+          "Emotion": 0,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 52,
+      "ViewOrder": 1,
+      "Name": "Shibuya",
+      "Phrase": "This kind of thing is called cosplay, isn't it?",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 2,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_043",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 147401,
           "Position": 2,
           "Action": 0,
           "Emotion": 0,
@@ -597,1668 +2136,17 @@
       }
     },
     {
-      "GroupOrder": 15,
-      "ViewOrder": 1,
-      "Name": "Udon Thani",
-      "Phrase": "That's what I'm talk about, Anego~♪",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_011",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 1,
-          "FacialExpression": 5,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 16,
-      "ViewOrder": 1,
-      "Name": "Udon Thani",
-      "Phrase": "Eh um? Oh~, I forgot what I want to ask of you~♪",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_012",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 2,
-          "FacialExpression": 4,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 17,
-      "ViewOrder": 1,
-      "Name": "Shibuya",
-      "Phrase": "Don't worry! Just take your time and remember! There's no need to rush, Shibuya-san is good at waiting!",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_013",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 4,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 1,
-          "Emotion": 0,
-          "FacialExpression": 5,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 18,
-      "ViewOrder": 1,
-      "Name": "Udon Thani",
-      "Phrase": "So sweet♪ Ummm, uuhh...?",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_014",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 1,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 5,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 19,
-      "ViewOrder": 1,
-      "Name": "Udon Thani",
-      "Phrase": "Oh, I remember now~! Shibuya Anego is a bad girl, but is it okay for you to do good things like give gifts to everyone?",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_015",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 5,
-          "Emotion": 0,
-          "FacialExpression": 1,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 5,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 20,
-      "ViewOrder": 1,
-      "Name": "Shibuya",
-      "Phrase": "But of course! Shibuya is Santa-san, right?",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_016",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 1,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 21,
-      "ViewOrder": 1,
-      "Name": "Shibuya",
-      "Phrase": "Speaking of Santa-san! He trespasses into houses all over the place without permission, leaves presents under children's pillows and leaves, a trespasser!",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_017",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 1,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 3,
-          "Emotion": 0,
-          "FacialExpression": 7,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 22,
-      "ViewOrder": 1,
-      "Name": "Shibuya",
-      "Phrase": "To be honest, is such a suspicious person a good kid? Is he a baddie?",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_018",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 1,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 23,
-      "ViewOrder": 1,
-      "Name": "Udon Thani",
-      "Phrase": "Ah! H-he's a baddie...!",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_019",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 5,
-          "Emotion": 0,
-          "FacialExpression": 1,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 24,
-      "ViewOrder": 1,
-      "Name": "Shibuya",
-      "Phrase": "Right? That's why it's okay, UNDERSTAND?",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_020",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 1,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 1,
-          "FacialExpression": 5,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 25,
-      "ViewOrder": 1,
-      "Name": "Udon Thani",
-      "Phrase": "Understaaand~♪",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_021",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 1,
-          "FacialExpression": 5,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 5,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 26,
-      "ViewOrder": 1,
-      "Name": "",
-      "Phrase": "I'm glad you two are getting on so well. But I really hope you girls hurry up, both of you.",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 0,
-      "FrameImage": 0,
-      "VoiceFileName": "",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 5,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 5,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 27,
-      "ViewOrder": 1,
-      "Name": "",
-      "Phrase": "The extreme weather has caused heavy snowfalls all over the world and logistics have almost come to a standstill. In some countries, politics are paralysed and the situation is quite dire.",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 0,
-      "FrameImage": 0,
-      "VoiceFileName": "",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 28,
-      "ViewOrder": 1,
-      "Name": "Udon Thani",
-      "Phrase": "That's right~ My country, Flamarine, is usually warm, and everyone is fall down in flurry because they can't stand the cold~",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_022",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 3,
-          "Action": 3,
-          "Emotion": 0,
-          "FacialExpression": 4,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 29,
-      "ViewOrder": 1,
-      "Name": "Shibuya",
-      "Phrase": "What the heck is this~ this heavy snow... I asked Chitose obaa-san, who has lived a long time about this, and she said she's never seen anything like this in her life.",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_023",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 48402,
-          "Position": 3,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 4,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 30,
-      "ViewOrder": 1,
-      "Name": "",
-      "Phrase": "Naturally, governments all over the world and we of the SSS are doing the utmost to investigate the cause. But while there is no solution in sight, people still have to make a living.",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 0,
-      "FrameImage": 0,
-      "VoiceFileName": "",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 48402,
-          "Position": 3,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 4,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 31,
-      "ViewOrder": 1,
-      "Name": "Shibuya",
-      "Phrase": "Woosh! It's Shibuya-san's role to protect those lives!",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_024",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 48402,
-          "Position": 3,
-          "Action": 5,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 32,
-      "ViewOrder": 1,
-      "Name": "",
-      "Phrase": "That's right. Of course, I'm the one running the Mist Train at full capacity, delivering supplies to the whole world.",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 0,
-      "FrameImage": 0,
-      "VoiceFileName": "",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 48402,
-          "Position": 3,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 33,
-      "ViewOrder": 1,
-      "Name": "Shibuya",
-      "Phrase": "Shibuya-san and the others also act as delivery companies, delivering supplies to places where the tracks don't run! And with only one Train, we wouldn't be able to handle them all!",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_025",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 48402,
-          "Position": 3,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 34,
-      "ViewOrder": 1,
-      "Name": "",
-      "Phrase": "That's very true. If we keep the Train running continuously, we get tired and in the worst case scenario, we die. That's why we've been given the last few days off.",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 0,
-      "FrameImage": 0,
-      "VoiceFileName": "",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 48402,
-          "Position": 3,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 35,
-      "ViewOrder": 1,
-      "Name": "Shibuya",
-      "Phrase": "So you're going to work for our company even though you're on holiday...? That's my goshujin, you're really cool! Too much of a corporate livestock!",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_026",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 48402,
-          "Position": 3,
-          "Action": 1,
-          "Emotion": 0,
-          "FacialExpression": 5,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 36,
-      "ViewOrder": 1,
-      "Name": "",
-      "Phrase": "In the midst of a global crisis, I can't just lie around quietly.",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 0,
-      "FrameImage": 0,
-      "VoiceFileName": "",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 48402,
-          "Position": 3,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 5,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 37,
-      "ViewOrder": 1,
-      "Name": "Udon Thani",
-      "Phrase": "Cool~, Sir [Conductor] is so great~♪",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_027",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 1,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 5,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 38,
-      "ViewOrder": 1,
-      "Name": "Shibuya",
-      "Phrase": "Udon-chan is great too! This is how you work ya!",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_028",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 39,
-      "ViewOrder": 1,
-      "Name": "Udon Thani",
-      "Phrase": "Ehehe, thank you very much~♪",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_029",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 5,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 40,
-      "ViewOrder": 1,
-      "Name": "Shibuya",
-      "Phrase": "Otto! Goshujin will get mad at me again if I'm chatting with you! Let's hurry up and finish our departure prep, we're especially busy today!",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_030",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 5,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 5,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 41,
-      "ViewOrder": 1,
-      "Name": "Udon Thani",
-      "Phrase": "Tomorrow is Kurisumasu! We have to deliver gifts to all the good children in the world today, don't we?",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_031",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 42,
-      "ViewOrder": 1,
-      "Name": "Shibuya",
-      "Phrase": "Exactly! In fact, we're in a difficult situation right now - But that's when we should do something wonderful to make everyone feel happy!",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_032",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 5,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 43,
-      "ViewOrder": 1,
-      "Name": "Udon Thani",
-      "Phrase": "That's what I'm talk about~, Anego! Even though everyone look so gloomy! You're a baddie who doesn't read the room...!",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_033",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 3,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 44,
-      "ViewOrder": 1,
-      "Name": "Shibuya",
-      "Phrase": "That's what I mean! You're starting to understand, the punk style!",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_034",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 8,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 45,
-      "ViewOrder": 1,
-      "Name": "Udon Thani",
-      "Phrase": "Ehehe~♪",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_035",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 1,
-          "FacialExpression": 5,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 8,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 46,
-      "ViewOrder": 1,
-      "Name": "",
-      "Phrase": "Come to think of it, the relationship of you two is also a mystery. You're both from different countries - I didn't get the impression that you were particularly close before.",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 0,
-      "FrameImage": 0,
-      "VoiceFileName": "",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 5,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 8,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 47,
-      "ViewOrder": 1,
-      "Name": "Shibuya",
-      "Phrase": "Hmm well. Udon-chan was hired a few days ago as a part-timer at this delivery company run by my Otou-san.",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_036",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 5,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 48,
-      "ViewOrder": 1,
-      "Name": "Shibuya",
-      "Phrase": "Shibuya-san here was working for this company before that, so I was assigned to train her as a member of the same team. So, well, we became friends in a normal way.",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_037",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 49,
-      "ViewOrder": 1,
-      "Name": "Udon Thani",
-      "Phrase": "Yes, thank you very much for your help~♪",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_038",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 5,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 50,
-      "ViewOrder": 1,
-      "Name": "Shibuya",
-      "Phrase": "Thanks to Udon-chan, we can make groundbreaking deliveries, so it's good! It's like a win-win situation!",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_039",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 5,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 51,
-      "ViewOrder": 1,
-      "Name": "",
-      "Phrase": "Groundbreaking delivery...?",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 0,
-      "FrameImage": 0,
-      "VoiceFileName": "",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 72401,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 48402,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 5,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
-      "GroupOrder": 52,
-      "ViewOrder": 1,
-      "Name": "Shibuya",
-      "Phrase": "Now now, the snowmobile is ready! Everybody get into position!",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
-      "FrameImage": 0,
-      "VoiceFileName": "e_42028201_040",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 48402,
-          "Position": 3,
-          "Action": 1,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      }
-    },
-    {
       "GroupOrder": 53,
       "ViewOrder": 1,
-      "Name": "Udon Thani",
-      "Phrase": "Rajah~!",
+      "Name": "Oshiage",
+      "Phrase": "That's whacha learned from Akibo, innit? ...Thanks for being good friends with that girl, Shibuya-chan♪",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
+      "IsSpeakingFlags": 8,
       "FrameImage": 0,
-      "VoiceFileName": "e_42028201_041",
+      "VoiceFileName": "e_42028202_044",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -2267,8 +2155,16 @@
       "BackgroundEffectType": 0,
       "StandCharacters": [
         {
-          "MCharacterId": 72401,
-          "Position": 3,
+          "MCharacterId": 147401,
+          "Position": 2,
+          "Action": 5,
+          "Emotion": 0,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 48402,
+          "Position": 4,
           "Action": 0,
           "Emotion": 0,
           "FacialExpression": 0,
@@ -2288,22 +2184,39 @@
     {
       "GroupOrder": 54,
       "ViewOrder": 1,
-      "Name": "",
-      "Phrase": "Shibuya urged me to get into the snowmobile with her. At the rear of the snowmobile was a container with a generous amount of cargo attached to it.",
+      "Name": "Shibuya",
+      "Phrase": "It's my pleasure too! Shibuya-chan very happy to be friends with Akiba-chan! She's also been very helpful in teaching me about cosplay and how to have fun at work!",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 0,
+      "IsSpeakingFlags": 2,
       "FrameImage": 0,
-      "VoiceFileName": "",
+      "VoiceFileName": "e_42028202_045",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
       "SE": "",
       "Effect": null,
       "BackgroundEffectType": 0,
-      "StandCharacters": [],
+      "StandCharacters": [
+        {
+          "MCharacterId": 147401,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 48402,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 1,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        }
+      ],
       "StillDetail": {
         "AnimationName": "",
         "AnimationSpeed": null,
@@ -2317,15 +2230,15 @@
     {
       "GroupOrder": 55,
       "ViewOrder": 1,
-      "Name": "Udon Thani",
-      "Phrase": "Udoooon~! Santa II, all ready!",
+      "Name": "Oshiage",
+      "Phrase": "Oya. You look like you're having fun, but you're not too keen on your job.",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
+      "IsSpeakingFlags": 8,
       "FrameImage": 0,
-      "VoiceFileName": "e_42028201_042",
+      "VoiceFileName": "e_42028202_046",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -2334,11 +2247,19 @@
       "BackgroundEffectType": 0,
       "StandCharacters": [
         {
-          "MCharacterId": 72401,
-          "Position": 3,
-          "Action": 1,
+          "MCharacterId": 147401,
+          "Position": 2,
+          "Action": 0,
           "Emotion": 0,
-          "FacialExpression": 0,
+          "FacialExpression": 1,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 48402,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 5,
           "EnterAction": 0
         }
       ],
@@ -2356,14 +2277,14 @@
       "GroupOrder": 56,
       "ViewOrder": 1,
       "Name": "Shibuya",
-      "Phrase": "Santa I is ready too!",
+      "Phrase": "I'm enjoying it now~, but at first I wasn't very motivated.",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
+      "IsSpeakingFlags": 2,
       "FrameImage": 0,
-      "VoiceFileName": "e_42028201_043",
+      "VoiceFileName": "e_42028202_047",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -2372,9 +2293,17 @@
       "BackgroundEffectType": 0,
       "StandCharacters": [
         {
+          "MCharacterId": 147401,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 1,
+          "EnterAction": 0
+        },
+        {
           "MCharacterId": 48402,
-          "Position": 3,
-          "Action": 5,
+          "Position": 4,
+          "Action": 0,
           "Emotion": 0,
           "FacialExpression": 0,
           "EnterAction": 0
@@ -2393,8 +2322,100 @@
     {
       "GroupOrder": 57,
       "ViewOrder": 1,
+      "Name": "Shibuya",
+      "Phrase": "Honestly, I didn't want to work at all, Shibuya-san had run away from home half of the time and was doing whatever I wanted, so I should at least help out in the family business to show my filial piety~ That's what my otou-san told me.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 2,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_048",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 147401,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 1,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 48402,
+          "Position": 4,
+          "Action": 3,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 58,
+      "ViewOrder": 1,
+      "Name": "Oshiage",
+      "Phrase": "Hmm, ya have a lot of things going on beneath your easy-going face, aren' cha? But it's a blessing that your parents are still alive, so you should be filial to them at your best.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 8,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_049",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 147401,
+          "Position": 2,
+          "Action": 3,
+          "Emotion": 0,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 48402,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 59,
+      "ViewOrder": 1,
       "Name": "",
-      "Phrase": "So I am Santa III? I'm ready too.",
+      "Phrase": "Come to think of it, Oshiage, you didn't know who your parents were because you suddenly 'appeared' one day in a state where you had lost your memories before your teenage years. In that respect, your position's a bit similar to Udon Thani's.",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
@@ -2410,8 +2431,290 @@
       "BackgroundEffectType": 0,
       "StandCharacters": [
         {
+          "MCharacterId": 147401,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        },
+        {
           "MCharacterId": 48402,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 60,
+      "ViewOrder": 1,
+      "Name": "Udon Thani",
+      "Phrase": "I see~? So you are also an ancient...?",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_050",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 72401,
           "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 1,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 61,
+      "ViewOrder": 1,
+      "Name": "Oshiage",
+      "Phrase": "I don't think it's that funny. I'm just a common street gangster wandering round downtown.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_051",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 147401,
+          "Position": 3,
+          "Action": 2,
+          "Emotion": 0,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 62,
+      "ViewOrder": 1,
+      "Name": "Oshiage",
+      "Phrase": "--EACHOOO! Argh, stutard! God dammit!",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_052",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 147401,
+          "Position": 3,
+          "Action": 3,
+          "Emotion": 0,
+          "FacialExpression": 8,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 63,
+      "ViewOrder": 1,
+      "Name": "Oshiage",
+      "Phrase": "I'm gonna catch a cold if I talk in such cold weather. If ya don't mind, ya can come to my foothold after ye've finished your work.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_053",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 147401,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 64,
+      "ViewOrder": 1,
+      "Name": "Oshiage",
+      "Phrase": "It's because I've something wonderful that makes your body warm. So, I'd love to have a relaxing chat over tea.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_054",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 147401,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 65,
+      "ViewOrder": 1,
+      "Name": "",
+      "Phrase": "Looking closely, it seems that Osiage, like a steeplejack, had dexterously balanced herself on a very high ladder and climbed up to such a high altitude. The fact that she didn't even sway in spite of the blizzard is a true feat of craftsmanship.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 0,
+      "FrameImage": 0,
+      "VoiceFileName": "",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 147401,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      }
+    },
+    {
+      "GroupOrder": 66,
+      "ViewOrder": 1,
+      "Name": "Udon Thani",
+      "Phrase": "Super anego's feet? What are you stand on? Umm~ umm~, it's hard to see because there's so much blizzard~?",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 8,
+      "FrameImage": 0,
+      "VoiceFileName": "e_42028202_055",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 72401,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 1,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 48402,
+          "Position": 4,
           "Action": 0,
           "Emotion": 0,
           "FacialExpression": 0,
@@ -2429,17 +2732,17 @@
       }
     },
     {
-      "GroupOrder": 58,
+      "GroupOrder": 67,
       "ViewOrder": 1,
       "Name": "Shibuya",
-      "Phrase": "Yes, sir! Now let's go, YO~SOROOO~!",
+      "Phrase": "There's still plenty of time left, so if you're curious, why don't you go and have a look?",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
+      "IsSpeakingFlags": 2,
       "FrameImage": 0,
-      "VoiceFileName": "e_42028201_044",
+      "VoiceFileName": "e_42028202_056",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -2448,9 +2751,17 @@
       "BackgroundEffectType": 0,
       "StandCharacters": [
         {
+          "MCharacterId": 72401,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 1,
+          "EnterAction": 0
+        },
+        {
           "MCharacterId": 48402,
-          "Position": 3,
-          "Action": 3,
+          "Position": 4,
+          "Action": 0,
           "Emotion": 0,
           "FacialExpression": 0,
           "EnterAction": 0
@@ -2467,17 +2778,17 @@
       }
     },
     {
-      "GroupOrder": 59,
+      "GroupOrder": 68,
       "ViewOrder": 1,
-      "Name": "Udon Thani",
-      "Phrase": "DES NANOOOOOOO~......☆",
+      "Name": "Oshiage",
+      "Phrase": "Well, I won't force you. A child's a wind child, an energetic child, flyin' around as one pleases♪",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
       "IsSpeakingFlags": 4,
       "FrameImage": 0,
-      "VoiceFileName": "e_42028201_045",
+      "VoiceFileName": "e_42028202_057",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -2486,10 +2797,10 @@
       "BackgroundEffectType": 0,
       "StandCharacters": [
         {
-          "MCharacterId": 72401,
+          "MCharacterId": 147401,
           "Position": 3,
-          "Action": 6,
-          "Emotion": 1,
+          "Action": 5,
+          "Emotion": 0,
           "FacialExpression": 5,
           "EnterAction": 0
         }
@@ -2505,10 +2816,10 @@
       }
     },
     {
-      "GroupOrder": 60,
+      "GroupOrder": 69,
       "ViewOrder": 1,
       "Name": "",
-      "Phrase": "Right at the moment Udon Thani sat on top of the snowmobile and shouted happily, we were lifted into the air by the huge container.",
+      "Phrase": "After saying this, Oshiage easily climbed down the ladder. She is the very essence of the free wind.",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
@@ -2522,7 +2833,16 @@
       "SE": "",
       "Effect": null,
       "BackgroundEffectType": 0,
-      "StandCharacters": [],
+      "StandCharacters": [
+        {
+          "MCharacterId": 147401,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        }
+      ],
       "StillDetail": {
         "AnimationName": "",
         "AnimationSpeed": null,
@@ -2539,5 +2859,5 @@
     "GiftItems": [],
     "DeletedItemIds": []
   },
-  "Title": "Santa's Morning is Early"
+  "Title": "Holy Night's Delivery Merchant"
 }
