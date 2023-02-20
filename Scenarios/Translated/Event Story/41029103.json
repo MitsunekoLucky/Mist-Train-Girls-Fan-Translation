@@ -1,11 +1,11 @@
 {
-  "MSceneId": 41029108,
+  "MSceneId": 41029103,
   "MSceneDetailViewModel": [
     {
       "GroupOrder": 1,
       "ViewOrder": 1,
       "Name": "",
-      "Phrase": "シャンハイを治す唯一の方法は『大賢者に手作りチョコを渡す』こと。\\nみんなあり得ないと思っているのだが、\\n大賢者とやらは頑なにそれが正しい方法だと言い続ける。",
+      "Phrase": "In order to cure Shanghai's symptoms of sudden cravings for sweets, we visited a place called 'The Great Sage's Library' in search of a cure.",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
@@ -13,8 +13,8 @@
       "IsSpeakingFlags": 0,
       "FrameImage": 0,
       "VoiceFileName": "",
-      "BackgroundImage": "105900",
-      "BGM": "a",
+      "BackgroundImage": "130000",
+      "BGM": "adv_01",
       "BattleBGM": "",
       "SE": "",
       "Effect": null,
@@ -29,18 +29,18 @@
         "CameraWorkDuration": null,
         "CameraRotation": null
       },
-      "Ruby": "<div><div>シャンハイを<ruby><rb>治</rb><rt>なお</rt></ruby>す<ruby><rb>唯一</rb><rt>ゆいいつ</rt></ruby>の<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>は『<ruby><rb>大賢者</rb><rt>だいけんじゃ</rt></ruby>に<ruby><rb>手作</rb><rt>てづく</rt></ruby>りチョコを<ruby><rb>渡</rb><rt>わた</rt></ruby>す』こと。＊みんなあり<ruby><rb>得</rb><rt>え</rt></ruby>ないと<ruby><rb>思</rb><rt>おも</rt></ruby>っているのだが、＊<ruby><rb>大賢者</rb><rt>だいけんじゃ</rt></ruby>とやらは頑なにそれが<ruby><rb>正</rb><rt>ただ</rt></ruby>しい<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>だと<ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>続</rb><rt>つづ</rt></ruby>ける。</div></div>"
+      "Ruby": "<div><div><ruby><rb>急激</rb><rt>きゅうげき</rt></ruby>に<ruby><rb>甘</rb><rt>あま</rt></ruby>いモノを<ruby><rb>欲</rb><rt>ほっ</rt></ruby>してしまうというShanghaiの<ruby><rb>症状</rb><rt>しょうじょう</rt></ruby>を<ruby><rb>治</rb><rt>なお</rt></ruby>すべく、＊<ruby><rb>治療</rb><rt>ちりょう</rt></ruby><ruby><rb>法</rb><rt>ほう</rt></ruby>を<ruby><rb>求</rb><rt>もと</rt></ruby>めて『<ruby><rb>大賢者</rb><rt>だいけんじゃ</rt></ruby>の<ruby><rb>書庫</rb><rt>しょこ</rt></ruby>』と<ruby><rb>呼</rb><rt>よ</rt></ruby>ばれる<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>を<ruby><rb>訪</rb><rt>おとず</rt></ruby>れた。</div></div>"
     },
     {
       "GroupOrder": 2,
       "ViewOrder": 1,
-      "Name": "大賢者チョコクレイ卿",
-      "Phrase": "「くっ、次は大量のチョコをくれないと許してやらんからなー！」",
+      "Name": "",
+      "Phrase": "Just as we were searching for the cure in the vast library, Shanghai suddenly vanished. Following that afterwards, we even heard Beijing's screams, and Tianjin frantically ran towards Beijing.",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
+      "IsSpeakingFlags": 0,
       "FrameImage": 0,
       "VoiceFileName": "",
       "BackgroundImage": "",
@@ -49,16 +49,7 @@
       "SE": "",
       "Effect": null,
       "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 49,
-          "Position": 3,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
+      "StandCharacters": [],
       "StillDetail": {
         "AnimationName": "",
         "AnimationSpeed": null,
@@ -68,34 +59,34 @@
         "CameraWorkDuration": null,
         "CameraRotation": null
       },
-      "Ruby": "<div><div>「くっ、<ruby><rb>次</rb><rt>つぎ</rt></ruby>は<ruby><rb>大量</rb><rt>たいりょう</rt></ruby>のチョコをくれないと<ruby><rb>許</rb><rt>ゆる</rt></ruby>してやらんからなー！」</div></div>"
+      "Ruby": "<div><div>そして<ruby><rb>広大</rb><rt>こうだい</rt></ruby>な<ruby><rb>書庫</rb><rt>しょこ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>を<ruby><rb>手分</rb><rt>てわ</rt></ruby>けして<ruby><rb>探</rb><rt>さが</rt></ruby>していた<ruby><rb>矢先</rb><rt>やさき</rt></ruby>、<ruby><rb>忽然</rb><rt>こつぜん</rt></ruby>とShanghaiが<ruby><rb>消</rb><rt>き</rt></ruby>えた。＊さらには<ruby><rb>後</rb><rt>ご</rt></ruby>を<ruby><rb>追</rb><rt>お</rt></ruby>うかのようにBeijingの<ruby><rb>悲鳴</rb><rt>ひめい</rt></ruby>まで<ruby><rb>聞</rb><rt>き</rt></ruby>こえてきて、＊Tianjinは<ruby><rb>無我夢中</rb><rt>むがむちゅう</rt></ruby>でBeijingのもとへと<ruby><rb>駆</rb><rt>か</rt></ruby>けだしたのだった。</div></div>"
     },
     {
       "GroupOrder": 3,
       "ViewOrder": 1,
-      "Name": "テンシン",
-      "Phrase": "「だから逃げないで下さい！」",
+      "Name": "Tianjin",
+      "Phrase": "Bo-shi, are you okay!?",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
       "IsSpeakingFlags": 4,
       "FrameImage": 0,
-      "VoiceFileName": "e_41029108_001",
+      "VoiceFileName": "e_41029103_001",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
-      "SE": "falling",
+      "SE": "",
       "Effect": null,
       "BackgroundEffectType": 0,
       "StandCharacters": [
         {
           "MCharacterId": 42201,
           "Position": 3,
-          "Action": 5,
+          "Action": 0,
           "Emotion": 0,
           "FacialExpression": 3,
-          "EnterAction": 0
+          "EnterAction": 1
         }
       ],
       "StillDetail": {
@@ -107,20 +98,341 @@
         "CameraWorkDuration": null,
         "CameraRotation": null
       },
-      "Ruby": "<div><div>「だから<ruby><rb>逃</rb><rt>に</rt></ruby>げないで<ruby><rb>下</rb><rt>くだ</rt></ruby>さい！」</div></div>"
+      "Ruby": "<div><div>Bo-shi、ご<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>ですか!</div></div>"
     },
     {
       "GroupOrder": 4,
       "ViewOrder": 1,
-      "Name": "ペイジン",
-      "Phrase": "「構造的に奥は外に繋がっていない。\\n　だから無理に追わなくていい」",
+      "Name": "Beijing",
+      "Phrase": "Tianjin, you...?",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_002",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 49201,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 6,
+          "EnterAction": 2
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>Tianjin、か......</div></div>"
+    },
+    {
+      "GroupOrder": 5,
+      "ViewOrder": 1,
+      "Name": "Tianjin",
+      "Phrase": "Pull yourself together, Bo-shi!",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 8,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_003",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 42201,
+          "Position": 2,
+          "Action": 5,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 49201,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 6,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>しっかりして<ruby><rb>下</rb><rt>くだ</rt></ruby>さい、Bo-shi!</div></div>"
+    },
+    {
+      "GroupOrder": 6,
+      "ViewOrder": 1,
+      "Name": "Beijing",
+      "Phrase": "I've been attacked... I've let my guard down. I didn't expect it to be behind me, it was my fault.",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
       "IsSpeakingFlags": 2,
       "FrameImage": 0,
-      "VoiceFileName": "e_41029108_002",
+      "VoiceFileName": "e_41029103_004",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 42201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 49201,
+          "Position": 4,
+          "Action": 3,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>やられたよ......<ruby><rb>油断</rb><rt>ゆだん</rt></ruby>した。＊まさか<ruby><rb>背後</rb><rt>はいご</rt></ruby>に<ruby><rb>迫</rb><rt>せま</rt></ruby>っていたなんて、＊この<ruby><rb>私</rb><rt>わたし</rt></ruby>としたことが<ruby><rb>不覚</rb><rt>ふかく</rt></ruby>だった</div></div>"
+    },
+    {
+      "GroupOrder": 7,
+      "ViewOrder": 1,
+      "Name": "Tianjin",
+      "Phrase": "I'm sorry, I wasn't there for you...!",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 8,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_005",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 42201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 49201,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>すみません、<ruby><rb>私</rb><rt>わたし</rt></ruby>がおそばにいなかったばかりに......!</div></div>"
+    },
+    {
+      "GroupOrder": 8,
+      "ViewOrder": 1,
+      "Name": "Beijing",
+      "Phrase": "I was the one who told you to split up and look around, don't worry. And I'm not wounded. I'll be able to move soon.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 2,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_006",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 42201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 49201,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div><ruby><rb>手分</rb><rt>てわ</rt></ruby>けして<ruby><rb>探</rb><rt>さが</rt></ruby>すよう<ruby><rb>指示</rb><rt>しじ</rt></ruby>したのは<ruby><rb>私</rb><rt>わたし</rt></ruby>だ、<ruby><rb>気</rb><rt>き</rt></ruby>にするな。＊それに<ruby><rb>負傷</rb><rt>ふしょう</rt></ruby>はしていない。じきに<ruby><rb>動</rb><rt>うご</rt></ruby>けるようになるさ</div></div>"
+    },
+    {
+      "GroupOrder": 9,
+      "ViewOrder": 1,
+      "Name": "Tianjin",
+      "Phrase": "Don't tell me there's some kind of life-sucking monster out there?",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 8,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_007",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 42201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 1,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 49201,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>まさか<ruby><rb>生気</rb><rt>せいき</rt></ruby>を<ruby><rb>吸</rb><rt>す</rt></ruby>う<ruby><rb>魔物</rb><rt>まもの</rt></ruby>でも<ruby><rb>出</rb><rt>で</rt></ruby>たんですか?</div></div>"
+    },
+    {
+      "GroupOrder": 10,
+      "ViewOrder": 1,
+      "Name": "Beijing",
+      "Phrase": "If that were the case, we could have dealt with it. Aaah, Tianjin... don't hold me up now. My nape is....",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 2,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_008",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 42201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 1,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 49201,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>それだったら<ruby><rb>対処</rb><rt>たいしょ</rt></ruby>のしようもあったんだがね。＊あっ、Tianjin......<ruby><rb>今</rb><rt>いま</rt></ruby>は<ruby><rb>抱</rb><rt>だ</rt></ruby>き<ruby><rb>起</rb><rt>お</rt></ruby>こさないでくれ。＊うなじが......</div></div>"
+    },
+    {
+      "GroupOrder": 11,
+      "ViewOrder": 1,
+      "Name": "Tianjin",
+      "Phrase": "You were attacked on the nape of your neck? Let me see it for a second.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 8,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_009",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -141,7 +453,7 @@
           "Position": 4,
           "Action": 0,
           "Emotion": 0,
-          "FacialExpression": 0,
+          "FacialExpression": 4,
           "EnterAction": 0
         }
       ],
@@ -154,333 +466,20 @@
         "CameraWorkDuration": null,
         "CameraRotation": null
       },
-      "Ruby": "<div><div>「<ruby><rb>構造</rb><rt>こうぞう</rt></ruby><ruby><rb>的</rb><rt>てき</rt></ruby>に<ruby><rb>奥</rb><rt>おく</rt></ruby>は<ruby><rb>外</rb><rt>そと</rt></ruby>に<ruby><rb>繋</rb><rt>つな</rt></ruby>がっていない。＊だから<ruby><rb>無理</rb><rt>むり</rt></ruby>に<ruby><rb>追</rb><rt>お</rt></ruby>わなくていい」</div></div>"
-    },
-    {
-      "GroupOrder": 5,
-      "ViewOrder": 1,
-      "Name": "テンシン",
-      "Phrase": "「なるほど、じゃあ袋のネズミってやつですね」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_003",
-      "BackgroundImage": "",
-      "BGM": "adv_02",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 42201,
-          "Position": 2,
-          "Action": 5,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 49201,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「なるほど、じゃあ<ruby><rb>袋</rb><rt>ふくろ</rt></ruby>のネズミってやつですね」</div></div>"
-    },
-    {
-      "GroupOrder": 6,
-      "ViewOrder": 1,
-      "Name": "ペイジン",
-      "Phrase": "「そういうことだ。\\n　次こそ追い詰めて、シャンハイの治療法を聞き出す。\\n　大賢者が知らないのなら、私が治療法を研究するさ」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_004",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 42201,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 49201,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 8,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「そういうことだ。＊<ruby><rb>次</rb><rt>つぎ</rt></ruby>こそ<ruby><rb>追</rb><rt>お</rt></ruby>い<ruby><rb>詰</rb><rt>つ</rt></ruby>めて、シャンハイの<ruby><rb>治療</rb><rt>ちりょう</rt></ruby><ruby><rb>法</rb><rt>ほう</rt></ruby>を<ruby><rb>聞</rb><rt>き</rt></ruby>き<ruby><rb>出</rb><rt>だ</rt></ruby>す。＊<ruby><rb>大賢者</rb><rt>だいけんじゃ</rt></ruby>が<ruby><rb>知</rb><rt>し</rt></ruby>らないのなら、<ruby><rb>私</rb><rt>わたし</rt></ruby>が<ruby><rb>治療</rb><rt>ちりょう</rt></ruby><ruby><rb>法</rb><rt>ほう</rt></ruby>を<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>するさ」</div></div>"
-    },
-    {
-      "GroupOrder": 7,
-      "ViewOrder": 1,
-      "Name": "ペイジン",
-      "Phrase": "「それまでは、私の作った甘い薬で我慢してくれ」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_005",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 49201,
-          "Position": 3,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「それまでは、<ruby><rb>私</rb><rt>わたし</rt></ruby>の<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>甘</rb><rt>あま</rt></ruby>い<ruby><rb>薬</rb><rt>くすり</rt></ruby>で<ruby><rb>我慢</rb><rt>がまん</rt></ruby>してくれ」</div></div>"
-    },
-    {
-      "GroupOrder": 8,
-      "ViewOrder": 1,
-      "Name": "シャンハイ",
-      "Phrase": "「ペイジン……」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_006",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 68201,
-          "Position": 3,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 5,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「ペイジン……」</div></div>"
-    },
-    {
-      "GroupOrder": 9,
-      "ViewOrder": 1,
-      "Name": "ペイジン",
-      "Phrase": "「オステルリッツ、\\n　キミの方は治療法について何か収穫があったかい？」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_007",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 85201,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 49201,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「オステルリッツ、＊キミの<ruby><rb>方</rb><rt>ほう</rt></ruby>は<ruby><rb>治療</rb><rt>ちりょう</rt></ruby><ruby><rb>法</rb><rt>ほう</rt></ruby>について<ruby><rb>何</rb><rt>なに</rt></ruby>か<ruby><rb>収穫</rb><rt>しゅうかく</rt></ruby>があったかい？」</div></div>"
-    },
-    {
-      "GroupOrder": 10,
-      "ViewOrder": 1,
-      "Name": "オステルリッツ",
-      "Phrase": "「治療法については何も。\\n　ですが、わたくし気になるところがあって、\\n　外に出て調べてきました」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_008",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 85201,
-          "Position": 2,
-          "Action": 3,
-          "Emotion": 0,
-          "FacialExpression": 7,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 49201,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「<ruby><rb>治療</rb><rt>ちりょう</rt></ruby><ruby><rb>法</rb><rt>ほう</rt></ruby>については<ruby><rb>何</rb><rt>なに</rt></ruby>も。＊ですが、わたくし<ruby><rb>気</rb><rt>き</rt></ruby>になるところがあって、＊<ruby><rb>外</rb><rt>そと</rt></ruby>に<ruby><rb>出</rb><rt>だし</rt></ruby>て<ruby><rb>調</rb><rt>しら</rt></ruby>べてきました」</div></div>"
-    },
-    {
-      "GroupOrder": 11,
-      "ViewOrder": 1,
-      "Name": "ペイジン",
-      "Phrase": "「それは……古い新聞？」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_009",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 85201,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 7,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 49201,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 1,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「それは……<ruby><rb>古</rb><rt>ふる</rt></ruby>い<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>？」</div></div>"
+      "Ruby": "<div><div>うなじを<ruby><rb>攻撃</rb><rt>こうげき</rt></ruby>されたんですか?＊ちょっと<ruby><rb>見</rb><rt>み</rt></ruby>せて<ruby><rb>下</rb><rt>くだ</rt></ruby>さいっ</div></div>"
     },
     {
       "GroupOrder": 12,
       "ViewOrder": 1,
-      "Name": "オステルリッツ",
-      "Phrase": "「この書庫は最近になって見つかった場所ですが、\\n　噂だけは以前からあったらしいのです」",
+      "Name": "Beijing",
+      "Phrase": "Hyang!",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
+      "IsSpeakingFlags": 2,
       "FrameImage": 0,
-      "VoiceFileName": "e_41029108_010",
+      "VoiceFileName": "e_41029103_010",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -489,11 +488,58 @@
       "BackgroundEffectType": 0,
       "StandCharacters": [
         {
-          "MCharacterId": 85201,
+          "MCharacterId": 42201,
           "Position": 2,
           "Action": 0,
           "Emotion": 0,
-          "FacialExpression": 0,
+          "FacialExpression": 3,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 49201,
+          "Position": 4,
+          "Action": 5,
+          "Emotion": 0,
+          "FacialExpression": 6,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>ひゃんっ!</div></div>"
+    },
+    {
+      "GroupOrder": 13,
+      "ViewOrder": 1,
+      "Name": "Tianjin",
+      "Phrase": "W-What's the matter, bo-shi, you're making lewd noises. Did my fingers tickle you that much?",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 8,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_011",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 42201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 4,
+          "FacialExpression": 1,
           "EnterAction": 0
         },
         {
@@ -501,6 +547,241 @@
           "Position": 4,
           "Action": 0,
           "Emotion": 0,
+          "FacialExpression": 6,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>どっ、どうしたんですかBo-shi、<ruby><rb>色</rb><rt>いろ</rt></ruby>っぽい<ruby><rb>声</rb><rt>こえ</rt></ruby>なんて<ruby><rb>出</rb><rt>だ</rt></ruby>して。＊<ruby><rb>私</rb><rt>わたし</rt></ruby>の<ruby><rb>指</rb><rt>ゆび</rt></ruby>、そんなにくすぐったかったですか?</div></div>"
+    },
+    {
+      "GroupOrder": 14,
+      "ViewOrder": 1,
+      "Name": "Beijing",
+      "Phrase": "No... it's because I was relentlessly attacked.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 2,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_012",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 42201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 1,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 49201,
+          "Position": 4,
+          "Action": 3,
+          "Emotion": 0,
+          "FacialExpression": 6,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div><ruby><rb>違</rb><rt>ちが</rt></ruby>う......そこを<ruby><rb>執拗</rb><rt>しつよう</rt></ruby>にせめられたからだ</div></div>"
+    },
+    {
+      "GroupOrder": 15,
+      "ViewOrder": 1,
+      "Name": "Beijing",
+      "Phrase": "It was my first time too... I didn't think it would be so unbearable.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 2,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_013",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 42201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 1,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 49201,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 6,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div><ruby><rb>私</rb><rt>わたし</rt></ruby>も<ruby><rb>初</rb><rt>はじ</rt></ruby>めての<ruby><rb>経験</rb><rt>けいけん</rt></ruby>だった......。＊あんなにも<ruby><rb>抗</rb><rt>あらが</rt></ruby>えぬものだとは<ruby><rb>思</rb><rt>おも</rt></ruby>わなかったよ</div></div>"
+    },
+    {
+      "GroupOrder": 16,
+      "ViewOrder": 1,
+      "Name": "Tianjin",
+      "Phrase": "The monster must be a very strong that bo-shi can't resist it. But don't worry. I will protect you even at the cost of my life.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 8,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_014",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 42201,
+          "Position": 2,
+          "Action": 5,
+          "Emotion": 0,
+          "FacialExpression": 3,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 49201,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 6,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>Bo-shiが<ruby><rb>抗</rb><rt>あらが</rt></ruby>えないなんてよほどの<ruby><rb>強</rb><rt>つよ</rt></ruby>さの<ruby><rb>魔物</rb><rt>まもの</rt></ruby>なんですね。＊でももう<ruby><rb>安心</rb><rt>あんしん</rt></ruby>して<ruby><rb>下</rb><rt>くだ</rt></ruby>さい。<ruby><rb>私</rb><rt>わたし</rt></ruby>が<ruby><rb>命</rb><rt>いのち</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>えてもお<ruby><rb>守</rb><rt>まも</rt></ruby>りします</div></div>"
+    },
+    {
+      "GroupOrder": 17,
+      "ViewOrder": 1,
+      "Name": "Beijing",
+      "Phrase": "No. Don't worry about me. Conductor is more important, protect Conductor. I'm sure he can't stop--",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 2,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_015",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 42201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 3,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 49201,
+          "Position": 4,
+          "Action": 2,
+          "Emotion": 0,
+          "FacialExpression": 3,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>いや。<ruby><rb>私</rb><rt>わたし</rt></ruby>のことはいい。＊それよりも<ruby><rb>車掌</rb><rt>しゃしょう</rt></ruby>だ、<ruby><rb>車掌</rb><rt>しゃしょう</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るんだ。＊きっと<ruby><rb>彼</rb><rt>かれ</rt></ruby>も<ruby><rb>抗</rb><rt>あらが</rt></ruby>いきれない――</div></div>"
+    },
+    {
+      "GroupOrder": 18,
+      "ViewOrder": 1,
+      "Name": "",
+      "Phrase": "AAAAAAAAAH--!",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 0,
+      "FrameImage": 0,
+      "VoiceFileName": "",
+      "BackgroundImage": "",
+      "BGM": "a",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 42201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 4,
+          "FacialExpression": 1,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 49201,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 4,
           "FacialExpression": 1,
           "EnterAction": 0
         }
@@ -514,20 +795,20 @@
         "CameraWorkDuration": null,
         "CameraRotation": null
       },
-      "Ruby": "<div><div>「この<ruby><rb>書庫</rb><rt>しょこ</rt></ruby>は<ruby><rb>最近</rb><rt>さいきん</rt></ruby>になって<ruby><rb>見</rb><rt>み</rt></ruby>つかった<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>ですが、＊<ruby><rb>噂</rb><rt>うわさ</rt></ruby>だけは<ruby><rb>以前</rb><rt>いぜん</rt></ruby>からあったらしいのです」</div></div>"
+      "Ruby": "<div><div>アーーーーーーーーーーーーーーーーーーーーーーッ!!</div></div>"
     },
     {
-      "GroupOrder": 13,
+      "GroupOrder": 19,
       "ViewOrder": 1,
-      "Name": "ペイジン",
-      "Phrase": "「そうらしいな。だから私はニシキの結界のように隠れていたものが\\n　何らかの形で人の目に触れるようになったものかと考えていたんだ」",
+      "Name": "Beijing",
+      "Phrase": "It's too late...",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
       "IsSpeakingFlags": 2,
       "FrameImage": 0,
-      "VoiceFileName": "e_41029108_011",
+      "VoiceFileName": "e_41029103_016",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -536,19 +817,19 @@
       "BackgroundEffectType": 0,
       "StandCharacters": [
         {
-          "MCharacterId": 85201,
+          "MCharacterId": 42201,
           "Position": 2,
           "Action": 0,
           "Emotion": 0,
-          "FacialExpression": 0,
+          "FacialExpression": 1,
           "EnterAction": 0
         },
         {
           "MCharacterId": 49201,
           "Position": 4,
-          "Action": 5,
+          "Action": 0,
           "Emotion": 0,
-          "FacialExpression": 0,
+          "FacialExpression": 3,
           "EnterAction": 0
         }
       ],
@@ -561,20 +842,20 @@
         "CameraWorkDuration": null,
         "CameraRotation": null
       },
-      "Ruby": "<div><div>「そうらしいな。だから<ruby><rb>私</rb><rt>わたし</rt></ruby>はニシキの<ruby><rb>結界</rb><rt>けっかい</rt></ruby>のように<ruby><rb>隠</rb><rt>かく</rt></ruby>れていたものが＊<ruby><rb>何</rb><rt>なん</rt></ruby>らかの<ruby><rb>形</rb><rt>かたち</rt></ruby>で<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>目</rb><rt>め</rt></ruby>に<ruby><rb>触</rb><rt>ふ</rt></ruby>れるようになったものかと<ruby><rb>考</rb><rt>かんが</rt></ruby>えていたんだ」</div></div>"
+      "Ruby": "<div><div><ruby><rb>遅</rb><rt>おそ</rt></ruby>かったか......</div></div>"
     },
     {
-      "GroupOrder": 14,
+      "GroupOrder": 20,
       "ViewOrder": 1,
-      "Name": "オステルリッツ",
-      "Phrase": "「わたくしもです。ですがこのように突然現れる建物には、\\n　昔存在していて今はないもの、という可能性もあることを思い出したのです」",
+      "Name": "Tianjin",
+      "Phrase": "Ngh, I'll go help him right away!",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
       "IsSpeakingFlags": 8,
       "FrameImage": 0,
-      "VoiceFileName": "e_41029108_012",
+      "VoiceFileName": "e_41029103_017",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -583,11 +864,11 @@
       "BackgroundEffectType": 0,
       "StandCharacters": [
         {
-          "MCharacterId": 85201,
+          "MCharacterId": 42201,
           "Position": 2,
           "Action": 0,
           "Emotion": 0,
-          "FacialExpression": 0,
+          "FacialExpression": 3,
           "EnterAction": 0
         },
         {
@@ -595,7 +876,7 @@
           "Position": 4,
           "Action": 0,
           "Emotion": 0,
-          "FacialExpression": 0,
+          "FacialExpression": 3,
           "EnterAction": 0
         }
       ],
@@ -608,44 +889,27 @@
         "CameraWorkDuration": null,
         "CameraRotation": null
       },
-      "Ruby": "<div><div>「わたくしもです。ですがこのように<ruby><rb>突然</rb><rt>とつぜん</rt></ruby><ruby><rb>現</rb><rt>あらわ</rt></ruby>れる<ruby><rb>建物</rb><rt>たてもの</rt></ruby>には、＊<ruby><rb>昔</rb><rt>むかし</rt></ruby><ruby><rb>存在</rb><rt>そんざい</rt></ruby>していて<ruby><rb>今</rb><rt>いま</rt></ruby>はないもの、という<ruby><rb>可能性</rb><rt>かのうせい</rt></ruby>もあることを<ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>出</rb><rt>だ</rt></ruby>したのです」</div></div>"
+      "Ruby": "<div><div>くっ、すぐに<ruby><rb>助</rb><rt>たす</rt></ruby>けに<ruby><rb>行</rb><rt>い</rt></ruby>きます!</div></div>"
     },
     {
-      "GroupOrder": 15,
+      "GroupOrder": 21,
       "ViewOrder": 1,
-      "Name": "ペイジン",
-      "Phrase": "「そうか、幻霧石が見せる幻……！」",
+      "Name": "",
+      "Phrase": "Just as Tianjin was about to dash out impatiently, something ran past the stack of books right next to Tianjin.",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
+      "IsSpeakingFlags": 0,
       "FrameImage": 0,
-      "VoiceFileName": "e_41029108_013",
+      "VoiceFileName": "",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
       "SE": "",
       "Effect": null,
       "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 85201,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 49201,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
+      "StandCharacters": [],
       "StillDetail": {
         "AnimationName": "",
         "AnimationSpeed": null,
@@ -655,114 +919,59 @@
         "CameraWorkDuration": null,
         "CameraRotation": null
       },
-      "Ruby": "<div><div>「そうか、<ruby><rb>幻</rb><rt>げん</rt></ruby><ruby><rb>霧</rb><rt>む</rt></ruby><ruby><rb>石</rb><rt>せき</rt></ruby>が<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>幻</rb><rt>まぼろし</rt></ruby>……！」</div></div>"
+      "Ruby": "<div><div><ruby><rb>焦</rb><rt>あせ</rt></ruby>りと<ruby><rb>共</rb><rt>とも</rt></ruby>にTianjinが<ruby><rb>駆</rb><rt>か</rt></ruby>けだそうとしたその<ruby><rb>時</rb><rt>とき</rt></ruby>。＊<ruby><rb>何</rb><rt>なに</rt></ruby>かがTianjinのすぐ<ruby><rb>横</rb><rt>よこ</rt></ruby>の<ruby><rb>書架</rb><rt>しょか</rt></ruby>の<ruby><rb>向</rb><rt>む</rt></ruby>こうを<ruby><rb>駆</rb><rt>か</rt></ruby>け<ruby><rb>抜</rb><rt>ぬ</rt></ruby>けた。</div></div>"
     },
     {
-      "GroupOrder": 16,
+      "GroupOrder": 22,
       "ViewOrder": 1,
-      "Name": "オステルリッツ",
-      "Phrase": "「はい。そして推測は正解のようでした。\\n　新聞を見て下さい」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_014",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 85201,
-          "Position": 2,
-          "Action": 5,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 49201,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「はい。そして<ruby><rb>推測</rb><rt>すいそく</rt></ruby>は<ruby><rb>正解</rb><rt>せいかい</rt></ruby>のようでした。＊<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>て<ruby><rb>下</rb><rt>くだ</rt></ruby>さい」</div></div>"
-    },
-    {
-      "GroupOrder": 17,
-      "ViewOrder": 1,
-      "Name": "ペイジン",
-      "Phrase": "「なるほど、この書庫はずっと昔に火事で焼失しているのか……」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_015",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 85201,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 49201,
-          "Position": 4,
-          "Action": 3,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「なるほど、この<ruby><rb>書庫</rb><rt>しょこ</rt></ruby>はずっと<ruby><rb>昔</rb><rt>むかし</rt></ruby>に<ruby><rb>火事</rb><rt>かじ</rt></ruby>で<ruby><rb>焼失</rb><rt>しょうしつ</rt></ruby>しているのか……」</div></div>"
-    },
-    {
-      "GroupOrder": 18,
-      "ViewOrder": 1,
-      "Name": "シャンハイ",
-      "Phrase": "「ということは、あの大賢者も思念体か何か？」",
+      "Name": "Tianjin",
+      "Phrase": "Right, no, behind! Monster, prepare yourself, HWAAH--",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
       "IsSpeakingFlags": 4,
       "FrameImage": 0,
-      "VoiceFileName": "e_41029108_016",
+      "VoiceFileName": "e_41029103_018",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": 5,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 42201,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 3,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div><ruby><rb>右</rb><rt>みぎ</rt></ruby>、いいえ<ruby><rb>背後</rb><rt>はいご</rt></ruby>ッ!＊<ruby><rb>魔物</rb><rt>まもの</rt></ruby>よ<ruby><rb>覚悟</rb><rt>かくご</rt></ruby>、ホワッ――</div></div>"
+    },
+    {
+      "GroupOrder": 23,
+      "ViewOrder": 1,
+      "Name": "Shanghai",
+      "Phrase": "I found you, Tianjin~~!!",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 8,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_019",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -772,6 +981,61 @@
       "StandCharacters": [
         {
           "MCharacterId": 68201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 5,
+          "EnterAction": 3
+        },
+        {
+          "MCharacterId": 42201,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 3,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>Tianjin<ruby><rb>見</rb><rt>み</rt></ruby>っけ～～～!!</div></div>"
+    },
+    {
+      "GroupOrder": 24,
+      "ViewOrder": 1,
+      "Name": "Tianjin",
+      "Phrase": "WHAT!?",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_020",
+      "BackgroundImage": "",
+      "BGM": "adv_01",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 68201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 42201,
           "Position": 3,
           "Action": 0,
           "Emotion": 4,
@@ -788,262 +1052,20 @@
         "CameraWorkDuration": null,
         "CameraRotation": null
       },
-      "Ruby": "<div><div>「ということは、あの<ruby><rb>大賢者</rb><rt>だいけんじゃ</rt></ruby>も<ruby><rb>思念体</rb><rt>しねんたい</rt></ruby>か<ruby><rb>何</rb><rt>なに</rt></ruby>か？」</div></div>"
-    },
-    {
-      "GroupOrder": 19,
-      "ViewOrder": 1,
-      "Name": "オステルリッツ",
-      "Phrase": "「時に限りなく実体に近い思念体もありますので判断は慎重にすべきです。\\n　ですがあの自らを大賢者と名乗る男がこの書庫の主と声高に叫ぶのならば、\\n　大賢者は間違いなく思念体である――とオステルリッツは結論付けます」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_017",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 85201,
-          "Position": 3,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「<ruby><rb>時</rb><rt>とき</rt></ruby>に<ruby><rb>限</rb><rt>かぎ</rt></ruby>りなく<ruby><rb>実体</rb><rt>じったい</rt></ruby>に<ruby><rb>近</rb><rt>ちか</rt></ruby>い<ruby><rb>思念体</rb><rt>しねんたい</rt></ruby>もありますので<ruby><rb>判断</rb><rt>はんだん</rt></ruby>は<ruby><rb>慎重</rb><rt>しんちょう</rt></ruby>にすべきです。＊ですがあの<ruby><rb>自</rb><rt>みずか</rt></ruby>らを<ruby><rb>大賢者</rb><rt>だいけんじゃ</rt></ruby>と<ruby><rb>名乗</rb><rt>なの</rt></ruby>る<ruby><rb>男</rb><rt>おとこ</rt></ruby>がこの<ruby><rb>書庫</rb><rt>しょこ</rt></ruby>の<ruby><rb>主</rb><rt>おも</rt></ruby>と<ruby><rb>声高</rb><rt>こわだか</rt></ruby>に<ruby><rb>叫</rb><rt>さけ</rt></ruby>ぶのならば、＊<ruby><rb>大賢者</rb><rt>だいけんじゃ</rt></ruby>は<ruby><rb>間違</rb><rt>まちが</rt></ruby>いなく<ruby><rb>思念体</rb><rt>しねんたい</rt></ruby>である――とオステルリッツは<ruby><rb>結論</rb><rt>けつろん</rt></ruby><ruby><rb>付</rb><rt>つ</rt></ruby>けます」</div></div>"
-    },
-    {
-      "GroupOrder": 20,
-      "ViewOrder": 1,
-      "Name": "テンシン",
-      "Phrase": "「なんだ、じゃあ思いっきり懲らしめてやってもよかったんですね。\\n　普通の人間かと思って手加減しちゃいましたよ」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_018",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 42201,
-          "Position": 3,
-          "Action": 5,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「なんだ、じゃあ<ruby><rb>思</rb><rt>おも</rt></ruby>いっきり<ruby><rb>懲</rb><rt>こ</rt></ruby>らしめてやってもよかったんですね。＊<ruby><rb>普通</rb><rt>ふつう</rt></ruby>の<ruby><rb>人間</rb><rt>にんげん</rt></ruby>かと<ruby><rb>思</rb><rt>おも</rt></ruby>って<ruby><rb>手加減</rb><rt>てかげん</rt></ruby>しちゃいましたよ」</div></div>"
-    },
-    {
-      "GroupOrder": 21,
-      "ViewOrder": 1,
-      "Name": "オステルリッツ",
-      "Phrase": "「生きている人間を陥れる思念体は、\\n　言い方を変えれば悪霊ですからね」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_019",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 85201,
-          "Position": 3,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「<ruby><rb>生</rb><rt>い</rt></ruby>きている<ruby><rb>人間</rb><rt>にんげん</rt></ruby>を<ruby><rb>陥</rb><rt>おとしい</rt></ruby>れる<ruby><rb>思念体</rb><rt>しねんたい</rt></ruby>は、＊<ruby><rb>言</rb><rt></rt></ruby>い<ruby><rb>方</rb><rt>いかた</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>えれば<ruby><rb>悪霊</rb><rt>あくりょう</rt></ruby>ですからね」</div></div>"
-    },
-    {
-      "GroupOrder": 22,
-      "ViewOrder": 1,
-      "Name": "ペイジン",
-      "Phrase": "「ただ、あの大賢者が治療法を知っているのか分からない以上は、\\n　倒しきるわけにもいかないがね」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_020",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 49201,
-          "Position": 3,
-          "Action": 3,
-          "Emotion": 0,
-          "FacialExpression": 4,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「ただ、あの<ruby><rb>大賢者</rb><rt>だいけんじゃ</rt></ruby>が<ruby><rb>治療</rb><rt>ちりょう</rt></ruby><ruby><rb>法</rb><rt>ほう</rt></ruby>を<ruby><rb>知</rb><rt>し</rt></ruby>っているのか<ruby><rb>分</rb><rt>わ</rt></ruby>からない<ruby><rb>以上</rb><rt>いじょう</rt></ruby>は、＊<ruby><rb>倒</rb><rt>たお</rt></ruby>しきるわけにもいかないがね」</div></div>"
-    },
-    {
-      "GroupOrder": 23,
-      "ViewOrder": 1,
-      "Name": "シャンハイ",
-      "Phrase": "「あーっ！」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_021",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 68201,
-          "Position": 3,
-          "Action": 5,
-          "Emotion": 0,
-          "FacialExpression": 1,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「あーっ！」</div></div>"
-    },
-    {
-      "GroupOrder": 24,
-      "ViewOrder": 1,
-      "Name": "ペイジン",
-      "Phrase": "「大声なんて出してどうしたんだシャンハイ。\\n　何か大事な発見でもしたのか？」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_022",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 68201,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 1,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 49201,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「<ruby><rb>大声</rb><rt>おおごえ</rt></ruby>なんて<ruby><rb>出</rb><rt>だ</rt></ruby>してどうしたんだシャンハイ。＊<ruby><rb>何</rb><rt>なに</rt></ruby>か<ruby><rb>大事</rb><rt>だいじ</rt></ruby>な<ruby><rb>発見</rb><rt>はっけん</rt></ruby>でもしたのか？」</div></div>"
+      "Ruby": "<div><div><ruby><rb>ホワ</rb><rt>ほわ</rt></ruby>っつ!?</div></div>"
     },
     {
       "GroupOrder": 25,
       "ViewOrder": 1,
-      "Name": "シャンハイ",
-      "Phrase": "「あ、あのさ。\\n　怒らないで聞いてほしいんだけど……」",
+      "Name": "Shanghai",
+      "Phrase": "Hey, please, give me some chocolate!",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
       "IsSpeakingFlags": 8,
       "FrameImage": 0,
-      "VoiceFileName": "e_41029108_023",
+      "VoiceFileName": "e_41029103_021",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -1054,17 +1076,17 @@
         {
           "MCharacterId": 68201,
           "Position": 2,
-          "Action": 3,
+          "Action": 0,
           "Emotion": 0,
           "FacialExpression": 4,
           "EnterAction": 0
         },
         {
-          "MCharacterId": 49201,
-          "Position": 4,
+          "MCharacterId": 42201,
+          "Position": 3,
           "Action": 0,
           "Emotion": 0,
-          "FacialExpression": 0,
+          "FacialExpression": 1,
           "EnterAction": 0
         }
       ],
@@ -1077,20 +1099,20 @@
         "CameraWorkDuration": null,
         "CameraRotation": null
       },
-      "Ruby": "<div><div>「あ、あのさ。＊<ruby><rb>怒</rb><rt>おこ</rt></ruby>らないで<ruby><rb>聞</rb><rt>き</rt></ruby>いてほしいんだけど<ruby><rb>…</rb><rt></rt></ruby>…」</div></div>"
+      "Ruby": "<div><div>ねえお<ruby><rb>願</rb><rt>ねが</rt></ruby>い、チョコちょうだい!</div></div>"
     },
     {
       "GroupOrder": 26,
       "ViewOrder": 1,
-      "Name": "テンシン",
-      "Phrase": "「あ。その前置き、怒られるやつですね」",
+      "Name": "Tianjin",
+      "Phrase": "Shanghai! I was afraid you had disappeared somewhere...",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
       "IsSpeakingFlags": 4,
       "FrameImage": 0,
-      "VoiceFileName": "e_41029108_024",
+      "VoiceFileName": "e_41029103_022",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -1099,11 +1121,19 @@
       "BackgroundEffectType": 0,
       "StandCharacters": [
         {
+          "MCharacterId": 68201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        },
+        {
           "MCharacterId": 42201,
           "Position": 3,
-          "Action": 5,
+          "Action": 0,
           "Emotion": 0,
-          "FacialExpression": 0,
+          "FacialExpression": 1,
           "EnterAction": 0
         }
       ],
@@ -1116,20 +1146,20 @@
         "CameraWorkDuration": null,
         "CameraRotation": null
       },
-      "Ruby": "<div><div>「あ。その<ruby><rb>前置</rb><rt>まえお</rt></ruby>き、<ruby><rb>怒</rb><rt>おこ</rt></ruby>られるやつですね」</div></div>"
+      "Ruby": "<div><div>Shanghai!?＊どこかに<ruby><rb>消</rb><rt>き</rt></ruby>えてしまったのかと<ruby><rb>心配</rb><rt>しんぱい</rt></ruby>して......</div></div>"
     },
     {
       "GroupOrder": 27,
       "ViewOrder": 1,
-      "Name": "テンシン",
-      "Phrase": "「懐かしいなあ。\\n　私もそんな風に前置きして町の平和を脅かす悪党に\\n　毎日殴り込みかけてたことをハカセに打ち明けた時、\\n　自分を大切にしろってとても怒られたんですよ～」",
+      "Name": "Tianjin",
+      "Phrase": "Hey, stop, please stop licking my neck!",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
       "IsSpeakingFlags": 4,
       "FrameImage": 0,
-      "VoiceFileName": "e_41029108_025",
+      "VoiceFileName": "e_41029103_023",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -1138,11 +1168,19 @@
       "BackgroundEffectType": 0,
       "StandCharacters": [
         {
+          "MCharacterId": 68201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        },
+        {
           "MCharacterId": 42201,
           "Position": 3,
           "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 7,
+          "Emotion": 6,
+          "FacialExpression": 6,
           "EnterAction": 0
         }
       ],
@@ -1155,20 +1193,20 @@
         "CameraWorkDuration": null,
         "CameraRotation": null
       },
-      "Ruby": "<div><div>「<ruby><rb>懐</rb><rt>なつ</rt></ruby>かしいなあ。＊<ruby><rb>私</rb><rt>わたし</rt></ruby>もそんな<ruby><rb>風</rb><rt>かぜ</rt></ruby>に<ruby><rb>前置</rb><rt>まえお</rt></ruby>きして<ruby><rb>町</rb><rt>まち</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>を<ruby><rb>脅</rb><rt>おびや</rt></ruby>かす<ruby><rb>悪党</rb><rt>あくとう</rt></ruby>に＊<ruby><rb>毎日</rb><rt>まいにち</rt></ruby><ruby><rb>殴</rb><rt>なぐ</rt></ruby>り<ruby><rb>込</rb><rt>こ</rt></ruby>みかけてたことをハカセに<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>明</rb><rt>あ</rt></ruby>けた<ruby><rb>時</rb><rt>とき</rt></ruby>、＊<ruby><rb>自分</rb><rt>じぶん</rt></ruby>を<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>にしろってとても<ruby><rb>怒</rb><rt>おこ</rt></ruby>られたんですよ<ruby><rb>～</rb><rt>ー</rt></ruby>」</div></div>"
+      "Ruby": "<div><div>ちょっ、やめっ、<ruby><rb>首筋</rb><rt>くびすじ</rt></ruby>をぺロペロしないで<ruby><rb>下</rb><rt>くだ</rt></ruby>さいー!</div></div>"
     },
     {
       "GroupOrder": 28,
       "ViewOrder": 1,
-      "Name": "シャンハイ",
-      "Phrase": "「じゃ、じゃあ何でもない！\\n　シャンハイは何も知らない！！」",
+      "Name": "Shanghai",
+      "Phrase": "Aaah, you taste like chocolate, you're sweet just like Beijiiiing~~♪",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
+      "IsSpeakingFlags": 8,
       "FrameImage": 0,
-      "VoiceFileName": "e_41029108_026",
+      "VoiceFileName": "e_41029103_024",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -1178,10 +1216,18 @@
       "StandCharacters": [
         {
           "MCharacterId": 68201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 7,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 42201,
           "Position": 3,
-          "Action": 1,
+          "Action": 0,
           "Emotion": 0,
-          "FacialExpression": 1,
+          "FacialExpression": 6,
           "EnterAction": 0
         }
       ],
@@ -1194,208 +1240,20 @@
         "CameraWorkDuration": null,
         "CameraRotation": null
       },
-      "Ruby": "<div><div>「じゃ、じゃあ<ruby><rb>何</rb><rt>なに</rt></ruby>でもない！＊シャンハイは<ruby><rb>何</rb><rt>なに</rt></ruby>も<ruby><rb>知</rb><rt>し</rt></ruby>らない！！」</div></div>"
+      "Ruby": "<div><div>ああ、チョコの<ruby><rb>味</rb><rt>あじ</rt></ruby>がする。＊ペイ<ruby><rb>ジン</rb><rt>じん</rt></ruby>と<ruby><rb>同</rb><rt>おな</rt></ruby>じくらいあま～～～～い♪</div></div>"
     },
     {
       "GroupOrder": 29,
       "ViewOrder": 1,
-      "Name": "ペイジン",
-      "Phrase": "「大丈夫だシャンハイ、怒らない。\\n　だからちゃんと言ってくれないか？」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_027",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 68201,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 1,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 49201,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「<ruby><rb>大丈夫</rb><rt>だいじょうぶ</rt></ruby>だシャンハイ、<ruby><rb>怒</rb><rt>おこ</rt></ruby>らない。＊だからちゃんと<ruby><rb>言</rb><rt>い</rt></ruby>ってくれないか？」</div></div>"
-    },
-    {
-      "GroupOrder": 30,
-      "ViewOrder": 1,
-      "Name": "シャンハイ",
-      "Phrase": "「ほんとに？　ほんとに怒らない？\\n　約束してくれる？　いつもの優しいペイジンでいてくれる？」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_028",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 68201,
-          "Position": 2,
-          "Action": 5,
-          "Emotion": 0,
-          "FacialExpression": 4,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 49201,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「ほんとに？ほんとに<ruby><rb>怒</rb><rt>おこ</rt></ruby>らない？＊<ruby><rb>約束</rb><rt>やくそく</rt></ruby>してくれる？いつもの<ruby><rb>優</rb><rt>やさ</rt></ruby>しいペイジンでいてくれる？」</div></div>"
-    },
-    {
-      "GroupOrder": 31,
-      "ViewOrder": 1,
-      "Name": "ペイジン",
-      "Phrase": "「ああ、本当だ。\\n　私が怒ったことあるか？」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_029",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 68201,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 4,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 49201,
-          "Position": 4,
-          "Action": 3,
-          "Emotion": 0,
-          "FacialExpression": 7,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「ああ、<ruby><rb>本当</rb><rt>ほんとう</rt></ruby>だ。＊<ruby><rb>私</rb><rt>わたし</rt></ruby>が<ruby><rb>怒</rb><rt>おこ</rt></ruby>ったことあるか？」</div></div>"
-    },
-    {
-      "GroupOrder": 32,
-      "ViewOrder": 1,
-      "Name": "シャンハイ",
-      "Phrase": "「ペイジンたちが徹夜で仕上げた原稿ぜんぶにインクぶちまけた時……」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_030",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 68201,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 4,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 49201,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 7,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「ペイジンたちが<ruby><rb>徹夜</rb><rt>てつや</rt></ruby>で<ruby><rb>仕上</rb><rt>しあ</rt></ruby>げた<ruby><rb>原稿</rb><rt>げんこう</rt></ruby>ぜんぶにインクぶちまけた<ruby><rb>時</rb><rt>とき</rt></ruby>……」</div></div>"
-    },
-    {
-      "GroupOrder": 33,
-      "ViewOrder": 1,
-      "Name": "テンシン",
-      "Phrase": "「あれはどんな聖人でもグーで殴ってくるレベルの罪ですよ。\\n　ハカセが怒った回数にカウントしてはいけません」",
+      "Name": "Tianjin",
+      "Phrase": "Whoa? So the one who attacked bo-shi and Conductor was you!?",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
       "IsSpeakingFlags": 4,
       "FrameImage": 0,
-      "VoiceFileName": "e_41029108_031",
+      "VoiceFileName": "e_41029103_025",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -1403,6 +1261,296 @@
       "Effect": null,
       "BackgroundEffectType": 0,
       "StandCharacters": [
+        {
+          "MCharacterId": 68201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 42201,
+          "Position": 3,
+          "Action": 5,
+          "Emotion": 0,
+          "FacialExpression": 1,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>えっ?＊もしかしてBo-shiや<ruby><rb>車掌</rb><rt>しゃしょう</rt></ruby>さんを<ruby><rb>襲撃</rb><rt>しゅうげき</rt></ruby>したのは＊あなただったんですか!?</div></div>"
+    },
+    {
+      "GroupOrder": 30,
+      "ViewOrder": 1,
+      "Name": "Tianjin",
+      "Phrase": "I mean, stop it right th-, ah, I-I'm weak there, p-please calm down... aaaaah!",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_026",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 68201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 42201,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 6,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>っていうか、いい<ruby><rb>加減</rb><rt>かげん</rt></ruby>にやめ、ああんっ、そこは<ruby><rb>弱</rb><rt>よわ</rt></ruby>いんですっ、＊お<ruby><rb>願</rb><rt>ねが</rt></ruby>いですから<ruby><rb>落</rb><rt>お</rt></ruby>ち<ruby><rb>着</rb><rt>つ</rt></ruby>いて......はぁぁんっ!</div></div>"
+    },
+    {
+      "GroupOrder": 31,
+      "ViewOrder": 1,
+      "Name": "Shanghai",
+      "Phrase": "Sorry Tianjin, I feel bad. But I can't stop myself.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 8,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_027",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 68201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 42201,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 6,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>ごめんよTianjin、<ruby><rb>悪</rb><rt>わる</rt></ruby>いと<ruby><rb>思</rb><rt>おも</rt></ruby>ってる。＊でも<ruby><rb>止</rb><rt>と</rt></ruby>まらないんだよ<ruby><rb>ぉ</rb><rt>ー</rt></ruby></div></div>"
+    },
+    {
+      "GroupOrder": 32,
+      "ViewOrder": 1,
+      "Name": "Shanghai",
+      "Phrase": "It's just that, my body wants chocolate on its own~",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 8,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_028",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 68201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 42201,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 6,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>なんかね、<ruby><rb>身体</rb><rt>しんたい</rt></ruby>が<ruby><rb>勝手</rb><rt>かって</rt></ruby>にチョコを<ruby><rb>求</rb><rt>もと</rt></ruby>めちゃうんだよ<ruby><rb>～</rb><rt>ー</rt></ruby></div></div>"
+    },
+    {
+      "GroupOrder": 33,
+      "ViewOrder": 1,
+      "Name": "Tianjin",
+      "Phrase": "But my body is not chocolate!? I'm not even hiding anything!",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_029",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 68201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 42201,
+          "Position": 3,
+          "Action": 5,
+          "Emotion": 0,
+          "FacialExpression": 6,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div><ruby><rb>私</rb><rt>わたし</rt></ruby>の<ruby><rb>身体</rb><rt>しんたい</rt></ruby>はチョコじゃありませんよ!?＊<ruby><rb>隠</rb><rt>かく</rt></ruby>してもいませんってば!</div></div>"
+    },
+    {
+      "GroupOrder": 34,
+      "ViewOrder": 1,
+      "Name": "Shanghai",
+      "Phrase": "No, your whole body smells of chocolate. It's so irresistible!!",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 8,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_030",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 68201,
+          "Position": 2,
+          "Action": 2,
+          "Emotion": 0,
+          "FacialExpression": 3,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 42201,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 6,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>いいや、<ruby><rb>全身</rb><rt>ぜんしん</rt></ruby>からチョコの<ruby><rb>香</rb><rt>かお</rt></ruby>りが<ruby><rb>漂</rb><rt>ただよ</rt></ruby>ってる。＊もうたまらないくらいに!!</div></div>"
+    },
+    {
+      "GroupOrder": 35,
+      "ViewOrder": 1,
+      "Name": "Tianjin",
+      "Phrase": "That's not true! Please get away from me, please~!",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_031",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 68201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 3,
+          "EnterAction": 0
+        },
         {
           "MCharacterId": 42201,
           "Position": 3,
@@ -1421,106 +1569,20 @@
         "CameraWorkDuration": null,
         "CameraRotation": null
       },
-      "Ruby": "<div><div>「あれはどんな<ruby><rb>聖人</rb><rt>せいじん</rt></ruby>でもグーで<ruby><rb>殴</rb><rt>なぐ</rt></ruby>ってくるレベルの<ruby><rb>罪</rb><rt>つみ</rt></ruby>ですよ<ruby><rb>。</rb><rt></rt></ruby>＊ハカセが<ruby><rb>怒</rb><rt>おこ</rt></ruby>った<ruby><rb>回数</rb><rt>かいすう</rt></ruby>にカウントしてはいけません」</div></div>"
-    },
-    {
-      "GroupOrder": 34,
-      "ViewOrder": 1,
-      "Name": "ペイジン",
-      "Phrase": "「テンシンが気絶しかけたほどだったからな。\\n　まあ過ぎた話だ、あの時のことを根に持っていたりしていないから気にするな」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_032",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 49201,
-          "Position": 3,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「テンシンが<ruby><rb>気絶</rb><rt>きぜつ</rt></ruby>しかけたほどだったからな。＊まあ<ruby><rb>過</rb><rt>す</rt></ruby>ぎた<ruby><rb>話</rb><rt>はなし</rt></ruby>だ、あの<ruby><rb>時</rb><rt>とき</rt></ruby>のことを<ruby><rb>根</rb><rt>ね</rt></ruby>に<ruby><rb>持</rb><rt>も</rt></ruby>っていたりしていないから<ruby><rb>気</rb><rt>き</rt></ruby>にするな」</div></div>"
-    },
-    {
-      "GroupOrder": 35,
-      "ViewOrder": 1,
-      "Name": "シャンハイ",
-      "Phrase": "「じゃあ絶対に怒らないでいてくれるんだね？」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_033",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 68201,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 8,
-          "FacialExpression": 4,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 49201,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「じゃあ<ruby><rb>絶対</rb><rt>ぜったい</rt></ruby>に<ruby><rb>怒</rb><rt>おこ</rt></ruby>らないでいてくれるんだね？」</div></div>"
+      "Ruby": "<div><div>そんなことありませんって!＊お<ruby><rb>願</rb><rt>ねが</rt></ruby>いですから<ruby><rb>離</rb><rt>はな</rt></ruby>れて<ruby><rb>下</rb><rt>くだ</rt></ruby>さいよ<ruby><rb>ぉ～</rb><rt>ー</rt></ruby>!</div></div>"
     },
     {
       "GroupOrder": 36,
       "ViewOrder": 1,
-      "Name": "ペイジン",
-      "Phrase": "「ああ。約束だ」",
+      "Name": "Beijing",
+      "Phrase": "Right, I can move a lot better now, Tianjin, I'm helping you now. I won't let you make the same mistake I made earlier.",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
+      "IsSpeakingFlags": 4,
       "FrameImage": 0,
-      "VoiceFileName": "e_41029108_034",
+      "VoiceFileName": "e_41029103_032",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -1529,20 +1591,12 @@
       "BackgroundEffectType": 0,
       "StandCharacters": [
         {
-          "MCharacterId": 68201,
-          "Position": 2,
+          "MCharacterId": 49201,
+          "Position": 3,
           "Action": 0,
           "Emotion": 0,
-          "FacialExpression": 4,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 49201,
-          "Position": 4,
-          "Action": 5,
-          "Emotion": 0,
           "FacialExpression": 0,
-          "EnterAction": 0
+          "EnterAction": 1
         }
       ],
       "StillDetail": {
@@ -1554,20 +1608,20 @@
         "CameraWorkDuration": null,
         "CameraRotation": null
       },
-      "Ruby": "<div><div>「ああ。<ruby><rb>約束</rb><rt>やくそく</rt></ruby>だ」</div></div>"
+      "Ruby": "<div><div>よし、だいぶ<ruby><rb>動</rb><rt>うご</rt></ruby>けるようになってきた。＊Tianjin、いま<ruby><rb>助</rb><rt>たす</rt></ruby>けるぞ。＊もう<ruby><rb>先程</rb><rt>さきほど</rt></ruby>のような<ruby><rb>失態</rb><rt>しったい</rt></ruby>は<ruby><rb>見</rb><rt>み</rt></ruby>せない</div></div>"
     },
     {
       "GroupOrder": 37,
       "ViewOrder": 1,
-      "Name": "シャンハイ",
-      "Phrase": "「よかった安心したー！」",
+      "Name": "Beijing",
+      "Phrase": "Shanghai, I'm sorry, but we're going to have to detain you for the time being.",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
       "IsSpeakingFlags": 4,
       "FrameImage": 0,
-      "VoiceFileName": "e_41029108_035",
+      "VoiceFileName": "e_41029103_033",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -1576,11 +1630,11 @@
       "BackgroundEffectType": 0,
       "StandCharacters": [
         {
-          "MCharacterId": 68201,
+          "MCharacterId": 49201,
           "Position": 3,
-          "Action": 3,
+          "Action": 5,
           "Emotion": 0,
-          "FacialExpression": 5,
+          "FacialExpression": 3,
           "EnterAction": 0
         }
       ],
@@ -1593,430 +1647,31 @@
         "CameraWorkDuration": null,
         "CameraRotation": null
       },
-      "Ruby": "<div><div>「よかった<ruby><rb>安心</rb><rt>あんしん</rt></ruby>したー！」</div></div>"
+      "Ruby": "<div><div>Shanghai、すまないがひとまず<ruby><rb>拘束</rb><rt>こうそく</rt></ruby>させてもらうぞ</div></div>"
     },
     {
       "GroupOrder": 38,
       "ViewOrder": 1,
-      "Name": "シャンハイ",
-      "Phrase": "「あのね、実はわたしにチョコを売った行商人なんだけどさ、\\n　今になってあの大賢者だったって思い出したんだ～」",
+      "Name": "Shanghai",
+      "Phrase": "Wow, here comes Beijing again. I'll eat you both togetheeer♪",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
       "IsSpeakingFlags": 4,
       "FrameImage": 0,
-      "VoiceFileName": "e_41029108_036",
+      "VoiceFileName": "e_41029103_034",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
-      "SE": "",
+      "SE": "whip",
       "Effect": null,
       "BackgroundEffectType": 0,
       "StandCharacters": [
         {
           "MCharacterId": 68201,
           "Position": 3,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「あのね、<ruby><rb>実</rb><rt>じつ</rt></ruby>はわたしにチョコを<ruby><rb>売</rb><rt>う</rt></ruby>った<ruby><rb>行商人</rb><rt>ぎょうしょうにん</rt></ruby>なんだけどさ、＊<ruby><rb>今</rb><rt>いま</rt></ruby>になってあの<ruby><rb>大賢者</rb><rt>だいけんじゃ</rt></ruby>だったって<ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>出</rb><rt>だ</rt></ruby>したんだ<ruby><rb>～</rb><rt>ー</rt></ruby>」</div></div>"
-    },
-    {
-      "GroupOrder": 39,
-      "ViewOrder": 1,
-      "Name": "ペイジン",
-      "Phrase": "「それは確かなのか？」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_037",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 49201,
-          "Position": 3,
-          "Action": 0,
-          "Emotion": 8,
-          "FacialExpression": 3,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「それは<ruby><rb>確</rb><rt>たし</rt></ruby>かなのか？」</div></div>"
-    },
-    {
-      "GroupOrder": 40,
-      "ViewOrder": 1,
-      "Name": "シャンハイ",
-      "Phrase": "「うん。行商人の時はフードかぶってたから、\\n　今の今までいまいちピンときてなかったんだけど、\\n　よく思い出したら特徴一緒だった！」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_038",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 68201,
-          "Position": 3,
-          "Action": 5,
-          "Emotion": 0,
-          "FacialExpression": 0,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「うん。<ruby><rb>行商人</rb><rt>ぎょうしょうにん</rt></ruby>の<ruby><rb>時</rb><rt>とき</rt></ruby>はフードかぶってたから、＊<ruby><rb>今</rb><rt>いま</rt></ruby>の<ruby><rb>今</rb><rt>いま</rt></ruby>までいまいちピンときてなかったんだけど、＊よく<ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>出</rb><rt>だ</rt></ruby>したら<ruby><rb>特徴</rb><rt>とくちょう</rt></ruby><ruby><rb>一緒</rb><rt>いっしょ</rt></ruby>だった！」</div></div>"
-    },
-    {
-      "GroupOrder": 41,
-      "ViewOrder": 1,
-      "Name": "ペイジン",
-      "Phrase": "「どうしてもっと早く気づかないんだー！」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
-      "FrameImage": 1,
-      "VoiceFileName": "e_41029108_039",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "thander02",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 49201,
-          "Position": 3,
-          "Action": 7,
-          "Emotion": 0,
-          "FacialExpression": 3,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「どうしてもっと<ruby><rb>早</rb><rt>はや</rt></ruby>く<ruby><rb>気</rb><rt>き</rt></ruby>づかないんだー！」</div></div>"
-    },
-    {
-      "GroupOrder": 42,
-      "ViewOrder": 1,
-      "Name": "シャンハイ",
-      "Phrase": "「怒らないって言ったのに！」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_040",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 68201,
-          "Position": 2,
-          "Action": 5,
-          "Emotion": 0,
-          "FacialExpression": 1,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 49201,
-          "Position": 4,
-          "Action": 8,
-          "Emotion": 0,
-          "FacialExpression": 3,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「<ruby><rb>怒</rb><rt>おこ</rt></ruby>らないって<ruby><rb>言</rb><rt>い</rt></ruby>ったのに！」</div></div>"
-    },
-    {
-      "GroupOrder": 43,
-      "ViewOrder": 1,
-      "Name": "ペイジン",
-      "Phrase": "「それが分かってたらもっと早く解決してたんだぞ。\\n　まったく、キミという奴は」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_041",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 68201,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 1,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 49201,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 3,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「それが<ruby><rb>分</rb><rt>わ</rt></ruby>かってたらもっと<ruby><rb>早</rb><rt>はや</rt></ruby>く<ruby><rb>解決</rb><rt>かいけつ</rt></ruby>してたんだぞ。＊まったく、キミという<ruby><rb>奴</rb><rt>やつ</rt></ruby>は」</div></div>"
-    },
-    {
-      "GroupOrder": 44,
-      "ViewOrder": 1,
-      "Name": "シャンハイ",
-      "Phrase": "「うぅ、ごめんよ……」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_042",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 68201,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 2,
-          "FacialExpression": 4,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 49201,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 3,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「うぅ、ごめんよ……」</div></div>"
-    },
-    {
-      "GroupOrder": 45,
-      "ViewOrder": 1,
-      "Name": "ペイジン",
-      "Phrase": "「……しまった、怒らないって約束だったな。\\n　すまないシャンハイ、今のは私が悪かった」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_043",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 68201,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 4,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 49201,
-          "Position": 4,
-          "Action": 5,
-          "Emotion": 0,
-          "FacialExpression": 4,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「……しまった、<ruby><rb>怒</rb><rt>おこ</rt></ruby>らないって<ruby><rb>約束</rb><rt>やくそく</rt></ruby>だったな。＊すまないシャンハイ、<ruby><rb>今</rb><rt>いま</rt></ruby>のは<ruby><rb>私</rb><rt>わたし</rt></ruby>が<ruby><rb>悪</rb><rt>わる</rt></ruby>かった」</div></div>"
-    },
-    {
-      "GroupOrder": 46,
-      "ViewOrder": 1,
-      "Name": "シャンハイ",
-      "Phrase": "「ペイジン……」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_044",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 68201,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 4,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 49201,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 4,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「ペイジン……」</div></div>"
-    },
-    {
-      "GroupOrder": 47,
-      "ViewOrder": 1,
-      "Name": "ペイジン",
-      "Phrase": "「大賢者を倒せばキミの症状は消えるだろう。\\n　ほら、私もみんなもついてる。一緒に身体を治しに行こう」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 2,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_045",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 68201,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 4,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 49201,
-          "Position": 4,
-          "Action": 0,
+          "Action": 2,
           "Emotion": 0,
           "FacialExpression": 5,
           "EnterAction": 0
@@ -2031,20 +1686,59 @@
         "CameraWorkDuration": null,
         "CameraRotation": null
       },
-      "Ruby": "<div><div>「<ruby><rb>大賢者</rb><rt>だいけんじゃ</rt></ruby>を<ruby><rb>倒</rb><rt>たお</rt></ruby>せばキミの<ruby><rb>症状</rb><rt>しょうじょう</rt></ruby>は<ruby><rb>消</rb><rt>き</rt></ruby>えるだろう。＊ほら、<ruby><rb>私</rb><rt>わたし</rt></ruby>もみんなもついてる。<ruby><rb>一緒</rb><rt>いっしょ</rt></ruby>に<ruby><rb>身体</rb><rt>しんたい</rt></ruby>を<ruby><rb>治</rb><rt>なお</rt></ruby>しに<ruby><rb>行</rb><rt>い</rt></ruby>こう」</div></div>"
+      "Ruby": "<div><div>わぁ、またBeijingが<ruby><rb>来</rb><rt>き</rt></ruby>てくれた。＊ふたり<ruby><rb>一緒</rb><rt>いっしょ</rt></ruby>にいただきまーす♪</div></div>"
     },
     {
-      "GroupOrder": 48,
+      "GroupOrder": 39,
       "ViewOrder": 1,
-      "Name": "シャンハイ",
-      "Phrase": "「うわーん、こちらこそごめんよペイジン～～～！」",
+      "Name": "Beijing",
+      "Phrase": "That's impossible, Shanghai's agility has increased dramatically...!?",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
+      "IsSpeakingFlags": 4,
       "FrameImage": 0,
-      "VoiceFileName": "e_41029108_046",
+      "VoiceFileName": "e_41029103_035",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 49201,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 4,
+          "FacialExpression": 1,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>そんな<ruby><rb>馬鹿</rb><rt>ばか</rt></ruby>な、＊いつものShanghaiの<ruby><rb>素早</rb><rt>すばや</rt></ruby>さを<ruby><rb>超越</rb><rt>ちょうえつ</rt></ruby>しているだと......!?</div></div>"
+    },
+    {
+      "GroupOrder": 40,
+      "ViewOrder": 1,
+      "Name": "Beijing",
+      "Phrase": "Wait, now that I'm finally on my feet and legs, I don't want another one to my nape - FUWAAAAAH!",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_036",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -2057,7 +1751,7 @@
           "Position": 2,
           "Action": 0,
           "Emotion": 0,
-          "FacialExpression": 4,
+          "FacialExpression": 5,
           "EnterAction": 3
         },
         {
@@ -2065,7 +1759,54 @@
           "Position": 3,
           "Action": 0,
           "Emotion": 0,
+          "FacialExpression": 6,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div><ruby><rb>待</rb><rt>ま</rt></ruby>て、せっかくようやく<ruby><rb>足腰</rb><rt>あしこし</rt></ruby>が<ruby><rb>立</rb><rt>た</rt></ruby>つようになったんだ、＊また<ruby><rb>骨抜</rb><rt>ほねぬ</rt></ruby>きにされるのは<ruby><rb>御免</rb><rt>ごめん</rt></ruby>――ふわぁぁぁっ!</div></div>"
+    },
+    {
+      "GroupOrder": 41,
+      "ViewOrder": 1,
+      "Name": "Tianjin",
+      "Phrase": "Ah, bo-shi's knees are wobbling again! I'll hold her up here - NYAAAAH!",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_037",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 68201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
           "FacialExpression": 5,
+          "EnterAction": 3
+        },
+        {
+          "MCharacterId": 42201,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 6,
           "EnterAction": 0
         }
       ],
@@ -2078,20 +1819,20 @@
         "CameraWorkDuration": null,
         "CameraRotation": null
       },
-      "Ruby": "<div><div>「うわーん、こちらこそごめんよペイジン～～～！」</div></div>"
+      "Ruby": "<div><div>ああっ、Bo-shiの<ruby><rb>膝</rb><rt>ひざ</rt></ruby>がまたガクガクしちゃってます!＊ここは<ruby><rb>私</rb><rt>わたし</rt></ruby>が<ruby><rb>支</rb><rt>ささ</rt></ruby>えて――んにゃ<ruby><rb>あ</rb><rt>ー</rt></ruby>あっ!</div></div>"
     },
     {
-      "GroupOrder": 49,
+      "GroupOrder": 42,
       "ViewOrder": 1,
-      "Name": "テンシン",
-      "Phrase": "「シャンハイ、そうやってさりげなくハカセの胸に飛び込むのズルいですよ！\\n　私だってしたいのにー！」",
+      "Name": "Shanghai",
+      "Phrase": "Sorry, sorry you two. But my body really moves on its own. I just can't stop licking at aaaaall~!",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 1,
+      "IsSpeakingFlags": 4,
       "FrameImage": 0,
-      "VoiceFileName": "e_41029108_047",
+      "VoiceFileName": "e_41029103_038",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -2101,26 +1842,10 @@
       "StandCharacters": [
         {
           "MCharacterId": 68201,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 4,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 49201,
           "Position": 3,
           "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 6,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 42201,
-          "Position": 5,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 3,
+          "Emotion": 2,
+          "FacialExpression": 4,
           "EnterAction": 0
         }
       ],
@@ -2133,20 +1858,20 @@
         "CameraWorkDuration": null,
         "CameraRotation": null
       },
-      "Ruby": "<div><div>「シャンハイ、そうやってさりげなくハカセの<ruby><rb>胸</rb><rt>むね</rt></ruby>に<ruby><rb>飛</rb><rt>と</rt></ruby>び<ruby><rb>込</rb><rt>こ</rt></ruby>むのズルいですよ！＊<ruby><rb>私</rb><rt>わたし</rt></ruby>だってしたいのにー！」</div></div>"
+      "Ruby": "<div><div>ごめんな、ごめんな<ruby><rb>二人</rb><rt>ふたり</rt></ruby>とも。＊でも<ruby><rb>本当</rb><rt>ほんとう</rt></ruby>に<ruby><rb>身体</rb><rt>しんたい</rt></ruby>が<ruby><rb>勝手</rb><rt>かって</rt></ruby>に<ruby><rb>動</rb><rt>うご</rt></ruby>いちゃうんだよ。＊ペロペロが<ruby><rb>止</rb><rt>と</rt></ruby>まらないんだよ<ruby><rb>～</rb><rt>ー</rt></ruby>!</div></div>"
     },
     {
-      "GroupOrder": 50,
+      "GroupOrder": 43,
       "ViewOrder": 1,
-      "Name": "ペイジン",
-      "Phrase": "「待て二人とも、裾がめくれてしまっている。\\n　車掌とオステルリッツが見てるからやめるんだ……！」",
+      "Name": "Shanghai",
+      "Phrase": "The seizures should stop in a little while, so just bear with it until then!",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
       "IsSpeakingFlags": 4,
       "FrameImage": 0,
-      "VoiceFileName": "e_41029108_048",
+      "VoiceFileName": "e_41029103_039",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -2156,304 +1881,7 @@
       "StandCharacters": [
         {
           "MCharacterId": 68201,
-          "Position": 2,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 4,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 49201,
           "Position": 3,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 6,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 42201,
-          "Position": 4,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 3,
-          "EnterAction": 4
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「<ruby><rb>待</rb><rt>ま</rt></ruby>て<ruby><rb>二人</rb><rt>ふたり</rt></ruby>とも、<ruby><rb>裾</rb><rt>すそ</rt></ruby>がめくれてしまっている。＊<ruby><rb>車掌</rb><rt>しゃしょう</rt></ruby>とオステルリッツが<ruby><rb>見</rb><rt>み</rt></ruby>てるからやめるんだ……！」</div></div>"
-    },
-    {
-      "GroupOrder": 51,
-      "ViewOrder": 1,
-      "Name": "オステルリッツ",
-      "Phrase": "「ご心配なさらず。\\n　わたくし、ウォッチングする時は微動だにしないでいられます。\\n　背景の一部になることをお約束しますよ」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_049",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 85201,
-          "Position": 3,
-          "Action": 5,
-          "Emotion": 0,
-          "FacialExpression": 8,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「ご<ruby><rb>心配</rb><rt>しんぱい</rt></ruby>なさらず。＊わたくし、ウォッチングする<ruby><rb>時</rb><rt>とき</rt></ruby>は<ruby><rb>微動</rb><rt>びどう</rt></ruby>だにしないでいられます。＊<ruby><rb>背景</rb><rt>はいけい</rt></ruby>の<ruby><rb>一部</rb><rt>いちぶ</rt></ruby>になることをお<ruby><rb>約束</rb><rt>やくそく</rt></ruby>しますよ」</div></div>"
-    },
-    {
-      "GroupOrder": 52,
-      "ViewOrder": 1,
-      "Name": "ペイジン",
-      "Phrase": "「結局見てるんじゃないか！」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_050",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 49201,
-          "Position": 3,
-          "Action": 0,
-          "Emotion": 4,
-          "FacialExpression": 1,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「<ruby><rb>結局</rb><rt>けっきょく</rt></ruby><ruby><rb>見</rb><rt>み</rt></ruby>てるんじゃないか！」</div></div>"
-    },
-    {
-      "GroupOrder": 53,
-      "ViewOrder": 1,
-      "Name": "",
-      "Phrase": "ペイジン、こちらは見ていないから安心してくれ。\\nほら、目をつぶってるから！",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 0,
-      "FrameImage": 0,
-      "VoiceFileName": "",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 49201,
-          "Position": 3,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 1,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>ペイジン、こちらは<ruby><rb>見</rb><rt>み</rt></ruby>ていないから<ruby><rb>安心</rb><rt>あんしん</rt></ruby>してくれ。＊ほら、<ruby><rb>目</rb><rt>め</rt></ruby>をつぶってるから！</div></div>"
-    },
-    {
-      "GroupOrder": 54,
-      "ViewOrder": 1,
-      "Name": "オステルリッツ",
-      "Phrase": "「想像力は時に現実を凌駕しますよね。\\n　車掌さまの脳内では三人の服が一枚、また一枚と脱がされて――」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_051",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 85201,
-          "Position": 3,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 6,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「<ruby><rb>想像力</rb><rt>そうぞうりょく</rt></ruby>は<ruby><rb>時</rb><rt>とき</rt></ruby>に<ruby><rb>現実</rb><rt>げんじつ</rt></ruby>を<ruby><rb>凌駕</rb><rt>りょうが</rt></ruby>しますよね。＊<ruby><rb>車掌</rb><rt>しゃしょう</rt></ruby>さまの<ruby><rb>脳内</rb><rt>のうない</rt></ruby>では<ruby><rb>三</rb><rt>さん</rt></ruby><ruby><rb>人</rb><rt>にん</rt></ruby>の<ruby><rb>服</rb><rt>ふく</rt></ruby>が<ruby><rb>一</rb><rt>いち</rt></ruby><ruby><rb>枚</rb><rt>まい</rt></ruby>、また<ruby><rb>一</rb><rt>いち</rt></ruby><ruby><rb>枚</rb><rt>まい</rt></ruby>と<ruby><rb>脱</rb><rt>ぬ</rt></ruby>がされて――」</div></div>"
-    },
-    {
-      "GroupOrder": 55,
-      "ViewOrder": 1,
-      "Name": "",
-      "Phrase": "ただ見るよりもド変態に思われるからやめてくれる！？",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 0,
-      "FrameImage": 0,
-      "VoiceFileName": "",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 85201,
-          "Position": 3,
-          "Action": 0,
-          "Emotion": 0,
-          "FacialExpression": 6,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>ただ<ruby><rb>見</rb><rt>み</rt></ruby>るよりもド<ruby><rb>変態</rb><rt>へんたい</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>われるからやめてくれる！？</div></div>"
-    },
-    {
-      "GroupOrder": 56,
-      "ViewOrder": 1,
-      "Name": "ペイジン",
-      "Phrase": "「よし、抜けたっ。\\n　ほら皆、先に進むぞ」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 4,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_052",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 49201,
-          "Position": 3,
-          "Action": 5,
-          "Emotion": 0,
-          "FacialExpression": 3,
-          "EnterAction": 0
-        }
-      ],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>「よし、<ruby><rb>抜</rb><rt>ぬ</rt></ruby>けたっ。＊ほら<ruby><rb>皆</rb><rt>みな</rt></ruby>、<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>むぞ」</div></div>"
-    },
-    {
-      "GroupOrder": 57,
-      "ViewOrder": 1,
-      "Name": "シャンハイ",
-      "Phrase": "「もっとぎゅーっとさせてよペイジン！」",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 8,
-      "FrameImage": 0,
-      "VoiceFileName": "e_41029108_053",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [
-        {
-          "MCharacterId": 68201,
-          "Position": 2,
-          "Action": 1,
-          "Emotion": 0,
-          "FacialExpression": 4,
-          "EnterAction": 0
-        },
-        {
-          "MCharacterId": 42201,
-          "Position": 4,
           "Action": 0,
           "Emotion": 0,
           "FacialExpression": 4,
@@ -2469,20 +1897,192 @@
         "CameraWorkDuration": null,
         "CameraRotation": null
       },
-      "Ruby": "<div><div>「もっとぎゅーっとさせてよペイジン！」</div></div>"
+      "Ruby": "<div><div>もう<ruby><rb>少</rb><rt>すこ</rt></ruby>ししたら<ruby><rb>発作</rb><rt>ほっさ</rt></ruby>も<ruby><rb>治</rb><rt>おさ</rt></ruby>まるはずだから、＊だからそれまで<ruby><rb>我慢</rb><rt>がまん</rt></ruby>して!</div></div>"
     },
     {
-      "GroupOrder": 58,
+      "GroupOrder": 44,
       "ViewOrder": 1,
-      "Name": "テンシン",
-      "Phrase": "「ハカセ、待って下さいよ～！」",
+      "Name": "Beijing",
+      "Phrase": "Why do you keep going after erogenous zones...!?",
       "PhraseFontSize": 2,
       "PhraseSpeed": 3,
       "IsPhraseCenter": false,
       "SpeechMCharacterId": null,
       "IsSpeakingFlags": 2,
       "FrameImage": 0,
-      "VoiceFileName": "e_41029108_054",
+      "VoiceFileName": "e_41029103_040",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 42201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 6,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 49201,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 6,
+          "FacialExpression": 6,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>どうして<ruby><rb>快感</rb><rt>かいかん</rt></ruby>を<ruby><rb>与</rb><rt>あた</rt></ruby>える<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>ばかり......!</div></div>"
+    },
+    {
+      "GroupOrder": 45,
+      "ViewOrder": 1,
+      "Name": "Tianjin",
+      "Phrase": "At least go after my arms or something...!",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 8,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_041",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 42201,
+          "Position": 2,
+          "Action": 5,
+          "Emotion": 0,
+          "FacialExpression": 6,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 49201,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 6,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>せめて<ruby><rb>腕</rb><rt>うで</rt></ruby>とかにして<ruby><rb>下</rb><rt>くだ</rt></ruby>さいよ<ruby><rb>ぉ</rb><rt>ー</rt></ruby>......!</div></div>"
+    },
+    {
+      "GroupOrder": 46,
+      "ViewOrder": 1,
+      "Name": "Beijing",
+      "Phrase": "Oh no, we have to do something, otherwise we'll all be wiped out, we'll all be crippled. But I can't mix sweet potions in this condition...!",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_042",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 49201,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 6,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>まずい、<ruby><rb>何</rb><rt>なん</rt></ruby>とかしないとこのままじゃみんな<ruby><rb>足腰</rb><rt>あしこし</rt></ruby>が<ruby><rb>立</rb><rt>た</rt></ruby>たなくなって<ruby><rb>全滅</rb><rt>ぜんめつ</rt></ruby>だ。＊だがこの<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>で<ruby><rb>甘</rb><rt>あま</rt></ruby>い<ruby><rb>薬</rb><rt>くすり</rt></ruby>の<ruby><rb>調合</rb><rt>ちょうごう</rt></ruby>なんて<ruby><rb>無理</rb><rt>むり</rt></ruby>だ......!</div></div>"
+    },
+    {
+      "GroupOrder": 47,
+      "ViewOrder": 1,
+      "Name": "Beijing",
+      "Phrase": "Hey, Tianjin, don't surrender yourself over to Shanghai!",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_043",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 49201,
+          "Position": 3,
+          "Action": 5,
+          "Emotion": 0,
+          "FacialExpression": 1,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>ちょっ、Tianjin!＊Shanghaiに<ruby><rb>身</rb><rt>み</rt></ruby>を<ruby><rb>委</rb><rt>ゆだ</rt></ruby>ねるんじゃない!</div></div>"
+    },
+    {
+      "GroupOrder": 48,
+      "ViewOrder": 1,
+      "Name": "Tianjin",
+      "Phrase": "Well... I don't think even I can resist anymore, so I thought it would be more comfortable if I just let her suck me off. Of course, it would be great if bo-shi could do it for me.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_044",
       "BackgroundImage": "",
       "BGM": "",
       "BattleBGM": "",
@@ -2495,12 +2095,627 @@
           "Position": 2,
           "Action": 0,
           "Emotion": 0,
-          "FacialExpression": 4,
+          "FacialExpression": 5,
           "EnterAction": 0
         },
         {
           "MCharacterId": 42201,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 6,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>いやぁ......もう<ruby><rb>抵抗</rb><rt>ていこう</rt></ruby>も<ruby><rb>出来</rb><rt>でき</rt></ruby>そうにないので、＊いっそペロペロされるがままの<ruby><rb>方</rb><rt>ほう</rt></ruby>が<ruby><rb>気持</rb><rt>きも</rt></ruby>ちいいかなぁ、なんて。＊もちろんBo-shiにしてもらえれば<ruby><rb>最高</rb><rt>さいこう</rt></ruby>なんですけど</div></div>"
+    },
+    {
+      "GroupOrder": 49,
+      "ViewOrder": 1,
+      "Name": "Beijing",
+      "Phrase": "Don't be silly and find a way out, you'll be finished if you get incapacitated before Shanghai's seizures subside.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_045",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 49201,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 3,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div><ruby><rb>馬鹿</rb><rt>ばか</rt></ruby>なこと<ruby><rb>言</rb><rt>い</rt></ruby>ってないで<ruby><rb>抜</rb><rt>ぬ</rt></ruby>け<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>を<ruby><rb>探</rb><rt>さぐ</rt></ruby>るんだ。＊Shanghaiの<ruby><rb>発作</rb><rt>ほっさ</rt></ruby>が<ruby><rb>治</rb><rt>おさ</rt></ruby>まるより<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>動</rb><rt>うご</rt></ruby>けなくなったらおしまいなんだぞ</div></div>"
+    },
+    {
+      "GroupOrder": 50,
+      "ViewOrder": 1,
+      "Name": "Tianjin",
+      "Phrase": "But, I really can't think of anything~~",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_046",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 68201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 5,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 42201,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 7,
+          "FacialExpression": 6,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>でも、<ruby><rb>私</rb><rt>わたし</rt></ruby>にはなにも<ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>浮</rb><rt>う</rt></ruby>かびません～～～</div></div>"
+    },
+    {
+      "GroupOrder": 51,
+      "ViewOrder": 1,
+      "Name": "Beijing",
+      "Phrase": "Guh, I can't think straight either after Shanghai's amazing tongue techniques. What should I do...",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_047",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 49201,
+          "Position": 3,
+          "Action": 5,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>くっ、<ruby><rb>私</rb><rt>わたし</rt></ruby>もShanghaiのテクニカルな<ruby><rb>舌</rb><rt>した</rt></ruby><ruby><rb>使</rb><rt>づか</rt></ruby>いに<ruby><rb>思考</rb><rt>しこう</rt></ruby>が<ruby><rb>定</rb><rt>さだ</rt></ruby>まらん。＊どうすれば......</div></div>"
+    },
+    {
+      "GroupOrder": 52,
+      "ViewOrder": 1,
+      "Name": "",
+      "Phrase": "That's when it happened. Suddenly, the floor in front of us cracked open.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 0,
+      "FrameImage": 0,
+      "VoiceFileName": "",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>その<ruby><rb>時</rb><rt>とき</rt></ruby>だった。＊<ruby><rb>突然</rb><rt>とつぜん</rt></ruby><ruby><rb>目</rb><rt>め</rt></ruby>の<ruby><rb>前</rb><rt>まえ</rt></ruby>の<ruby><rb>床</rb><rt>ゆか</rt></ruby>がバコッ、と<ruby><rb>開</rb><rt>ひら</rt></ruby>いた。</div></div>"
+    },
+    {
+      "GroupOrder": 53,
+      "ViewOrder": 1,
+      "Name": "",
+      "Phrase": "Something slowly crawled out of the hole, the dust that flew up obstructed our views.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 0,
+      "FrameImage": 0,
+      "VoiceFileName": "",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div><ruby><rb>舞</rb><rt>ま</rt></ruby>い<ruby><rb>上</rb><rt>あ</rt></ruby>がる<ruby><rb>埃</rb><rt>ほこり</rt></ruby>で<ruby><rb>視界</rb><rt>しかい</rt></ruby>が<ruby><rb>遮</rb><rt>さえぎ</rt></ruby>られる<ruby><rb>中</rb><rt>なか</rt></ruby>、＊<ruby><rb>何</rb><rt>なに</rt></ruby>かがゆっくりと<ruby><rb>穴</rb><rt>あな</rt></ruby>から<ruby><rb>這</rb><rt>は</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>てくる。</div></div>"
+    },
+    {
+      "GroupOrder": 54,
+      "ViewOrder": 1,
+      "Name": "Tianjin",
+      "Phrase": "This, a monster at this time? Of all places, at a time like this when I can't move properly...",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_048",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 42201,
+          "Position": 3,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 1,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>こ、<ruby><rb>今度</rb><rt>こんど</rt></ruby>こそ<ruby><rb>魔物</rb><rt>まもの</rt></ruby>でしょうか。＊よりにもよって、<ruby><rb>満足</rb><rt>まんぞく</rt></ruby>に<ruby><rb>動</rb><rt>うご</rt></ruby>けないこんな<ruby><rb>時</rb><rt>とき</rt></ruby>に......</div></div>"
+    },
+    {
+      "GroupOrder": 55,
+      "ViewOrder": 1,
+      "Name": "Tianjin",
+      "Phrase": "But, perhaps someone came here to help us.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_049",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 42201,
+          "Position": 3,
+          "Action": 5,
+          "Emotion": 0,
+          "FacialExpression": 0,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>でも、もしかしたら＊<ruby><rb>誰</rb><rt>だれ</rt></ruby>かが<ruby><rb>助</rb><rt>たす</rt></ruby>けに<ruby><rb>来</rb><rt>き</rt></ruby>てくれたのかもしれません</div></div>"
+    },
+    {
+      "GroupOrder": 56,
+      "ViewOrder": 1,
+      "Name": "Beijing",
+      "Phrase": "No, please let this be a monster.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_050",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 49201,
+          "Position": 3,
+          "Action": 2,
+          "Emotion": 0,
+          "FacialExpression": 3,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>いや、どうか<ruby><rb>魔物</rb><rt>まもの</rt></ruby>であってほしい</div></div>"
+    },
+    {
+      "GroupOrder": 57,
+      "ViewOrder": 1,
+      "Name": "Tianjin",
+      "Phrase": "Why not? I think it would definitely be better if someone came to rescue us.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 8,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_051",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 42201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 8,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 49201,
           "Position": 4,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 3,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>どうしてですか?＊<ruby><rb>誰</rb><rt>だれ</rt></ruby>かに<ruby><rb>救助</rb><rt>きゅうじょ</rt></ruby>してもらえる<ruby><rb>方</rb><rt>ほう</rt></ruby>が<ruby><rb>絶対</rb><rt>ぜったい</rt></ruby>にいいと<ruby><rb>思</rb><rt>おも</rt></ruby>いますけど</div></div>"
+    },
+    {
+      "GroupOrder": 58,
+      "ViewOrder": 1,
+      "Name": "Beijing",
+      "Phrase": "If it was a person, I don't know what I would do if they saw me in this situation. Worst comes to worst, I would have to kill them if they saw me.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 2,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_052",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 42201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 49201,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 6,
+          "FacialExpression": 6,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>もしも<ruby><rb>人</rb><rt>ひと</rt></ruby>だったら、＊こんな<ruby><rb>場面</rb><rt>ばめん</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>られて<ruby><rb>私</rb><rt>わたし</rt></ruby>はどうしていいか<ruby><rb>分</rb><rt>わ</rt></ruby>からん。＊<ruby><rb>最悪</rb><rt>さいあく</rt></ruby>、<ruby><rb>見</rb><rt>み</rt></ruby>られたら<ruby><rb>殺</rb><rt>ころ</rt></ruby>すしかない</div></div>"
+    },
+    {
+      "GroupOrder": 59,
+      "ViewOrder": 1,
+      "Name": "Tianjin",
+      "Phrase": "This is a very dangerous statement!",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 8,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_053",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 42201,
+          "Position": 2,
+          "Action": 5,
+          "Emotion": 0,
+          "FacialExpression": 1,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 49201,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 6,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>いつになく<ruby><rb>物騒</rb><rt>ぶっそう</rt></ruby>な<ruby><rb>考</rb><rt>かんが</rt></ruby>え!</div></div>"
+    },
+    {
+      "GroupOrder": 60,
+      "ViewOrder": 1,
+      "Name": "Tianjin",
+      "Phrase": "No, bo-shi, please don't fall for such a short-sighted crime.",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 8,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_054",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 42201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 3,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 49201,
+          "Position": 4,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 6,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>ダメですよBo-shi。＊そんな<ruby><rb>短絡</rb><rt>たんらく</rt></ruby><ruby><rb>的</rb><rt>てき</rt></ruby>な<ruby><rb>犯行</rb><rt>はんこう</rt></ruby>に<ruby><rb>及</rb><rt>およ</rt></ruby>ばないで<ruby><rb>下</rb><rt>くだ</rt></ruby>さい</div></div>"
+    },
+    {
+      "GroupOrder": 61,
+      "ViewOrder": 1,
+      "Name": "Beijing",
+      "Phrase": "That said, I've been licked so much by Shanghai that I can't think straight at all...",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 2,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_055",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 42201,
+          "Position": 2,
+          "Action": 0,
+          "Emotion": 0,
+          "FacialExpression": 3,
+          "EnterAction": 0
+        },
+        {
+          "MCharacterId": 49201,
+          "Position": 4,
+          "Action": 5,
+          "Emotion": 0,
+          "FacialExpression": 4,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>そうは<ruby><rb>言</rb><rt>い</rt></ruby>っても、＊Shanghaiに<ruby><rb>舐</rb><rt>な</rt></ruby>められすぎて<ruby><rb>思考</rb><rt>しこう</rt></ruby>がまったく<ruby><rb>定</rb><rt>さだ</rt></ruby>まらないんだ......</div></div>"
+    },
+    {
+      "GroupOrder": 62,
+      "ViewOrder": 1,
+      "Name": "Beijing",
+      "Phrase": "Damn it, monster, come here monster...",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_056",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 49201,
+          "Position": 3,
+          "Action": 5,
+          "Emotion": 0,
+          "FacialExpression": 3,
+          "EnterAction": 0
+        }
+      ],
+      "StillDetail": {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
+      },
+      "Ruby": "<div><div>くそっ、<ruby><rb>魔物</rb><rt>まもの</rt></ruby><ruby><rb>来</rb><rt>き</rt></ruby>てくれ<ruby><rb>魔物</rb><rt>まもの</rt></ruby>......</div></div>"
+    },
+    {
+      "GroupOrder": 63,
+      "ViewOrder": 1,
+      "Name": "Tianjin",
+      "Phrase": "Can you not wish for a monster, bo-shiiii~!?",
+      "PhraseFontSize": 2,
+      "PhraseSpeed": 3,
+      "IsPhraseCenter": false,
+      "SpeechMCharacterId": null,
+      "IsSpeakingFlags": 4,
+      "FrameImage": 0,
+      "VoiceFileName": "e_41029103_057",
+      "BackgroundImage": "",
+      "BGM": "",
+      "BattleBGM": "",
+      "SE": "",
+      "Effect": null,
+      "BackgroundEffectType": 0,
+      "StandCharacters": [
+        {
+          "MCharacterId": 42201,
+          "Position": 3,
           "Action": 0,
           "Emotion": 0,
           "FacialExpression": 4,
@@ -2516,67 +2731,7 @@
         "CameraWorkDuration": null,
         "CameraRotation": null
       },
-      "Ruby": "<div><div>「ハカセ、<ruby><rb>待</rb><rt>ま</rt></ruby>って<ruby><rb>下</rb><rt>くだ</rt></ruby>さいよ<ruby><rb>～</rb><rt>ー</rt></ruby>！」</div></div>"
-    },
-    {
-      "GroupOrder": 59,
-      "ViewOrder": 1,
-      "Name": "",
-      "Phrase": "ずんずんと先に進むペイジンを追って、\\nシャンハイとテンシンが駆けていく。",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 0,
-      "FrameImage": 0,
-      "VoiceFileName": "",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>ずんずんと<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>むペイジンを<ruby><rb>追</rb><rt>お</rt></ruby>って、＊シャンハイとテンシンが<ruby><rb>駆</rb><rt>か</rt></ruby>けていく。</div></div>"
-    },
-    {
-      "GroupOrder": 60,
-      "ViewOrder": 1,
-      "Name": "",
-      "Phrase": "ずっとピンチが続いていたはずなのだが、\\nいつの間にか微笑ましいムードになっているから、\\nまったくもって驚きである。",
-      "PhraseFontSize": 2,
-      "PhraseSpeed": 3,
-      "IsPhraseCenter": false,
-      "SpeechMCharacterId": null,
-      "IsSpeakingFlags": 0,
-      "FrameImage": 0,
-      "VoiceFileName": "",
-      "BackgroundImage": "",
-      "BGM": "",
-      "BattleBGM": "",
-      "SE": "",
-      "Effect": null,
-      "BackgroundEffectType": 0,
-      "StandCharacters": [],
-      "StillDetail": {
-        "AnimationName": "",
-        "AnimationSpeed": null,
-        "CameraZoomRatio": null,
-        "CameraPositionX": null,
-        "CameraPositionY": null,
-        "CameraWorkDuration": null,
-        "CameraRotation": null
-      },
-      "Ruby": "<div><div>ずっとピンチが<ruby><rb>続</rb><rt>つづ</rt></ruby>いていたはずなのだが、＊いつの<ruby><rb>間</rb><rt>ま</rt></ruby>にか<ruby><rb>微笑</rb><rt>ほほえ</rt></ruby>ましいムードになっているから、＊まったくもって<ruby><rb>驚</rb><rt>おどろ</rt></ruby>きである。</div></div>"
+      "Ruby": "<div><div><ruby><rb>魔物</rb><rt>まもの</rt></ruby>を<ruby><rb>願</rb><rt>ねが</rt></ruby>わないで<ruby><rb>下</rb><rt>くだ</rt></ruby>さいよBo-shi～～～!</div></div>"
     }
   ],
   "FirstViewRewords": {
@@ -2584,5 +2739,5 @@
     "GiftItems": [],
     "DeletedItemIds": []
   },
-  "Title": "<div><div><ruby><rb>書庫</rb><rt>しょこ</rt></ruby>のひみつ</div></div>"
+  "Title": "<div><div><ruby><rb>書庫</rb><rt>しょこ</rt></ruby>に<ruby><rb>潜</rb><rt>ひそ</rt></ruby>むモノ</div></div>"
 }
