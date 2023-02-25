@@ -1,30 +1,34 @@
-﻿{
-	"r":
-{
-  "MSceneId": 22140107,
-  "MSceneDetailViewModel": 
-[
+﻿[
   {
     "GroupOrder": 1,
     "ViewOrder": 1,
-    "Name": "Shimoamazu",
-    "Phrase": "Hey, wait. Conductor-san.",
+    "Name": "\u30a2\u30c7\u30ec\u30fc\u30c9",
+    "Phrase": "\u300c\u3046\u3045\uff5e\u3093\u2026\u2026\u300d",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
-    "SpeechMCharacterId": 21401,
-    "IsSpeakingFlags": 0,
+    "SpeechMCharacterId": null,
+    "IsSpeakingFlags": 4,
     "FrameImage": 0,
-    "VoiceFileName": "s_22140107_001",
-    "BackgroundImage": "",
-    "BGM": "adv_03",
+    "VoiceFileName": "c_211240106_001",
+    "BackgroundImage": "103304",
+    "BGM": "adv_02",
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 0,
+        "Emotion": 0,
+        "FacialExpression": 4,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
-      "AnimationName": "animation1",
-      "AnimationSpeed": 1,
+      "AnimationName": "",
+      "AnimationSpeed": null,
       "CameraZoomRatio": null,
       "CameraPositionX": null,
       "CameraPositionY": null,
@@ -36,7 +40,7 @@
     "GroupOrder": 2,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "I apologized for disturbing her just before bedtime,\nand was about to leave when Shimoamazu pulled my sleeve.",
+    "Phrase": "\u307e\u3060\u75b2\u308c\u3066\u3044\u308b\u306e\u304b\uff1f",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -49,7 +53,16 @@
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 0,
+        "Emotion": 0,
+        "FacialExpression": 4,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
@@ -63,21 +76,30 @@
   {
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "Shimoamazu",
-    "Phrase": "Hey, wasn't your heart throbbing from Amano earlier?",
+    "Name": "\u30a2\u30c7\u30ec\u30fc\u30c9",
+    "Phrase": "\u300c\u3093\uff5e\u3093\u3002\u8eca\u638c\u306b\u300e\u9244\u5206\u6ce8\u5165\u300f\u3057\u3066\u3082\u3089\u3063\u305f\u304b\u3089\u3001\u3082\u3046\u5e73\u6c17\u3060\u300d",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
-    "SpeechMCharacterId": 21401,
-    "IsSpeakingFlags": 0,
+    "SpeechMCharacterId": null,
+    "IsSpeakingFlags": 4,
     "FrameImage": 0,
-    "VoiceFileName": "s_22140107_002",
+    "VoiceFileName": "c_211240106_002",
     "BackgroundImage": "",
     "BGM": "",
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 2,
+        "Emotion": 0,
+        "FacialExpression": 0,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
@@ -92,7 +114,7 @@
     "GroupOrder": 4,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "I was afraid that I would be scolded for being indecent,\nbut Shimoamazu clung to my arm just like Amanohashidate.",
+    "Phrase": "\u3060\u304c\u3001\u4eca\u5538\u3063\u3066\u3044\u305f\u3060\u308d\u3046\u3002\\n\u304a\u524d\u3001\u5f37\u304c\u3063\u3066\u308b\u3093\u3058\u3083\u306a\u3044\u3060\u308d\u3046\u306a\uff1f",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -105,7 +127,16 @@
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 0,
+        "Emotion": 0,
+        "FacialExpression": 0,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
@@ -119,21 +150,30 @@
   {
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "Shimoamazu",
-    "Phrase": "Did I... make your heart throb too? Mine's throbbing...\nI want to know what this feeling is...\nand I want to make sure I'm doing it right one more time...",
+    "Name": "\u30a2\u30c7\u30ec\u30fc\u30c9",
+    "Phrase": "\u300c\u305d\u3093\u306a\u308f\u3051\u306a\u3044\u3060\u308d\uff01\u3000\u307b\u3089\u3001\u3053\u308c\u3092\u898b\u308d\uff01\u300d",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
-    "SpeechMCharacterId": 21401,
-    "IsSpeakingFlags": 0,
+    "SpeechMCharacterId": null,
+    "IsSpeakingFlags": 4,
     "FrameImage": 0,
-    "VoiceFileName": "s_22140107_003",
+    "VoiceFileName": "c_211240106_003",
     "BackgroundImage": "",
     "BGM": "",
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 5,
+        "Emotion": 0,
+        "FacialExpression": 3,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
@@ -148,7 +188,7 @@
     "GroupOrder": 6,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "My gaze collided with Shimoamazu as she looked up at me wistfully.\nI moved my face a little closer, and our lips met――",
+    "Phrase": "\u7a81\u7136\u8d77\u304d\u4e0a\u304c\u3063\u305f\u30a2\u30c7\u30ec\u30fc\u30c9\u304c\u3001\u30d9\u30c3\u30c9\u306e\u4e0a\u3067\u7acb\u3061\u4e0a\u304c\u308b\u3002",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -161,7 +201,16 @@
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 0,
+        "Emotion": 0,
+        "FacialExpression": 3,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
@@ -175,36 +224,45 @@
   {
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "Shimoamazu",
-    "Phrase": "Ah... Nh... Wait, this is embarassing...!?\nWait, ah, stop, stop seeing everything...",
+    "Name": "\u30a2\u30c7\u30ec\u30fc\u30c9",
+    "Phrase": "\u300c\u30b7\u30e5\u30c3\u30b7\u30e5\u30c3\u3001\u30b7\u30e5\u30c3\uff01\u3000\u307b\u3089\u3063\u3001\u3053\u3093\u306a\u306b\u3001\u52d5\u3051\u308b\u3093\u3060\u304b\u3089\u306a\uff01\u300d",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
-    "SpeechMCharacterId": 21401,
-    "IsSpeakingFlags": 0,
+    "SpeechMCharacterId": null,
+    "IsSpeakingFlags": 4,
     "FrameImage": 0,
-    "VoiceFileName": "s_22140107_004",
+    "VoiceFileName": "c_211240106_004",
     "BackgroundImage": "",
     "BGM": "",
     "SE": "",
-    "Effect": 1,
+    "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 1,
+        "Emotion": 0,
+        "FacialExpression": 3,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
-      "CameraZoomRatio": 1.5,
-      "CameraPositionX": 250,
-      "CameraPositionY": -120,
-      "CameraWorkDuration": 0,
-      "CameraRotation": 0
+      "CameraZoomRatio": null,
+      "CameraPositionX": null,
+      "CameraPositionY": null,
+      "CameraWorkDuration": null,
+      "CameraRotation": null
     }
   },
   {
     "GroupOrder": 8,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "With her clothing stripped off, Shimoamazu's delicate body is rolled\nonto the futon.I grabbed one of her legs and spreaded it boldly\nwhere she did not intend to.",
+    "Phrase": "\u3046\u308f\u3063\uff01\u3000\u30d9\u30c3\u30c9\u306e\u4e0a\u3067\u30b7\u30e3\u30c9\u30a6\u30dc\u30af\u30b7\u30f3\u30b0\u3092\u3059\u308b\u306a\uff01",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -217,35 +275,53 @@
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 0,
+        "Emotion": 0,
+        "FacialExpression": 3,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
-      "CameraZoomRatio": 1,
-      "CameraPositionX": 0,
-      "CameraPositionY": 0,
-      "CameraWorkDuration": 3,
-      "CameraRotation": 0
+      "CameraZoomRatio": null,
+      "CameraPositionX": null,
+      "CameraPositionY": null,
+      "CameraWorkDuration": null,
+      "CameraRotation": null
     }
   },
   {
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "",
-    "Phrase": "Shimoamazu blushed, looking more surprised than embarrassed by her\nunexpected posture, and I slowly connected my meat stick in that posture.",
+    "Name": "\u30a2\u30c7\u30ec\u30fc\u30c9",
+    "Phrase": "\u300c\u307e\u3060\u307e\u3060\uff5e\uff01\uff01\u3000\u30b7\u30e5\u30c3\u30b7\u30e5\u30c3\u3001\u30b7\u30e5\u30c3\uff01\u300d",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
     "SpeechMCharacterId": null,
-    "IsSpeakingFlags": 0,
+    "IsSpeakingFlags": 4,
     "FrameImage": 0,
-    "VoiceFileName": "",
+    "VoiceFileName": "c_211240106_005",
     "BackgroundImage": "",
     "BGM": "",
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 1,
+        "Emotion": 0,
+        "FacialExpression": 3,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
@@ -259,23 +335,32 @@
   {
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "Shimoamazu",
-    "Phrase": "Nh, ngaah... hah, ah, so warm... it's spreading...\nhah, I knew it, I like it when Conductor-san does this to me...\nI like this very much...",
+    "Name": "",
+    "Phrase": "\u3086\u3001\u63fa\u308c\u308b\uff01\u3000\u30a2\u30c7\u30ec\u30fc\u30c9\u3001\u5927\u4e08\u592b\u3060\u3063\u3066\u30a2\u30d4\u30fc\u30eb\u3059\u308b\u306a\u3089\\n\u3082\u3046\u5c11\u3057\u7a4f\u3084\u304b\u306b\u3057\u3066\u304f\u308c\uff01",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
-    "SpeechMCharacterId": 21401,
+    "SpeechMCharacterId": null,
     "IsSpeakingFlags": 0,
     "FrameImage": 0,
-    "VoiceFileName": "s_22140107_005",
+    "VoiceFileName": "",
     "BackgroundImage": "",
     "BGM": "",
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 0,
+        "Emotion": 0,
+        "FacialExpression": 3,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
-      "AnimationName": "animation2",
+      "AnimationName": "",
       "AnimationSpeed": null,
       "CameraZoomRatio": null,
       "CameraPositionX": null,
@@ -287,21 +372,30 @@
   {
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "Shimoamazu",
-    "Phrase": "I'm very embarrassed to dress like this, but I... don't hate it.\nMhm, I'm very happy to hold your hand like this...",
+    "Name": "\u30a2\u30c7\u30ec\u30fc\u30c9",
+    "Phrase": "\u300c\u3082\u3046\u5c11\u3057\u7a4f\u3084\u304b\u306b\u30a2\u30d4\u30fc\u30eb\u3001\u304b\u3041\u2026\u2026\u3002\\n\u3000\u305d\u308c\u306a\u3089\u3001\u3053\u308c\u306f\u3069\u3046\u3060\uff01\uff1f\u300d",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
-    "SpeechMCharacterId": 21401,
-    "IsSpeakingFlags": 0,
+    "SpeechMCharacterId": null,
+    "IsSpeakingFlags": 4,
     "FrameImage": 0,
-    "VoiceFileName": "s_22140107_006",
+    "VoiceFileName": "c_211240106_006",
     "BackgroundImage": "",
     "BGM": "",
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 0,
+        "Emotion": 0,
+        "FacialExpression": 0,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
@@ -316,7 +410,7 @@
     "GroupOrder": 12,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "My palm opposite to the other holding her ankle was overlapping Shimoamazu's small hand.",
+    "Phrase": "\u4eca\u5ea6\u306f\u7a81\u7136\u30d9\u30c3\u30c9\u306e\u4e0a\u3067\u30d6\u30ea\u30c3\u30b8\u3092\u59cb\u3081\u305f\u3002",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -329,22 +423,31 @@
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 0,
+        "Emotion": 0,
+        "FacialExpression": 0,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
-      "CameraZoomRatio": 1.5,
-      "CameraPositionX": 0,
-      "CameraPositionY": 160,
-      "CameraWorkDuration": 0,
-      "CameraRotation": 0
+      "CameraZoomRatio": null,
+      "CameraPositionX": null,
+      "CameraPositionY": null,
+      "CameraWorkDuration": null,
+      "CameraRotation": null
     }
   },
   {
     "GroupOrder": 13,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "Shimoamazu held my palm with a hint of hesitation.",
+    "Phrase": "\u3059\u3054\u3044\u7dba\u9e97\u306a\u30d6\u30ea\u30c3\u30b8\u3060\u306a\u3002\\n\u8eab\u4f53\u304c\u67d4\u3089\u304b\u304f\u306a\u3044\u3068\u3053\u3046\u306f\u3067\u304d\u306a\u3044\u305e\u3002",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -357,7 +460,16 @@
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 0,
+        "Emotion": 0,
+        "FacialExpression": 0,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
@@ -371,36 +483,45 @@
   {
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "Shimoamazu",
-    "Phrase": "Nnh... hah, ah... How thick... My insides,\nfill me up... Nh, hah... I'm so, so full...",
+    "Name": "\u30a2\u30c7\u30ec\u30fc\u30c9",
+    "Phrase": "\u300c\u305d\u3046\u3060\u308d\uff5e\uff01\uff1f\u3000\u30a2\u30bf\u30b7\u306f\u8eab\u4f53\u3001\u67d4\u3089\u304b\u3044\u3093\u3060\u3002\\n\u3000\u3060\u304b\u3089\u3001\u524d\u5c48\u3060\u3063\u3066\u4f59\u88d5\u3067\u592a\u3082\u3082\u306b\u304a\u8179\u304c\u3064\u304f\u305e\uff5e\uff1f\u300d",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
-    "SpeechMCharacterId": 21401,
-    "IsSpeakingFlags": 0,
+    "SpeechMCharacterId": null,
+    "IsSpeakingFlags": 4,
     "FrameImage": 0,
-    "VoiceFileName": "s_22140107_007",
+    "VoiceFileName": "c_211240106_007",
     "BackgroundImage": "",
     "BGM": "",
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 0,
+        "Emotion": 1,
+        "FacialExpression": 5,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
-      "CameraZoomRatio": 1,
-      "CameraPositionX": 0,
-      "CameraPositionY": 0,
-      "CameraWorkDuration": 0,
-      "CameraRotation": 0
+      "CameraZoomRatio": null,
+      "CameraPositionX": null,
+      "CameraPositionY": null,
+      "CameraWorkDuration": null,
+      "CameraRotation": null
     }
   },
   {
     "GroupOrder": 15,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "Her moistened flesh accepts my furious tower as if gently embracing\nit. The feeling of her folds sucking every time I pull my waist makes me also tremble with pleasure.",
+    "Phrase": "\u30d6\u30ea\u30c3\u30b8\u3092\u3084\u3081\u305f\u30a2\u30c7\u30ec\u30fc\u30c9\u304c\u4eca\u5ea6\u306f\u524d\u5c48\u3092\u3057\u3066\u898b\u305b\u308b\u3002",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -413,7 +534,16 @@
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 0,
+        "Emotion": 0,
+        "FacialExpression": 5,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
@@ -427,21 +557,30 @@
   {
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "Shimoamazu",
-    "Phrase": "Aaah, ngh... How embarassing, Nh, hah... ,\nI don't want you to look at me, yet I want you to see me... See all of me,\nI can't help thinking that...  Why am I thinking that...?",
+    "Name": "",
+    "Phrase": "\u3059\u3054\u3044\uff01\u3000\u898b\u4e8b\u306b\u592a\u3082\u3082\u306b\u8179\u304c\u3064\u3044\u3066\u308b\uff01\\n\u5168\u8eab\u304c\u67d4\u3089\u304b\u3044\u3093\u3060\u306a\u3002",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
-    "SpeechMCharacterId": 21401,
+    "SpeechMCharacterId": null,
     "IsSpeakingFlags": 0,
     "FrameImage": 0,
-    "VoiceFileName": "s_22140107_008",
+    "VoiceFileName": "",
     "BackgroundImage": "",
     "BGM": "",
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 0,
+        "Emotion": 0,
+        "FacialExpression": 5,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
@@ -455,21 +594,30 @@
   {
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "",
-    "Phrase": "Shimoamazu cheeks blushed redder as her hand gripped harder to our tightly clenched hands.",
+    "Name": "\u30a2\u30c7\u30ec\u30fc\u30c9",
+    "Phrase": "\u300c\u305d\u3046\u306a\u3093\u3060\u3088\uff5e\u3002\u8eca\u638c\u306f\u3053\u308c\u3001\u3067\u304d\u308b\u304b\uff1f\\n\u3000\u3061\u3087\u3063\u3068\u3084\u3063\u3066\u307f\u3066\u304f\u308c\u3088\uff01\u300d",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
     "SpeechMCharacterId": null,
-    "IsSpeakingFlags": 0,
+    "IsSpeakingFlags": 4,
     "FrameImage": 0,
-    "VoiceFileName": "",
+    "VoiceFileName": "c_211240106_008",
     "BackgroundImage": "",
     "BGM": "",
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 0,
+        "Emotion": 1,
+        "FacialExpression": 5,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
@@ -483,21 +631,30 @@
   {
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "Shimoamazu",
-    "Phrase": "Hey... Nh, Does this mean, that I love you, is that it...?\nAre these, nh, hah, romantic feelings...?",
+    "Name": "",
+    "Phrase": "\u3044\u3084\u3001\u3055\u3059\u304c\u306b\u305d\u308c\u306f\u7121\u7406\u3060\u3068\u601d\u3046\u3002",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
-    "SpeechMCharacterId": 21401,
+    "SpeechMCharacterId": null,
     "IsSpeakingFlags": 0,
     "FrameImage": 0,
-    "VoiceFileName": "s_22140107_009",
+    "VoiceFileName": "",
     "BackgroundImage": "",
     "BGM": "",
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 0,
+        "Emotion": 0,
+        "FacialExpression": 5,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
@@ -511,21 +668,30 @@
   {
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "Shimoamazu",
-    "Phrase": "Then, mh... I don't know, maybe you don't want me,\nto think of you that way...?",
+    "Name": "\u30a2\u30c7\u30ec\u30fc\u30c9",
+    "Phrase": "\u300c\u305d\u3046\u306a\u306e\u304b\uff1f\u3000\u30a2\u30bf\u30b7\u306a\u3093\u3066\u3001\u3053\u3093\u306a\u3053\u3068\u3082\u3067\u304d\u308b\u3093\u3060\u305e\uff01\\n\u3000\u307b\u3089\u3063\uff01\u300d",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
-    "SpeechMCharacterId": 21401,
-    "IsSpeakingFlags": 0,
+    "SpeechMCharacterId": null,
+    "IsSpeakingFlags": 4,
     "FrameImage": 0,
-    "VoiceFileName": "s_22140107_010",
+    "VoiceFileName": "c_211240106_009",
     "BackgroundImage": "",
     "BGM": "",
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 0,
+        "Emotion": 0,
+        "FacialExpression": 0,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
@@ -540,7 +706,7 @@
     "GroupOrder": 20,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "You shouldn't hate it.\nWhen you accept direct kindness,\nthe depths of your heart also becomes sweet and painful.",
+    "Phrase": "\u30a2\u30c7\u30ec\u30fc\u30c9\u304c\u524d\u5c48\u3057\u305f\u307e\u307e\u3001\u8db3\u3092\u5927\u304d\u304f\u5e83\u3052\u305f\u3002",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -553,7 +719,16 @@
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 0,
+        "Emotion": 0,
+        "FacialExpression": 0,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
@@ -567,21 +742,30 @@
   {
     "GroupOrder": 21,
     "ViewOrder": 1,
-    "Name": "Shimoamazu",
-    "Phrase": "R, really...? Nh, ngah... Nh, hah,\nso this, hot feeling coming from deep inside me...\nIt means I like you...?",
+    "Name": "",
+    "Phrase": "\u8db3\u3092\u305d\u3093\u306a\u306b\u5e83\u3052\u3066\u3001\\n\u3057\u304b\u3082\u4e0a\u534a\u8eab\u304c\u30d9\u30c3\u30c9\u306b\u3064\u3044\u305f\u307e\u307e\u3068\u304b\u3001\u672c\u5f53\u306b\u3059\u3054\u3044\u306a\u3002",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
-    "SpeechMCharacterId": 21401,
+    "SpeechMCharacterId": null,
     "IsSpeakingFlags": 0,
     "FrameImage": 0,
-    "VoiceFileName": "s_22140107_011",
+    "VoiceFileName": "",
     "BackgroundImage": "",
     "BGM": "",
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 0,
+        "Emotion": 0,
+        "FacialExpression": 0,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
@@ -595,21 +779,30 @@
   {
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "Shimoamazu",
-    "Phrase": "Good... necause, ngh, I... I don't know what emotions are...\nSo I thought maybe I'd never know\nIwhat love feels like...!",
+    "Name": "\u30a2\u30c7\u30ec\u30fc\u30c9",
+    "Phrase": "\u300c\u3060\u308d\u3060\u308d\uff01\uff1f\u3000\u6b21\u306f\u4f55\u3092\u307f\u305b\u3088\u3046\u304b\u306a\uff5e\u3002\\n\u3000\u8eca\u638c\u306b\u8912\u3081\u3089\u308c\u308b\u3068\u3082\u3063\u3068\u8272\u3005\u306a\u3053\u3068\u3057\u305f\u304f\u306a\u308b\u304b\u3089\u4e0d\u601d\u8b70\u3060\uff01\u300d",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
-    "SpeechMCharacterId": 21401,
-    "IsSpeakingFlags": 0,
+    "SpeechMCharacterId": null,
+    "IsSpeakingFlags": 4,
     "FrameImage": 0,
-    "VoiceFileName": "s_22140107_012",
+    "VoiceFileName": "c_211240106_010",
     "BackgroundImage": "",
     "BGM": "",
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 1,
+        "Emotion": 0,
+        "FacialExpression": 0,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
@@ -624,7 +817,7 @@
     "GroupOrder": 23,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "It is true that Shimoamazu may not be good at expressing emotions.\nBut that versus the lack of emotions are two completely different things.",
+    "Phrase": "\u4f53\u52e2\u3092\u623b\u3057\u305f\u30a2\u30c7\u30ec\u30fc\u30c9\u304c\u30cb\u30b3\u30cb\u30b3\u3068\u7b11\u3046\u3002",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -637,7 +830,16 @@
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 0,
+        "Emotion": 0,
+        "FacialExpression": 0,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
@@ -652,7 +854,7 @@
     "GroupOrder": 24,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "Besides, Shimoamazu in front of me now is very expressive.",
+    "Phrase": "\u4ed6\u306b\u306f\u3069\u3093\u306a\u3053\u3068\u304c\u3067\u304d\u308b\u3093\u3060\uff1f\\n\u305c\u3072\u3001\u898b\u305b\u3066\u304f\u308c\u3002",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -665,7 +867,16 @@
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 0,
+        "Emotion": 0,
+        "FacialExpression": 0,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
@@ -679,21 +890,30 @@
   {
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "Shimoamazu",
-    "Phrase": "Nh, hah... I, I'm happy.\nTo know what it feels like to love,\nand you don't reject me, like this... nh, we're joined...!",
+    "Name": "\u30a2\u30c7\u30ec\u30fc\u30c9",
+    "Phrase": "\u300c\u3082\u3061\u308d\u3093\u3001\u3044\u3044\u305e\uff01\u3000\u3058\u3083\u3042\u6b21\u306f\u2015\u2015\u3053\u308c\u3060\uff01\u300d",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
-    "SpeechMCharacterId": 21401,
-    "IsSpeakingFlags": 0,
+    "SpeechMCharacterId": null,
+    "IsSpeakingFlags": 4,
     "FrameImage": 0,
-    "VoiceFileName": "s_22140107_013",
+    "VoiceFileName": "c_211240106_011",
     "BackgroundImage": "",
     "BGM": "",
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 0,
+        "Emotion": 0,
+        "FacialExpression": 0,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
@@ -707,21 +927,30 @@
   {
     "GroupOrder": 26,
     "ViewOrder": 1,
-    "Name": "Shimoamazu",
-    "Phrase": "When I think about it, I feel something hotter coming out of me...!\nMmh, aaah, amazing, oh, this... hah,\nI'm about to come...!",
+    "Name": "",
+    "Phrase": "\u7acb\u3061\u4e0a\u304c\u3063\u305f\u30a2\u30c7\u30ec\u30fc\u30c9\u304c\u3001\u7247\u8db3\u3092\u982d\u4e0a\u307e\u3067\u6301\u3061\u4e0a\u3052\u308b\u3002",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
-    "SpeechMCharacterId": 21401,
+    "SpeechMCharacterId": null,
     "IsSpeakingFlags": 0,
     "FrameImage": 0,
-    "VoiceFileName": "s_22140107_014",
+    "VoiceFileName": "",
     "BackgroundImage": "",
     "BGM": "",
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 0,
+        "Emotion": 0,
+        "FacialExpression": 0,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
@@ -735,21 +964,30 @@
   {
     "GroupOrder": 27,
     "ViewOrder": 1,
-    "Name": "",
-    "Phrase": "While I was being stared at with her sorrowful eyes,\nmy meat rod tightened, and I couldn't hold it back.",
+    "Name": "\u30a2\u30c7\u30ec\u30fc\u30c9",
+    "Phrase": "\u300c\u3069\u3046\u3060\u8eca\u638c\uff01\u3000\u3082\u3063\u3068\u8912\u3081\u3066\u304f\u308c\u3066\u3044\u3044\u305e\u3063\u300d",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
     "SpeechMCharacterId": null,
-    "IsSpeakingFlags": 0,
+    "IsSpeakingFlags": 4,
     "FrameImage": 0,
-    "VoiceFileName": "",
+    "VoiceFileName": "c_211240106_012",
     "BackgroundImage": "",
     "BGM": "",
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 5,
+        "Emotion": 0,
+        "FacialExpression": 5,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
@@ -764,7 +1002,7 @@
     "GroupOrder": 28,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "In response to the anticipation of her rising climax,\nI thrusted up into her honey pot more intensely and deeply.",
+    "Phrase": "\u898b\u4e8b\u306a\u30d0\u30e9\u30f3\u30b9\u3092\u4fdd\u3063\u305f\u307e\u307e\u3001\u30a2\u30c7\u30ec\u30fc\u30c9\u304c\u671f\u5f85\u3057\u305f\u3088\u3046\u306b\u7b11\u3063\u305f\u3002",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -777,287 +1015,16 @@
     "SE": "",
     "Effect": null,
     "BackgroundEffectType": 0,
-    "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
-    }
-  },
-  {
-    "GroupOrder": 29,
-    "ViewOrder": 1,
-    "Name": "",
-    "Phrase": "Every time I hit her deepest parts, Shimoamazu's body trembled\nwith pleasure, and the grip of her clasped hands seemed to tighten in proportion to her vaginal pressure.",
-    "PhraseFontSize": 2,
-    "PhraseSpeed": 3,
-    "IsPhraseCenter": false,
-    "SpeechMCharacterId": null,
-    "IsSpeakingFlags": 0,
-    "FrameImage": 0,
-    "VoiceFileName": "",
-    "BackgroundImage": "",
-    "BGM": "",
-    "SE": "",
-    "Effect": null,
-    "BackgroundEffectType": 0,
-    "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
-    }
-  },
-  {
-    "GroupOrder": 30,
-    "ViewOrder": 1,
-    "Name": "Shimoamazu",
-    "Phrase": "Nh, hah, It feels too good... My head is getting all warm...!\nAh, haaaaanh, ngh this, I'm not myseeelf...!",
-    "PhraseFontSize": 2,
-    "PhraseSpeed": 3,
-    "IsPhraseCenter": false,
-    "SpeechMCharacterId": 21401,
-    "IsSpeakingFlags": 0,
-    "FrameImage": 0,
-    "VoiceFileName": "s_22140107_015",
-    "BackgroundImage": "",
-    "BGM": "",
-    "SE": "",
-    "Effect": null,
-    "BackgroundEffectType": 0,
-    "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
-    }
-  },
-  {
-    "GroupOrder": 31,
-    "ViewOrder": 1,
-    "Name": "Shimoamazu",
-    "Phrase": "I, I'm going crazy...! Ah, haaaaah,\nI'm coming, I'm coming, please, squeeze me all over...!",
-    "PhraseFontSize": 2,
-    "PhraseSpeed": 3,
-    "IsPhraseCenter": false,
-    "SpeechMCharacterId": 21401,
-    "IsSpeakingFlags": 0,
-    "FrameImage": 0,
-    "VoiceFileName": "s_22140107_016",
-    "BackgroundImage": "",
-    "BGM": "",
-    "SE": "",
-    "Effect": null,
-    "BackgroundEffectType": 0,
-    "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
-    }
-  },
-  {
-    "GroupOrder": 32,
-    "ViewOrder": 1,
-    "Name": "",
-    "Phrase": "As she wished, our palms and our privates were firmly\njoined without coming off and climaxed――",
-    "PhraseFontSize": 2,
-    "PhraseSpeed": 3,
-    "IsPhraseCenter": false,
-    "SpeechMCharacterId": null,
-    "IsSpeakingFlags": 0,
-    "FrameImage": 0,
-    "VoiceFileName": "",
-    "BackgroundImage": "",
-    "BGM": "",
-    "SE": "",
-    "Effect": null,
-    "BackgroundEffectType": 0,
-    "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
-    }
-  },
-  {
-    "GroupOrder": 33,
-    "ViewOrder": 1,
-    "Name": "Shimoamazu",
-    "Phrase": "Aaaaahhh!? mh, hah, I feel hot inside――\nAH, NGAAAA...!!",
-    "PhraseFontSize": 2,
-    "PhraseSpeed": 3,
-    "IsPhraseCenter": false,
-    "SpeechMCharacterId": 21401,
-    "IsSpeakingFlags": 0,
-    "FrameImage": 0,
-    "VoiceFileName": "s_22140107_017",
-    "BackgroundImage": "",
-    "BGM": "",
-    "SE": "",
-    "Effect": 3,
-    "BackgroundEffectType": 0,
-    "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "animation3",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
-    }
-  },
-  {
-    "GroupOrder": 34,
-    "ViewOrder": 1,
-    "Name": "",
-    "Phrase": "Shimoamazu also climaxed in pleasure with the semen warmth poured inside her. Shimoamazu limped on the floor, placed her palm onto my hand again, her sweet presence changed a little,\nand I was sure she glared at me.",
-    "PhraseFontSize": 2,
-    "PhraseSpeed": 3,
-    "IsPhraseCenter": false,
-    "SpeechMCharacterId": null,
-    "IsSpeakingFlags": 0,
-    "FrameImage": 0,
-    "VoiceFileName": "",
-    "BackgroundImage": "",
-    "BGM": "",
-    "SE": "",
-    "Effect": 1,
-    "BackgroundEffectType": 0,
-    "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "animation4",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
-    }
-  },
-  {
-    "GroupOrder": 35,
-    "ViewOrder": 1,
-    "Name": "Shimoamazu",
-    "Phrase": "Now that I know for sure... I like you.",
-    "PhraseFontSize": 2,
-    "PhraseSpeed": 3,
-    "IsPhraseCenter": false,
-    "SpeechMCharacterId": 21401,
-    "IsSpeakingFlags": 0,
-    "FrameImage": 0,
-    "VoiceFileName": "s_22140107_018",
-    "BackgroundImage": "",
-    "BGM": "",
-    "SE": "",
-    "Effect": null,
-    "BackgroundEffectType": 0,
-    "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
-    }
-  },
-  {
-    "GroupOrder": 36,
-    "ViewOrder": 1,
-    "Name": "Shimoamazu",
-    "Phrase": "So, I only want to express my feelings to you.\nFirst of all... Don't make out with other girls in front of me... Okay?",
-    "PhraseFontSize": 2,
-    "PhraseSpeed": 3,
-    "IsPhraseCenter": false,
-    "SpeechMCharacterId": 21401,
-    "IsSpeakingFlags": 0,
-    "FrameImage": 0,
-    "VoiceFileName": "s_22140107_019",
-    "BackgroundImage": "",
-    "BGM": "",
-    "SE": "",
-    "Effect": null,
-    "BackgroundEffectType": 0,
-    "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
-    }
-  },
-  {
-    "GroupOrder": 37,
-    "ViewOrder": 1,
-    "Name": "Shimoamazu",
-    "Phrase": "Earlier, didn't Amano hugged you and made you blush?\nIt's only because she has big tits...",
-    "PhraseFontSize": 2,
-    "PhraseSpeed": 3,
-    "IsPhraseCenter": false,
-    "SpeechMCharacterId": 21401,
-    "IsSpeakingFlags": 0,
-    "FrameImage": 0,
-    "VoiceFileName": "s_22140107_020",
-    "BackgroundImage": "",
-    "BGM": "",
-    "SE": "",
-    "Effect": null,
-    "BackgroundEffectType": 0,
-    "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
-    }
-  },
-  {
-    "GroupOrder": 38,
-    "ViewOrder": 1,
-    "Name": "",
-    "Phrase": "Her jealousness is adorable.\nHowever, the points she made were also so accurate\that I had to cover it up with a wry smile.",
-    "PhraseFontSize": 2,
-    "PhraseSpeed": 3,
-    "IsPhraseCenter": false,
-    "SpeechMCharacterId": null,
-    "IsSpeakingFlags": 0,
-    "FrameImage": 0,
-    "VoiceFileName": "",
-    "BackgroundImage": "",
-    "BGM": "",
-    "SE": "",
-    "Effect": null,
-    "BackgroundEffectType": 0,
-    "StandCharacters": [],
+    "StandCharacters": [
+      {
+        "MCharacterId": 112401,
+        "Position": 3,
+        "Action": 0,
+        "Emotion": 0,
+        "FacialExpression": 0,
+        "EnterAction": 0
+      }
+    ],
     "StillDetail": {
       "AnimationName": "",
       "AnimationSpeed": null,
@@ -1068,11 +1035,4 @@
       "CameraRotation": null
     }
   }
-],
-  "FirstViewRewords": {
-    "Items": [],
-    "GiftItems": [],
-    "DeletedItemIds": []
-  }
-  }
-}
+]
