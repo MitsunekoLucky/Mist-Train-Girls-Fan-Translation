@@ -1,0 +1,133 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "LargeEventBannerContentsview",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "LargeEventBannerContentsView",
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        },
+        "_materials": [
+          {
+            "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
+          }
+        ],
+        "_sizeMode": 0
+      },
+      {
+        "__type__": "93b76LmrFFIboXM4NkmhJeR",
+        "node": {
+          "__id__": 1
+        },
+        "pressedSprite": null,
+        "doesBubbleEvent": true
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "62b0ZBFdVKv6aFnu8Hbe/i"
+      },
+      "fileId": "29jlOkSSpEfZjlzc2sddTy"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 240,
+      "height": 100
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "EventTermLabel",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "node": {
+          "__id__": 2
+        },
+        "_materials": [
+          {
+            "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
+          }
+        ],
+        "_string": "00月00日(月)00:00まで",
+        "_N$string": "00月00日(月)00:00まで",
+        "_fontSize": 12,
+        "_lineHeight": 14,
+        "_N$file": {
+          "__uuid__": "99itCQMWBOWLCEuJuOc4Nw"
+        },
+        "_isSystemFontUsed": false,
+        "_N$horizontalAlign": 1,
+        "_N$verticalAlign": 1,
+        "_N$overflow": 2
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__uuid__": "62b0ZBFdVKv6aFnu8Hbe/i"
+      },
+      "fileId": "612/SFP0ZA9KYiUNeYTcPJ"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 158,
+      "height": 18
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        -36,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+]
