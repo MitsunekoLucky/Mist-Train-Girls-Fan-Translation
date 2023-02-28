@@ -6396,12 +6396,12 @@
     ],
     "ModelId": 6301,
     "MEventAbilities": [],
-    "Greeting": "わたし, Ohanaといいます。学生寮の食堂で働いてるんです。\n車掌さんもぜひ, 食べてみてくださいね。\n一口食べたら, もう病みつきになっちゃうんですから♪\nでも, いくら美味しいからって, おかわりはちゃんと一列に並ばないと, めっ！　です。",
+    "Greeting": "My name is Ohana. I work in the student dormitory cafeteria.\nYou must try some too, Conductor-san. One bite and you'll be hooked♪\nBut it doesn't matter how good it is, you gotta politely line up for seconds! OK?",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 6302,
-    "Name": "[手加減しませんよ♪]",
+    "Name": "[Won't Be Holding Back♪]",
     "Description": null,
     "CharacterType": 3,
     "MCharacterBaseId": 6,
@@ -6650,12 +6650,12 @@
     ],
     "ModelId": 6302,
     "MEventAbilities": [],
-    "Greeting": "手合わせ, ですか？　それなら, フィンチリーちゃんの方が向いてると思うんですけど……。\nでも, 折角指名してくれたのに, 引き受けないのも悪いですよね。\nわかりました。私で良かったらお相手します♪",
+    "Greeting": "Hand-to-hand combat, you say? If so, I think Finchley-chan would be a better opponent for you instead...\nBut, since you've took the trouble to pick me, it would be bad manners to decline your request.\nVery well. I'll be your opponent as you wish♪",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 6401,
-    "Name": "[花舞う格闘師範]",
+    "Name": "[Flower Dance Fighting Master]",
     "Description": null,
     "CharacterType": 1,
     "MCharacterBaseId": 6,
@@ -6909,12 +6909,12 @@
     ],
     "ModelId": 6401,
     "MEventAbilities": [],
-    "Greeting": "Ohanaです♪　学生寮の寮母さんをしてます。\n毎日の勉強や訓練でくたくたになったみんなを, Ohanaさんの手作りCookingで\n元気にしてあげるのがお仕事です。育ちざかりの子も多いし, 何より身体が資本のお仕事ですからね。\n栄養のバランスもちゃぁんと考えてるんです。さ, たくさん召し上がれ♪",
+    "Greeting": "I'm Ohana!♪ I'm the student dorm mom.\nMy job is to feed everyone that's all tired out from studying and training daily with Ohana-san's homemade cooking.\nMany of these girls are right at the age where they do most of their growing too, body's important.\nI just have to make sure they get their nutrients balanced. Now, help yourself♪",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 6402,
-    "Name": "[月夜に紛れて]",
+    "Name": "[Under the Cover of the Moonlit Night]",
     "Description": null,
     "CharacterType": 1,
     "MCharacterBaseId": 6,
@@ -7168,12 +7168,12 @@
     ],
     "ModelId": 6402,
     "MEventAbilities": [],
-    "Greeting": "にんにん, 隠密のOhanaです♪　なんちゃって。\nNishikiの月夜番衆をはじめとする隠密部隊はこのような忍装束を着るのが習わしなんです。\n動きやすさを重視した衣装なんですけど……いつもの割烹着の方が動きやすい気がするんですよね。\n車掌さんはどっちの服装のわたしが好きですか？",
+    "Greeting": "Nin-nin, sneaky Ohana here♪ Just kidding.\nIt's customary for Nishiki's Tsukiyo Banshuu and other coverts to wear ninja outfits like this.\nThey're made for ease of movement... But personally I feel like my usual kappogi is easier to move in.\nWhich one do you prefer me in, Conductor-san?",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 6403,
-    "Name": "[もふもふ寮母さん]",
+    "Name": "[Mofu Mofu Matron-san]",
     "Description": null,
     "CharacterType": 1,
     "MCharacterBaseId": 6,
@@ -7427,12 +7427,12 @@
     ],
     "ModelId": 6403,
     "MEventAbilities": [],
-    "Greeting": "こんにちは, 車掌さん。今日はハロウィンなので, ちょっと仮装をしてみたんです。\nどうでしょう, 似合ってますか？\nこの歳で仮装すると思わなかったので, ちょっと恥ずかしいんですが……。\n町のChildrenたちにお菓子をせびられることも多いですし, ちょっとでも雰囲気を楽しみたくて。",
+    "Greeting": "Hello, Conductor-san. It's Halloween today, so I dressed up a bit.\nWhat do you think, does it suit me?\nI don't think I should be putting on costumes at my age, so I'm a bit embarrassed...\nI often get asked for sweets by the children in town, and I wanted to enjoy the atmosphere a bit.",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 7201,
-    "Name": "[オオエ四天王拳闘家]",
+    "Name": "[Ooe Big Four's Boxer]",
     "Description": null,
     "CharacterType": 4,
     "MCharacterBaseId": 7,
@@ -7456,15 +7456,15 @@
       "Country": "ニシキ",
       "BackImageUri": "Nishiki",
       "Birthday": "07/16",
-      "Profile": "私はフタマタ♪　オオエの山神オオエノミヤの弟子！　そしてアイドル！/n地元じゃオオエ四天王なんて呼ばれてるわ。/n戦いも得意だけど, 歌と踊りならもっと得意っ♪/n主なライブ会場は公民館。いつか, オオエ山を私のファンで埋め尽くすことが夢よ。/nミュージック, スタート！",
-      "Like": "歌や踊り",
-      "DisLike": "泣き顔, マイナス思考",
-      "CharacterSkill": "折り紙, 習字",
-      "Pros": "いつでも笑顔",
-      "Cons": "可愛さの話になると前にでしゃばる",
+      "Profile": "I'm Futamata!♪ Mt. Ooe's mountain god Ooenomiya's disciple! And I'm a pop idol too! They call us the Ooe Big Four in my hometown. I'm good at fighting, but I'm even better at singing and dancing!♪ We mainly do shows at the public hall. My dream is to have a giant crowd of my fans gather on Mt. Ooe. Music, start!",
+      "Like": "Singing and dancing",
+      "DisLike": "Crying faces, Negative thoughts",
+      "CharacterSkill": "Origami, Penmanship",
+      "Pros": "Always smiling",
+      "Cons": "Butts in whenever the conversation is about being cute",
       "Race": "Beastkin",
       "Constellation": "Cancer",
-      "Hobby": "折り紙, 和紙アート",
+      "Hobby": "Origami, Washi paper art",
       "ModelId": 7201,
       "KanaReading": "フタマタ"
     },
@@ -7681,12 +7681,12 @@
     ],
     "ModelId": 7201,
     "MEventAbilities": [],
-    "Greeting": "みんなー, こーんにーちはー♪　オオエの山をひとっとび☆\nみんなのアイドルフーターマータ～！　……ふう, 自己紹介ってこんな感じよね？\n可愛かった？　えっ, もう始まってるの？　やだ, リハーサルかと思ったじゃない。\n私はフタマタ♪　オオエ山からやってきたみんなの天使よ♪　にゃお～んっ！",
+    "Greeting": "Everybodyyy-! Kon-Ni-Chi-Wa♪ Hopping over Mt. Ooe☆\nEveryone's idol, Fu-Ta-Ma-Ta～! Phew... how's that for self-introductions?\nAm I cute? Eh, it's already started? Oh no, I thought this was a rehearsal.\nI'm Futamata♪ And I'm everyone's little angel from atop Mt. Ooe!♪ Nyaooon～!",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 7301,
-    "Name": "[オオエ山のアイドル]",
+    "Name": "[Idol of Mt. Ooe]",
     "Description": null,
     "CharacterType": 3,
     "MCharacterBaseId": 7,
@@ -7710,15 +7710,15 @@
       "Country": "ニシキ",
       "BackImageUri": "Nishiki",
       "Birthday": "07/16",
-      "Profile": "私はフタマタ♪　オオエの山神オオエノミヤの弟子！　そしてアイドル！/n地元じゃオオエ四天王なんて呼ばれてるわ。/n戦いも得意だけど, 歌と踊りならもっと得意っ♪/n主なライブ会場は公民館。いつか, オオエ山を私のファンで埋め尽くすことが夢よ。/nミュージック, スタート！",
-      "Like": "歌や踊り",
-      "DisLike": "泣き顔, マイナス思考",
-      "CharacterSkill": "折り紙, 習字",
-      "Pros": "いつでも笑顔",
-      "Cons": "可愛さの話になると前にでしゃばる",
+      "Profile": "I'm Futamata!♪ Mt. Ooe's mountain god Ooenomiya's disciple! And I'm a pop idol too! They call us the Ooe Big Four in my hometown. I'm good at fighting, but I'm even better at singing and dancing!♪ We mainly do shows at the public hall. My dream is to have a giant crowd of my fans gather on Mt. Ooe. Music, start!",
+      "Like": "Singing and dancing",
+      "DisLike": "Crying faces, Negative thoughts",
+      "CharacterSkill": "Origami, Penmanship",
+      "Pros": "Always smiling",
+      "Cons": "Butts in whenever the conversation is about being cute",
       "Race": "Beastkin",
       "Constellation": "Cancer",
-      "Hobby": "折り紙, 和紙アート",
+      "Hobby": "Origami, Washi paper art",
       "ModelId": 7201,
       "KanaReading": "フタマタ"
     },
@@ -7935,12 +7935,12 @@
     ],
     "ModelId": 7301,
     "MEventAbilities": [],
-    "Greeting": "はーい！　みんなのアイドル, フタマタだよ☆\nかわいいは正義♪　かわいいは世界を救う♪\n折り紙も得意♪　お年寄りや子供たちに折ってあげるの。\nでも戦うことも得意なのよ！　なんてったってオオエ四天王のひとりなんだから！",
+    "Greeting": "Haaaai! It's everyone's idol, Futamata here☆\nBeing cute is just♪ Being cute will save the world♪\nI'm pretty good at origami too♪ I fold them for the elderly and kids sometimes.\nBut I'm also good at fighting! I'm one of the Ooe Big Four after all!",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 7302,
-    "Name": "[お忍び中でもオシャレに]",
+    "Name": "[Fashionable While Incognito]",
     "Description": null,
     "CharacterType": 3,
     "MCharacterBaseId": 7,
@@ -7964,15 +7964,15 @@
       "Country": "ニシキ",
       "BackImageUri": "Nishiki",
       "Birthday": "07/16",
-      "Profile": "私はフタマタ♪　オオエの山神オオエノミヤの弟子！　そしてアイドル！/n地元じゃオオエ四天王なんて呼ばれてるわ。/n戦いも得意だけど, 歌と踊りならもっと得意っ♪/n主なライブ会場は公民館。いつか, オオエ山を私のファンで埋め尽くすことが夢よ。/nミュージック, スタート！",
-      "Like": "歌や踊り",
-      "DisLike": "泣き顔, マイナス思考",
-      "CharacterSkill": "折り紙, 習字",
-      "Pros": "いつでも笑顔",
-      "Cons": "可愛さの話になると前にでしゃばる",
+      "Profile": "I'm Futamata!♪ Mt. Ooe's mountain god Ooenomiya's disciple! And I'm a pop idol too! They call us the Ooe Big Four in my hometown. I'm good at fighting, but I'm even better at singing and dancing!♪ We mainly do shows at the public hall. My dream is to have a giant crowd of my fans gather on Mt. Ooe. Music, start!",
+      "Like": "Singing and dancing",
+      "DisLike": "Crying faces, Negative thoughts",
+      "CharacterSkill": "Origami, Penmanship",
+      "Pros": "Always smiling",
+      "Cons": "Butts in whenever the conversation is about being cute",
       "Race": "Beastkin",
       "Constellation": "Cancer",
-      "Hobby": "折り紙, 和紙アート",
+      "Hobby": "Origami, Washi paper art",
       "ModelId": 7201,
       "KanaReading": "フタマタ"
     },
@@ -8189,12 +8189,12 @@
     ],
     "ModelId": 7302,
     "MEventAbilities": [],
-    "Greeting": "はい車掌, お仕事は終わりよ終わり。準備して。\n今日は私とお出かけしよっ！\nアイドルとのお忍びデート, 嬉しいでしょ☆",
+    "Greeting": "Yes Conductor, my work's done. I'm ready.\nYou're going out with me today!\nYou must be happy to have a private date with your idol☆",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 7401,
-    "Name": "[ハートをわしわし♪]",
+    "Name": "[Catch Your Heart♪]",
     "Description": null,
     "CharacterType": 3,
     "MCharacterBaseId": 7,
@@ -8218,15 +8218,15 @@
       "Country": "ニシキ",
       "BackImageUri": "Nishiki",
       "Birthday": "07/16",
-      "Profile": "私はフタマタ♪　オオエの山神オオエノミヤの弟子！　そしてアイドル！/n地元じゃオオエ四天王なんて呼ばれてるわ。/n戦いも得意だけど, 歌と踊りならもっと得意っ♪/n主なライブ会場は公民館。いつか, オオエ山を私のファンで埋め尽くすことが夢よ。/nミュージック, スタート！",
-      "Like": "歌や踊り",
-      "DisLike": "泣き顔, マイナス思考",
-      "CharacterSkill": "折り紙, 習字",
-      "Pros": "いつでも笑顔",
-      "Cons": "可愛さの話になると前にでしゃばる",
+      "Profile": "I'm Futamata!♪ Mt. Ooe's mountain god Ooenomiya's disciple! And I'm a pop idol too! They call us the Ooe Big Four in my hometown. I'm good at fighting, but I'm even better at singing and dancing!♪ We mainly do shows at the public hall. My dream is to have a giant crowd of my fans gather on Mt. Ooe. Music, start!",
+      "Like": "Singing and dancing",
+      "DisLike": "Crying faces, Negative thoughts",
+      "CharacterSkill": "Origami, Penmanship",
+      "Pros": "Always smiling",
+      "Cons": "Butts in whenever the conversation is about being cute",
       "Race": "Beastkin",
       "Constellation": "Cancer",
-      "Hobby": "折り紙, 和紙アート",
+      "Hobby": "Origami, Washi paper art",
       "ModelId": 7201,
       "KanaReading": "フタマタ"
     },
@@ -8448,12 +8448,12 @@
     ],
     "ModelId": 7401,
     "MEventAbilities": [],
-    "Greeting": "こーんにちはーっ♪　みんなのアイドル, フタマタだよ☆\nアイドルとトレインナイトの両立は大変だけど, 私, がんばるよ！\nだって, みんなの笑顔を見たいじゃない？\n私のパフォーマンスで霧も晴れてくれたらいいのにな。",
+    "Greeting": "Konnichiwaaa♪ Everyone's favorite idol, Futamata here☆\nIt's tough juggling being both an idol and a Train Knight, but I'll do my best!\nI just wanna see everyone smile, don't you?\nI just wish my performance would clear up the Mist.",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 7402,
-    "Name": "[アイドルしか勝たん☆]",
+    "Name": "[Only Idols Win☆]",
     "Description": null,
     "CharacterType": 4,
     "MCharacterBaseId": 7,
@@ -8477,15 +8477,15 @@
       "Country": "ニシキ",
       "BackImageUri": "Nishiki",
       "Birthday": "07/16",
-      "Profile": "私はフタマタ♪　オオエの山神オオエノミヤの弟子！　そしてアイドル！/n地元じゃオオエ四天王なんて呼ばれてるわ。/n戦いも得意だけど, 歌と踊りならもっと得意っ♪/n主なライブ会場は公民館。いつか, オオエ山を私のファンで埋め尽くすことが夢よ。/nミュージック, スタート！",
-      "Like": "歌や踊り",
-      "DisLike": "泣き顔, マイナス思考",
-      "CharacterSkill": "折り紙, 習字",
-      "Pros": "いつでも笑顔",
-      "Cons": "可愛さの話になると前にでしゃばる",
+      "Profile": "I'm Futamata!♪ Mt. Ooe's mountain god Ooenomiya's disciple! And I'm a pop idol too! They call us the Ooe Big Four in my hometown. I'm good at fighting, but I'm even better at singing and dancing!♪ We mainly do shows at the public hall. My dream is to have a giant crowd of my fans gather on Mt. Ooe. Music, start!",
+      "Like": "Singing and dancing",
+      "DisLike": "Crying faces, Negative thoughts",
+      "CharacterSkill": "Origami, Penmanship",
+      "Pros": "Always smiling",
+      "Cons": "Butts in whenever the conversation is about being cute",
       "Race": "Beastkin",
       "Constellation": "Cancer",
-      "Hobby": "折り紙, 和紙アート",
+      "Hobby": "Origami, Washi paper art",
       "ModelId": 7201,
       "KanaReading": "フタマタ"
     },
@@ -8707,12 +8707,12 @@
     ],
     "ModelId": 7402,
     "MEventAbilities": [],
-    "Greeting": "さあ, みんなのアイドル☆フタマタが沢山応援してあげる！\n覚悟はいい？　ちゃんとコールもあわせてね？　ハートをわしわし, つかんでぎゅっ♪\n頑張ってくれないとー, こっぱみじんこにしちゃうんだから☆",
+    "Greeting": "Come on, everyone's idol☆ Futamata is here to cheer for everyone!\nAre you ready? Do you know our call?　Catch your heart, grab and squeeze♪\nIf you don't do your best, I'll smash you to bits☆",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 8201,
-    "Name": "[『夜の蝶』の踊り子]",
+    "Name": "[Dancer of Night Butterfly]",
     "Description": null,
     "CharacterType": 3,
     "MCharacterBaseId": 8,
@@ -8736,15 +8736,15 @@
       "Country": "フレイマリン",
       "BackImageUri": "Fraymarine",
       "Birthday": "09/08",
-      "Profile": "うちは, Flamarineのナイトクラブ――『夜の蝶』の店員だったの。/n主にダンスと, 地下のリングでの拳闘試合をしてたかな。今は休職中だけど。",
-      "Like": "蝶々, 舞踏, 拳闘",
-      "DisLike": "害虫, 水（汗が落ちてしまうから）",
-      "CharacterSkill": "舞踏, 拳闘, フェロモン",
-      "Pros": "夢のために努力できる",
-      "Cons": "極度の汗かき, 他人を信じず素っ気ない言動をする",
+      "Profile": "I used to work at the Night Butterfly - a nightclub in Flamarine. I mostly danced, and had fought in the underground ring too, I think. I was laid off though.",
+      "Like": "Butterflies, Dancing, Boxing",
+      "DisLike": "Pests, Water because it washes off her sweat",
+      "CharacterSkill": "Dancing, Boxing, Pheromones",
+      "Pros": "Able to work hard towards her dream",
+      "Cons": "Excessive sweating, Distrustful of others and curt in speech and behavior",
       "Race": "Human",
       "Constellation": "Virgo",
-      "Hobby": "舞踏, 地下拳闘, 森林浴",
+      "Hobby": "Dancing, Underground boxing, Forest bathing",
       "ModelId": 8201,
       "KanaReading": "ペナンヒル"
     },
@@ -8961,12 +8961,12 @@
     ],
     "ModelId": 8201,
     "MEventAbilities": [],
-    "Greeting": "ども。何か挨拶しろって言われたからするけど, うちはペナンヒル。\nまぁ, よろしく。……もう帰ってもいい？",
+    "Greeting": "Hey. I guess I can introduce myself if I'm asked to, I'm Penang Hill.\nWell, nice to meet you then... Can I go home now?",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 8301,
-    "Name": "[魅惑の香]",
+    "Name": "[Enchanting Scent]",
     "Description": null,
     "CharacterType": 3,
     "MCharacterBaseId": 8,
@@ -8990,15 +8990,15 @@
       "Country": "フレイマリン",
       "BackImageUri": "Fraymarine",
       "Birthday": "09/08",
-      "Profile": "うちは, Flamarineのナイトクラブ――『夜の蝶』の店員だったの。/n主にダンスと, 地下のリングでの拳闘試合をしてたかな。今は休職中だけど。",
-      "Like": "蝶々, 舞踏, 拳闘",
-      "DisLike": "害虫, 水（汗が落ちてしまうから）",
-      "CharacterSkill": "舞踏, 拳闘, フェロモン",
-      "Pros": "夢のために努力できる",
-      "Cons": "極度の汗かき, 他人を信じず素っ気ない言動をする",
+      "Profile": "I used to work at the Night Butterfly - a nightclub in Flamarine. I mostly danced, and had fought in the underground ring too, I think. I was laid off though.",
+      "Like": "Butterflies, Dancing, Boxing",
+      "DisLike": "Pests, Water because it washes off her sweat",
+      "CharacterSkill": "Dancing, Boxing, Pheromones",
+      "Pros": "Able to work hard towards her dream",
+      "Cons": "Excessive sweating, Distrustful of others and curt in speech and behavior",
       "Race": "Human",
       "Constellation": "Virgo",
-      "Hobby": "舞踏, 地下拳闘, 森林浴",
+      "Hobby": "Dancing, Underground boxing, Forest bathing",
       "ModelId": 8201,
       "KanaReading": "ペナンヒル"
     },
@@ -9215,12 +9215,12 @@
     ],
     "ModelId": 8301,
     "MEventAbilities": [],
-    "Greeting": "あんま団体行動って得意じゃないんだよね……\nまあ, 仕方ないから我慢するけど。\n基本的にうちのことは放っておいて。",
+    "Greeting": "I'm not really good working in a group...\nBut, I guess I have no choice but to suck it up.\nBasically, leave me alone.",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 8302,
-    "Name": "[美しき羽と共に]",
+    "Name": "[With Beautiful Wings]",
     "Description": null,
     "CharacterType": 1,
     "MCharacterBaseId": 8,
@@ -9244,15 +9244,15 @@
       "Country": "フレイマリン",
       "BackImageUri": "Fraymarine",
       "Birthday": "09/08",
-      "Profile": "うちは, Flamarineのナイトクラブ――『夜の蝶』の店員だったの。/n主にダンスと, 地下のリングでの拳闘試合をしてたかな。今は休職中だけど。",
-      "Like": "蝶々, 舞踏, 拳闘",
-      "DisLike": "害虫, 水（汗が落ちてしまうから）",
-      "CharacterSkill": "舞踏, 拳闘, フェロモン",
-      "Pros": "夢のために努力できる",
-      "Cons": "極度の汗かき, 他人を信じず素っ気ない言動をする",
+      "Profile": "I used to work at the Night Butterfly - a nightclub in Flamarine. I mostly danced, and had fought in the underground ring too, I think. I was laid off though.",
+      "Like": "Butterflies, Dancing, Boxing",
+      "DisLike": "Pests, Water because it washes off her sweat",
+      "CharacterSkill": "Dancing, Boxing, Pheromones",
+      "Pros": "Able to work hard towards her dream",
+      "Cons": "Excessive sweating, Distrustful of others and curt in speech and behavior",
       "Race": "Human",
       "Constellation": "Virgo",
-      "Hobby": "舞踏, 地下拳闘, 森林浴",
+      "Hobby": "Dancing, Underground boxing, Forest bathing",
       "ModelId": 8201,
       "KanaReading": "ペナンヒル"
     },
@@ -9469,12 +9469,12 @@
     ],
     "ModelId": 8302,
     "MEventAbilities": [],
-    "Greeting": "なに？　休みの日なんだから放っておいてよ……。\nうちだって毎日『夜の蝶』にいるわけじゃないし。たまには遊びにくらい行くし。",
+    "Greeting": "What? It's my day off, so leave me alone...\nThough I don't spend every day at the Night Butterfly either. I guess we should at least go out to play once in a while.",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 8401,
-    "Name": "[熱砂の舞姫]",
+    "Name": "[Dancing Princess of the Hot Sands]",
     "Description": null,
     "CharacterType": 1,
     "MCharacterBaseId": 8,
@@ -9498,15 +9498,15 @@
       "Country": "フレイマリン",
       "BackImageUri": "Fraymarine",
       "Birthday": "09/08",
-      "Profile": "うちは, Flamarineのナイトクラブ――『夜の蝶』の店員だったの。/n主にダンスと, 地下のリングでの拳闘試合をしてたかな。今は休職中だけど。",
-      "Like": "蝶々, 舞踏, 拳闘",
-      "DisLike": "害虫, 水（汗が落ちてしまうから）",
-      "CharacterSkill": "舞踏, 拳闘, フェロモン",
-      "Pros": "夢のために努力できる",
-      "Cons": "極度の汗かき, 他人を信じず素っ気ない言動をする",
+      "Profile": "I used to work at the Night Butterfly - a nightclub in Flamarine. I mostly danced, and had fought in the underground ring too, I think. I was laid off though.",
+      "Like": "Butterflies, Dancing, Boxing",
+      "DisLike": "Pests, Water because it washes off her sweat",
+      "CharacterSkill": "Dancing, Boxing, Pheromones",
+      "Pros": "Able to work hard towards her dream",
+      "Cons": "Excessive sweating, Distrustful of others and curt in speech and behavior",
       "Race": "Human",
       "Constellation": "Virgo",
-      "Hobby": "舞踏, 地下拳闘, 森林浴",
+      "Hobby": "Dancing, Underground boxing, Forest bathing",
       "ModelId": 8201,
       "KanaReading": "ペナンヒル"
     },
@@ -9728,12 +9728,12 @@
     ],
     "ModelId": 8401,
     "MEventAbilities": [],
-    "Greeting": "あんた, ほんと物好きだよね。うちのことなんか放っておけばいいのに。\nでも, 求められるならちゃんと応えるよ。拳闘試合で戦いには慣れてるから。",
+    "Greeting": "You're a real sucker, aren't you? Why don't you just leave me alone?\nHowever, I'll do what you want if you ask me. I'm used to fighting in boxing matches.",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 8402,
-    "Name": "[蝶よりも眩く]",
+    "Name": "[More Dazzling Than Butterflies]",
     "Description": null,
     "CharacterType": 1,
     "MCharacterBaseId": 8,
@@ -9757,15 +9757,15 @@
       "Country": "フレイマリン",
       "BackImageUri": "Fraymarine",
       "Birthday": "09/08",
-      "Profile": "うちは, Flamarineのナイトクラブ――『夜の蝶』の店員だったの。/n主にダンスと, 地下のリングでの拳闘試合をしてたかな。今は休職中だけど。",
-      "Like": "蝶々, 舞踏, 拳闘",
-      "DisLike": "害虫, 水（汗が落ちてしまうから）",
-      "CharacterSkill": "舞踏, 拳闘, フェロモン",
-      "Pros": "夢のために努力できる",
-      "Cons": "極度の汗かき, 他人を信じず素っ気ない言動をする",
+      "Profile": "I used to work at the Night Butterfly - a nightclub in Flamarine. I mostly danced, and had fought in the underground ring too, I think. I was laid off though.",
+      "Like": "Butterflies, Dancing, Boxing",
+      "DisLike": "Pests, Water because it washes off her sweat",
+      "CharacterSkill": "Dancing, Boxing, Pheromones",
+      "Pros": "Able to work hard towards her dream",
+      "Cons": "Excessive sweating, Distrustful of others and curt in speech and behavior",
       "Race": "Human",
       "Constellation": "Virgo",
-      "Hobby": "舞踏, 地下拳闘, 森林浴",
+      "Hobby": "Dancing, Underground boxing, Forest bathing",
       "ModelId": 8201,
       "KanaReading": "ペナンヒル"
     },
@@ -9987,12 +9987,12 @@
     ],
     "ModelId": 8402,
     "MEventAbilities": [],
-    "Greeting": "やっほ。最近は特鉄隊の任務が忙しくてあんまり『夜の蝶』に出勤できてないけど, \nダンスのレッスンだけは休まずに続けてるよ。踊るの, 大好きだから。\n車掌もやってみる？　汗かいちゃったから, ポール使いづらいかもだけど……よければ。",
+    "Greeting": "Hey there. I've been busy with SSS duties lately, so I haven't been able to visit Night Butterfly much,\nbut the only thing I don't miss are the dance lessons. I really love to dance.\nWanna try too, Conductor? I've sweated a lot, so it might be hard to use the pole... Hope you don't mind.",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 9201,
-    "Name": "[騎士学校の鬼教官]",
+    "Name": "[Demon Instructor]",
     "Description": null,
     "CharacterType": 1,
     "MCharacterBaseId": 9,
@@ -10016,15 +10016,15 @@
       "Country": "セントイリス",
       "BackImageUri": "StIris",
       "Birthday": "06/30",
-      "Profile": "フィンチリーだ。St. Irisの騎士学校で教官職を兼任している。/n鬼教官などと言われているが, 私のしていることは生き残るために必要な訓練だ。/n愛想がいいほうではないが, 鬼というほど怖くはないぞ。",
-      "Like": "子供, Ohanaの握り飯",
-      "DisLike": "結果を成果のみで決めつけること",
-      "CharacterSkill": "楽器の演奏, 歌唱",
-      "Pros": "一つの情報に流されないこと",
-      "Cons": "言葉を取り繕うこと",
+      "Profile": "I'm Finchley. I am also working as the instructor at the St. Iris Knight Academy. They call me the Demon Instructor, but what I teach is the kind of training one needs to survive. While I wouldn't consider myself sociable, I am not as scary as they make me out to be.",
+      "Like": "Children, Ohana's nigirimeshi",
+      "DisLike": "Judging results based on results alone",
+      "CharacterSkill": "Playing musical instruments, Singing",
+      "Pros": "Not swayed just by a bit of information",
+      "Cons": "Rewording what she says",
       "Race": "Human",
       "Constellation": "Cancer",
-      "Hobby": "ピアノ演奏",
+      "Hobby": "Playing piano",
       "ModelId": 9201,
       "KanaReading": "フィンチリイ"
     },
@@ -10241,12 +10241,12 @@
     ],
     "ModelId": 9201,
     "MEventAbilities": [],
-    "Greeting": "St. Iris騎士学校の教官, フィンチリーだ。\nまさか私がミストトレインに乗る事になるとはな……。\n教官としてではなく, トレインナイトとしてよろしく頼むぞ。",
+    "Greeting": "St. Iris Knight Academy Instructor, Finchley.\nI never thought I would be riding the Mist Train...\nNot as an instructor, but as a Train Knight. Pleasure to meet you.",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 9301,
-    "Name": "[二度目のトレインナイト]",
+    "Name": "[Second Train Knight]",
     "Description": null,
     "CharacterType": 2,
     "MCharacterBaseId": 9,
@@ -10270,15 +10270,15 @@
       "Country": "セントイリス",
       "BackImageUri": "StIris",
       "Birthday": "06/30",
-      "Profile": "フィンチリーだ。St. Irisの騎士学校で教官職を兼任している。/n鬼教官などと言われているが, 私のしていることは生き残るために必要な訓練だ。/n愛想がいいほうではないが, 鬼というほど怖くはないぞ。",
-      "Like": "子供, Ohanaの握り飯",
-      "DisLike": "結果を成果のみで決めつけること",
-      "CharacterSkill": "楽器の演奏, 歌唱",
-      "Pros": "一つの情報に流されないこと",
-      "Cons": "言葉を取り繕うこと",
+      "Profile": "I'm Finchley. I am also working as the instructor at the St. Iris Knight Academy. They call me the Demon Instructor, but what I teach is the kind of training one needs to survive. While I wouldn't consider myself sociable, I am not as scary as they make me out to be.",
+      "Like": "Children, Ohana's nigirimeshi",
+      "DisLike": "Judging results based on results alone",
+      "CharacterSkill": "Playing musical instruments, Singing",
+      "Pros": "Not swayed just by a bit of information",
+      "Cons": "Rewording what she says",
       "Race": "Human",
       "Constellation": "Cancer",
-      "Hobby": "ピアノ演奏",
+      "Hobby": "Playing piano",
       "ModelId": 9201,
       "KanaReading": "フィンチリイ"
     },
@@ -10495,12 +10495,12 @@
     ],
     "ModelId": 9301,
     "MEventAbilities": [],
-    "Greeting": "フィンチリーだ。\n学校では教える立場にいるが, 戦場では共に戦う仲間としてよろしく頼む。\n……改めてこういう挨拶をするのは, なかなか照れるな。",
+    "Greeting": "I'm Finchley.\n I teach at the academy, but I look forward to work with you on the battlefield, as a valuable teammate too...\nReintroducing myself like this sure makes me blush.",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 9302,
-    "Name": "[トリック・オア・ブライド]",
+    "Name": "[Trick or Bride]",
     "Description": null,
     "CharacterType": 1,
     "MCharacterBaseId": 9,
@@ -10524,15 +10524,15 @@
       "Country": "セントイリス",
       "BackImageUri": "StIris",
       "Birthday": "06/30",
-      "Profile": "フィンチリーだ。St. Irisの騎士学校で教官職を兼任している。/n鬼教官などと言われているが, 私のしていることは生き残るために必要な訓練だ。/n愛想がいいほうではないが, 鬼というほど怖くはないぞ。",
-      "Like": "子供, Ohanaの握り飯",
-      "DisLike": "結果を成果のみで決めつけること",
-      "CharacterSkill": "楽器の演奏, 歌唱",
-      "Pros": "一つの情報に流されないこと",
-      "Cons": "言葉を取り繕うこと",
+      "Profile": "I'm Finchley. I am also working as the instructor at the St. Iris Knight Academy. They call me the Demon Instructor, but what I teach is the kind of training one needs to survive. While I wouldn't consider myself sociable, I am not as scary as they make me out to be.",
+      "Like": "Children, Ohana's nigirimeshi",
+      "DisLike": "Judging results based on results alone",
+      "CharacterSkill": "Playing musical instruments, Singing",
+      "Pros": "Not swayed just by a bit of information",
+      "Cons": "Rewording what she says",
       "Race": "Human",
       "Constellation": "Cancer",
-      "Hobby": "ピアノ演奏",
+      "Hobby": "Playing piano",
       "ModelId": 9201,
       "KanaReading": "フィンチリイ"
     },
@@ -10749,12 +10749,12 @@
     ],
     "ModelId": 9302,
     "MEventAbilities": [],
-    "Greeting": "トリック・オア・トリート！\n……こほん。これはだな, その……任務なんだ。\n子供を驚かせつつお菓子を配るという重要な任務だ。\n決して好きで仮装していた訳ではないからな。",
+    "Greeting": "Trick or treat!\nCough... This is, uh... just a mission.\nThis is an important mission, my objective is to surprise the kids and hand out sweets.\nIt's not that I like to dress up posh or anything.",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 9401,
-    "Name": "[後悔を決意に変えて]",
+    "Name": "[Regret Into Determination]",
     "Description": null,
     "CharacterType": 1,
     "MCharacterBaseId": 9,
@@ -10778,15 +10778,15 @@
       "Country": "セントイリス",
       "BackImageUri": "StIris",
       "Birthday": "06/30",
-      "Profile": "フィンチリーだ。St. Irisの騎士学校で教官職を兼任している。/n鬼教官などと言われているが, 私のしていることは生き残るために必要な訓練だ。/n愛想がいいほうではないが, 鬼というほど怖くはないぞ。",
-      "Like": "子供, Ohanaの握り飯",
-      "DisLike": "結果を成果のみで決めつけること",
-      "CharacterSkill": "楽器の演奏, 歌唱",
-      "Pros": "一つの情報に流されないこと",
-      "Cons": "言葉を取り繕うこと",
+      "Profile": "I'm Finchley. I am also working as the instructor at the St. Iris Knight Academy. They call me the Demon Instructor, but what I teach is the kind of training one needs to survive. While I wouldn't consider myself sociable, I am not as scary as they make me out to be.",
+      "Like": "Children, Ohana's nigirimeshi",
+      "DisLike": "Judging results based on results alone",
+      "CharacterSkill": "Playing musical instruments, Singing",
+      "Pros": "Not swayed just by a bit of information",
+      "Cons": "Rewording what she says",
       "Race": "Human",
       "Constellation": "Cancer",
-      "Hobby": "ピアノ演奏",
+      "Hobby": "Playing piano",
       "ModelId": 9201,
       "KanaReading": "フィンチリイ"
     },
@@ -11008,12 +11008,12 @@
     ],
     "ModelId": 9401,
     "MEventAbilities": [],
-    "Greeting": "こうしてミストトレインを目の前にすると感慨深いものがあるな……。\n一人のトレインナイトとして, 誰一人欠けさせないように全力を尽くそう。\n車掌, お前の指揮には期待しているぞ。うまく私を使ってくれ。",
+    "Greeting": "Seeing the Mist Train up close like this makes me emotional...\nAs a Train Knight, I will do my best to make sure that no one is left behind.\nConductor, I trust your leadership skills. Use me well.",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 9402,
-    "Name": "[哀悼と笑顔を供えて]",
+    "Name": "[Offering Condolences and Smiles]",
     "Description": null,
     "CharacterType": 4,
     "MCharacterBaseId": 9,
@@ -11037,15 +11037,15 @@
       "Country": "セントイリス",
       "BackImageUri": "StIris",
       "Birthday": "06/30",
-      "Profile": "フィンチリーだ。St. Irisの騎士学校で教官職を兼任している。/n鬼教官などと言われているが, 私のしていることは生き残るために必要な訓練だ。/n愛想がいいほうではないが, 鬼というほど怖くはないぞ。",
-      "Like": "子供, Ohanaの握り飯",
-      "DisLike": "結果を成果のみで決めつけること",
-      "CharacterSkill": "楽器の演奏, 歌唱",
-      "Pros": "一つの情報に流されないこと",
-      "Cons": "言葉を取り繕うこと",
+      "Profile": "I'm Finchley. I am also working as the instructor at the St. Iris Knight Academy. They call me the Demon Instructor, but what I teach is the kind of training one needs to survive. While I wouldn't consider myself sociable, I am not as scary as they make me out to be.",
+      "Like": "Children, Ohana's nigirimeshi",
+      "DisLike": "Judging results based on results alone",
+      "CharacterSkill": "Playing musical instruments, Singing",
+      "Pros": "Not swayed just by a bit of information",
+      "Cons": "Rewording what she says",
       "Race": "Human",
       "Constellation": "Cancer",
-      "Hobby": "ピアノ演奏",
+      "Hobby": "Playing piano",
       "ModelId": 9201,
       "KanaReading": "フィンチリイ"
     },
@@ -11267,12 +11267,12 @@
     ],
     "ModelId": 9402,
     "MEventAbilities": [],
-    "Greeting": "……あぁ, 車掌か。今日は, 共に戦った戦友たちの命日なんだ。\r\n毎年この日はここに来ることにしていてな。仲間に花を供えていたところだ。\r\nよかったら車掌も, 手を合わせてくれないか？",
+    "Greeting": "Ah... Conductor? Today is the passing anniversary of all my partners in arms who fought with me.\r\nI come here every year on this day. I had just offered flowers to my friends.\r\nIf you're interested, Conductor, would you pray with me?",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 10201,
-    "Name": "[品行方正な騎士学生]",
+    "Name": "[Model Knight Student]",
     "Description": null,
     "CharacterType": 2,
     "MCharacterBaseId": 10,
@@ -11296,15 +11296,15 @@
       "Country": "セントイリス",
       "BackImageUri": "StIris",
       "Birthday": "09/01",
-      "Profile": "St. Iris騎士団所属のクインズウェイです。/nまだ騎士学生である身ですが『特鉄隊』の名に恥じぬよう全力を尽くします。/n鉄道の先, 私にしか歩めない道を探して！",
-      "Like": "オシャレなカフェ, 鉄道関連のもの",
-      "DisLike": "不真面目な人",
-      "CharacterSkill": "侍女から教わった剣術",
-      "Pros": "正義感が強く, 利他の心が強い",
-      "Cons": "自分と異なる価値観などに柔軟に対応できない",
+      "Profile": "I'm Queensway, of the Order of St. Iris. I'm still a knight student, but I will do everything in my power to not bring dishonor to the Special Steel Squad. Beyond the railways, I will search for the path that only I can take!",
+      "Like": "Stylish cafés, Railway-related things",
+      "DisLike": "People who are not serious",
+      "CharacterSkill": "Swordsmanship taught by her handmaid",
+      "Pros": "Strong sense of justice, Altruistic",
+      "Cons": "Inflexible in dealing with values and other matters that differ to hers",
       "Race": "Human",
       "Constellation": "Virgo",
-      "Hobby": "カフェ巡り",
+      "Hobby": "Visiting cafés",
       "ModelId": 10201,
       "KanaReading": "クインズウェイ"
     },
@@ -11521,12 +11521,12 @@
     ],
     "ModelId": 10201,
     "MEventAbilities": [],
-    "Greeting": "初めまして。このたび『特鉄隊』に着任しましたクインズウェイです。\n至らぬところもあるとは思いますが, これからよろしくお願いします。\nすみません……ちょっと緊張しちゃって。\n騎士道の教えを胸に, 霧の向こう, 私にしか歩めない道を見つけ出してみせます！",
+    "Greeting": "How do you do? I'm Queensway and I've just been inaugurated to the SSS.\nWhile I am undoubtedly not outstanding at some contrivances, I anticipate to cooperate with you henceforth.\nSorry... I'm a little nervous.\nWith the teachings of chivalry under my belt, I shall be the one to find paths beyond the Mist!",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 10301,
-    "Name": "[騎士の誇りにかけて！]",
+    "Name": "[On My Knightly Pride!]",
     "Description": null,
     "CharacterType": 2,
     "MCharacterBaseId": 10,
@@ -11550,15 +11550,15 @@
       "Country": "セントイリス",
       "BackImageUri": "StIris",
       "Birthday": "09/01",
-      "Profile": "St. Iris騎士団所属のクインズウェイです。/nまだ騎士学生である身ですが『特鉄隊』の名に恥じぬよう全力を尽くします。/n鉄道の先, 私にしか歩めない道を探して！",
-      "Like": "オシャレなカフェ, 鉄道関連のもの",
-      "DisLike": "不真面目な人",
-      "CharacterSkill": "侍女から教わった剣術",
-      "Pros": "正義感が強く, 利他の心が強い",
-      "Cons": "自分と異なる価値観などに柔軟に対応できない",
+      "Profile": "I'm Queensway, of the Order of St. Iris. I'm still a knight student, but I will do everything in my power to not bring dishonor to the Special Steel Squad. Beyond the railways, I will search for the path that only I can take!",
+      "Like": "Stylish cafés, Railway-related things",
+      "DisLike": "People who are not serious",
+      "CharacterSkill": "Swordsmanship taught by her handmaid",
+      "Pros": "Strong sense of justice, Altruistic",
+      "Cons": "Inflexible in dealing with values and other matters that differ to hers",
       "Race": "Human",
       "Constellation": "Virgo",
-      "Hobby": "カフェ巡り",
+      "Hobby": "Visiting cafés",
       "ModelId": 10201,
       "KanaReading": "クインズウェイ"
     },
@@ -11775,12 +11775,12 @@
     ],
     "ModelId": 10301,
     "MEventAbilities": [],
-    "Greeting": "はじめまして, 車掌さん。私はクインズウェイと申します。\n騎士学校からこの特鉄隊に入ることとなりました。必ず, お役に立ってみせます！\nこの特鉄隊で, 私は霧の向こうの景色を, この目で確かめたいのです！",
+    "Greeting": "Pleasure to meet you, Sir Conductor. My name is Queensway.\nI've been chosen to join the SSS from the Knight's Academy. I will be of service to you, I promise!\nAs part of the SSS, my wish is to see what truly lies beyond the Mist with my own two eyes!",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 10302,
-    "Name": "[元気溌剌？騎士学生]",
+    "Name": "[Energetic? Knight Student]",
     "Description": null,
     "CharacterType": 1,
     "MCharacterBaseId": 10,
@@ -11804,15 +11804,15 @@
       "Country": "セントイリス",
       "BackImageUri": "StIris",
       "Birthday": "09/01",
-      "Profile": "St. Iris騎士団所属のクインズウェイです。/nまだ騎士学生である身ですが『特鉄隊』の名に恥じぬよう全力を尽くします。/n鉄道の先, 私にしか歩めない道を探して！",
-      "Like": "オシャレなカフェ, 鉄道関連のもの",
-      "DisLike": "不真面目な人",
-      "CharacterSkill": "侍女から教わった剣術",
-      "Pros": "正義感が強く, 利他の心が強い",
-      "Cons": "自分と異なる価値観などに柔軟に対応できない",
+      "Profile": "I'm Queensway, of the Order of St. Iris. I'm still a knight student, but I will do everything in my power to not bring dishonor to the Special Steel Squad. Beyond the railways, I will search for the path that only I can take!",
+      "Like": "Stylish cafés, Railway-related things",
+      "DisLike": "People who are not serious",
+      "CharacterSkill": "Swordsmanship taught by her handmaid",
+      "Pros": "Strong sense of justice, Altruistic",
+      "Cons": "Inflexible in dealing with values and other matters that differ to hers",
       "Race": "Human",
       "Constellation": "Virgo",
-      "Hobby": "カフェ巡り",
+      "Hobby": "Visiting cafés",
       "ModelId": 10201,
       "KanaReading": "クインズウェイ"
     },
@@ -12029,12 +12029,12 @@
     ],
     "ModelId": 10302,
     "MEventAbilities": [],
-    "Greeting": "や, やっほー, クインズウェイだよ。\nFlamarineの海で元気に育った海女ガール……やっぱり私には無理です！\n私にプトラさんの真似は荷が重いというか, なんというか……。\nえ？　絡まったワカメの物真似？　もっとできませんよ！",
+    "Greeting": "Yah, yahoo, I'm Queensway.\nI'm a girl of the sea, born and bred right here in Flamarine... I'm real bad at this!\nI'm real bad at this! It's such a burden for me to imitate Miss [[Putra]], what was that called...\nEh?　You want me to do an impression of her signature Tangled Seaweed? That posture's impossible!",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 10401,
-    "Name": "[路を切り拓く者]",
+    "Name": "[Trailblazer]",
     "Description": null,
     "CharacterType": 2,
     "MCharacterBaseId": 10,
@@ -12058,15 +12058,15 @@
       "Country": "セントイリス",
       "BackImageUri": "StIris",
       "Birthday": "09/01",
-      "Profile": "St. Iris騎士団所属のクインズウェイです。/nまだ騎士学生である身ですが『特鉄隊』の名に恥じぬよう全力を尽くします。/n鉄道の先, 私にしか歩めない道を探して！",
-      "Like": "オシャレなカフェ, 鉄道関連のもの",
-      "DisLike": "不真面目な人",
-      "CharacterSkill": "侍女から教わった剣術",
-      "Pros": "正義感が強く, 利他の心が強い",
-      "Cons": "自分と異なる価値観などに柔軟に対応できない",
+      "Profile": "I'm Queensway, of the Order of St. Iris. I'm still a knight student, but I will do everything in my power to not bring dishonor to the Special Steel Squad. Beyond the railways, I will search for the path that only I can take!",
+      "Like": "Stylish cafés, Railway-related things",
+      "DisLike": "People who are not serious",
+      "CharacterSkill": "Swordsmanship taught by her handmaid",
+      "Pros": "Strong sense of justice, Altruistic",
+      "Cons": "Inflexible in dealing with values and other matters that differ to hers",
       "Race": "Human",
       "Constellation": "Virgo",
-      "Hobby": "カフェ巡り",
+      "Hobby": "Visiting cafés",
       "ModelId": 10201,
       "KanaReading": "クインズウェイ"
     },
@@ -12288,12 +12288,12 @@
     ],
     "ModelId": 10401,
     "MEventAbilities": [],
-    "Greeting": "騎士学校よりこの特鉄隊に配属となりました, クインズウェイです！\n騎士の家系に生まれ育ちましたが, 私は従来の騎士としての役割にとどまるつもりはありません。\nだからこそ, 特鉄隊を希望したのです。私に, 車掌さんのお手伝いをさせてください！",
+    "Greeting": "I have been assigned to the SSS from the Knight Academy, I am Queensway!\nI was born and raised in a family of knights, but I don't intend to stay in the traditional role of a knight.\nThat's why I wanted to join the SSS. Sir Conductor, please allow me to assist you!",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 10402,
-    "Name": "[雪景の騎士]",
+    "Name": "[Snowscape Knight]",
     "Description": null,
     "CharacterType": 1,
     "MCharacterBaseId": 10,
@@ -12317,15 +12317,15 @@
       "Country": "セントイリス",
       "BackImageUri": "StIris",
       "Birthday": "09/01",
-      "Profile": "St. Iris騎士団所属のクインズウェイです。/nまだ騎士学生である身ですが『特鉄隊』の名に恥じぬよう全力を尽くします。/n鉄道の先, 私にしか歩めない道を探して！",
-      "Like": "オシャレなカフェ, 鉄道関連のもの",
-      "DisLike": "不真面目な人",
-      "CharacterSkill": "侍女から教わった剣術",
-      "Pros": "正義感が強く, 利他の心が強い",
-      "Cons": "自分と異なる価値観などに柔軟に対応できない",
+      "Profile": "I'm Queensway, of the Order of St. Iris. I'm still a knight student, but I will do everything in my power to not bring dishonor to the Special Steel Squad. Beyond the railways, I will search for the path that only I can take!",
+      "Like": "Stylish cafés, Railway-related things",
+      "DisLike": "People who are not serious",
+      "CharacterSkill": "Swordsmanship taught by her handmaid",
+      "Pros": "Strong sense of justice, Altruistic",
+      "Cons": "Inflexible in dealing with values and other matters that differ to hers",
       "Race": "Human",
       "Constellation": "Virgo",
-      "Hobby": "カフェ巡り",
+      "Hobby": "Visiting cafés",
       "ModelId": 10201,
       "KanaReading": "クインズウェイ"
     },
@@ -12547,12 +12547,12 @@
     ],
     "ModelId": 10402,
     "MEventAbilities": [],
-    "Greeting": "いつもと違う格好をすると, なんだか新鮮な気持ちになりますね。\n初心を忘れず, これからも精進していきたいと思います！\n車掌さん, 私が進む先をどうか側で見ていてください。",
+    "Greeting": "It always feels so fresh wearing clothes that are different from the norm.\nI won't forget my origins, and I'll continue to devote myself to it!\nSir Conductor, please be there by my side on the path ahead.",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 10403,
-    "Name": "[休日の過ごし方は]",
+    "Name": "[How To Spend the Holidays]",
     "Description": null,
     "CharacterType": 1,
     "MCharacterBaseId": 10,
@@ -12576,15 +12576,15 @@
       "Country": "セントイリス",
       "BackImageUri": "StIris",
       "Birthday": "09/01",
-      "Profile": "St. Iris騎士団所属のクインズウェイです。/nまだ騎士学生である身ですが『特鉄隊』の名に恥じぬよう全力を尽くします。/n鉄道の先, 私にしか歩めない道を探して！",
-      "Like": "オシャレなカフェ, 鉄道関連のもの",
-      "DisLike": "不真面目な人",
-      "CharacterSkill": "侍女から教わった剣術",
-      "Pros": "正義感が強く, 利他の心が強い",
-      "Cons": "自分と異なる価値観などに柔軟に対応できない",
+      "Profile": "I'm Queensway, of the Order of St. Iris. I'm still a knight student, but I will do everything in my power to not bring dishonor to the Special Steel Squad. Beyond the railways, I will search for the path that only I can take!",
+      "Like": "Stylish cafés, Railway-related things",
+      "DisLike": "People who are not serious",
+      "CharacterSkill": "Swordsmanship taught by her handmaid",
+      "Pros": "Strong sense of justice, Altruistic",
+      "Cons": "Inflexible in dealing with values and other matters that differ to hers",
       "Race": "Human",
       "Constellation": "Virgo",
-      "Hobby": "カフェ巡り",
+      "Hobby": "Visiting cafés",
       "ModelId": 10201,
       "KanaReading": "クインズウェイ"
     },
@@ -12806,7 +12806,7 @@
     ],
     "ModelId": 10403,
     "MEventAbilities": [],
-    "Greeting": "車掌さん！　お待ちしておりました！\n今日は私がばっちりエスコートするので楽しみにしていてくださいね！\nさあ, 行きましょう！",
+    "Greeting": "Sir Conductor! I've been waiting for you!\nI'll be your escort for today, so please look forward to our date!\nNow, let's head out!",
     "ReplacementNormalAttackMSkillId": null
   },
   {
@@ -15403,7 +15403,7 @@
       "Cons": "相手のパーソナルスペースに踏み込みすぎてしまう",
       "Race": "Human",
       "Constellation": "Leo",
-      "Hobby": "水泳, 水浴び",
+      "Hobby": "Swimming, 水浴び",
       "ModelId": 13201,
       "KanaReading": "プトラ"
     },
@@ -15657,7 +15657,7 @@
       "Cons": "相手のパーソナルスペースに踏み込みすぎてしまう",
       "Race": "Human",
       "Constellation": "Leo",
-      "Hobby": "水泳, 水浴び",
+      "Hobby": "Swimming, 水浴び",
       "ModelId": 13201,
       "KanaReading": "プトラ"
     },
@@ -15911,7 +15911,7 @@
       "Cons": "相手のパーソナルスペースに踏み込みすぎてしまう",
       "Race": "Human",
       "Constellation": "Leo",
-      "Hobby": "水泳, 水浴び",
+      "Hobby": "Swimming, 水浴び",
       "ModelId": 13201,
       "KanaReading": "プトラ"
     },
@@ -16165,7 +16165,7 @@
       "Cons": "相手のパーソナルスペースに踏み込みすぎてしまう",
       "Race": "Human",
       "Constellation": "Leo",
-      "Hobby": "水泳, 水浴び",
+      "Hobby": "Swimming, 水浴び",
       "ModelId": 13201,
       "KanaReading": "プトラ"
     },
@@ -16424,7 +16424,7 @@
       "Cons": "相手のパーソナルスペースに踏み込みすぎてしまう",
       "Race": "Human",
       "Constellation": "Leo",
-      "Hobby": "水泳, 水浴び",
+      "Hobby": "Swimming, 水浴び",
       "ModelId": 13201,
       "KanaReading": "プトラ"
     },
@@ -16683,7 +16683,7 @@
       "Cons": "相手のパーソナルスペースに踏み込みすぎてしまう",
       "Race": "Human",
       "Constellation": "Leo",
-      "Hobby": "水泳, 水浴び",
+      "Hobby": "Swimming, 水浴び",
       "ModelId": 13201,
       "KanaReading": "プトラ"
     },
@@ -20491,7 +20491,7 @@
   },
   {
     "Id": 17201,
-    "Name": "[わがまま王侯貴族]",
+    "Name": "[Selfish Royal]",
     "Description": null,
     "CharacterType": 1,
     "MCharacterBaseId": 17,
@@ -20515,15 +20515,15 @@
       "Country": "アイゼングラート",
       "BackImageUri": "Eisenglat",
       "Birthday": "08/25",
-      "Profile": "余のことを知りたいと？　余は貴様に毛ほども興味がないのだけどね。/n余はEisengradを旧くから統べる王侯貴族の末裔……/nまぁ, それだけ理解していたまえ。",
-      "Like": "芸術品, 愛らしいもの",
-      "DisLike": "俗物との交流, 一般庶民の義務",
-      "CharacterSkill": "下級の魔物を使役できる",
-      "Pros": "確かな審美眼を持っている",
-      "Cons": "世間に関わる気がない",
+      "Profile": "You wish to learn about me? I am not even remotely interested in you. I'm a descendant from a royal family that has ruled over Eisengrad for ages. Well, that's all you need to know.",
+      "Like": "Works of art, Pretty things",
+      "DisLike": "Interacting with the common man, Obligations of the general public",
+      "CharacterSkill": "Able to dominate lesser monsters",
+      "Pros": "Has a keen eye for aesthetics",
+      "Cons": "Uninterested in engaging with society",
       "Race": "Human",
       "Constellation": "Virgo",
-      "Hobby": "芸術品の蒐集",
+      "Hobby": "Collecting art",
       "ModelId": 17201,
       "KanaReading": "フュッセン"
     },
@@ -20739,13 +20739,21 @@
       }
     ],
     "ModelId": 17201,
-    "MEventAbilities": [],
-    "Greeting": "控えよ。余の名はフュッセン, 『旧き偉大なる血』を継ぐ常世の王である。\n貴様, ちと頭が高いのだよ。",
+    "MEventAbilities": [
+      {
+        "Name": "【期間限定】緋色の涙と祝福の鉱石Ⅰ",
+        "Description": "期間中「緋色の涙と祝福の鉱石」で以下の効果を得る\r\n・能力上昇量3倍\r\n・スキル熟練度上昇率3倍\r\n・HPの成長可能上限が上昇\r\n・褒章と戦功のドロップ量が10%アップ\r\nメインクエストでの能力上昇量が2倍になる",
+        "Types": [],
+        "StartDate": "2023-02-28T14:10:00",
+        "EndDate": "2023-03-10T23:59:59"
+      }
+	],
+    "Greeting": "Stand back. My name is Fussen, the Eternal Queen who possesses the Ancient Great Blood.\nYou, lower your head in my presence, knave.",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 17301,
-    "Name": "[白竜を従えて]",
+    "Name": "[With a White Dragon in Tow]",
     "Description": null,
     "CharacterType": 2,
     "MCharacterBaseId": 17,
@@ -20769,15 +20777,15 @@
       "Country": "アイゼングラート",
       "BackImageUri": "Eisenglat",
       "Birthday": "08/25",
-      "Profile": "余のことを知りたいと？　余は貴様に毛ほども興味がないのだけどね。/n余はEisengradを旧くから統べる王侯貴族の末裔……/nまぁ, それだけ理解していたまえ。",
-      "Like": "芸術品, 愛らしいもの",
-      "DisLike": "俗物との交流, 一般庶民の義務",
-      "CharacterSkill": "下級の魔物を使役できる",
-      "Pros": "確かな審美眼を持っている",
-      "Cons": "世間に関わる気がない",
+      "Profile": "You wish to learn about me? I am not even remotely interested in you. I'm a descendant from a royal family that has ruled over Eisengrad for ages. Well, that's all you need to know.",
+      "Like": "Works of art, Pretty things",
+      "DisLike": "Interacting with the common man, Obligations of the general public",
+      "CharacterSkill": "Able to dominate lesser monsters",
+      "Pros": "Has a keen eye for aesthetics",
+      "Cons": "Uninterested in engaging with society",
       "Race": "Human",
       "Constellation": "Virgo",
-      "Hobby": "芸術品の蒐集",
+      "Hobby": "Collecting art",
       "ModelId": 17201,
       "KanaReading": "フュッセン"
     },
@@ -20993,13 +21001,283 @@
       }
     ],
     "ModelId": 17301,
-    "MEventAbilities": [],
-    "Greeting": "貴様が唯一ミストトレインを動かせるという車掌か……期待外れだな。\n神子というから少女を想像したのだが。\nまあ, 芸術品の蒐集のために足として使ってあげよう。\n余に使われることを感謝するといいのだよ。",
+    "MEventAbilities": [
+      {
+        "Name": "【期間限定】緋色の涙と祝福の鉱石Ⅰ",
+        "Description": "期間中「緋色の涙と祝福の鉱石」で以下の効果を得る\r\n・能力上昇量3倍\r\n・スキル熟練度上昇率3倍\r\n・HPの成長可能上限が上昇\r\n・褒章と戦功のドロップ量が10%アップ\r\nメインクエストでの能力上昇量が2倍になる",
+        "Types": [],
+        "StartDate": "2023-02-28T14:10:00",
+        "EndDate": "2023-03-10T23:59:59"
+      }
+	],
+    "Greeting": "So you're the Conductor, the only person in the world who can get the Mist Train to move...?\nDisappointing. Here I imagined you were a girl since you're called a Divine Child.\nWell, I suppose you can be useful to carry whatever art I collect on the way.\nYou should be grateful that I find you to have a bare modicum of usefulness.",
+    "ReplacementNormalAttackMSkillId": null
+  },  
+  {
+    "Id": 17302,
+    "Name": "[Spoiled Aristocrat's Incognito Vacation]",
+    "Description": null,
+    "CharacterType": 1,
+    "MCharacterBaseId": 17,
+    "MCharacterBase": {
+      "Id": 17,
+      "Name": "Fussen",
+      "Description": null,
+      "InitialStatus": {
+        "HP": 710,
+        "Strength": 80,
+        "Defence": 50,
+        "Dexterity": 80,
+        "Speed": 80,
+        "Intelligence": 50,
+        "MindDefence": 50,
+        "Mind": 40,
+        "Luck": 80
+      },
+      "WeaponEquipType": 5,
+      "AttributeType": 0,
+      "Country": "アイゼングラート",
+      "BackImageUri": "Eisenglat",
+      "Birthday": "08/25",
+      "Profile": "You wish to learn about me? I am not even remotely interested in you. I'm a descendant from a royal family that has ruled over Eisengrad for ages. Well, that's all you need to know.",
+      "Like": "Works of art, Pretty things",
+      "DisLike": "Interacting with the common man, Obligations of the general public",
+      "CharacterSkill": "Able to dominate lesser monsters",
+      "Pros": "Has a keen eye for aesthetics",
+      "Cons": "Uninterested in engaging with society",
+      "Race": "Human",
+      "Constellation": "Virgo",
+      "Hobby": "Collecting art",
+      "ModelId": 17201,
+      "KanaReading": "フュッセン"
+    },
+    "CharacterRarity": 3,
+    "MCharacterRarity": {
+      "CharacterRarity": 3,
+      "MaxLevel": 50,
+      "PieceQuantity": 30
+    },
+    "LevelStatus": {
+      "MaxStrength": 4500,
+      "MaxDefence": 3400,
+      "MaxSpeed": 3600,
+      "MaxDexterity": 4700,
+      "MaxIntelligence": 3400,
+      "MaxMindDefence": 2900,
+      "MaxMind": 2500,
+      "MaxLuck": 2900,
+      "MinStrength": 2300,
+      "MinDefence": 1800,
+      "MinSpeed": 1900,
+      "MinDexterity": 2500,
+      "MinIntelligence": 1800,
+      "MinMindDefence": 1800,
+      "MinMind": 1500,
+      "MinLuck": 1900
+    },
+    "AttributeResistGroup": {
+      "Blade": 0,
+      "Impact": 30,
+      "Pierce": -50,
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Light": 0,
+      "Dark": 0
+    },
+    "MSkill1Id": 105010041,
+    "MSkill2Id": 105010062,
+    "MSkill3Id": 105010057,
+    "SpecialMSkillId": null,
+    "AbilityMSkill1Id": 201020121,
+    "AbilityMSkill2Id": 201020015,
+    "AbilityMSkill3Id": 201010024,
+    "StatusInflation": {
+      "HP": 1,
+      "Strength": 1,
+      "Defence": 2,
+      "Dexterity": 1,
+      "Speed": 1,
+      "Intelligence": 1,
+      "MindDefence": 1,
+      "Mind": 1,
+      "Luck": 2
+    },
+    "RP": 5,
+    "MCharacterStatusBonuses": [
+      {
+        "MCharacterId": 17302,
+        "Level": 26,
+        "StatusType": 5,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 17302,
+        "Level": 46,
+        "StatusType": 5,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 17302,
+        "Level": 38,
+        "StatusType": 2,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 17302,
+        "Level": 34,
+        "StatusType": 5,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 17302,
+        "Level": 2,
+        "StatusType": 5,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 17302,
+        "Level": 18,
+        "StatusType": 2,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 17302,
+        "Level": 8,
+        "StatusType": 5,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 17302,
+        "Level": 4,
+        "StatusType": 2,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 17302,
+        "Level": 50,
+        "StatusType": 99,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 17302,
+        "Level": 22,
+        "StatusType": 99,
+        "Value": 10
+      }
+    ],
+    "MCharacterGearStatusBonuses": [
+      {
+        "MCharacterId": 17302,
+        "Level": 2,
+        "StatusType": 2,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 17302,
+        "Level": 13,
+        "StatusType": 2,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 17302,
+        "Level": 4,
+        "StatusType": 2,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 17302,
+        "Level": 19,
+        "StatusType": 99,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 17302,
+        "Level": 18,
+        "StatusType": 2,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 17302,
+        "Level": 17,
+        "StatusType": 5,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 17302,
+        "Level": 14,
+        "StatusType": 99,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 17302,
+        "Level": 12,
+        "StatusType": 5,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 17302,
+        "Level": 9,
+        "StatusType": 99,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 17302,
+        "Level": 8,
+        "StatusType": 2,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 17302,
+        "Level": 7,
+        "StatusType": 5,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 17302,
+        "Level": 3,
+        "StatusType": 5,
+        "Value": 10
+      }
+    ],
+    "MCharacterScenes": [
+      {
+        "MCharacterId": 17302,
+        "KizunaRank": 2,
+        "MSceneId": 21730204
+      },
+      {
+        "MCharacterId": 17302,
+        "KizunaRank": 10,
+        "MSceneId": 11730203
+      },
+      {
+        "MCharacterId": 17302,
+        "KizunaRank": 8,
+        "MSceneId": 11730202
+      },
+      {
+        "MCharacterId": 17302,
+        "KizunaRank": 4,
+        "MSceneId": 11730201
+      }
+    ],
+    "ModelId": 17302,
+    "MEventAbilities": [
+      {
+        "Name": "【期間限定】緋色の涙と祝福の鉱石Ⅱ",
+        "Description": "期間中「緋色の涙と祝福の鉱石」で以下の効果を得る\r\n・能力上昇量3倍\r\n・スキル熟練度上昇率3倍\r\n・HPの成長可能上限が上昇\r\n・褒章と戦功のドロップ量が15%アップ\r\nメインクエストでの能力上昇量が2倍になる",
+        "Types": [],
+        "StartDate": "2023-02-28T14:10:00",
+        "EndDate": "2023-03-10T23:59:59"
+      }
+    ],
+    "Greeting": "What is it, Conductor? I'm busy right now.\nI'm about to attend a live concert of an artist I support.\nWho's the artist, you asked?\nShe's really cute and right up my alley... Anyway, just check her out!",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 17401,
-    "Name": "[王の前に跪け]",
+    "Name": "[Kneel Before the Queen]",
     "Description": null,
     "CharacterType": 4,
     "MCharacterBaseId": 17,
@@ -21023,15 +21301,15 @@
       "Country": "アイゼングラート",
       "BackImageUri": "Eisenglat",
       "Birthday": "08/25",
-      "Profile": "余のことを知りたいと？　余は貴様に毛ほども興味がないのだけどね。/n余はEisengradを旧くから統べる王侯貴族の末裔……/nまぁ, それだけ理解していたまえ。",
-      "Like": "芸術品, 愛らしいもの",
-      "DisLike": "俗物との交流, 一般庶民の義務",
-      "CharacterSkill": "下級の魔物を使役できる",
-      "Pros": "確かな審美眼を持っている",
-      "Cons": "世間に関わる気がない",
+      "Profile": "You wish to learn about me? I am not even remotely interested in you. I'm a descendant from a royal family that has ruled over Eisengrad for ages. Well, that's all you need to know.",
+      "Like": "Works of art, Pretty things",
+      "DisLike": "Interacting with the common man, Obligations of the general public",
+      "CharacterSkill": "Able to dominate lesser monsters",
+      "Pros": "Has a keen eye for aesthetics",
+      "Cons": "Uninterested in engaging with society",
       "Race": "Human",
       "Constellation": "Virgo",
-      "Hobby": "芸術品の蒐集",
+      "Hobby": "Collecting art",
       "ModelId": 17201,
       "KanaReading": "フュッセン"
     },
@@ -21252,8 +21530,16 @@
       }
     ],
     "ModelId": 17401,
-    "MEventAbilities": [],
-    "Greeting": "王に仕えることを特別に許可してあげよう。光栄に思うといい。\nいいかね？　愚民どもではなく, 余を優先するのだよ？\n貴様は余の下僕なのだからそのくらい当然だろう。",
+    "MEventAbilities": [
+      {
+        "Name": "【期間限定】緋色の涙と祝福の鉱石Ⅰ",
+        "Description": "期間中「緋色の涙と祝福の鉱石」で以下の効果を得る\r\n・能力上昇量3倍\r\n・スキル熟練度上昇率3倍\r\n・HPの成長可能上限が上昇\r\n・褒章と戦功のドロップ量が10%アップ\r\nメインクエストでの能力上昇量が2倍になる",
+        "Types": [],
+        "StartDate": "2023-02-28T14:10:00",
+        "EndDate": "2023-03-10T23:59:59"
+      }
+    ],
+    "Greeting": "I'll give you special permission to serve me, the queen. You should feel honored.\nUnderstand? You're to prioritize serving me, and not these foolish peasants, clear?\nIt is your birthright to be my servant, after all.",
     "ReplacementNormalAttackMSkillId": null
   },
   {
@@ -21282,15 +21568,15 @@
       "Country": "アイゼングラート",
       "BackImageUri": "Eisenglat",
       "Birthday": "08/25",
-      "Profile": "余のことを知りたいと？　余は貴様に毛ほども興味がないのだけどね。/n余はEisengradを旧くから統べる王侯貴族の末裔……/nまぁ, それだけ理解していたまえ。",
-      "Like": "芸術品, 愛らしいもの",
-      "DisLike": "俗物との交流, 一般庶民の義務",
-      "CharacterSkill": "下級の魔物を使役できる",
-      "Pros": "確かな審美眼を持っている",
-      "Cons": "世間に関わる気がない",
+      "Profile": "You wish to learn about me? I am not even remotely interested in you. I'm a descendant from a royal family that has ruled over Eisengrad for ages. Well, that's all you need to know.",
+      "Like": "Works of art, Pretty things",
+      "DisLike": "Interacting with the common man, Obligations of the general public",
+      "CharacterSkill": "Able to dominate lesser monsters",
+      "Pros": "Has a keen eye for aesthetics",
+      "Cons": "Uninterested in engaging with society",
       "Race": "Human",
       "Constellation": "Virgo",
-      "Hobby": "芸術品の蒐集",
+      "Hobby": "Collecting art",
       "ModelId": 17201,
       "KanaReading": "フュッセン"
     },
@@ -21511,8 +21797,16 @@
       }
     ],
     "ModelId": 17402,
-    "MEventAbilities": [],
-    "Greeting": "ふん, 貴様のことだから祝い事といっても大した用意もできないのだろう？\n泣いて喜ぶといい。豪華絢爛, 余に相応しい祝宴に貴様も招待してあげるのだよ。",
+    "MEventAbilities": [
+      {
+        "Name": "【期間限定】緋色の涙と祝福の鉱石Ⅰ",
+        "Description": "期間中「緋色の涙と祝福の鉱石」で以下の効果を得る\r\n・能力上昇量3倍\r\n・スキル熟練度上昇率3倍\r\n・HPの成長可能上限が上昇\r\n・褒章と戦功のドロップ量が10%アップ\r\nメインクエストでの能力上昇量が2倍になる",
+        "Types": [],
+        "StartDate": "2023-02-28T14:10:00",
+        "EndDate": "2023-03-10T23:59:59"
+      }
+    ],
+    "Greeting": "Hmph, seems like you really can't prepare much of a grand celebration, can you?\nYou should weep with joy. Most sumptuous and lavish, I will invite you to a feast, perfectly catered for Yours Truly.",
     "ReplacementNormalAttackMSkillId": null
   },
   {
@@ -37633,15 +37927,7 @@
       }
     ],
     "ModelId": 31201,
-    "MEventAbilities": [
-      {
-        "Name": "【期間限定】摩天楼のGuernicaⅠ",
-        "Description": "During the period, by organising the target layer in 「摩天楼のGuernica」で以下の効果を得る\r\n・Stat Increase 3x\r\n・Skill Proficiency Increase 3x\r\n・HPの成長可能上限が上昇\r\n・捨てられた宝のドロップ量が10%アップ\r\n・フランの肖像画が低確率でドロップするようになる\r\nメインクエストでの能力上昇量が2倍になる",
-        "Types": [],
-        "StartDate": "2023-02-14T14:10:00",
-        "EndDate": "2023-02-23T23:59:59"
-      }
-    ],
+    "MEventAbilities": [],
     "Greeting": "きゅっ, 弓兵のドーヴァーここに参上！　ど, どう？　今のお姉さんっぽかったよね！？\r\nえ？　もう一度, 普通に自己紹介しろって？\r\n私はドーヴァー。都会に憧れて騎士学校を受験したHalf-Elf……。\r\nえっと, 上手に弓を射ることができます？　こ, こんな感じかな？　お姉さんっぽかった？",
     "ReplacementNormalAttackMSkillId": null
   },
@@ -37895,15 +38181,7 @@
       }
     ],
     "ModelId": 31301,
-    "MEventAbilities": [
-      {
-        "Name": "【期間限定】摩天楼のGuernicaⅠ",
-        "Description": "During the period, by organising the target layer in 「摩天楼のGuernica」で以下の効果を得る\r\n・Stat Increase 3x\r\n・Skill Proficiency Increase 3x\r\n・HPの成長可能上限が上昇\r\n・捨てられた宝のドロップ量が10%アップ\r\n・フランの肖像画が低確率でドロップするようになる\r\nメインクエストでの能力上昇量が2倍になる",
-        "Types": [],
-        "StartDate": "2023-02-14T14:10:00",
-        "EndDate": "2023-02-23T23:59:59"
-      }
-    ],
+    "MEventAbilities": [],
     "Greeting": "ドーヴァーだよ, よろしくね！\nえ, こんな子供に戦闘ができるのか？　どう見てもちびっこな女の子だって？\nし, 失礼ね！　私, こう見えてもオトナで強いんだよ！\n弓と魔法の実力を評価されて, 特鉄隊にスカウトされたんだから。",
     "ReplacementNormalAttackMSkillId": null
   },
@@ -38157,15 +38435,7 @@
       }
     ],
     "ModelId": 31302,
-    "MEventAbilities": [
-      {
-        "Name": "【期間限定】摩天楼のGuernicaⅡ",
-        "Description": "During the period, by organising the target layer in 「摩天楼のGuernica」で以下の効果を得る\r\n・Stat Increase 3x\r\n・Skill Proficiency Increase 3x\r\n・HPの成長可能上限が上昇\r\n・捨てられた宝のドロップ量が15%アップ\r\n・フランの肖像画が低確率でドロップするようになる\r\nメインクエストでの能力上昇量が2倍になる",
-        "Types": [],
-        "StartDate": "2023-02-14T14:10:00",
-        "EndDate": "2023-02-23T23:59:59"
-      }
-    ],
+    "MEventAbilities": [],
     "Greeting": "見て見て, 車掌さん！　新しい洋服を買ったんだー！\nすっごくかわいいでしょ？　えへへ, 大人の魅力伝わってる？\n車掌さんのこと, 悩殺……？　させちゃう！",
     "ReplacementNormalAttackMSkillId": null
   },
@@ -38424,15 +38694,7 @@
       }
     ],
     "ModelId": 31401,
-    "MEventAbilities": [
-      {
-        "Name": "【期間限定】摩天楼のGuernicaⅠ",
-        "Description": "During the period, by organising the target layer in 「摩天楼のGuernica」で以下の効果を得る\r\n・Stat Increase 3x\r\n・Skill Proficiency Increase 3x\r\n・HPの成長可能上限が上昇\r\n・捨てられた宝のドロップ量が10%アップ\r\n・フランの肖像画が低確率でドロップするようになる\r\nメインクエストでの能力上昇量が2倍になる",
-        "Types": [],
-        "StartDate": "2023-02-14T14:10:00",
-        "EndDate": "2023-02-23T23:59:59"
-      }
-    ],
+    "MEventAbilities": [],
     "Greeting": "はじめまして, ドーヴァーだよ！\n今, 私を見て, 子供だって思ったよね？ でも, しっかりオトナなんだよ。\nれ, 恋愛経験は豊富だし, オ, オトコを何人も泣かせて来たし……, \nう, 嘘じゃないったら！　だから車掌さんはいずれ私の虜になるの！",
     "ReplacementNormalAttackMSkillId": null
   },
@@ -42056,7 +42318,7 @@
       "Cons": "服やコスメの誘惑に弱い",
       "Race": "Elf",
       "Constellation": "Virgo",
-      "Hobby": "香水集め, ショッピング",
+      "Hobby": "香水集め, Shopping",
       "ModelId": 35201,
       "KanaReading": "ヴィヴィアン"
     },
@@ -42310,7 +42572,7 @@
       "Cons": "服やコスメの誘惑に弱い",
       "Race": "Elf",
       "Constellation": "Virgo",
-      "Hobby": "香水集め, ショッピング",
+      "Hobby": "香水集め, Shopping",
       "ModelId": 35201,
       "KanaReading": "ヴィヴィアン"
     },
@@ -42564,7 +42826,7 @@
       "Cons": "服やコスメの誘惑に弱い",
       "Race": "Elf",
       "Constellation": "Virgo",
-      "Hobby": "香水集め, ショッピング",
+      "Hobby": "香水集め, Shopping",
       "ModelId": 35201,
       "KanaReading": "ヴィヴィアン"
     },
@@ -42818,7 +43080,7 @@
       "Cons": "服やコスメの誘惑に弱い",
       "Race": "Elf",
       "Constellation": "Virgo",
-      "Hobby": "香水集め, ショッピング",
+      "Hobby": "香水集め, Shopping",
       "ModelId": 35201,
       "KanaReading": "ヴィヴィアン"
     },
@@ -43077,7 +43339,7 @@
       "Cons": "服やコスメの誘惑に弱い",
       "Race": "Elf",
       "Constellation": "Virgo",
-      "Hobby": "香水集め, ショッピング",
+      "Hobby": "香水集め, Shopping",
       "ModelId": 35201,
       "KanaReading": "ヴィヴィアン"
     },
@@ -43336,7 +43598,7 @@
       "Cons": "服やコスメの誘惑に弱い",
       "Race": "Elf",
       "Constellation": "Virgo",
-      "Hobby": "香水集め, ショッピング",
+      "Hobby": "香水集め, Shopping",
       "ModelId": 35201,
       "KanaReading": "ヴィヴィアン"
     },
@@ -44837,15 +45099,7 @@
       }
     ],
     "ModelId": 37201,
-    "MEventAbilities": [
-      {
-        "Name": "【期間限定】摩天楼のGuernicaⅠ",
-        "Description": "During the period, by organising the target layer in 「摩天楼のGuernica」で以下の効果を得る\r\n・Stat Increase 3x\r\n・Skill Proficiency Increase 3x\r\n・HPの成長可能上限が上昇\r\n・捨てられた宝のドロップ量が10%アップ\r\n・フランの肖像画が低確率でドロップするようになる\r\nメインクエストでの能力上昇量が2倍になる",
-        "Types": [],
-        "StartDate": "2023-02-14T14:10:00",
-        "EndDate": "2023-02-23T23:59:59"
-      }
-    ],
+    "MEventAbilities": [],
     "Greeting": "初めまして, この冷たく広い大宇宙で共に生きる同胞よ。\nあなたと出会えたことを, ロズウェルはとても喜んでいるようです。",
     "ReplacementNormalAttackMSkillId": null
   },
@@ -45099,15 +45353,7 @@
       }
     ],
     "ModelId": 37301,
-    "MEventAbilities": [
-      {
-        "Name": "【期間限定】摩天楼のGuernicaⅡ",
-        "Description": "During the period, by organising the target layer in 「摩天楼のGuernica」で以下の効果を得る\r\n・Stat Increase 3x\r\n・Skill Proficiency Increase 3x\r\n・HPの成長可能上限が上昇\r\n・捨てられた宝のドロップ量が15%アップ\r\n・フランの肖像画が低確率でドロップするようになる\r\nメインクエストでの能力上昇量が2倍になる",
-        "Types": [],
-        "StartDate": "2023-02-14T14:10:00",
-        "EndDate": "2023-02-23T23:59:59"
-      }
-    ],
+    "MEventAbilities": [],
     "Greeting": "初めまして。あなたが車掌と呼ばれるスペースブラザーですね。\nこの個体はロズウェルと名付けられており, かつて……ぱきゅるぴきゅるるる！\n初めまして。あなたが車掌と呼ばれるスペースブラザーですね。",
     "ReplacementNormalAttackMSkillId": null
   },
@@ -45366,15 +45612,7 @@
       }
     ],
     "ModelId": 37401,
-    "MEventAbilities": [
-      {
-        "Name": "【期間限定】摩天楼のGuernicaⅠ",
-        "Description": "During the period, by organising the target layer in 「摩天楼のGuernica」で以下の効果を得る\r\n・Stat Increase 3x\r\n・Skill Proficiency Increase 3x\r\n・HPの成長可能上限が上昇\r\n・捨てられた宝のドロップ量が10%アップ\r\n・フランの肖像画が低確率でドロップするようになる\r\nメインクエストでの能力上昇量が2倍になる",
-        "Types": [],
-        "StartDate": "2023-02-14T14:10:00",
-        "EndDate": "2023-02-23T23:59:59"
-      }
-    ],
+    "MEventAbilities": [],
     "Greeting": "特鉄隊では世界のあらゆる情報が入手できることから, \nこのロズウェルの肉体を借りて編入することとなりました。\nあなたが情報の提供を承諾するなら, 我々も相応の協力を検討します。",
     "ReplacementNormalAttackMSkillId": null
   },
@@ -45633,15 +45871,7 @@
       }
     ],
     "ModelId": 37402,
-    "MEventAbilities": [
-      {
-        "Name": "【期間限定】摩天楼のGuernicaⅠ",
-        "Description": "During the period, by organising the target layer in 「摩天楼のGuernica」で以下の効果を得る\r\n・Stat Increase 3x\r\n・Skill Proficiency Increase 3x\r\n・HPの成長可能上限が上昇\r\n・捨てられた宝のドロップ量が10%アップ\r\n・フランの肖像画が低確率でドロップするようになる\r\nメインクエストでの能力上昇量が2倍になる",
-        "Types": [],
-        "StartDate": "2023-02-14T14:10:00",
-        "EndDate": "2023-02-23T23:59:59"
-      }
-    ],
+    "MEventAbilities": [],
     "Greeting": "ハロー, スペースブラザー。\nロズウェルは『七夕』という行事に浮かれているようです。\nわざわざ衣装まで用意していたようなので着てみました。",
     "ReplacementNormalAttackMSkillId": null
   },
@@ -46705,7 +46935,7 @@
       "Cons": "超不幸",
       "Race": "Human",
       "Constellation": "Cancer",
-      "Hobby": "無趣味",
+      "Hobby": "No interests or hobbies",
       "ModelId": 39201,
       "KanaReading": "ラスベガス"
     },
@@ -46959,7 +47189,7 @@
       "Cons": "超不幸",
       "Race": "Human",
       "Constellation": "Cancer",
-      "Hobby": "無趣味",
+      "Hobby": "No interests or hobbies",
       "ModelId": 39201,
       "KanaReading": "ラスベガス"
     },
@@ -47213,7 +47443,7 @@
       "Cons": "超不幸",
       "Race": "Human",
       "Constellation": "Cancer",
-      "Hobby": "無趣味",
+      "Hobby": "No interests or hobbies",
       "ModelId": 39201,
       "KanaReading": "ラスベガス"
     },
@@ -48752,7 +48982,7 @@
       "Cons": "受け入れすぎて騙されやすいところ",
       "Race": "Elf",
       "Constellation": "Libra",
-      "Hobby": "ショッピング, 芸術鑑賞",
+      "Hobby": "Shopping, 芸術鑑賞",
       "ModelId": 41201,
       "KanaReading": "パッスィ"
     },
@@ -49006,7 +49236,7 @@
       "Cons": "受け入れすぎて騙されやすいところ",
       "Race": "Elf",
       "Constellation": "Libra",
-      "Hobby": "ショッピング, 芸術鑑賞",
+      "Hobby": "Shopping, 芸術鑑賞",
       "ModelId": 41201,
       "KanaReading": "パッスィ"
     },
@@ -49260,7 +49490,7 @@
       "Cons": "受け入れすぎて騙されやすいところ",
       "Race": "Elf",
       "Constellation": "Libra",
-      "Hobby": "ショッピング, 芸術鑑賞",
+      "Hobby": "Shopping, 芸術鑑賞",
       "ModelId": 41201,
       "KanaReading": "パッスィ"
     },
@@ -49514,7 +49744,7 @@
       "Cons": "受け入れすぎて騙されやすいところ",
       "Race": "Elf",
       "Constellation": "Libra",
-      "Hobby": "ショッピング, 芸術鑑賞",
+      "Hobby": "Shopping, 芸術鑑賞",
       "ModelId": 41201,
       "KanaReading": "パッスィ"
     },
@@ -49773,7 +50003,7 @@
       "Cons": "受け入れすぎて騙されやすいところ",
       "Race": "Elf",
       "Constellation": "Libra",
-      "Hobby": "ショッピング, 芸術鑑賞",
+      "Hobby": "Shopping, 芸術鑑賞",
       "ModelId": 41201,
       "KanaReading": "パッスィ"
     },
@@ -53354,7 +53584,7 @@
       "Profile": "ごきげんよう車掌さま。パンクラスですわ。/n特鉄隊でもっともエレガントなトレインナイトを目指しておりますのよ。/n身につけるものにも気を遣ってますの。特に下着がお気に入りですのよ。/nお部屋に来てくだされば, わたくし自慢のパンクラス・コレクションをお見せしますわ。",
       "Like": "ネックレス, 体型を魅せる下着",
       "DisLike": "シンプルなもの, ありきたりなもの",
-      "CharacterSkill": "衣装つくり, ピアノ演奏",
+      "CharacterSkill": "衣装つくり, Playing piano",
       "Pros": "自分のすべてに自信を持っていること",
       "Cons": "自分の趣味を他人に押し付ける",
       "Race": "Human",
@@ -53608,7 +53838,7 @@
       "Profile": "ごきげんよう車掌さま。パンクラスですわ。/n特鉄隊でもっともエレガントなトレインナイトを目指しておりますのよ。/n身につけるものにも気を遣ってますの。特に下着がお気に入りですのよ。/nお部屋に来てくだされば, わたくし自慢のパンクラス・コレクションをお見せしますわ。",
       "Like": "ネックレス, 体型を魅せる下着",
       "DisLike": "シンプルなもの, ありきたりなもの",
-      "CharacterSkill": "衣装つくり, ピアノ演奏",
+      "CharacterSkill": "衣装つくり, Playing piano",
       "Pros": "自分のすべてに自信を持っていること",
       "Cons": "自分の趣味を他人に押し付ける",
       "Race": "Human",
@@ -53835,7 +54065,7 @@
   },
   {
     "Id": 45401,
-    "Name": "[舞踏会の華]",
+    "Name": "[Dancing会の華]",
     "Description": null,
     "CharacterType": 1,
     "MCharacterBaseId": 45,
@@ -53862,7 +54092,7 @@
       "Profile": "ごきげんよう車掌さま。パンクラスですわ。/n特鉄隊でもっともエレガントなトレインナイトを目指しておりますのよ。/n身につけるものにも気を遣ってますの。特に下着がお気に入りですのよ。/nお部屋に来てくだされば, わたくし自慢のパンクラス・コレクションをお見せしますわ。",
       "Like": "ネックレス, 体型を魅せる下着",
       "DisLike": "シンプルなもの, ありきたりなもの",
-      "CharacterSkill": "衣装つくり, ピアノ演奏",
+      "CharacterSkill": "衣装つくり, Playing piano",
       "Pros": "自分のすべてに自信を持っていること",
       "Cons": "自分の趣味を他人に押し付ける",
       "Race": "Human",
@@ -54121,7 +54351,7 @@
       "Profile": "ごきげんよう車掌さま。パンクラスですわ。/n特鉄隊でもっともエレガントなトレインナイトを目指しておりますのよ。/n身につけるものにも気を遣ってますの。特に下着がお気に入りですのよ。/nお部屋に来てくだされば, わたくし自慢のパンクラス・コレクションをお見せしますわ。",
       "Like": "ネックレス, 体型を魅せる下着",
       "DisLike": "シンプルなもの, ありきたりなもの",
-      "CharacterSkill": "衣装つくり, ピアノ演奏",
+      "CharacterSkill": "衣装つくり, Playing piano",
       "Pros": "自分のすべてに自信を持っていること",
       "Cons": "自分の趣味を他人に押し付ける",
       "Race": "Human",
@@ -67086,7 +67316,7 @@
       "Cons": "あまり他人に対して特別な感情を抱かない",
       "Race": "Elf",
       "Constellation": "Pisces",
-      "Hobby": "無趣味",
+      "Hobby": "No interests or hobbies",
       "ModelId": 57201,
       "KanaReading": "ブランシュ"
     },
@@ -67340,7 +67570,7 @@
       "Cons": "あまり他人に対して特別な感情を抱かない",
       "Race": "Elf",
       "Constellation": "Pisces",
-      "Hobby": "無趣味",
+      "Hobby": "No interests or hobbies",
       "ModelId": 57201,
       "KanaReading": "ブランシュ"
     },
@@ -67594,7 +67824,7 @@
       "Cons": "あまり他人に対して特別な感情を抱かない",
       "Race": "Elf",
       "Constellation": "Pisces",
-      "Hobby": "無趣味",
+      "Hobby": "No interests or hobbies",
       "ModelId": 57201,
       "KanaReading": "ブランシュ"
     },
@@ -76496,7 +76726,7 @@
   },
   {
     "Id": 67201,
-    "Name": "[世界の主人公]",
+    "Name": "[World's Protagonist]",
     "Description": null,
     "CharacterType": 3,
     "MCharacterBaseId": 67,
@@ -76520,15 +76750,15 @@
       "Country": "セントイリス",
       "BackImageUri": "StIris",
       "Birthday": "10/27",
-      "Profile": "『自己紹介をしてほしい』って, なかなか傷つくことを言うわね。/nまぁいいわ。私はご存知, コロンビア――この物語の主人公よ。/n大言壮語を吐くやつだなって, 今は笑って聞いていればいいわ。",
-      "Like": "自分",
-      "DisLike": "嫌うほどの興味を持つものがない",
-      "CharacterSkill": "なんでも得意",
-      "Pros": "何でも優秀で万能",
-      "Cons": "自分が正義だと思っており, 和を乱しやすい",
+      "Profile": "'I'd like you to introduce yourself'? that's quite a hurtful thing to say. Well, fine then. I'm Columbia ―― the main protagonist of this story. Go ahead and laugh at me now that I've finished boasting my greatness.",
+      "Like": "Herself",
+      "DisLike": "Isn't interested in things enough to dislike them",
+      "CharacterSkill": "Skilled at everything",
+      "Pros": "Versatile and excellent at everything",
+      "Cons": "Self-righteous, Prone to disrupt harmony",
       "Race": "Human",
       "Constellation": "Scorpio",
-      "Hobby": "無趣味",
+      "Hobby": "No interests or hobbies",
       "ModelId": 67201,
       "KanaReading": "コロンビア"
     },
@@ -76744,13 +76974,21 @@
       }
     ],
     "ModelId": 67201,
-    "MEventAbilities": [],
-    "Greeting": "ふふっ。『久しぶりね』と言うべきか, 『初めまして』と言うべきか――\n決めかねてるうちに, 私の出番が来ちゃったわね。\n私はご存知, コロンビアよ。人生に勝利したいなら, ぜんぶ私に任せなさい。",
+    "MEventAbilities": [
+      {
+        "Name": "【期間限定】緋色の涙と祝福の鉱石Ⅰ",
+        "Description": "期間中「緋色の涙と祝福の鉱石」で以下の効果を得る\r\n・能力上昇量3倍\r\n・スキル熟練度上昇率3倍\r\n・HPの成長可能上限が上昇\r\n・褒章と戦功のドロップ量が10%アップ\r\nメインクエストでの能力上昇量が2倍になる",
+        "Types": [],
+        "StartDate": "2023-02-28T14:10:00",
+        "EndDate": "2023-03-10T23:59:59"
+      }
+    ],
+    "Greeting": "Hmhmm. You're wondering if you want to say 'long time no see' or 'nice to meet you'?――\nWhile you're trying to decide, I guess it's my turn now.\nYou know me, I'm Columbia. If you want to win in life, then you better leave everything to me.",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 67301,
-    "Name": "[完璧な愛を贈る]",
+    "Name": "[Giving Perfect Love]",
     "Description": null,
     "CharacterType": 1,
     "MCharacterBaseId": 67,
@@ -76774,15 +77012,15 @@
       "Country": "セントイリス",
       "BackImageUri": "StIris",
       "Birthday": "10/27",
-      "Profile": "『自己紹介をしてほしい』って, なかなか傷つくことを言うわね。/nまぁいいわ。私はご存知, コロンビア――この物語の主人公よ。/n大言壮語を吐くやつだなって, 今は笑って聞いていればいいわ。",
-      "Like": "自分",
-      "DisLike": "嫌うほどの興味を持つものがない",
-      "CharacterSkill": "なんでも得意",
-      "Pros": "何でも優秀で万能",
-      "Cons": "自分が正義だと思っており, 和を乱しやすい",
+      "Profile": "'I'd like you to introduce yourself'? that's quite a hurtful thing to say. Well, fine then. I'm Columbia ―― the main protagonist of this story. Go ahead and laugh at me now that I've finished boasting my greatness.",
+      "Like": "Herself",
+      "DisLike": "Isn't interested in things enough to dislike them",
+      "CharacterSkill": "Skilled at everything",
+      "Pros": "Versatile and excellent at everything",
+      "Cons": "Self-righteous, Prone to disrupt harmony",
       "Race": "Human",
       "Constellation": "Scorpio",
-      "Hobby": "無趣味",
+      "Hobby": "No interests or hobbies",
       "ModelId": 67201,
       "KanaReading": "コロンビア"
     },
@@ -76998,13 +77236,283 @@
       }
     ],
     "ModelId": 67301,
-    "MEventAbilities": [],
-    "Greeting": "貴方の婚約者, コロンビアよ♪\n改めて名乗るのも癪だけど, ほかの子たちに貴方が誰のものなのかを示さないといけないからね。\nわかってると思うけど, 余所見は許さないわよ？",
+    "MEventAbilities": [
+      {
+        "Name": "【期間限定】緋色の涙と祝福の鉱石Ⅰ",
+        "Description": "期間中「緋色の涙と祝福の鉱石」で以下の効果を得る\r\n・能力上昇量3倍\r\n・スキル熟練度上昇率3倍\r\n・HPの成長可能上限が上昇\r\n・褒章と戦功のドロップ量が10%アップ\r\nメインクエストでの能力上昇量が2倍になる",
+        "Types": [],
+        "StartDate": "2023-02-28T14:10:00",
+        "EndDate": "2023-03-10T23:59:59"
+      }
+    ],
+    "Greeting": "I'm your fiancée, Columbia♪\nIt pains me to repeat myself, but we have to show the other girls who we are.\nYou know that, I'm not gonna let you look over my shoulder, okay?",
+    "ReplacementNormalAttackMSkillId": null
+  },
+  {
+    "Id": 67302,
+    "Name": "[Lovable Loving Messiah]",
+    "Description": null,
+    "CharacterType": 4,
+    "MCharacterBaseId": 67,
+    "MCharacterBase": {
+      "Id": 67,
+      "Name": "Columbia",
+      "Description": null,
+      "InitialStatus": {
+        "HP": 750,
+        "Strength": 80,
+        "Defence": 60,
+        "Dexterity": 70,
+        "Speed": 50,
+        "Intelligence": 40,
+        "MindDefence": 50,
+        "Mind": 50,
+        "Luck": 60
+      },
+      "WeaponEquipType": 2,
+      "AttributeType": 0,
+      "Country": "セントイリス",
+      "BackImageUri": "StIris",
+      "Birthday": "10/27",
+      "Profile": "'I'd like you to introduce yourself', that's quite a hurtful thing to say. Well, fine then. I'm Columbia ―― the main protagonist of this story. Go ahead and laugh at me now that I've finished my boasts of my greatness.",
+      "Like": "Herself",
+      "DisLike": "Isn't interested in things enough to dislike them",
+      "CharacterSkill": "Skilled at everything",
+      "Pros": "Versatile and excellent at everything",
+      "Cons": "Self-righteous, Prone to disrupt harmony",
+      "Race": "Human",
+      "Constellation": "Scorpio",
+      "Hobby": "No interests or hobbies",
+      "ModelId": 67201,
+      "KanaReading": "コロンビア"
+    },
+    "CharacterRarity": 3,
+    "MCharacterRarity": {
+      "CharacterRarity": 3,
+      "MaxLevel": 50,
+      "PieceQuantity": 30
+    },
+    "LevelStatus": {
+      "MaxStrength": 4000,
+      "MaxDefence": 4700,
+      "MaxSpeed": 3200,
+      "MaxDexterity": 2900,
+      "MaxIntelligence": 2700,
+      "MaxMindDefence": 3700,
+      "MaxMind": 3400,
+      "MaxLuck": 2900,
+      "MinStrength": 2100,
+      "MinDefence": 2400,
+      "MinSpeed": 1600,
+      "MinDexterity": 1700,
+      "MinIntelligence": 1600,
+      "MinMindDefence": 2200,
+      "MinMind": 1700,
+      "MinLuck": 1700
+    },
+    "AttributeResistGroup": {
+      "Blade": 30,
+      "Impact": -50,
+      "Pierce": 0,
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Light": 0,
+      "Dark": 0
+    },
+    "MSkill1Id": 102020051,
+    "MSkill2Id": 102020105,
+    "MSkill3Id": 102020126,
+    "SpecialMSkillId": null,
+    "AbilityMSkill1Id": 201020131,
+    "AbilityMSkill2Id": 201020021,
+    "AbilityMSkill3Id": 201010187,
+    "StatusInflation": {
+      "HP": 1,
+      "Strength": 1,
+      "Defence": 1,
+      "Dexterity": 1,
+      "Speed": 1,
+      "Intelligence": 1,
+      "MindDefence": 1,
+      "Mind": 1,
+      "Luck": 2
+    },
+    "RP": 5,
+    "MCharacterStatusBonuses": [
+      {
+        "MCharacterId": 67302,
+        "Level": 22,
+        "StatusType": 99,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 67302,
+        "Level": 26,
+        "StatusType": 5,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 67302,
+        "Level": 34,
+        "StatusType": 5,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 67302,
+        "Level": 38,
+        "StatusType": 2,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 67302,
+        "Level": 46,
+        "StatusType": 5,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 67302,
+        "Level": 50,
+        "StatusType": 99,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 67302,
+        "Level": 18,
+        "StatusType": 2,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 67302,
+        "Level": 8,
+        "StatusType": 5,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 67302,
+        "Level": 4,
+        "StatusType": 2,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 67302,
+        "Level": 2,
+        "StatusType": 5,
+        "Value": 5
+      }
+    ],
+    "MCharacterGearStatusBonuses": [
+      {
+        "MCharacterId": 67302,
+        "Level": 2,
+        "StatusType": 9,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 67302,
+        "Level": 4,
+        "StatusType": 9,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 67302,
+        "Level": 3,
+        "StatusType": 5,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 67302,
+        "Level": 7,
+        "StatusType": 5,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 67302,
+        "Level": 18,
+        "StatusType": 9,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 67302,
+        "Level": 17,
+        "StatusType": 5,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 67302,
+        "Level": 14,
+        "StatusType": 99,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 67302,
+        "Level": 19,
+        "StatusType": 99,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 67302,
+        "Level": 12,
+        "StatusType": 5,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 67302,
+        "Level": 9,
+        "StatusType": 99,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 67302,
+        "Level": 8,
+        "StatusType": 9,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 67302,
+        "Level": 13,
+        "StatusType": 9,
+        "Value": 10
+      }
+    ],
+    "MCharacterScenes": [
+      {
+        "MCharacterId": 67302,
+        "KizunaRank": 4,
+        "MSceneId": 16730201
+      },
+      {
+        "MCharacterId": 67302,
+        "KizunaRank": 8,
+        "MSceneId": 16730202
+      },
+      {
+        "MCharacterId": 67302,
+        "KizunaRank": 10,
+        "MSceneId": 16730203
+      },
+      {
+        "MCharacterId": 67302,
+        "KizunaRank": 2,
+        "MSceneId": 26730204
+      }
+    ],
+    "ModelId": 67302,
+    "MEventAbilities": [
+      {
+        "Name": "【期間限定】緋色の涙と祝福の鉱石Ⅱ",
+        "Description": "期間中「緋色の涙と祝福の鉱石」で以下の効果を得る\r\n・能力上昇量3倍\r\n・スキル熟練度上昇率3倍\r\n・HPの成長可能上限が上昇\r\n・褒章と戦功のドロップ量が15%アップ\r\nメインクエストでの能力上昇量が2倍になる",
+        "Types": [],
+        "StartDate": "2023-02-28T14:10:00",
+        "EndDate": "2023-03-10T23:59:59"
+      }
+    ],
+    "Greeting": "Mr. Conductor, you're a bit late for the meeting.\nYou have to be on time.\nWhat a joke. I'm looking forward to our first outing in a while.\nLet's have a good time.",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 67401,
-    "Name": "[完全無欠の救世主]",
+    "Name": "[Flawless Messiah]",
     "Description": null,
     "CharacterType": 1,
     "MCharacterBaseId": 67,
@@ -77028,15 +77536,15 @@
       "Country": "セントイリス",
       "BackImageUri": "StIris",
       "Birthday": "10/27",
-      "Profile": "『自己紹介をしてほしい』って, なかなか傷つくことを言うわね。/nまぁいいわ。私はご存知, コロンビア――この物語の主人公よ。/n大言壮語を吐くやつだなって, 今は笑って聞いていればいいわ。",
-      "Like": "自分",
-      "DisLike": "嫌うほどの興味を持つものがない",
-      "CharacterSkill": "なんでも得意",
-      "Pros": "何でも優秀で万能",
-      "Cons": "自分が正義だと思っており, 和を乱しやすい",
+      "Profile": "'I'd like you to introduce yourself'? that's quite a hurtful thing to say. Well, fine then. I'm Columbia ―― the main protagonist of this story. Go ahead and laugh at me now that I've finished boasting my greatness.",
+      "Like": "Herself",
+      "DisLike": "Isn't interested in things enough to dislike them",
+      "CharacterSkill": "Skilled at everything",
+      "Pros": "Versatile and excellent at everything",
+      "Cons": "Self-righteous, Prone to disrupt harmony",
       "Race": "Human",
       "Constellation": "Scorpio",
-      "Hobby": "無趣味",
+      "Hobby": "No interests or hobbies",
       "ModelId": 67201,
       "KanaReading": "コロンビア"
     },
@@ -77257,13 +77765,21 @@
       }
     ],
     "ModelId": 67401,
-    "MEventAbilities": [],
-    "Greeting": "この世界の正義であり, 秩序であるコロンビアよ。\n主人公は遅れて登場するっていうでしょう？　だから, これからは主役交代よ, 車掌くん♪",
+    "MEventAbilities": [
+      {
+        "Name": "【期間限定】緋色の涙と祝福の鉱石Ⅰ",
+        "Description": "期間中「緋色の涙と祝福の鉱石」で以下の効果を得る\r\n・能力上昇量3倍\r\n・スキル熟練度上昇率3倍\r\n・HPの成長可能上限が上昇\r\n・褒章と戦功のドロップ量が10%アップ\r\nメインクエストでの能力上昇量が2倍になる",
+        "Types": [],
+        "StartDate": "2023-02-28T14:10:00",
+        "EndDate": "2023-03-10T23:59:59"
+      }
+    ],
+    "Greeting": "I'm the epitome of justice and order, Columbia.\nYou know how they say the main character comes in late? Moving forward, we're switching leads, Mr. Conductor♪",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 67402,
-    "Name": "[華麗なる主人公]",
+    "Name": "[Splendid Protagonist]",
     "Description": null,
     "CharacterType": 4,
     "MCharacterBaseId": 67,
@@ -77287,15 +77803,15 @@
       "Country": "セントイリス",
       "BackImageUri": "StIris",
       "Birthday": "10/27",
-      "Profile": "『自己紹介をしてほしい』って, なかなか傷つくことを言うわね。/nまぁいいわ。私はご存知, コロンビア――この物語の主人公よ。/n大言壮語を吐くやつだなって, 今は笑って聞いていればいいわ。",
-      "Like": "自分",
-      "DisLike": "嫌うほどの興味を持つものがない",
-      "CharacterSkill": "なんでも得意",
-      "Pros": "何でも優秀で万能",
-      "Cons": "自分が正義だと思っており, 和を乱しやすい",
+      "Profile": "'I'd like you to introduce yourself'? that's quite a hurtful thing to say. Well, fine then. I'm Columbia ―― the main protagonist of this story. Go ahead and laugh at me now that I've finished boasting my greatness.",
+      "Like": "Herself",
+      "DisLike": "Isn't interested in things enough to dislike them",
+      "CharacterSkill": "Skilled at everything",
+      "Pros": "Versatile and excellent at everything",
+      "Cons": "Self-righteous, Prone to disrupt harmony",
       "Race": "Human",
       "Constellation": "Scorpio",
-      "Hobby": "無趣味",
+      "Hobby": "No interests or hobbies",
       "ModelId": 67201,
       "KanaReading": "コロンビア"
     },
@@ -77516,8 +78032,16 @@
       }
     ],
     "ModelId": 67402,
-    "MEventAbilities": [],
-    "Greeting": "あら, なにかしらその目は。来るのが遅いとでも言いたいの？\n馬鹿ね。主役は遅れてくるものよ。\nそうして, おいしいところを搔っ攫っていくの。\n車掌くんも覚悟しておくことね。",
+    "MEventAbilities": [
+      {
+        "Name": "【期間限定】緋色の涙と祝福の鉱石Ⅰ",
+        "Description": "期間中「緋色の涙と祝福の鉱石」で以下の効果を得る\r\n・能力上昇量3倍\r\n・スキル熟練度上昇率3倍\r\n・HPの成長可能上限が上昇\r\n・褒章と戦功のドロップ量が10%アップ\r\nメインクエストでの能力上昇量が2倍になる",
+        "Types": [],
+        "StartDate": "2023-02-28T14:10:00",
+        "EndDate": "2023-03-10T23:59:59"
+      }
+    ],
+    "Greeting": "Oh my, what's that look in your eyes? Are you trying to tell me that I'm late?\nSilly you. Of course the main protagonist comes late.\nAfter that, they snatch the sweet taste of glory.\nYou should be prepared for that, Mr. Conductor.",
     "ReplacementNormalAttackMSkillId": null
   },
   {
@@ -77770,15 +78294,7 @@
       }
     ],
     "ModelId": 68201,
-    "MEventAbilities": [
-      {
-        "Name": "【期間限定】摩天楼のGuernicaⅠ",
-        "Description": "During the period, by organising the target layer in 「摩天楼のGuernica」で以下の効果を得る\r\n・Stat Increase 3x\r\n・Skill Proficiency Increase 3x\r\n・HPの成長可能上限が上昇\r\n・捨てられた宝のドロップ量が10%アップ\r\n・フランの肖像画が低確率でドロップするようになる\r\nメインクエストでの能力上昇量が2倍になる",
-        "Types": [],
-        "StartDate": "2023-02-14T14:10:00",
-        "EndDate": "2023-02-23T23:59:59"
-      }
-    ],
+    "MEventAbilities": [],
     "Greeting": "わたしはシャンハイ。Eisengrad中央軍の士官だ。\nまあ, 実戦経験はそんなないけど……。\nな, なんだよ？　いま笑ったか？　笑ったな？\nジョークじゃない！　本当に士官なんだぞ！　か, かわいいって言うなぁ～！",
     "ReplacementNormalAttackMSkillId": null
   },
@@ -78032,15 +78548,7 @@
       }
     ],
     "ModelId": 68301,
-    "MEventAbilities": [
-      {
-        "Name": "【期間限定】摩天楼のGuernicaⅠ",
-        "Description": "During the period, by organising the target layer in 「摩天楼のGuernica」で以下の効果を得る\r\n・Stat Increase 3x\r\n・Skill Proficiency Increase 3x\r\n・HPの成長可能上限が上昇\r\n・捨てられた宝のドロップ量が10%アップ\r\n・フランの肖像画が低確率でドロップするようになる\r\nメインクエストでの能力上昇量が2倍になる",
-        "Types": [],
-        "StartDate": "2023-02-14T14:10:00",
-        "EndDate": "2023-02-23T23:59:59"
-      }
-    ],
+    "MEventAbilities": [],
     "Greeting": "シャンハイだ, よろしく。\nEisengrad中央軍から来た。\nいろいろと活躍してるんだぞ。すごいだろう？　えへへ。気分がいいからご馳走してあげる。\nお金なら大丈夫, パパからお小遣いいっぱいもらってるから。",
     "ReplacementNormalAttackMSkillId": null
   },
@@ -78294,15 +78802,7 @@
       }
     ],
     "ModelId": 68302,
-    "MEventAbilities": [
-      {
-        "Name": "【期間限定】摩天楼のGuernicaⅠ",
-        "Description": "During the period, by organising the target layer in 「摩天楼のGuernica」で以下の効果を得る\r\n・Stat Increase 3x\r\n・Skill Proficiency Increase 3x\r\n・HPの成長可能上限が上昇\r\n・捨てられた宝のドロップ量が10%アップ\r\n・フランの肖像画が低確率でドロップするようになる\r\nメインクエストでの能力上昇量が2倍になる",
-        "Types": [],
-        "StartDate": "2023-02-14T14:10:00",
-        "EndDate": "2023-02-23T23:59:59"
-      }
-    ],
+    "MEventAbilities": [],
     "Greeting": "シャンハイだ。これはEisengradの淡水カニ。カニ界の王さまだよ。\r\n高いものはだいたい食べてきたわたしが言うんだから間違いない。一番おいしいんだぞ。\r\nほら見てよこの見事なツヤ。蒸したてを一緒に食べようよ！",
     "ReplacementNormalAttackMSkillId": null
   },
@@ -78556,15 +79056,7 @@
       }
     ],
     "ModelId": 68303,
-    "MEventAbilities": [
-      {
-        "Name": "【期間限定】摩天楼のGuernicaⅠ",
-        "Description": "During the period, by organising the target layer in 「摩天楼のGuernica」で以下の効果を得る\r\n・Stat Increase 3x\r\n・Skill Proficiency Increase 3x\r\n・HPの成長可能上限が上昇\r\n・捨てられた宝のドロップ量が10%アップ\r\n・フランの肖像画が低確率でドロップするようになる\r\nメインクエストでの能力上昇量が2倍になる",
-        "Types": [],
-        "StartDate": "2023-02-14T14:10:00",
-        "EndDate": "2023-02-23T23:59:59"
-      }
-    ],
+    "MEventAbilities": [],
     "Greeting": "ふっふっふ……車掌, 捕まえた～！\n今日の私はメイドさんだぞ！\n一日車掌のそばでご奉仕してやるからな！\n何かしてほしいことがあったら言ってくれ。",
     "ReplacementNormalAttackMSkillId": null
   },
@@ -78823,15 +79315,7 @@
       }
     ],
     "ModelId": 68401,
-    "MEventAbilities": [
-      {
-        "Name": "【期間限定】摩天楼のGuernicaⅠ",
-        "Description": "During the period, by organising the target layer in 「摩天楼のGuernica」で以下の効果を得る\r\n・Stat Increase 3x\r\n・Skill Proficiency Increase 3x\r\n・HPの成長可能上限が上昇\r\n・捨てられた宝のドロップ量が10%アップ\r\n・フランの肖像画が低確率でドロップするようになる\r\nメインクエストでの能力上昇量が2倍になる",
-        "Types": [],
-        "StartDate": "2023-02-14T14:10:00",
-        "EndDate": "2023-02-23T23:59:59"
-      }
-    ],
+    "MEventAbilities": [],
     "Greeting": "シャンハイだ。ペイジンもこの特鉄隊にいるそうだからよろしくしてあげよう。\nちなみにわたしをChildren扱いするなよ。\nお, おまえよりずっと頭がいいし, お金だって持ってるんだからな！",
     "ReplacementNormalAttackMSkillId": null
   },
@@ -79090,15 +79574,7 @@
       }
     ],
     "ModelId": 68402,
-    "MEventAbilities": [
-      {
-        "Name": "【期間限定】摩天楼のGuernicaⅢ",
-        "Description": "During the period, by organising the target layer in 「摩天楼のGuernica」で以下の効果を得る\r\n・Stat Increase 3x\r\n・Skill Proficiency Increase 3x\r\n・HPの成長可能上限が上昇\r\n・捨てられた宝のドロップ量が30%アップ\r\n・フランの肖像画が低確率でドロップするようになる\r\nメインクエストでの能力上昇量が2倍になる",
-        "Types": [],
-        "StartDate": "2023-02-14T14:10:00",
-        "EndDate": "2023-02-23T23:59:59"
-      }
-    ],
+    "MEventAbilities": [],
     "Greeting": "シャンハイ☆デリバリーで～す……って, 車掌！？\nふっふっふ, 聞いて驚け, わたし, 福祉の施設でお手伝いしてるんだ！\n今は, おつかいでお昼ごはんを買いに行ってたんだぞ。\nちょっと多めに買ってきたから, 車掌も一緒に食べるか？",
     "ReplacementNormalAttackMSkillId": null
   },
@@ -79352,15 +79828,7 @@
       }
     ],
     "ModelId": 69201,
-    "MEventAbilities": [
-      {
-        "Name": "【期間限定】摩天楼のGuernicaⅠ",
-        "Description": "During the period, by organising the target layer in 「摩天楼のGuernica」で以下の効果を得る\r\n・Stat Increase 3x\r\n・Skill Proficiency Increase 3x\r\n・HPの成長可能上限が上昇\r\n・捨てられた宝のドロップ量が10%アップ\r\n・フランの肖像画が低確率でドロップするようになる\r\nメインクエストでの能力上昇量が2倍になる",
-        "Types": [],
-        "StartDate": "2023-02-14T14:10:00",
-        "EndDate": "2023-02-23T23:59:59"
-      }
-    ],
+    "MEventAbilities": [],
     "Greeting": "きょ, 今日からあなたを支配することになったフランクフルトです！\nもし逆らったら, いじめますよ？　足で踏んで唾を吐いて――\nあっ, 何ですかその目は？　反抗的ですね？　ドキドキ♪",
     "ReplacementNormalAttackMSkillId": null
   },
@@ -79614,15 +80082,7 @@
       }
     ],
     "ModelId": 69301,
-    "MEventAbilities": [
-      {
-        "Name": "【期間限定】摩天楼のGuernicaⅠ",
-        "Description": "During the period, by organising the target layer in 「摩天楼のGuernica」で以下の効果を得る\r\n・Stat Increase 3x\r\n・Skill Proficiency Increase 3x\r\n・HPの成長可能上限が上昇\r\n・捨てられた宝のドロップ量が10%アップ\r\n・フランの肖像画が低確率でドロップするようになる\r\nメインクエストでの能力上昇量が2倍になる",
-        "Types": [],
-        "StartDate": "2023-02-14T14:10:00",
-        "EndDate": "2023-02-23T23:59:59"
-      }
-    ],
+    "MEventAbilities": [],
     "Greeting": "今日からあなたのお世話をしてあげることになったフランクフルトです♪\nこんな豚小屋みたいな狭いところが拠点だなんて, 下僕さんが無能だから予算が下りないんですか？\n上手におねだりできたらフランがお金をだしてあげてもいいですよ？",
     "ReplacementNormalAttackMSkillId": null
   },
@@ -79876,15 +80336,7 @@
       }
     ],
     "ModelId": 69302,
-    "MEventAbilities": [
-      {
-        "Name": "【期間限定】摩天楼のGuernicaⅡ",
-        "Description": "During the period, by organising the target layer in 「摩天楼のGuernica」で以下の効果を得る\r\n・Stat Increase 3x\r\n・Skill Proficiency Increase 3x\r\n・HPの成長可能上限が上昇\r\n・捨てられた宝のドロップ量が15%アップ\r\n・フランの肖像画が低確率でドロップするようになる\r\nメインクエストでの能力上昇量が2倍になる",
-        "Types": [],
-        "StartDate": "2023-02-14T14:10:00",
-        "EndDate": "2023-02-23T23:59:59"
-      }
-    ],
+    "MEventAbilities": [],
     "Greeting": "下僕さん, フランと結婚しましょう！\n何を困った顔してるんですか？\n下僕さんはフランのものなんですから, いまさらそんな顔されても困ります。\nほら, 早くこの紙に名前を書いてください。",
     "ReplacementNormalAttackMSkillId": null
   },
@@ -80143,15 +80595,7 @@
       }
     ],
     "ModelId": 69401,
-    "MEventAbilities": [
-      {
-        "Name": "【期間限定】摩天楼のGuernicaⅠ",
-        "Description": "During the period, by organising the target layer in 「摩天楼のGuernica」で以下の効果を得る\r\n・Stat Increase 3x\r\n・Skill Proficiency Increase 3x\r\n・HPの成長可能上限が上昇\r\n・捨てられた宝のドロップ量が10%アップ\r\n・フランの肖像画が低確率でドロップするようになる\r\nメインクエストでの能力上昇量が2倍になる",
-        "Types": [],
-        "StartDate": "2023-02-14T14:10:00",
-        "EndDate": "2023-02-23T23:59:59"
-      }
-    ],
+    "MEventAbilities": [],
     "Greeting": "フランが来てあげました♪\n地面に頭をこすりつけて喜びに咽び泣いてもいいですよ, 下僕さん。\nふふふ, イラついちゃいました？　怒ってフランに乱暴しちゃうつもりですか……？　ドキドキ♪",
     "ReplacementNormalAttackMSkillId": null
   },
@@ -80410,15 +80854,7 @@
       }
     ],
     "ModelId": 69402,
-    "MEventAbilities": [
-      {
-        "Name": "【期間限定】摩天楼のGuernicaⅢ",
-        "Description": "During the period, by organising the target layer in 「摩天楼のGuernica」で以下の効果を得る\r\n・Stat Increase 3x\r\n・Skill Proficiency Increase 3x\r\n・HPの成長可能上限が上昇\r\n・捨てられた宝のドロップ量が30%アップ\r\n・フランの肖像画が低確率でドロップするようになる\r\nメインクエストでの能力上昇量が2倍になる",
-        "Types": [],
-        "StartDate": "2023-02-14T14:10:00",
-        "EndDate": "2023-02-23T23:59:59"
-      }
-    ],
+    "MEventAbilities": [],
     "Greeting": "下僕さん, 今日からフランと契約を結びましょう！\nパパが特鉄隊に投資したから, その見返りとしてフランの好きなようにしていいって聞いたんです。\nふふん。下僕さん, フランをペットにしてください♪\nこのリードをもって, ちゃんと躾けてくださいね？",
     "ReplacementNormalAttackMSkillId": null
   },
@@ -82730,7 +83166,7 @@
   },
   {
     "Id": 72201,
-    "Name": "[水泳部の古代人]",
+    "Name": "[Swimming部の古代人]",
     "Description": null,
     "CharacterType": 1,
     "MCharacterBaseId": 72,
@@ -84518,7 +84954,7 @@
   },
   {
     "Id": 74201,
-    "Name": "[鉱山の華]",
+    "Name": "[The Flower of the Mines]",
     "Description": null,
     "CharacterType": 1,
     "MCharacterBaseId": 74,
@@ -84542,15 +84978,15 @@
       "Country": "フレイマリン",
       "BackImageUri": "Fraymarine",
       "Birthday": "09/01",
-      "Profile": "よっ！　アタシはFlamarineからきたシュティアだ。/n海の子？　ちがうちがう。アタシは山の子。バリバリの鉱山女だ。/n熱砂地帯の出身だから, 泳ぎはニガテなんだ。/nその代わり, 気合いと根性なら誰にも負けないぞ。",
-      "Like": "女の子っぽい服装, アクセサリー",
-      "DisLike": "職人をバカにする人, 泳ぎ",
-      "CharacterSkill": "肉体労働, 穴掘り, 石細工",
-      "Pros": "根性がある",
-      "Cons": "出来ないことも「出来る」と言ってしまう",
+      "Profile": "Yo! I'm Stia from Flamarine. Girl of the seas? Nay, nay. I'm a hardworking miner girl. I'm from the hot desert regions, so swimming isn't my strong suit. On the other hand, I'm second to none when it comes to my gusto and spirit.",
+      "Like": "Girlish clothes, Accessories",
+      "DisLike": "People who make fun of craftspeople, Swimming",
+      "CharacterSkill": "Manual labor, Digging holes, Masonry",
+      "Pros": "Determined",
+      "Cons": "Says she can do things that she really can't",
       "Race": "Human",
       "Constellation": "Virgo",
-      "Hobby": "筋トレ, ウインドウショッピング",
+      "Hobby": "Weight training, Window shopping",
       "ModelId": 74201,
       "KanaReading": "シュティア"
     },
@@ -84766,13 +85202,21 @@
       }
     ],
     "ModelId": 74201,
-    "MEventAbilities": [],
+    "MEventAbilities": [
+      {
+        "Name": "【期間限定】緋色の涙と祝福の鉱石Ⅰ",
+        "Description": "期間中「緋色の涙と祝福の鉱石」で以下の効果を得る\r\n・能力上昇量3倍\r\n・スキル熟練度上昇率3倍\r\n・HPの成長可能上限が上昇\r\n・褒章と戦功のドロップ量が10%アップ\r\nメインクエストでの能力上昇量が2倍になる",
+        "Types": [],
+        "StartDate": "2023-02-28T14:10:00",
+        "EndDate": "2023-03-10T23:59:59"
+      }
+    ],
     "Greeting": "アタシはシュティア。Flamarineのバンスカー鉱山出身だ。\n閉所, 暗所はアタシに任せろ。それから石の加工も得意だぞ。\nあとは, そうだな……オシャレにもちょっと興味があるかな。\nカワイイ服やアクセサリーを見つけたら, こっそりと教えてくれ。",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 74301,
-    "Name": "[失われない輝きを]",
+    "Name": "[Everlasting Brilliance]",
     "Description": null,
     "CharacterType": 1,
     "MCharacterBaseId": 74,
@@ -84796,15 +85240,15 @@
       "Country": "フレイマリン",
       "BackImageUri": "Fraymarine",
       "Birthday": "09/01",
-      "Profile": "よっ！　アタシはFlamarineからきたシュティアだ。/n海の子？　ちがうちがう。アタシは山の子。バリバリの鉱山女だ。/n熱砂地帯の出身だから, 泳ぎはニガテなんだ。/nその代わり, 気合いと根性なら誰にも負けないぞ。",
-      "Like": "女の子っぽい服装, アクセサリー",
-      "DisLike": "職人をバカにする人, 泳ぎ",
-      "CharacterSkill": "肉体労働, 穴掘り, 石細工",
-      "Pros": "根性がある",
-      "Cons": "出来ないことも「出来る」と言ってしまう",
+      "Profile": "Yo! I'm Stia from Flamarine. Girl of the seas? Nay, nay. I'm a hardworking miner girl. I'm from the hot desert regions, so swimming isn't my strong suit. On the other hand, I'm second to none when it comes to my gusto and spirit.",
+      "Like": "Girlish clothes, Accessories",
+      "DisLike": "People who make fun of craftspeople, Swimming",
+      "CharacterSkill": "Manual labor, Digging holes, Masonry",
+      "Pros": "Determined",
+      "Cons": "Says she can do things that she really can't",
       "Race": "Human",
       "Constellation": "Virgo",
-      "Hobby": "筋トレ, ウインドウショッピング",
+      "Hobby": "Weight training, Window shopping",
       "ModelId": 74201,
       "KanaReading": "シュティア"
     },
@@ -85020,13 +85464,21 @@
       }
     ],
     "ModelId": 74301,
-    "MEventAbilities": [],
+    "MEventAbilities": [
+      {
+        "Name": "【期間限定】緋色の涙と祝福の鉱石Ⅰ",
+        "Description": "期間中「緋色の涙と祝福の鉱石」で以下の効果を得る\r\n・能力上昇量3倍\r\n・スキル熟練度上昇率3倍\r\n・HPの成長可能上限が上昇\r\n・褒章と戦功のドロップ量が10%アップ\r\nメインクエストでの能力上昇量が2倍になる",
+        "Types": [],
+        "StartDate": "2023-02-28T14:10:00",
+        "EndDate": "2023-03-10T23:59:59"
+      }
+    ],
     "Greeting": "シュティアだ, よろしく。\n鉱山出身だから気力と体力には自信があるぞ。\nもし, トレーニングしたかったら言ってくれ。筋トレが趣味だからある程度の知識はあるんだ。",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 74401,
-    "Name": "[祭の喧噪]",
+    "Name": "[Bustle of the Festival]",
     "Description": null,
     "CharacterType": 1,
     "MCharacterBaseId": 74,
@@ -85050,15 +85502,15 @@
       "Country": "フレイマリン",
       "BackImageUri": "Fraymarine",
       "Birthday": "09/01",
-      "Profile": "よっ！　アタシはFlamarineからきたシュティアだ。/n海の子？　ちがうちがう。アタシは山の子。バリバリの鉱山女だ。/n熱砂地帯の出身だから, 泳ぎはニガテなんだ。/nその代わり, 気合いと根性なら誰にも負けないぞ。",
-      "Like": "女の子っぽい服装, アクセサリー",
-      "DisLike": "職人をバカにする人, 泳ぎ",
-      "CharacterSkill": "肉体労働, 穴掘り, 石細工",
-      "Pros": "根性がある",
-      "Cons": "出来ないことも「出来る」と言ってしまう",
+      "Profile": "Yo! I'm Stia from Flamarine. Girl of the seas? Nay, nay. I'm a hardworking miner girl. I'm from the hot desert regions, so swimming isn't my strong suit. On the other hand, I'm second to none when it comes to my gusto and spirit.",
+      "Like": "Girlish clothes, Accessories",
+      "DisLike": "People who make fun of craftspeople, Swimming",
+      "CharacterSkill": "Manual labor, Digging holes, Masonry",
+      "Pros": "Determined",
+      "Cons": "Says she can do things that she really can't",
       "Race": "Human",
       "Constellation": "Virgo",
-      "Hobby": "筋トレ, ウインドウショッピング",
+      "Hobby": "Weight training, Window shopping",
       "ModelId": 74201,
       "KanaReading": "シュティア"
     },
@@ -85279,8 +85731,283 @@
       }
     ],
     "ModelId": 74401,
-    "MEventAbilities": [],
+    "MEventAbilities": [
+      {
+        "Name": "【期間限定】緋色の涙と祝福の鉱石Ⅰ",
+        "Description": "期間中「緋色の涙と祝福の鉱石」で以下の効果を得る\r\n・能力上昇量3倍\r\n・スキル熟練度上昇率3倍\r\n・HPの成長可能上限が上昇\r\n・褒章と戦功のドロップ量が10%アップ\r\nメインクエストでの能力上昇量が2倍になる",
+        "Types": [],
+        "StartDate": "2023-02-28T14:10:00",
+        "EndDate": "2023-03-10T23:59:59"
+      }
+    ],
     "Greeting": "オウ, 車掌！　見てくれよ, 決まってるだろ？\nNishikiの祭りって言ったらタイコらしいんだ。で, これはそれを叩くやつの伝統衣装らしいぞ！\nアタシが祭りを盛り上げる雄姿をしっかりと見ててくれ♪",
+    "ReplacementNormalAttackMSkillId": null
+  },
+  {
+    "Id": 74402,
+    "Name": "[Sea-Loathing Mountain Lady]",
+    "Description": null,
+    "CharacterType": 1,
+    "MCharacterBaseId": 74,
+    "MCharacterBase": {
+      "Id": 74,
+      "Name": "Stia",
+      "Description": null,
+      "InitialStatus": {
+        "HP": 750,
+        "Strength": 80,
+        "Defence": 60,
+        "Dexterity": 70,
+        "Speed": 50,
+        "Intelligence": 40,
+        "MindDefence": 50,
+        "Mind": 50,
+        "Luck": 60
+      },
+      "WeaponEquipType": 2,
+      "AttributeType": 0,
+      "Country": "フレイマリン",
+      "BackImageUri": "Fraymarine",
+      "Birthday": "09/01",
+      "Profile": "Yo! I'm Stia from Flamarine. Girl of the seas? Nay, nay. I'm a hardworking miner girl. I'm from the hot desert regions, so swimming isn't my strong suit. On the other hand, I'm second to none when it comes to my gusto and spirit.",
+      "Like": "Girlish clothes, Accessories",
+      "DisLike": "People who make fun of craftspeople, Swimming",
+      "CharacterSkill": "Manual labor, Digging holes, Masonry",
+      "Pros": "Determined",
+      "Cons": "Says she can do things that she really can't",
+      "Race": "Human",
+      "Constellation": "Virgo",
+      "Hobby": "Weight training, Window shopping",
+      "ModelId": 74201,
+      "KanaReading": "シュティア"
+    },
+    "CharacterRarity": 4,
+    "MCharacterRarity": {
+      "CharacterRarity": 4,
+      "MaxLevel": 50,
+      "PieceQuantity": 50
+    },
+    "LevelStatus": {
+      "MaxStrength": 6300,
+      "MaxDefence": 7000,
+      "MaxSpeed": 5400,
+      "MaxDexterity": 5100,
+      "MaxIntelligence": 4700,
+      "MaxMindDefence": 5600,
+      "MaxMind": 4400,
+      "MaxLuck": 4000,
+      "MinStrength": 3100,
+      "MinDefence": 3600,
+      "MinSpeed": 2400,
+      "MinDexterity": 2600,
+      "MinIntelligence": 2400,
+      "MinMindDefence": 3300,
+      "MinMind": 2600,
+      "MinLuck": 2600
+    },
+    "AttributeResistGroup": {
+      "Blade": 40,
+      "Impact": -40,
+      "Pierce": 20,
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Light": 0,
+      "Dark": 0
+    },
+    "MSkill1Id": 102020018,
+    "MSkill2Id": 102020124,
+    "MSkill3Id": 102020125,
+    "SpecialMSkillId": 674402,
+    "AbilityMSkill1Id": 201020362,
+    "AbilityMSkill2Id": 201020104,
+    "AbilityMSkill3Id": 301020317,
+    "StatusInflation": {
+      "HP": 1,
+      "Strength": 1,
+      "Defence": 2,
+      "Dexterity": 1,
+      "Speed": 1,
+      "Intelligence": 1,
+      "MindDefence": 1,
+      "Mind": 1,
+      "Luck": 1
+    },
+    "RP": 6,
+    "MCharacterStatusBonuses": [
+      {
+        "MCharacterId": 74402,
+        "Level": 34,
+        "StatusType": 5,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 74402,
+        "Level": 22,
+        "StatusType": 99,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 74402,
+        "Level": 18,
+        "StatusType": 2,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 74402,
+        "Level": 8,
+        "StatusType": 5,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 74402,
+        "Level": 4,
+        "StatusType": 2,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 74402,
+        "Level": 2,
+        "StatusType": 5,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 74402,
+        "Level": 26,
+        "StatusType": 5,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 74402,
+        "Level": 38,
+        "StatusType": 2,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 74402,
+        "Level": 50,
+        "StatusType": 99,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 74402,
+        "Level": 46,
+        "StatusType": 5,
+        "Value": 5
+      }
+    ],
+    "MCharacterGearStatusBonuses": [
+      {
+        "MCharacterId": 74402,
+        "Level": 2,
+        "StatusType": 2,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 74402,
+        "Level": 4,
+        "StatusType": 2,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 74402,
+        "Level": 19,
+        "StatusType": 99,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 74402,
+        "Level": 7,
+        "StatusType": 5,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 74402,
+        "Level": 8,
+        "StatusType": 2,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 74402,
+        "Level": 9,
+        "StatusType": 99,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 74402,
+        "Level": 18,
+        "StatusType": 2,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 74402,
+        "Level": 17,
+        "StatusType": 5,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 74402,
+        "Level": 14,
+        "StatusType": 99,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 74402,
+        "Level": 3,
+        "StatusType": 5,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 74402,
+        "Level": 12,
+        "StatusType": 5,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 74402,
+        "Level": 13,
+        "StatusType": 2,
+        "Value": 10
+      }
+    ],
+    "MCharacterScenes": [
+      {
+        "MCharacterId": 74402,
+        "KizunaRank": 10,
+        "MSceneId": 17440203
+      },
+      {
+        "MCharacterId": 74402,
+        "KizunaRank": 8,
+        "MSceneId": 17440202
+      },
+      {
+        "MCharacterId": 74402,
+        "KizunaRank": 2,
+        "MSceneId": 27440204
+      },
+      {
+        "MCharacterId": 74402,
+        "KizunaRank": 6,
+        "MSceneId": 27440206
+      },
+      {
+        "MCharacterId": 74402,
+        "KizunaRank": 4,
+        "MSceneId": 17440201
+      }
+    ],
+    "ModelId": 74402,
+    "MEventAbilities": [
+      {
+        "Name": "【期間限定】緋色の涙と祝福の鉱石Ⅲ",
+        "Description": "期間中「緋色の涙と祝福の鉱石」で以下の効果を得る\r\n・能力上昇量3倍\r\n・スキル熟練度上昇率3倍\r\n・HPの成長可能上限が上昇\r\n・褒章と戦功のドロップ量が30%アップ\r\nメインクエストでの能力上昇量が2倍になる",
+        "Types": [],
+        "StartDate": "2023-02-28T14:10:00",
+        "EndDate": "2023-03-10T23:59:59"
+      }
+    ],
+    "Greeting": "My name is Stia.\nI was born and raised in a mine, where I lived with my father and five brothers.\nMy dream is to be a mother like my mother!\nI also want to be a good swimmer though.",
     "ReplacementNormalAttackMSkillId": null
   },
   {
@@ -104537,7 +105264,7 @@
       "Profile": "わたしはイリスメトロの五大国に存在するすべての海を調査し, 把握し, /n管理する『国際水路機構』の長官の娘よん。/n単なる管理人で, べつに特別な権限があるわけじゃないけどねん。/n長官の地位を継ぐ気もないし～, 適当に遊んで暮らせれば本望よん。",
       "Like": "恋バナ, 娯楽",
       "DisLike": "努力, 陰口",
-      "CharacterSkill": "水泳, 魔術",
+      "CharacterSkill": "Swimming, 魔術",
       "Pros": "器用な世渡り上手",
       "Cons": "真面目に努力をしない",
       "Race": "Human",
@@ -104759,12 +105486,12 @@
     ],
     "ModelId": 100201,
     "MEventAbilities": [],
-    "Greeting": "ＭFlamarineからの留学生, モンテカルロよん♪\n何か無理やり水泳部に入部させられたんだけど……。地上のFlamarine人, だいたい変なテンションな気がするわん……。\nわたしは常識人だから, どうか安心してねん？",
+    "Greeting": "ＭFlamarineからの留学生, モンテカルロよん♪\n何か無理やりSwimming部に入部させられたんだけど……。地上のFlamarine人, だいたい変なテンションな気がするわん……。\nわたしは常識人だから, どうか安心してねん？",
     "ReplacementNormalAttackMSkillId": null
   },
   {
     "Id": 100301,
-    "Name": "[お気楽水泳部]",
+    "Name": "[お気楽Swimming部]",
     "Description": null,
     "CharacterType": 1,
     "MCharacterBaseId": 100,
@@ -104791,7 +105518,7 @@
       "Profile": "わたしはイリスメトロの五大国に存在するすべての海を調査し, 把握し, /n管理する『国際水路機構』の長官の娘よん。/n単なる管理人で, べつに特別な権限があるわけじゃないけどねん。/n長官の地位を継ぐ気もないし～, 適当に遊んで暮らせれば本望よん。",
       "Like": "恋バナ, 娯楽",
       "DisLike": "努力, 陰口",
-      "CharacterSkill": "水泳, 魔術",
+      "CharacterSkill": "Swimming, 魔術",
       "Pros": "器用な世渡り上手",
       "Cons": "真面目に努力をしない",
       "Race": "Human",
@@ -105045,7 +105772,7 @@
       "Profile": "わたしはイリスメトロの五大国に存在するすべての海を調査し, 把握し, /n管理する『国際水路機構』の長官の娘よん。/n単なる管理人で, べつに特別な権限があるわけじゃないけどねん。/n長官の地位を継ぐ気もないし～, 適当に遊んで暮らせれば本望よん。",
       "Like": "恋バナ, 娯楽",
       "DisLike": "努力, 陰口",
-      "CharacterSkill": "水泳, 魔術",
+      "CharacterSkill": "Swimming, 魔術",
       "Pros": "器用な世渡り上手",
       "Cons": "真面目に努力をしない",
       "Race": "Human",
@@ -105272,7 +105999,7 @@
     ],
     "ModelId": 100401,
     "MEventAbilities": [],
-    "Greeting": "ぱーっと楽しいことしたいなら, わたしにお任せなのよん！\nこのモンテカルロが車掌先輩にカジノにカラオケ, ボウリング, ありとあらゆる遊びをレクチャーしてあげるわん。\nえ？　水泳？　楽しく泳ぐ感じでよければ教えてもいいけど……暑苦しいのは勘弁してねん？",
+    "Greeting": "ぱーっと楽しいことしたいなら, わたしにお任せなのよん！\nこのモンテカルロが車掌先輩にカジノにカラオケ, ボウリング, ありとあらゆる遊びをレクチャーしてあげるわん。\nえ？　Swimming？　楽しく泳ぐ感じでよければ教えてもいいけど……暑苦しいのは勘弁してねん？",
     "ReplacementNormalAttackMSkillId": null
   },
   {
@@ -142382,7 +143109,7 @@
       "BackImageUri": "StIris",
       "Birthday": "08/22",
       "Profile": "ネネさまは『白鯨』のお腹のなかにあった小国家で, 『女神』として信仰されてたですよ。/n今は色々あってＭSt. Irisでパティシエとして働いてるですが, 何もないところから無限にお砂糖を生成する, という奇跡を起こせるです！ えへんえへん♪",
-      "Like": "砂糖, お菓子作り, 太ったひと, 水泳",
+      "Like": "砂糖, お菓子作り, 太ったひと, Swimming",
       "DisLike": "飢餓, ダイエット, クジラを嫌うひと",
       "CharacterSkill": "砂糖を無限に生成でき, それで美味しいお菓子がつくれる",
       "Pros": "苦しんでいるひとを無償で救おうとするところ",
@@ -142636,7 +143363,7 @@
       "BackImageUri": "StIris",
       "Birthday": "08/22",
       "Profile": "ネネさまは『白鯨』のお腹のなかにあった小国家で, 『女神』として信仰されてたですよ。/n今は色々あってＭSt. Irisでパティシエとして働いてるですが, 何もないところから無限にお砂糖を生成する, という奇跡を起こせるです！ えへんえへん♪",
-      "Like": "砂糖, お菓子作り, 太ったひと, 水泳",
+      "Like": "砂糖, お菓子作り, 太ったひと, Swimming",
       "DisLike": "飢餓, ダイエット, クジラを嫌うひと",
       "CharacterSkill": "砂糖を無限に生成でき, それで美味しいお菓子がつくれる",
       "Pros": "苦しんでいるひとを無償で救おうとするところ",
@@ -142890,7 +143617,7 @@
       "BackImageUri": "StIris",
       "Birthday": "08/22",
       "Profile": "ネネさまは『白鯨』のお腹のなかにあった小国家で, 『女神』として信仰されてたですよ。/n今は色々あってＭSt. Irisでパティシエとして働いてるですが, 何もないところから無限にお砂糖を生成する, という奇跡を起こせるです！ えへんえへん♪",
-      "Like": "砂糖, お菓子作り, 太ったひと, 水泳",
+      "Like": "砂糖, お菓子作り, 太ったひと, Swimming",
       "DisLike": "飢餓, ダイエット, クジラを嫌うひと",
       "CharacterSkill": "砂糖を無限に生成でき, それで美味しいお菓子がつくれる",
       "Pros": "苦しんでいるひとを無償で救おうとするところ",
@@ -143663,6 +144390,535 @@
       }
     ],
     "Greeting": "My name is Guernica, and I used to be Lady Fran's attendant.\nI hurried to join you, Shithead Conductor, who boasts of being the weakest in the SSS.\nLet us be acquainted moving forward, Shithead Conductor♪",
+    "ReplacementNormalAttackMSkillId": null
+  },
+  {
+    "Id": 164301,
+    "Name": "[Stylish Boss]",
+    "Description": null,
+    "CharacterType": 2,
+    "MCharacterBaseId": 164,
+    "MCharacterBase": {
+      "Id": 164,
+      "Name": "Byst",
+      "Description": null,
+      "InitialStatus": {
+        "HP": 740,
+        "Strength": 80,
+        "Defence": 70,
+        "Dexterity": 50,
+        "Speed": 60,
+        "Intelligence": 40,
+        "MindDefence": 60,
+        "Mind": 60,
+        "Luck": 50
+      },
+      "WeaponEquipType": 3,
+      "AttributeType": 0,
+      "Country": "フレイマリン",
+      "BackImageUri": "Fraymarine",
+      "Birthday": "09/03",
+	  "Profile": "I am Byst. Like Stia, I come from the same Banská Mines. Unlike Stia though, I don't excavate very deep. My speciality is not digging, but carving. I'm more a gem sculptor. If there's something you want me to make, just let me know. I have confidence in my skills. My fees are steep, but I can make you something good.",
+      "Like": "Jewellery, Hats, Clothing",
+      "DisLike": "Swimming",
+      "CharacterSkill": "Masonry, Other detailed work in general",
+      "Pros": "Dextrous hands, Patient",
+      "Cons": "Not good with honorifics and politeness",
+      "Race": "Human",
+      "Constellation": "Virgo",
+      "Hobby": "Shopping",
+      "ModelId": 164201,
+      "KanaReading": "ビスト"
+    },
+    "CharacterRarity": 3,
+    "MCharacterRarity": {
+      "CharacterRarity": 3,
+      "MaxLevel": 50,
+      "PieceQuantity": 30
+    },
+    "LevelStatus": {
+      "MaxStrength": 3900,
+      "MaxDefence": 4000,
+      "MaxSpeed": 2100,
+      "MaxDexterity": 2300,
+      "MaxIntelligence": 2100,
+      "MaxMindDefence": 4000,
+      "MaxMind": 4200,
+      "MaxLuck": 3900,
+      "MinStrength": 2000,
+      "MinDefence": 1700,
+      "MinSpeed": 1100,
+      "MinDexterity": 1200,
+      "MinIntelligence": 1200,
+      "MinMindDefence": 1700,
+      "MinMind": 1900,
+      "MinLuck": 1700
+    },
+    "AttributeResistGroup": {
+      "Blade": 30,
+      "Impact": -50,
+      "Pierce": 0,
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Light": 0,
+      "Dark": 0
+    },
+    "MSkill1Id": 103020073,
+    "MSkill2Id": 103020028,
+    "MSkill3Id": 103020039,
+    "SpecialMSkillId": null,
+    "AbilityMSkill1Id": 202050031,
+    "AbilityMSkill2Id": 202010059,
+    "AbilityMSkill3Id": 201020082,
+    "StatusInflation": {
+      "HP": 1,
+      "Strength": 1,
+      "Defence": 2,
+      "Dexterity": 1,
+      "Speed": 1,
+      "Intelligence": 1,
+      "MindDefence": 1,
+      "Mind": 1,
+      "Luck": 1
+    },
+    "RP": 5,
+    "MCharacterStatusBonuses": [
+      {
+        "MCharacterId": 164301,
+        "Level": 2,
+        "StatusType": 5,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 164301,
+        "Level": 50,
+        "StatusType": 99,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 164301,
+        "Level": 46,
+        "StatusType": 5,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 164301,
+        "Level": 38,
+        "StatusType": 2,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 164301,
+        "Level": 34,
+        "StatusType": 5,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 164301,
+        "Level": 26,
+        "StatusType": 5,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 164301,
+        "Level": 22,
+        "StatusType": 99,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 164301,
+        "Level": 18,
+        "StatusType": 2,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 164301,
+        "Level": 8,
+        "StatusType": 5,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 164301,
+        "Level": 4,
+        "StatusType": 2,
+        "Value": 20
+      }
+    ],
+    "MCharacterGearStatusBonuses": [
+      {
+        "MCharacterId": 164301,
+        "Level": 7,
+        "StatusType": 7,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 164301,
+        "Level": 8,
+        "StatusType": 3,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 164301,
+        "Level": 9,
+        "StatusType": 99,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 164301,
+        "Level": 12,
+        "StatusType": 7,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 164301,
+        "Level": 19,
+        "StatusType": 99,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 164301,
+        "Level": 14,
+        "StatusType": 99,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 164301,
+        "Level": 17,
+        "StatusType": 7,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 164301,
+        "Level": 18,
+        "StatusType": 3,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 164301,
+        "Level": 4,
+        "StatusType": 3,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 164301,
+        "Level": 13,
+        "StatusType": 3,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 164301,
+        "Level": 3,
+        "StatusType": 7,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 164301,
+        "Level": 2,
+        "StatusType": 3,
+        "Value": 5
+      }
+    ],
+    "MCharacterScenes": [
+      {
+        "MCharacterId": 164301,
+        "KizunaRank": 10,
+        "MSceneId": 116430103
+      },
+      {
+        "MCharacterId": 164301,
+        "KizunaRank": 4,
+        "MSceneId": 116430101
+      },
+      {
+        "MCharacterId": 164301,
+        "KizunaRank": 8,
+        "MSceneId": 116430102
+      },
+      {
+        "MCharacterId": 164301,
+        "KizunaRank": 2,
+        "MSceneId": 216430104
+      }
+    ],
+    "ModelId": 164301,
+    "MEventAbilities": [
+      {
+        "Name": "【期間限定】緋色の涙と祝福の鉱石Ⅱ",
+        "Description": "期間中「緋色の涙と祝福の鉱石」で以下の効果を得る\r\n・能力上昇量3倍\r\n・スキル熟練度上昇率3倍\r\n・HPの成長可能上限が上昇\r\n・褒章と戦功のドロップ量が15%アップ\r\nメインクエストでの能力上昇量が2倍になる",
+        "Types": [],
+        "StartDate": "2023-02-28T14:10:00",
+        "EndDate": "2023-03-10T23:59:59"
+      }
+    ],
+    "Greeting": "From Flamarine, Bist here, nice to meet you!\nWhen I was in the mines, I used to work with stones.\nI'm particularly good at processing gemstones, so if Conductor has any gemstones you're interested in, let me know. \nI'll make Conductor look fashionable.",
+    "ReplacementNormalAttackMSkillId": null
+  },
+  {
+    "Id": 164401,
+    "Name": "[Job For Two Only]",
+    "Description": null,
+    "CharacterType": 1,
+    "MCharacterBaseId": 164,
+    "MCharacterBase": {
+      "Id": 164,
+      "Name": "Byst",
+      "Description": null,
+      "InitialStatus": {
+        "HP": 740,
+        "Strength": 80,
+        "Defence": 70,
+        "Dexterity": 50,
+        "Speed": 60,
+        "Intelligence": 40,
+        "MindDefence": 60,
+        "Mind": 60,
+        "Luck": 50
+      },
+      "WeaponEquipType": 3,
+      "AttributeType": 0,
+      "Country": "フレイマリン",
+      "BackImageUri": "Fraymarine",
+      "Birthday": "09/03",
+      "Profile": "I am Byst. Like Stia, I come from the same Banská Mines. Unlike Stia though, I don't excavate very deep. My speciality is not digging, but carving. I'm more a gem sculptor. If there's something you want me to make, just let me know. I have confidence in my skills. My fees are steep, but I can make you something good.",
+      "Like": "Jewellery, Hats, Clothing",
+      "DisLike": "Swimming",
+      "CharacterSkill": "Masonry, Other detailed work in general",
+      "Pros": "Dextrous hands, Patient",
+      "Cons": "Not good with honorifics and politeness",
+      "Race": "Human",
+      "Constellation": "Virgo",
+      "Hobby": "Shopping",
+      "ModelId": 164201,
+      "KanaReading": "ビスト"
+    },
+    "CharacterRarity": 4,
+    "MCharacterRarity": {
+      "CharacterRarity": 4,
+      "MaxLevel": 50,
+      "PieceQuantity": 50
+    },
+    "LevelStatus": {
+      "MaxStrength": 7400,
+      "MaxDefence": 6200,
+      "MaxSpeed": 3900,
+      "MaxDexterity": 4200,
+      "MaxIntelligence": 3500,
+      "MaxMindDefence": 5400,
+      "MaxMind": 6000,
+      "MaxLuck": 5000,
+      "MinStrength": 3600,
+      "MinDefence": 3100,
+      "MinSpeed": 1900,
+      "MinDexterity": 2100,
+      "MinIntelligence": 2100,
+      "MinMindDefence": 3100,
+      "MinMind": 3400,
+      "MinLuck": 3100
+    },
+    "AttributeResistGroup": {
+      "Blade": 40,
+      "Impact": -40,
+      "Pierce": 20,
+      "Fire": 0,
+      "Water": 0,
+      "Wind": 0,
+      "Light": 0,
+      "Dark": 0
+    },
+    "MSkill1Id": 103020032,
+    "MSkill2Id": 103020091,
+    "MSkill3Id": 103020092,
+    "SpecialMSkillId": 6164401,
+    "AbilityMSkill1Id": 201020361,
+    "AbilityMSkill2Id": 201010306,
+    "AbilityMSkill3Id": 201020104,
+    "StatusInflation": {
+      "HP": 1,
+      "Strength": 1,
+      "Defence": 1,
+      "Dexterity": 2,
+      "Speed": 2,
+      "Intelligence": 1,
+      "MindDefence": 1,
+      "Mind": 1,
+      "Luck": 1
+    },
+    "RP": 6,
+    "MCharacterStatusBonuses": [
+      {
+        "MCharacterId": 164401,
+        "Level": 26,
+        "StatusType": 5,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 164401,
+        "Level": 46,
+        "StatusType": 5,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 164401,
+        "Level": 38,
+        "StatusType": 2,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 164401,
+        "Level": 34,
+        "StatusType": 5,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 164401,
+        "Level": 22,
+        "StatusType": 99,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 164401,
+        "Level": 18,
+        "StatusType": 2,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 164401,
+        "Level": 8,
+        "StatusType": 5,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 164401,
+        "Level": 4,
+        "StatusType": 2,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 164401,
+        "Level": 2,
+        "StatusType": 5,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 164401,
+        "Level": 50,
+        "StatusType": 99,
+        "Value": 10
+      }
+    ],
+    "MCharacterGearStatusBonuses": [
+      {
+        "MCharacterId": 164401,
+        "Level": 4,
+        "StatusType": 2,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 164401,
+        "Level": 7,
+        "StatusType": 5,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 164401,
+        "Level": 8,
+        "StatusType": 2,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 164401,
+        "Level": 17,
+        "StatusType": 5,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 164401,
+        "Level": 12,
+        "StatusType": 5,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 164401,
+        "Level": 13,
+        "StatusType": 2,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 164401,
+        "Level": 14,
+        "StatusType": 99,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 164401,
+        "Level": 3,
+        "StatusType": 5,
+        "Value": 10
+      },
+      {
+        "MCharacterId": 164401,
+        "Level": 9,
+        "StatusType": 99,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 164401,
+        "Level": 2,
+        "StatusType": 2,
+        "Value": 5
+      },
+      {
+        "MCharacterId": 164401,
+        "Level": 18,
+        "StatusType": 2,
+        "Value": 20
+      },
+      {
+        "MCharacterId": 164401,
+        "Level": 19,
+        "StatusType": 99,
+        "Value": 20
+      }
+    ],
+    "MCharacterScenes": [
+      {
+        "MCharacterId": 164401,
+        "KizunaRank": 4,
+        "MSceneId": 116440101
+      },
+      {
+        "MCharacterId": 164401,
+        "KizunaRank": 8,
+        "MSceneId": 116440102
+      },
+      {
+        "MCharacterId": 164401,
+        "KizunaRank": 10,
+        "MSceneId": 116440103
+      },
+      {
+        "MCharacterId": 164401,
+        "KizunaRank": 2,
+        "MSceneId": 216440104
+      },
+      {
+        "MCharacterId": 164401,
+        "KizunaRank": 6,
+        "MSceneId": 216440106
+      }
+    ],
+    "ModelId": 164401,
+    "MEventAbilities": [
+      {
+        "Name": "【期間限定】緋色の涙と祝福の鉱石Ⅲ",
+        "Description": "期間中「緋色の涙と祝福の鉱石」で以下の効果を得る\r\n・能力上昇量3倍\r\n・スキル熟練度上昇率3倍\r\n・HPの成長可能上限が上昇\r\n・褒章と戦功のドロップ量が30%アップ\r\nメインクエストでの能力上昇量が2倍になる",
+        "Types": [],
+        "StartDate": "2023-02-28T14:10:00",
+        "EndDate": "2023-03-10T23:59:59"
+      }
+    ],
+    "Greeting": "I am Byst. I'm good at processing ores and gems.\nI also like to make girls look cute.\nThe trick is to coordinate them in a way that brings out the best in them.\nIf you want to know more about cute clothes and accessories, feel free to talk to me.",
     "ReplacementNormalAttackMSkillId": null
   }
 ]
