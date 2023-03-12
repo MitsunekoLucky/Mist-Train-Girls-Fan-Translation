@@ -20,7 +20,7 @@
             "MBattalionAreaMissionViewModels": [
                 {
                     "Id": 1,
-                    "Description": "3\u30bf\u30fc\u30f3\u4ee5\u5185\u306b\u968e\u5c64\u3092\u30af\u30ea\u30a2",
+                    "Description": "Clear the level within 3 turns",
                     "MBattalionAreaMissionRewardGroupViewModel": {
                         "Id": 2,
                         "Rewards": [
@@ -34,7 +34,7 @@
                 },
                 {
                     "Id": 2,
-                    "Description": "A\u30e9\u30f3\u30af\u4ee5\u4e0a\u30922\u56de\u9054\u6210",
+                    "Description": "Reach rank A or higher 2 times",
                     "MBattalionAreaMissionRewardGroupViewModel": {
                         "Id": 1,
                         "Rewards": [
@@ -48,7 +48,7 @@
                 },
                 {
                     "Id": 3,
-                    "Description": "\u5927\u968a\u6226\u30a8\u30cd\u30df\u30fc\u30923\u4f53\u4ee5\u4e0a\u8a0e\u4f10\u3059\u308b",
+                    "Description": "Defeat 3 or more large enemy battalions (?)",
                     "MBattalionAreaMissionRewardGroupViewModel": {
                         "Id": 1,
                         "Rewards": [
@@ -63,7 +63,7 @@
             ]
         },
         "RecommendPower": 20000,
-        "RecommendAttribute": "\u885d/\u706b/\u5149",
+        "RecommendAttribute": "Thrust (?) / Fire / Light",
         "PrevMBattalionAreaIds": [],
         "MBattalionEnemyViewModels": [
             {
@@ -78,15 +78,15 @@
                     "MBattalionQuestMissionViewModels": [
                         {
                             "Id": 1,
-                            "Description": "\u30d0\u30c8\u30eb\u7d42\u4e86\u6642\u3001\u6226\u95d8\u4e0d\u80fd\u30ec\u30a4\u30e4\u30fc\u304c1\u4f53\u4ee5\u4e0b"
+                            "Description": "There is 1 or less layer unable to fight at the end of the battle"
                         },
                         {
                             "Id": 2,
-                            "Description": "\u30af\u30a8\u30b9\u30c8\u30af\u30ea\u30a2\u30bf\u30fc\u30f310\u30bf\u30fc\u30f3\u4ee5\u5185"
+                            "Description": "The Turns to Clear Quest (?) counter is 10 or less"
                         },
                         {
                             "Id": 3,
-                            "Description": "\u30ea\u30f3\u30af\u30b9\u30ad\u30eb\u30921\u56de\u4ee5\u4e0a\u767a\u52d5\u3059\u308b"
+                            "Description": "Use a Link Skill 1 or more times"
                         }
                     ]
                 }
@@ -103,15 +103,15 @@
                     "MBattalionQuestMissionViewModels": [
                         {
                             "Id": 1,
-                            "Description": "\u30d0\u30c8\u30eb\u7d42\u4e86\u6642\u3001\u6226\u95d8\u4e0d\u80fd\u30ec\u30a4\u30e4\u30fc\u304c1\u4f53\u4ee5\u4e0b"
+                            "Description": "There is 1 or less layer unable to fight at the end of the battle"
                         },
                         {
                             "Id": 2,
-                            "Description": "\u30af\u30a8\u30b9\u30c8\u30af\u30ea\u30a2\u30bf\u30fc\u30f310\u30bf\u30fc\u30f3\u4ee5\u5185"
+                            "Description": "The Turns to Clear Quest (?) counter is 10 or less"
                         },
                         {
                             "Id": 3,
-                            "Description": "\u30ea\u30f3\u30af\u30b9\u30ad\u30eb\u30921\u56de\u4ee5\u4e0a\u767a\u52d5\u3059\u308b"
+                            "Description": "Use a Link Skill 1 or more times"
                         }
                     ]
                 }
@@ -128,15 +128,15 @@
                     "MBattalionQuestMissionViewModels": [
                         {
                             "Id": 4,
-                            "Description": "\u30d0\u30c8\u30eb\u7d42\u4e86\u6642\u3001\u6226\u95d8\u4e0d\u80fd\u30ec\u30a4\u30e4\u30fc\u304c2\u4f53\u4ee5\u4e0b"
+                            "Description": "There are 2 or less layers unable to fight at the end of the battle"
                         },
                         {
                             "Id": 5,
-                            "Description": "\u30af\u30a8\u30b9\u30c8\u30af\u30ea\u30a2\u30bf\u30fc\u30f315\u30bf\u30fc\u30f3\u4ee5\u5185"
+                            "Description": "The Turns to Clear Quest (?) counter is 15 or less"
                         },
                         {
                             "Id": 6,
-                            "Description": "\u30ea\u30f3\u30af\u30b9\u30ad\u30eb\u30921\u56de\u4ee5\u4e0a\u767a\u52d5\u3059\u308b"
+                            "Description": "Use a Link Skill 1 or more times" 
                         }
                     ]
                 }
@@ -355,7 +355,7 @@
             "MBattalionAreaMissionViewModels": [
                 {
                     "Id": 4,
-                    "Description": "3\u30bf\u30fc\u30f3\u4ee5\u5185\u306b\u968e\u5c64\u3092\u30af\u30ea\u30a2",
+                    "Description": "Clear the level within 3 turns",
                     "MBattalionAreaMissionRewardGroupViewModel": {
                         "Id": 2,
                         "Rewards": [
@@ -369,7 +369,7 @@
                 },
                 {
                     "Id": 5,
-                    "Description": "A\u30e9\u30f3\u30af\u4ee5\u4e0a\u30923\u56de\u9054\u6210",
+                    "Description": "Reach rank A or higher 3 times",
                     "MBattalionAreaMissionRewardGroupViewModel": {
                         "Id": 1,
                         "Rewards": [
@@ -383,7 +383,7 @@
                 },
                 {
                     "Id": 6,
-                    "Description": "\u5927\u968a\u6226\u30a8\u30cd\u30df\u30fc\u30923\u4f53\u4ee5\u4e0a\u8a0e\u4f10\u3059\u308b",
+                    "Description": "Defeat 3 or more large enemy battalions (?)",
                     "MBattalionAreaMissionRewardGroupViewModel": {
                         "Id": 1,
                         "Rewards": [
@@ -398,7 +398,7 @@
             ]
         },
         "RecommendPower": 30000,
-        "RecommendAttribute": "\u8cab/\u98a8/\u95c7",
+        "RecommendAttribute": "Piercing (?) / Wind / Darkness",
         "PrevMBattalionAreaIds": [
             1
         ],
@@ -415,15 +415,15 @@
                     "MBattalionQuestMissionViewModels": [
                         {
                             "Id": 7,
-                            "Description": "\u30d0\u30c8\u30eb\u7d42\u4e86\u6642\u3001\u6226\u95d8\u4e0d\u80fd\u30ec\u30a4\u30e4\u30fc\u304c1\u4f53\u4ee5\u4e0b"
+                            "Description": "There is 1 or less layer unable to fight at the end of the battle"
                         },
                         {
                             "Id": 8,
-                            "Description": "\u30af\u30a8\u30b9\u30c8\u30af\u30ea\u30a2\u30bf\u30fc\u30f310\u30bf\u30fc\u30f3\u4ee5\u5185"
+                            "Description": "The Turns to Clear Quest (?) counter is 10 or less"
                         },
                         {
                             "Id": 9,
-                            "Description": "\u30ea\u30f3\u30af\u30b9\u30ad\u30eb\u30921\u56de\u4ee5\u4e0a\u767a\u52d5\u3059\u308b"
+                            "Description": "Use a Link Skill 1 or more times"
                         }
                     ]
                 }
@@ -440,15 +440,15 @@
                     "MBattalionQuestMissionViewModels": [
                         {
                             "Id": 7,
-                            "Description": "\u30d0\u30c8\u30eb\u7d42\u4e86\u6642\u3001\u6226\u95d8\u4e0d\u80fd\u30ec\u30a4\u30e4\u30fc\u304c1\u4f53\u4ee5\u4e0b"
+                            "Description": "There is 1 or less layer unable to fight at the end of the battle"
                         },
                         {
                             "Id": 8,
-                            "Description": "\u30af\u30a8\u30b9\u30c8\u30af\u30ea\u30a2\u30bf\u30fc\u30f310\u30bf\u30fc\u30f3\u4ee5\u5185"
+                            "Description": "The Turns to Clear Quest (?) counter is 10 or less"
                         },
                         {
                             "Id": 9,
-                            "Description": "\u30ea\u30f3\u30af\u30b9\u30ad\u30eb\u30921\u56de\u4ee5\u4e0a\u767a\u52d5\u3059\u308b"
+                            "Description": "Use a Link Skill 1 or more times" 
                         }
                     ]
                 }
@@ -465,15 +465,15 @@
                     "MBattalionQuestMissionViewModels": [
                         {
                             "Id": 7,
-                            "Description": "\u30d0\u30c8\u30eb\u7d42\u4e86\u6642\u3001\u6226\u95d8\u4e0d\u80fd\u30ec\u30a4\u30e4\u30fc\u304c1\u4f53\u4ee5\u4e0b"
+                            "Description": "There is 1 or less layer unable to fight at the end of the battle"
                         },
                         {
                             "Id": 8,
-                            "Description": "\u30af\u30a8\u30b9\u30c8\u30af\u30ea\u30a2\u30bf\u30fc\u30f310\u30bf\u30fc\u30f3\u4ee5\u5185"
+                            "Description": "The Turns to Clear Quest (?) counter is 10 or less"
                         },
                         {
                             "Id": 9,
-                            "Description": "\u30ea\u30f3\u30af\u30b9\u30ad\u30eb\u30921\u56de\u4ee5\u4e0a\u767a\u52d5\u3059\u308b"
+                            "Description": "Use a Link Skill 1 or more times" 
                         }
                     ]
                 }
@@ -876,7 +876,7 @@
             "MBattalionAreaMissionViewModels": [
                 {
                     "Id": 7,
-                    "Description": "3\u30bf\u30fc\u30f3\u4ee5\u5185\u306b\u968e\u5c64\u3092\u30af\u30ea\u30a2",
+                    "Description": "Clear the level within 3 turns",
                     "MBattalionAreaMissionRewardGroupViewModel": {
                         "Id": 2,
                         "Rewards": [
@@ -890,7 +890,7 @@
                 },
                 {
                     "Id": 8,
-                    "Description": "A\u30e9\u30f3\u30af\u4ee5\u4e0a\u30923\u56de\u9054\u6210",
+                    "Description": "Reach rank A or higher 3 times",
                     "MBattalionAreaMissionRewardGroupViewModel": {
                         "Id": 1,
                         "Rewards": [
@@ -904,7 +904,7 @@
                 },
                 {
                     "Id": 9,
-                    "Description": "\u5927\u968a\u6226\u30a8\u30cd\u30df\u30fc\u30923\u4f53\u4ee5\u4e0a\u8a0e\u4f10\u3059\u308b",
+                    "Description": "Defeat 3 or more large enemy battalions (?)",
                     "MBattalionAreaMissionRewardGroupViewModel": {
                         "Id": 1,
                         "Rewards": [
@@ -919,7 +919,7 @@
             ]
         },
         "RecommendPower": 40000,
-        "RecommendAttribute": "\u5203/\u6c34/\u98a8",
+        "RecommendAttribute": "Slashing (?) / Water / Wind",
         "PrevMBattalionAreaIds": [
             2
         ],
