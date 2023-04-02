@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u300e\u6249\u300f\u306e\u4e2d\u306b\u5165\u3063\u3066\u3059\u3050\u3001\u3053\u306e\u5834\u6240\u3067\u6226\u3044\\n\u5b88\u308a\u7d9a\u3051\u3066\u304f\u308c\u305f\u30e1\u30a2\u30ea\u30fc\u30fb\u30ed\u30fc\u30ba\u30ac\u30fc\u30c7\u30f3\u3068\u518d\u4f1a\u3057\u305f\u3002",
+    "Phrase": "『扉』の中に入ってすぐ、この場所で戦い\\n守り続けてくれたメアリー・ローズガーデンと再会した。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u300e\u5916\u306e\u90e8\u968a\u300f\u306b\u5354\u529b\u3059\u308b\u3053\u3068\u306b\u306a\u308a\u3001\\n\u73fe\u72b6\u306f\u5354\u529b\u8005\u3068\u3044\u3046\u304b\u305f\u3061\u3067\u5473\u65b9\u95a2\u4fc2\u306b\u3042\u308b\u306f\u305a\u306a\u306e\u3060\u304c\u3001\\n\u4f55\u3092\u601d\u3063\u305f\u306e\u304b\u7a81\u7136\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2\u304c\u30e1\u30a2\u30ea\u30fc\u3092\u80cc\u5f8c\u304b\u3089\u523a\u3057\u305f\u306e\u3067\u3042\u308b\u3002",
+    "Phrase": "『外の部隊』に協力することになり、\\n現状は協力者というかたちで味方関係にあるはずなのだが、\\n何を思ったのか突然ブラックフライアがメアリーを背後から刺したのである。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,21 +46,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30e1\u30a2\u30ea\u30fc",
-    "Phrase": "\u300c\u30b0\u30c3\u2026\u2026\u300d",
+    "Name": "メアリー",
+    "Phrase": "「グッ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -73,30 +75,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 13,
         "Position": 3,
         "Action": 0,
         "Emotion": 2,
         "FacialExpression": 4,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30e1\u30a2\u30ea\u30fc",
-    "Phrase": "\u300c\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2\u3001\u8cb4\u69d8\u3001\u601d\u3044\u5207\u308a\u523a\u3057\u305f\u306a\u2026\u2026\u300d",
+    "Name": "メアリー",
+    "Phrase": "「ブラックフライア、貴様、思い切り刺したな……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -110,30 +112,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 13,
         "Position": 3,
         "Action": 2,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u3042\u3089\u3001\u601d\u3063\u3066\u305f\u3088\u308a\u75db\u304c\u3063\u3066\u308b\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「あら、思ってたより痛がってる」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -147,30 +149,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u305d\u306e\u7a0b\u5ea6\u3067\u75db\u304c\u308b\u306a\u3093\u3066\u8a13\u7df4\u304c\u8db3\u308a\u306a\u3044\u308f\u306d\u3002\\n\u3000\u300e\u5916\u306e\u90e8\u968a\u300f\u306e\u968a\u54e1\u306f\u3001\u305d\u306e\u7a0b\u5ea6\u306e\u50b7\u306a\u3089\\n\u3000\u4f55\u3066\u3053\u3068\u306a\u3044\u3063\u3066\u9854\u3057\u3066\u5e7b\u9727\u306e\u4e2d\u306b\u5165\u3063\u3066\u3044\u304f\u308f\u3088\uff1f\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「その程度で痛がるなんて訓練が足りないわね。\\n　『外の部隊』の隊員は、その程度の傷なら\\n　何てことないって顔して幻霧の中に入っていくわよ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -184,30 +186,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2\u3055\u3093\uff01\\n\u3000\u3069\u3046\u3057\u3066\u3053\u3093\u306a\u3072\u3069\u3044\u3053\u3068\u3059\u308b\u3093\u3067\u3059\u304b\uff01\\n\u3000\u5473\u65b9\u3092\u5263\u3067\u523a\u3059\u306a\u3093\u3066\u7d76\u5bfe\u306b\u8a31\u3055\u308c\u306a\u3044\u884c\u70ba\u3067\u3059\u3088\uff01\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「ブラックフライアさん！\\n　どうしてこんなひどいことするんですか！\\n　味方を剣で刺すなんて絶対に許されない行為ですよ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -221,30 +223,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u3044\u3044\u304b\u3089\u3042\u306a\u305f\u306f\u3068\u3063\u3068\u3068\u305d\u306e\u5973\u304b\u3089\u96e2\u308c\u306a\u3055\u3044\uff01\\n\u3000\u305d\u308c\u4ee5\u4e0a\u8fd1\u3065\u3044\u305f\u3089\u9996\u3092\u520e\u306d\u3089\u308c\u3066\u6b7b\u306c\u308f\u3088\uff01\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「いいからあなたはとっととその女から離れなさい！\\n　それ以上近づいたら首を刎ねられて死ぬわよ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -258,30 +260,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u306a\u3063\u2026\u2026\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「なっ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -295,30 +297,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30e1\u30a2\u30ea\u30fc",
-    "Phrase": "\u300c\u2026\u2026\u30c1\u30c3\u3001\u898b\u629c\u304b\u308c\u3066\u3044\u305f\u304b\u3002\\n\u3000\u3060\u304c\u3053\u306e\u8ddd\u96e2\u306a\u3089\u3084\u308c\u308b\uff01\u300d",
+    "Name": "メアリー",
+    "Phrase": "「……チッ、見抜かれていたか。\\n　だがこの距離ならやれる！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -332,30 +334,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 13,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30e1\u30a2\u30ea\u30fc",
-    "Phrase": "\u300c\u2026\u2026\u30c3\uff01\u300d",
+    "Name": "メアリー",
+    "Phrase": "「……ッ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -369,30 +371,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 13,
         "Position": 3,
         "Action": 7,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u3048\u3063\uff1f\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「えっ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -406,21 +408,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u3042\u306a\u305f\u306f\u4eba\u306b\u5316\u3051\u308b\u9b54\u7269\uff1f\\n\u3000\u305d\u308c\u3068\u3082\u4eba\u306b\u5e7b\u60f3\u3092\u898b\u305b\u308b\u9b54\u7269\uff1f\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「あなたは人に化ける魔物？\\n　それとも人に幻想を見せる魔物？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -434,30 +437,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u79c1\u306e\u4e88\u60f3\u3067\u306f\u524d\u8005\u306d\u3002\\n\u3000\u3053\u3046\u3057\u3066\u76f4\u63a5\u5203\u304c\u901a\u308b\u306e\u306f\u3001\u672c\u4f53\u3067\u3042\u308b\u3068\u3044\u3046\u53ef\u80fd\u6027\u304c\u9ad8\u3044\u3002\\n\u3000\u3082\u3061\u308d\u3093\u3001\u305d\u3046\u3058\u3083\u306a\u3044\u5834\u5408\u3082\u3042\u308b\u3051\u3069\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「私の予想では前者ね。\\n　こうして直接刃が通るのは、本体であるという可能性が高い。\\n　もちろん、そうじゃない場合もあるけど」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -471,30 +474,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u3069\u3061\u3089\u306b\u305b\u3088\u3001\u4e0d\u5b8c\u5168\u3060\u308f\u3002\\n\u3000\u4eba\u9593\u3092\u3042\u307e\u308a\u8210\u3081\u306a\u3044\u307b\u3046\u304c\u3044\u3044\u308f\u3088\uff1f\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「どちらにせよ、不完全だわ。\\n　人間をあまり舐めないほうがいいわよ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -508,30 +511,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u30e1\u30a2\u30ea\u30fc\u30fb\u30ed\u30fc\u30ba\u30ac\u30fc\u30c7\u30f3\u304c\u5263\u3092\u596a\u308f\u308c\u308b\u308f\u3051\u304c\u306a\u3044\u3002\\n\u3000\u624b\u52a0\u6e1b\u3057\u305f\u79c1\u306e\u653b\u6483\u3092\u307e\u3068\u3082\u306b\u304f\u3089\u3046\u308f\u3051\u304c\u306a\u3044\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「メアリー・ローズガーデンが剣を奪われるわけがない。\\n　手加減した私の攻撃をまともにくらうわけがない」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -545,30 +548,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u30e1\u30a2\u30ea\u30fc",
-    "Phrase": "\u300c\u304f\u3063\u2026\u2026\u300d",
+    "Name": "メアリー",
+    "Phrase": "「くっ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -582,30 +585,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 13,
         "Position": 3,
         "Action": 8,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u30e1\u30a2\u30ea\u30fc\u30fb\u30ed\u30fc\u30ba\u30ac\u30fc\u30c7\u30f3\u306f\u306f\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4\u306e\u305f\u3081\u306b\\n\u3000\u5df1\u306e\u4fe1\u5ff5\u3092\u66f2\u3052\u308b\u3053\u3068\u306f\u306a\u3044\u3002\u8ff7\u3044\u3082\u3057\u306a\u3044\u3002\\n\u3000\u300e\u4e00\u7dd2\u306b\u3044\u3089\u308c\u308b\u304b\u3082\u300f\uff1f\u3000\u305d\u3093\u306a\u7518\u3044\u8003\u3048\u306f\u6301\u3063\u3066\u3044\u306a\u3044\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「メアリー・ローズガーデンははクインズウェイのために\\n　己の信念を曲げることはない。迷いもしない。\\n　『一緒にいられるかも』？　そんな甘い考えは持っていない」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -619,30 +622,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u78ba\u304b\u306b\u3002\\n\u3000\u5f7c\u5973\u304c\u3042\u3093\u306a\u3053\u3068\u8a00\u3046\u306f\u305a\u304c\u306a\u3044\u2026\u2026\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「確かに。\\n　彼女があんなこと言うはずがない……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -656,30 +659,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 3,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u305d\u308c\u306b\u306d\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「それにね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -693,30 +696,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u5b9a\u6642\u9023\u7d61\u304c\u51fa\u6765\u306a\u304b\u3063\u305f\u7406\u7531\u3092\u5831\u544a\u305b\u305a\u3001\\n\u3000\u79c1\u306e\u3053\u3068\u3092\u7121\u8996\u3057\u3066\u4ed6\u306e\u4eba\u3068\u8ac7\u7b11\u3059\u308b\u306a\u3093\u3066\u8a31\u3055\u306a\u3044\u3002\\n\u3000\u4eee\u306b\u672c\u7269\u306e\u30e1\u30a2\u30ea\u30fc\u304c\u76f8\u624b\u3067\u3082\u3001\u5bb9\u8d66\u306a\u304f\u653b\u6483\u3057\u305f\u308f\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「定時連絡が出来なかった理由を報告せず、\\n　私のことを無視して他の人と談笑するなんて許さない。\\n　仮に本物のメアリーが相手でも、容赦なく攻撃したわ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -730,30 +733,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u3068\u3044\u3046\u308f\u3051\u3067\u3001\u3055\u3088\u3046\u306a\u3089\u266a\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「というわけで、さようなら♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -767,30 +770,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u30e2\u30f3\u30b9\u30bf\u30fc\u2026\u2026\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「モンスター……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -804,30 +807,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 13,
         "Position": 3,
         "Action": 4,
         "Emotion": 0,
         "FacialExpression": 10,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30d7\u30c8\u30e9",
-    "Phrase": "\u300c\u3059\u3054\u3044\u3001\u898b\u305f\u76ee\u3082\u58f0\u3082\u5b8c\u5168\u306b\u305d\u306e\u307e\u3093\u307e\u3060\u3063\u305f\u306e\u306b\u300d",
+    "Name": "プトラ",
+    "Phrase": "「すごい、見た目も声も完全にそのまんまだったのに」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -841,38 +844,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 13201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u305c\u3093\u305c\u3093\u6c17\u3065\u304b\u306a\u304b\u3063\u305f\u2026\u2026\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「ぜんぜん気づかなかった……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -886,30 +889,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u307e\u3042\u3001\u3053\u3093\u306a\u611f\u3058\u3067\u3001\\n\u3000\u6c17\u3065\u3044\u305f\u3089\u6b7b\u3093\u3058\u3083\u3063\u3066\u305f\u3063\u3066\u3044\u3046\u3053\u3068\u304c\u3042\u308b\u304b\u3089\u6ce8\u610f\u3057\u3066\u306d\u3002\\n\u3000\u79c1\u304c\u540c\u884c\u3057\u3066\u3044\u306a\u304b\u3063\u305f\u3089\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4\u306f\u6bba\u3055\u308c\u3066\u305f\u308f\u3088\uff1f\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「まあ、こんな感じで、\\n　気づいたら死んじゃってたっていうことがあるから注意してね。\\n　私が同行していなかったらクインズウェイは殺されてたわよ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -923,30 +926,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u6bba\u3055\u308c\u3066\u305f\u2026\u2026\uff1f\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「殺されてた……？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -960,30 +963,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u305d\u3046\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「そう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -997,30 +1000,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3",
-    "Phrase": "\u300c\u307f\u3093\u306a\u3001\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u624b\u5148\u3092\u898b\u3066\uff01\u300d",
+    "Name": "ヴィヴィアン",
+    "Phrase": "「みんな、モンスターの手先を見て！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1034,30 +1037,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 35201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u606f\u7d76\u3048\u305f\u9b54\u7269\u306e\u4ea1\u9ab8\u3092\u898b\u308b\u3068\u3001\\n\u5148\u307b\u3069\u307e\u3067\u30e1\u30a2\u30ea\u30fc\u306e\u3082\u306e\u3060\u3063\u305f\u53f3\u8155\u304c\\n\u304a\u305e\u307e\u3057\u3044\u7363\u306e\u305d\u308c\u306b\u5909\u5316\u3057\u3066\u3044\u305f\u3002",
+    "Phrase": "息絶えた魔物の亡骸を見ると、\\n先ほどまでメアリーのものだった右腕が\\nおぞましい獣のそれに変化していた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1071,30 +1074,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 10,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2026\u2026\u3044\u3084\u3001\u5909\u5316\u306e\u8853\u304c\u89e3\u3051\u305f\u3001\u3068\u3044\u3046\u306e\u304c\u6b63\u3057\u3044\u304b\u3002",
+    "Phrase": "……いや、変化の術が解けた、というのが正しいか。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1108,30 +1111,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 10,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
-    "Name": "\u30e8\u30b7\u30ce",
-    "Phrase": "\u300c\u8853\u304c\u89e3\u3051\u3066\u3082\u3068\u306e\u3059\u304c\u305f\u306b\u623b\u3063\u3066\u3044\u3063\u3066\u308b\u3002\\n\u3000\u308a\u3063\u3071\u306a\u304b\u304e\u722a\u306b\u592a\u3044\u8155\u3002\\n\u3000\u3053\u3093\u306a\u306e\u306b\u653b\u6483\u3055\u308c\u305f\u3089\u3001\u3059\u3071\u3063\u3068\u9996\u304c\u3068\u3093\u3058\u3083\u3044\u305d\u3046\u300d",
+    "Name": "ヨシノ",
+    "Phrase": "「術が解けてもとのすがたに戻っていってる。\\n　りっぱなかぎ爪に太い腕。\\n　こんなのに攻撃されたら、すぱっと首がとんじゃいそう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1145,38 +1148,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 20201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u30e4\u30c4\u306f\u653b\u6483\u306e\u9593\u5408\u3044\u306b\u5165\u3063\u3066\u305f\u3002\\n\u3000\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2\u304c\u6b62\u3081\u306a\u304b\u3063\u305f\u3089\\n\u3000\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4\u306f\u4e00\u6483\u3067\u3084\u3089\u308c\u3066\u3044\u305f\u308f\u3088\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「ヤツは攻撃の間合いに入ってた。\\n　ブラックフライアが止めなかったら\\n　クインズウェイは一撃でやられていたわよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1190,38 +1193,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 20201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u305d\u3046\u3044\u3046\u3053\u3068\u3002\\n\u3000\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4\u3001\u3042\u306a\u305f\u306f\u547d\u62fe\u3044\u3092\u3057\u305f\u306e\u3088\uff1f\\n\u3000\u5de8\u5927\u6a39\u306b\u8fd1\u3065\u3051\u3070\u8fd1\u3065\u304f\u307b\u3069\\n\u3000\u4eca\u307f\u305f\u3044\u306a\u5f97\u4f53\u306e\u77e5\u308c\u306a\u3044\u6575\u304c\u51fa\u3066\u304f\u308b\u304b\u3089\u6ce8\u610f\u3057\u3066\u306d\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「そういうこと。\\n　クインズウェイ、あなたは命拾いをしたのよ？\\n　巨大樹に近づけば近づくほど\\n　今みたいな得体の知れない敵が出てくるから注意してね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1235,30 +1238,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u5371\u306a\u304b\u3063\u305f\u3002\\n\u3000\u3082\u3057\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2\u3055\u3093\u304c\u3044\u306a\u3051\u308c\u3070\u2026\u2026\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「危なかった。\\n　もしブラックフライアさんがいなければ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1272,30 +1275,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 3,
         "Action": 0,
         "Emotion": 2,
         "FacialExpression": 4,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 36,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u300e\u6249\u300f\u306b\u5165\u308b\u524d\u304b\u3089\u8b66\u6212\u306f\u3057\u3066\u3044\u305f\u3002\\n\u3000\u5e7b\u9727\u306e\u6c17\u914d\u3082\u611f\u77e5\u3067\u304d\u3066\u3044\u305f\u3057\u3001\\n\u3000\u305d\u3053\u3089\u3058\u3085\u3046\u304b\u3089\u30a4\u30e4\u306a\u9b54\u529b\u3092\u611f\u3058\u305f\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「『扉』に入る前から警戒はしていた。\\n　幻霧の気配も感知できていたし、\\n　そこらじゅうからイヤな魔力を感じた」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1309,30 +1312,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 37,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u3067\u3082\u3055\u3063\u304d\u306e\u30e1\u30a2\u30ea\u30fc\u304b\u3089\u306f\u4f55\u3082\u611f\u3058\u306a\u304b\u3063\u305f\u3002\\n\u3000\u6cb9\u65ad\u3057\u3066\u3044\u305f\u308f\u3051\u3058\u3083\u306a\u3044\u3002\\n\u3000\u5b8c\u5168\u306b\u30e1\u30a2\u30ea\u30fc\u3060\u3068\u601d\u3063\u3066\u63a5\u3057\u3066\u3044\u305f\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「でもさっきのメアリーからは何も感じなかった。\\n　油断していたわけじゃない。\\n　完全にメアリーだと思って接していた」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1346,30 +1349,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 38,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u8003\u3048\u308c\u3070\u8003\u3048\u308b\u307b\u3069\u6016\u3044\u3067\u3057\u3087\u3046\uff1f\\n\u3000\u6642\u9593\u304c\u7d4c\u3064\u3054\u3068\u306b\u3001\u5c11\u3057\u305a\u3064\u6050\u6016\u304c\u5897\u9577\u3057\u3066\u3044\u304f\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「考えれば考えるほど怖いでしょう？\\n　時間が経つごとに、少しずつ恐怖が増長していく」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1383,30 +1386,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 39,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u306f\u3044\u2026\u2026\u307e\u3055\u306b\u305d\u306e\u3068\u304a\u308a\u3067\u3059\u3002\\n\u3000\u3069\u3046\u3057\u3066\u308f\u304b\u308b\u3093\u3067\u3059\u304b\uff1f\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「はい……まさにそのとおりです。\\n　どうしてわかるんですか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1420,30 +1423,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 40,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u305d\u3046\u3044\u3046\u7d4c\u9a13\u3092\u305f\u304f\u3055\u3093\u91cd\u306d\u3066\u304d\u305f\u304b\u3089\u3088\u3002\\n\u3000\u300e\u5916\u306e\u90e8\u968a\u300f\u306e\u968a\u54e1\u306a\u3089\u907f\u3051\u3066\u306f\u901a\u308c\u306a\u3044\u9053\u3060\u3082\u306e\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「そういう経験をたくさん重ねてきたからよ。\\n　『外の部隊』の隊員なら避けては通れない道だもの」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1457,30 +1460,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 41,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u2026\u2026\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1494,30 +1497,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 42,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u3042\u306a\u305f\u304c\u611f\u3058\u305f\u306e\u306f\u6b7b\u306e\u6050\u6016\u3002\\n\u3000\u6b7b\u306c\u304b\u3082\u77e5\u308c\u306a\u3044\u3001\u3068\u3044\u3046\u6050\u6016\u3067\u306f\u306a\u304f\u3001\\n\u3000\u6b7b\u3093\u3067\u3057\u307e\u3063\u305f\u3001\u3068\u3044\u3046\u7d50\u679c\u3092\u898b\u305f\u3053\u3068\u306b\u3088\u308b\u6050\u6016\u3088\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「あなたが感じたのは死の恐怖。\\n　死ぬかも知れない、という恐怖ではなく、\\n　死んでしまった、という結果を見たことによる恐怖よ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1531,30 +1534,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 43,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4\u306f\u81ea\u5206\u306e\u6b7b\u306e\u77ac\u9593\u3092\u898b\u305f\u306e\u3002\\n\u3000\u4eca\u3053\u3053\u306b\u7acb\u3063\u3066\u3044\u3089\u308c\u308b\u306e\u306f\u3001\u79c1\u306b\u300e\u751f\u304b\u3055\u308c\u305f\u300f\u304b\u3089\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「クインズウェイは自分の死の瞬間を見たの。\\n　今ここに立っていられるのは、私に『生かされた』から」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1568,30 +1571,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 44,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u305d\u308c\u3092\u7406\u89e3\u3057\u305f\u77ac\u9593\u3001\u8a00\u3044\u3088\u3046\u306e\u306a\u3044\u6050\u6016\u306b\u8972\u308f\u308c\u308b\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「それを理解した瞬間、言いようのない恐怖に襲われる」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1605,30 +1608,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 45,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u305d\u3057\u3066\u305d\u306e\u3042\u3068\u3001\u308f\u305a\u304b\u306a\u9ad8\u63da\u611f\u3092\u899a\u3048\u308b\u3053\u3068\u3067\u3057\u3087\u3046\u3002\\n\u3000\u3055\u3063\u304d\u307e\u3067\u6050\u6016\u306b\u602f\u3048\u3066\u3044\u305f\u306e\u306b\u3001\\n\u3000\u601d\u308f\u305a\u7b11\u307f\u304c\u3053\u307c\u308c\u305d\u3046\u306a\u307b\u3069\u611f\u60c5\u304c\u9ad8\u3076\u308b\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「そしてそのあと、わずかな高揚感を覚えることでしょう。\\n　さっきまで恐怖に怯えていたのに、\\n　思わず笑みがこぼれそうなほど感情が高ぶる」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1642,30 +1645,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 46,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\uff08\u2026\u2026\u5f53\u305f\u3063\u3066\u308b\uff09",
+    "Name": "クインズウェイ",
+    "Phrase": "（……当たってる）",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1679,30 +1682,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 47,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u6050\u6016\u3092\u611f\u3058\u308b\u3053\u3068\u306f\u6065\u3067\u306f\u306a\u3044\u308f\u3002\\n\u3000\u5927\u5207\u306a\u306e\u306f\u3001\u6050\u6016\u3068\u5411\u304d\u5408\u3046\u3053\u3068\u3002\\n\u3000\u76ee\u3092\u80cc\u3051\u305a\u3001\u4e8b\u5b9f\u3068\u3057\u3066\u53d7\u3051\u5165\u308c\u3001\u65b0\u305f\u306a\u5f37\u3055\u3092\u624b\u306b\u5165\u308c\u308b\u3053\u3068\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「恐怖を感じることは恥ではないわ。\\n　大切なのは、恐怖と向き合うこと。\\n　目を背けず、事実として受け入れ、新たな強さを手に入れること」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1716,30 +1719,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 48,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u305d\u308c\u304c\u51fa\u6765\u306a\u304f\u306a\u3063\u305f\u3068\u304d\u3001\u6226\u58eb\u306e\u547d\u306f\u305d\u3053\u3067\u7d42\u308f\u308b\u3002\\n\u3000\u6226\u5834\u3092\u9000\u304f\u3053\u3068\u306b\u306a\u308b\u304b\u3001\u6226\u5834\u3067\u6b7b\u306c\u304b\u3001\u305d\u306e\u3069\u3061\u3089\u304b\u306d\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「それが出来なくなったとき、戦士の命はそこで終わる。\\n　戦場を退くことになるか、戦場で死ぬか、そのどちらかね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1753,30 +1756,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 49,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4\u3001\u5927\u4e08\u592b\uff1f\\n\u3000\u3042\u307e\u308a\u6c17\u306b\u3057\u3059\u304e\u306a\u3044\u3088\u3046\u306b\u306d\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「クインズウェイ、大丈夫？\\n　あまり気にしすぎないようにね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1790,38 +1793,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 50,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u3048\u3048\u3001\u308f\u304b\u3063\u3066\u307e\u3059\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「ええ、わかってます」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1835,38 +1838,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 51,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u79c1\u3082\u540c\u3058\u3088\u3046\u306a\u7d4c\u9a13\u304c\u3042\u308b\u308f\u3002\\n\u3000\u3060\u304b\u3089\u3001\u3042\u3093\u305f\u304c\u4eca\u611f\u3058\u3066\u308b\u6050\u6016\u306f\u7406\u89e3\u3067\u304d\u308b\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「私も同じような経験があるわ。\\n　だから、あんたが今感じてる恐怖は理解できる」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1880,38 +1883,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 52,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u78ba\u304b\u306b\u3055\u3063\u304d\u306e\u306f\u30c9\u30ae\u30c4\u3044\u653b\u6483\u3060\u3063\u305f\u308f\u3088\u306d\u3002\\n\u3000\u5143\u304b\u3089\u30e1\u30a2\u30ea\u30fc\u304c\u3053\u3053\u306b\u3044\u308b\u3063\u3066\u308f\u304b\u3063\u3066\u305f\u304b\u3089\u3001\\n\u3000\u8b66\u6212\u3059\u308b\u8981\u7d20\u306a\u3093\u3066\u3053\u308c\u3063\u307d\u3063\u3061\u3082\u306a\u304b\u3063\u305f\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「確かにさっきのはドギツい攻撃だったわよね。\\n　元からメアリーがここにいるってわかってたから、\\n　警戒する要素なんてこれっぽっちもなかった」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1925,38 +1928,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 53,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u3067\u3082\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2\u3055\u3093\u306f\u6c17\u3065\u304d\u307e\u3057\u305f\u3002\\n\u3000\u30e1\u30a2\u30ea\u30fc\u306e\u767a\u8a00\u306e\u5185\u5bb9\u3068\u3001\\n\u3000\u7acb\u3061\u5c45\u632f\u308b\u821e\u3044\u3067\u3042\u308c\u304c\u30cb\u30bb\u30e2\u30ce\u3060\u3068\u898b\u7834\u3063\u305f\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「でもブラックフライアさんは気づきました。\\n　メアリーの発言の内容と、\\n　立ち居振る舞いであれがニセモノだと見破った」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1970,38 +1973,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 54,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u305d\u3046\u306d\u3002\u307e\u3093\u307e\u3068\u9a19\u3055\u308c\u305f\u308f\u3002\\n\u3000\u3067\u3082\u3042\u3093\u305f\u3060\u3051\u3058\u3083\u306a\u3044\u3002\\n\u3000\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2\u4ee5\u5916\u306e\u5168\u54e1\u304c\u9a19\u3055\u308c\u305f\u3002\\n\u3000\u30ab\u30f3\u306e\u3044\u3044\u30e8\u30b7\u30ce\u3060\u3063\u3066\u3001\u5b8c\u5168\u306b\u306f\u6c17\u3065\u3044\u3066\u3044\u306a\u304b\u3063\u305f\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「そうね。まんまと騙されたわ。\\n　でもあんただけじゃない。\\n　ブラックフライア以外の全員が騙された。\\n　カンのいいヨシノだって、完全には気づいていなかった」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2015,38 +2018,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 55,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u307e\u3060\u307e\u3060\u529b\u4e0d\u8db3\u3060\u308f\u3002\\n\u3000\u3042\u3093\u305f\u3082\u79c1\u3082\u3001\u3053\u3053\u306b\u3044\u308b\u30c8\u30ec\u30a4\u30f3\u30ca\u30a4\u30c8\u307f\u3093\u306a\u304c\u306d\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「まだまだ力不足だわ。\\n　あんたも私も、ここにいるトレインナイトみんながね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2060,38 +2063,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 56,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u307f\u3093\u306a\u3067\u5f37\u304f\u306a\u308a\u307e\u3057\u3087\u3046\u3002\\n\u3000\u300e\u4e00\u3064\u306e\u52dd\u5229\u306e\u305f\u3081\u306b\u6b7b\u529b\u3092\u5c3d\u304f\u3059\u300f\u3002\\n\u3000\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2\u306e\u8a00\u8449\u3092\u5fd8\u308c\u306a\u3044\u3088\u3046\u306b\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「みんなで強くなりましょう。\\n　『一つの勝利のために死力を尽くす』。\\n　ブラックフライアの言葉を忘れないように」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2105,38 +2108,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 57,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u306f\u3044\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「はい」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2150,38 +2153,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 58,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u3042\u306e\u3001\u30e4\u30af\u30fc\u30c4\u30af\u3055\u3093\u2026\u2026\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「あの、ヤクーツクさん……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2195,38 +2198,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 59,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u306a\u306b\uff1f\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「なに？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2240,38 +2243,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 60,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\u3002\\n\u3000\u5c11\u3057\u3001\u697d\u306b\u306a\u308a\u307e\u3057\u305f\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「ありがとうございます。\\n　少し、楽になりました」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2285,38 +2288,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 61,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u3069\u3046\u3044\u305f\u3057\u307e\u3057\u3066\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「どういたしまして」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2330,38 +2333,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 62,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u3055\u3066\u3001\u3044\u304d\u306a\u308a\u6c17\u6301\u3061\u60aa\u3044\u306e\u306b\u51fa\u304f\u308f\u3057\u305f\u308f\u3051\u3060\u3051\u3069\u3001\\n\u3000\u809d\u5fc3\u306e\u30e1\u30a2\u30ea\u30fc\u304c\u3069\u3053\u306b\u3082\u3044\u306a\u3044\u308f\u306d\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「さて、いきなり気持ち悪いのに出くわしたわけだけど、\\n　肝心のメアリーがどこにもいないわね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2375,30 +2378,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 63,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u3042\u306e\u4eba\u304c\u4f55\u306e\u75d5\u8de1\u3082\u6b8b\u3055\u305a\u306b\u6301\u3061\u5834\u3092\u96e2\u308c\u308b\u3068\u306f\u8003\u3048\u306b\u304f\u3044\u3002\\n\u3000\u3068\u306a\u308b\u3068\u3001\u4f53\u306e\u81ea\u7531\u3092\u596a\u308f\u308c\u3066\u77ac\u6642\u306b\u9023\u308c\u53bb\u3089\u308c\u305f\u304b\u3001\\n\u3000\u3053\u3053\u3067\u306f\u306a\u3044\u3069\u3053\u304b\u5225\u306e\u5834\u6240\u3078\u98db\u3093\u3067\u3044\u3063\u305f\u304b\u2026\u2026\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「あの人が何の痕跡も残さずに持ち場を離れるとは考えにくい。\\n　となると、体の自由を奪われて瞬時に連れ去られたか、\\n　ここではないどこか別の場所へ飛んでいったか……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2412,30 +2415,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 64,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u3053\u306e\u97f3\u306f\uff01\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「この音は！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2449,38 +2452,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 65,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u307e\u3055\u304b\u3001\u3053\u3093\u306a\u3068\u3053\u308d\u3067\u30ab\u30f3\u30d9\u30f3\u3057\u3066\u3088\u306d\u2026\u2026\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「まさか、こんなところでカンベンしてよね……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2494,38 +2497,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 66,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u307b\u3093\u3068\u3001\u304b\u3093\u3079\u3093\u3057\u3066\u307b\u3057\u3044\u308f\u3002\\n\u3000\u79c1\u304c\u30a2\u30ec\u3068\u906d\u9047\u3059\u308b\u3068\u30ed\u30af\u306a\u3053\u3068\u304c\u306a\u3044\u306e\u3088\u306d\u3047\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「ほんと、かんべんしてほしいわ。\\n　私がアレと遭遇するとロクなことがないのよねぇ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2539,30 +2542,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 67,
     "ViewOrder": 1,
-    "Name": "\u30b5\u30de\u30f3\u30b5",
-    "Phrase": "\u300c\u300e\u6249\u300f\u3092\u304f\u3050\u3063\u305f\u8ff7\u3044\u5b50\u3092\u767a\u898b\u3002\\n\u3000\u9727\u306e\u9b54\u7269\u3092\u846c\u3063\u305f\u300d",
+    "Name": "サマンサ",
+    "Phrase": "「『扉』をくぐった迷い子を発見。\\n　霧の魔物を葬った」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2576,30 +2579,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 104,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 9,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 68,
     "ViewOrder": 1,
-    "Name": "\u30b5\u30de\u30f3\u30b5",
-    "Phrase": "\u300c\u30e1\u30a2\u30ea\u30fc\u30fb\u30ed\u30fc\u30ba\u30ac\u30fc\u30c7\u30f3\u306e\u5c45\u5834\u6240\u3092\u77e5\u308a\u305f\u3044\uff1f\u300d",
+    "Name": "サマンサ",
+    "Phrase": "「メアリー・ローズガーデンの居場所を知りたい？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2613,30 +2616,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 104,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 69,
     "ViewOrder": 1,
-    "Name": "\u30b5\u30de\u30f3\u30b5",
-    "Phrase": "\u300c\u2026\u2026\u77e5\u308a\u305f\u3044\u3002\u6559\u3048\u3066\u307b\u3057\u3044\u3002\\n\u3000\u30bb\u30f3\u30c8\u30a4\u30ea\u30b9\u306e\u9a0e\u58eb\u306f\u305d\u3046\u671b\u3093\u3067\u3044\u308b\u3002\\n\u3000\u4e00\u4eba\u306f\u4f1a\u3044\u305f\u3044\u3068\u3044\u3046\u6c17\u6301\u3061\u304c\u5f37\u304f\u3001\\n\u3000\u3082\u3046\u4e00\u4eba\u306f\u3001\u76ee\u7684\u3092\u679c\u305f\u3057\u305f\u3044\u3068\u3044\u3046\u6c17\u6301\u3061\u304c\u5f37\u3044\u300d",
+    "Name": "サマンサ",
+    "Phrase": "「……知りたい。教えてほしい。\\n　セントイリスの騎士はそう望んでいる。\\n　一人は会いたいという気持ちが強く、\\n　もう一人は、目的を果たしたいという気持ちが強い」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2650,30 +2653,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 104,
         "Position": 3,
         "Action": 7,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 70,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u2026\u2026\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2687,38 +2690,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 80201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 71,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u2026\u2026\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2732,38 +2735,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 80201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 72,
     "ViewOrder": 1,
-    "Name": "\u30b5\u30de\u30f3\u30b5",
-    "Phrase": "\u300c\u77e5\u308a\u305f\u3051\u308c\u3070\u79c1\u304c\u6559\u3048\u308b\u3002\\n\u3000\u3042\u306a\u305f\u305f\u3061\u304c\u6b32\u3057\u3044\u3082\u306e\u306f\u3001\u5f7c\u5973\u304c\u304d\u3063\u3068\u6301\u3063\u3066\u3044\u308b\u300d",
+    "Name": "サマンサ",
+    "Phrase": "「知りたければ私が教える。\\n　あなたたちが欲しいものは、彼女がきっと持っている」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2777,30 +2780,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 104,
         "Position": 3,
         "Action": 8,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 73,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u6b21\u304b\u3089\u6b21\u3078\u3068\u3001\u9762\u5012\u3054\u3068\u304c\u3084\u3063\u3066\u304f\u308b\u3002",
+    "Phrase": "次から次へと、面倒ごとがやってくる。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2814,21 +2817,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 74,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5b8c\u5168\u306a\u64ec\u614b\u80fd\u529b\u3092\u6301\u3064\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u6b21\u306b\u73fe\u308c\u305f\u306e\u306f\u3001\\n\u9727\u306e\u4ea1\u970a\u30b5\u30de\u30f3\u30b5\u3060\u3063\u305f\u3002",
+    "Phrase": "完全な擬態能力を持つモンスターの次に現れたのは、\\n霧の亡霊サマンサだった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2842,14 +2846,14 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

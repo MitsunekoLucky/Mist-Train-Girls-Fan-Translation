@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u7b2c\u4e8c\u8a71\u307e\u3067\u306e\u3042\u3089\u3059\u3058\u3002\\n\u5bae\u5ef7\u9b54\u8853\u5e2b\u30cd\u30d4\u30c9\u30fc\u304c\u3069\u3053\u304b\u4e0d\u7a4f\u306a\u8abf\u5b50\u3067\u3001\\n\u7814\u7a76\u306e\u6210\u679c\u305f\u308b\u300e\u5fc3\u3046\u3064\u3057\u306e\u5b9d\u73e0\u300f\u306b\u3064\u3044\u3066\u8aac\u660e\u3057\u3066\u304f\u308c\u3066\u3044\u308b\u3002",
+    "Phrase": "第二話までのあらすじ。\\n宮廷魔術師ネピドーがどこか不穏な調子で、\\n研究の成果たる『心うつしの宝珠』について説明してくれている。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300c\u3053\u306e\u300e\u5fc3\u3046\u3064\u3057\u306e\u5b9d\u73e0\u300f\u306b\u306f\u3001\\n\u3000\u8089\u4f53\u304b\u3089\u5207\u308a\u96e2\u3057\u305f\u9b42\u3092\u5e7d\u9589\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u7406\u8ad6\u4e0a\u306d\u3002\\n\u3000\u3069\u3093\u306a\u306b\u5f37\u5927\u306a\u8089\u4f53\u3092\u6301\u3064\u6575\u3067\u3082\u3001\\n\u3000\u3053\u3053\u306b\u9b42\u3092\u9589\u3058\u3053\u3081\u3066\u3057\u307e\u3048\u3070\u7121\u529b\u5316\u3067\u304d\u308b\u306f\u305a\u3060\u3088\u300d",
+    "Name": "ネピドー",
+    "Phrase": "「この『心うつしの宝珠』には、\\n　肉体から切り離した魂を幽閉することができる。理論上ね。\\n　どんなに強大な肉体を持つ敵でも、\\n　ここに魂を閉じこめてしまえば無力化できるはずだよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,30 +46,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300c\u305d\u3093\u306a\u5f37\u5927\u306a\u6575\u3068\u5bfe\u5cd9\u3057\u305f\u969b\u306b\u7528\u3044\u308b\u6700\u7d42\u5175\u5668\u3001\\n\u3000\u5207\u308a\u672d\u305f\u308a\u3046\u308b\u30de\u30b8\u30c3\u30af\u30a2\u30a4\u30c6\u30e0\u3068\u3057\u3066\u2015\u2015\\n\u3000\u3053\u306e\u300e\u5fc3\u3046\u3064\u3057\u306e\u5b9d\u73e0\u300f\u3092\u958b\u767a\u3057\u305f\u3002\\n\u3000\u305d\u3046\u3044\u3046\u540d\u76ee\u3067\u4e88\u7b97\u3092\u3082\u3089\u3044\u3001\u6642\u9593\u3092\u304b\u3051\u3066\u7814\u7a76\u3057\u305f\u3093\u3060\u300d",
+    "Name": "ネピドー",
+    "Phrase": "「そんな強大な敵と対峙した際に用いる最終兵器、\\n　切り札たりうるマジックアイテムとして――\\n　この『心うつしの宝珠』を開発した。\\n　そういう名目で予算をもらい、時間をかけて研究したんだ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -82,30 +83,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300c\u4eca\u306f\u3061\u3087\u3063\u3068\u3057\u305f\u9b54\u8853\u3067\u7720\u3089\u305b\u3066\u3044\u308b\u59b9\u306b\u3082\u3001\\n\u3000\u305d\u3093\u306a\u3075\u3046\u306b\u8aac\u660e\u3057\u3066\u3044\u308b\u3088\u3002\\n\u3000\u52d8\u306e\u826f\u3044\u5b50\u3060\u304b\u3089\u3001\u8584\u3005\u3001\u307c\u304f\u306e\u771f\u610f\u3092\u5bdf\u3057\u3066\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u3051\u3069\u300d",
+    "Name": "ネピドー",
+    "Phrase": "「今はちょっとした魔術で眠らせている妹にも、\\n　そんなふうに説明しているよ。\\n　勘の良い子だから、薄々、ぼくの真意を察してるかもしれないけど」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -119,30 +120,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2026\u2026\u307e\u3055\u304b\u3001\u305d\u306e\u5b9d\u73e0\u306e\u306a\u304b\u306b\u81ea\u5206\u304c\u5e7d\u9589\u3055\u308c\u308b\u3064\u3082\u308a\u304b\uff1f\\n\u300e\u5144\u300f\u306e\u30cd\u30d4\u30c9\u30fc\u3001\u304a\u307e\u3048\u3060\u3051\u304c\uff1f",
+    "Phrase": "……まさか、その宝珠のなかに自分が幽閉されるつもりか？\\n『兄』のネピドー、おまえだけが？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -156,30 +157,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300c\u5e7d\u9589\u3001\u3063\u3066\u3044\u3046\u306e\u306f\u8a00\u8449\u304c\u60aa\u3044\u3088\u306d\u3002\\n\u3000\u3044\u3064\u307e\u3067\u3082\u5c45\u5019\u3057\u3066\u3001\u59b9\u306e\u5384\u4ecb\u306b\u306a\u3063\u3066\u308b\u306e\u3082\u60c5\u3051\u306a\u3044\u304b\u3089\u3055\u3002\\n\u3000\u307c\u304f\u306f\u51fa\u3066\u884c\u304f\u3053\u3068\u306b\u3057\u305f\u3093\u3060\u3088\u3001\\n\u3000\u305d\u3057\u3066\u3053\u306e\u8089\u4f53\u3092\u672c\u6765\u306e\u6301\u3061\u4e3b\u306b\u2015\u2015\u59b9\u306b\u5b8c\u5168\u306b\u8fd4\u3057\u3066\u3042\u3052\u308b\u3093\u3060\u300d",
+    "Name": "ネピドー",
+    "Phrase": "「幽閉、っていうのは言葉が悪いよね。\\n　いつまでも居候して、妹の厄介になってるのも情けないからさ。\\n　ぼくは出て行くことにしたんだよ、\\n　そしてこの肉体を本来の持ち主に――妹に完全に返してあげるんだ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -193,30 +194,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300c\u672c\u6765\u3001\u305d\u308c\u304c\u81ea\u7136\u306a\u304b\u305f\u3061\u306a\u3093\u3060\u3002\\n\u3000\u7070\u306f\u7070\u306b\u3001\u5875\u306f\u5875\u306b\u2026\u2026\u3002\\n\u3000\u6b7b\u4eba\u306f\u3061\u3083\u3093\u3068\u6b7b\u3093\u3067\u304a\u304b\u306a\u3044\u3068\u306d\u3001\\n\u3000\u305a\u3044\u3076\u3093\u5bc4\u308a\u9053\u3092\u3057\u3061\u3083\u3063\u305f\u3051\u3069\u2015\u2015\u307c\u304f\u3082\u4e21\u89aa\u306e\u5143\u3078\u884c\u304f\u3088\u300d",
+    "Name": "ネピドー",
+    "Phrase": "「本来、それが自然なかたちなんだ。\\n　灰は灰に、塵は塵に……。\\n　死人はちゃんと死んでおかないとね、\\n　ずいぶん寄り道をしちゃったけど――ぼくも両親の元へ行くよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -230,30 +231,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300c\u8eca\u638c\u304f\u3093\u3002\\n\u3000\u304d\u307f\u3092\u3053\u3053\u306b\u547c\u3093\u3060\u306e\u306f\u3001\u3053\u3046\u3044\u3046\u3075\u3046\u306b\u907a\u8a00\u3092\u8a17\u3059\u305f\u3081\u3067\u3082\u3042\u308b\u3002\\n\u3000\u305d\u308c\u3068\u3001\u3082\u3046\u3072\u3068\u3064\u2015\u2015\u3084\u3063\u3066\u3082\u3089\u3044\u305f\u3044\u3053\u3068\u304c\u3042\u308b\u3093\u3060\u300d",
+    "Name": "ネピドー",
+    "Phrase": "「車掌くん。\\n　きみをここに呼んだのは、こういうふうに遺言を託すためでもある。\\n　それと、もうひとつ――やってもらいたいことがあるんだ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -267,30 +268,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300c\u307c\u304f\u304c\u300e\u5fc3\u3046\u3064\u3057\u306e\u5b9d\u73e0\u300f\u306e\u306a\u304b\u306b\u5bbf\u3063\u305f\u3089\u3001\\n\u3000\u304d\u307f\u306b\u305d\u308c\u3092\u7834\u58ca\u3057\u3066\u3082\u3089\u3044\u305f\u3044\u3002\\n\u3000\u305d\u3046\u3059\u308c\u3070\u3001\u307c\u304f\u306f\u5b8c\u5168\u306b\u6d88\u3048\u3089\u308c\u308b\u300d",
+    "Name": "ネピドー",
+    "Phrase": "「ぼくが『心うつしの宝珠』のなかに宿ったら、\\n　きみにそれを破壊してもらいたい。\\n　そうすれば、ぼくは完全に消えられる」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -304,30 +305,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2026\u2026\u51fa\u6765\u308b\u308f\u3051\u304c\u306a\u3044\u3060\u308d\u3046\u3001\u305d\u3093\u306a\u3053\u3068\u3002",
+    "Phrase": "……出来るわけがないだろう、そんなこと。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -341,30 +342,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300c\u3046\u3093\u3002\u304d\u307f\u306f\u304a\u4eba\u597d\u3057\u3067\u3001\u512a\u3057\u3044\u3072\u3068\u3060\u3082\u3093\u306d\u3002\\n\u3000\u597d\u304d\u3060\u3063\u305f\u3088\u3002\\n\u3000\u4eba\u6bba\u3057\u3092\u3059\u308b\u308f\u3051\u3058\u3083\u306a\u3044\u3001\u6b7b\u4eba\u3092\u3061\u3083\u3093\u3068\u6b7b\u306a\u305b\u308b\u3060\u3051\u2015\u2015\\n\u3000\u3063\u3066\u8a00\u3063\u3066\u3082\u3001\u304d\u307f\u306f\u7d0d\u5f97\u3057\u3066\u304f\u308c\u306a\u3044\u3088\u306d\u300d",
+    "Name": "ネピドー",
+    "Phrase": "「うん。きみはお人好しで、優しいひとだもんね。\\n　好きだったよ。\\n　人殺しをするわけじゃない、死人をちゃんと死なせるだけ――\\n　って言っても、きみは納得してくれないよね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -378,30 +379,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300c\u3060\u304b\u3089\u3002\\n\u3000\u304d\u307f\u3092\u9b54\u8853\u3067\u64cd\u3063\u3066\u3001\u307c\u304f\u304c\u671b\u3093\u3060\u3068\u304a\u308a\u306e\u884c\u52d5\u3092\u3055\u305b\u308b\u3002\\n\u3000\u30b5\u30fc\u30d3\u30b9\u3068\u3057\u3066\u3001\u3057\u3093\u3069\u3044\u3053\u3068\u3092\u3057\u3066\u308b\u9593\u306e\u8a18\u61b6\u3082\u6d88\u3057\u3066\u3042\u3052\u308b\u3088\u300d",
+    "Name": "ネピドー",
+    "Phrase": "「だから。\\n　きみを魔術で操って、ぼくが望んだとおりの行動をさせる。\\n　サービスとして、しんどいことをしてる間の記憶も消してあげるよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -415,30 +416,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300c\u59b9\u306e\u8a18\u61b6\u3082\u3001\u6539\u7de8\u3059\u308b\u3002\\n\u3000\u307c\u304f\u306f\u3001\u304a\u5144\u3061\u3083\u3093\u306f\u3042\u306e\u6d77\u96e3\u4e8b\u6545\u3067\u6b7b\u3093\u3060\u3093\u3060\u3063\u3066\u2026\u2026\\n\u3000\u305d\u3046\u601d\u308f\u305b\u3066\u3001\u7591\u3048\u306a\u3044\u3088\u3046\u306b\u3059\u308b\u3002\\n\u3000\u5b9f\u969b\u3001\u305d\u308c\u304c\u300e\u6b63\u3057\u3044\u8a8d\u8b58\u300f\u3063\u3066\u3084\u3064\u3055\u300d",
+    "Name": "ネピドー",
+    "Phrase": "「妹の記憶も、改編する。\\n　ぼくは、お兄ちゃんはあの海難事故で死んだんだって……\\n　そう思わせて、疑えないようにする。\\n　実際、それが『正しい認識』ってやつさ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -452,30 +453,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300c\u59b9\u3068\u3001\u3053\u306e\u6d6e\u4e16\u3068\u304a\u5225\u308c\u3059\u308b\u306e\u306f\u5bc2\u3057\u3044\u3051\u3069\u3002\\n\u3000\u3082\u3068\u3082\u3068\u3001\u3053\u3093\u306a\u3075\u3046\u306b\u9b42\u3060\u3051\u751f\u304d\u5ef6\u3073\u305f\u3053\u3068\u3058\u305f\u3044\u304c\u4e0d\u81ea\u7136\u306a\u3093\u3060\u300d",
+    "Name": "ネピドー",
+    "Phrase": "「妹と、この浮世とお別れするのは寂しいけど。\\n　もともと、こんなふうに魂だけ生き延びたことじたいが不自然なんだ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -489,30 +490,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300c\u9b54\u8853\u5e2b\u306f\u81ea\u7136\u3092\u60d1\u308f\u3057\u3001\u6cd5\u5247\u3092\u4e71\u3059\u5b58\u5728\u3060\u3051\u3069\u2015\u2015\\n\u3000\u307c\u304f\u306f\u751f\u304d\u5ef6\u3073\u308b\u305f\u3081\u306b\u9b54\u8853\u3092\u5b66\u3093\u3060\u3060\u3051\u3067\u3001\\n\u3000\u9b54\u8853\u305d\u306e\u3082\u306e\u306b\u306a\u308a\u305f\u3044\u308f\u3051\u3058\u3083\u306a\u3044\u300d",
+    "Name": "ネピドー",
+    "Phrase": "「魔術師は自然を惑わし、法則を乱す存在だけど――\\n　ぼくは生き延びるために魔術を学んだだけで、\\n　魔術そのものになりたいわけじゃない」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -526,30 +527,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300c\u672c\u6765\u306f\u6709\u308a\u5f97\u306a\u3044\u3053\u3068\u306a\u306e\u306b\u3001\u4eca\u306e\u4eca\u307e\u3067\u3001\\n\u3000\u3053\u3046\u3057\u3066\u59b9\u306e\u6210\u9577\u3092\u898b\u5b88\u308c\u305f\u3060\u3051\u3067\u6e80\u8db3\u3055\u3002\\n\u3000\u307c\u304f\u306f\u679c\u5831\u8005\u3060\u306d\u3047\u3001\u751f\u307e\u308c\u3066\u304d\u3066\u826f\u304b\u3063\u305f\u3088\u300d",
+    "Name": "ネピドー",
+    "Phrase": "「本来は有り得ないことなのに、今の今まで、\\n　こうして妹の成長を見守れただけで満足さ。\\n　ぼくは果報者だねぇ、生まれてきて良かったよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -563,30 +564,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300c\u2026\u2026\u3058\u3083\u3042\u306d\u3001\u305d\u308d\u305d\u308d\u304a\u5225\u308c\u3060\u3002\\n\u3000\u6700\u5f8c\u306b\u59b9\u306e\u8a18\u61b6\u3092\u5f04\u304f\u3063\u3066\u304b\u3089\u3001\u307c\u304f\u306f\u518d\u3073\u3042\u306e\u65e5\u306e\u8239\u306b\u4e57\u308b\u3002\\n\u3000\u52d8\u3065\u304b\u308c\u305d\u3046\u3060\u3063\u305f\u3057\u3001\u3084\u3063\u3071\u308a\u540d\u6b8b\u60dc\u3057\u304f\u3082\u3042\u3063\u305f\u304b\u3089\u3001\\n\u3000\u59b9\u306e\u9b42\u306b\u89e6\u308c\u308b\u306e\u306f\u6700\u5f8c\u306e\u6700\u5f8c\u306b\u306a\u3063\u3061\u3083\u3063\u305f\u306a\u300d",
+    "Name": "ネピドー",
+    "Phrase": "「……じゃあね、そろそろお別れだ。\\n　最後に妹の記憶を弄くってから、ぼくは再びあの日の船に乗る。\\n　勘づかれそうだったし、やっぱり名残惜しくもあったから、\\n　妹の魂に触れるのは最後の最後になっちゃったな」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -600,30 +601,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300c\u3067\u3082\u3002\u540c\u3058\u8089\u4f53\u306e\u306a\u304b\u3067\u3001\u3044\u3061\u3070\u3093\u8fd1\u304f\u3067\u5bc4\u308a\u6dfb\u3063\u3066\u308b\u304b\u3089\u2015\u2015\\n\u3000\u305d\u306e\u6c17\u306b\u306a\u308c\u3070\u3001\u9b42\u306b\u89e6\u308c\u308b\u306e\u306f\u7c21\u5358\u3060\u3088\u3002\\n\u3000\u307b\u3093\u306e\u3061\u3087\u3063\u3068\u3001\u624b\u3092\u4f38\u3070\u3059\u3060\u3051\u3067\u2026\u2026\u300d",
+    "Name": "ネピドー",
+    "Phrase": "「でも。同じ肉体のなかで、いちばん近くで寄り添ってるから――\\n　その気になれば、魂に触れるのは簡単だよ。\\n　ほんのちょっと、手を伸ばすだけで……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -637,30 +638,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u306e\u8a00\u8449\u306e\u3068\u304a\u308a\u306b\u3001\u30cd\u30d4\u30c9\u30fc\u304c\u624b\u3092\u4f38\u3070\u3057\u305f\u3002\\n\u7269\u7406\u7684\u306b\u3002\\n\u63e1\u308a\u3057\u3081\u305f\u300e\u5fc3\u3046\u3064\u3057\u306e\u5b9d\u73e0\u300f\u3054\u3068\u3001\\n\u305d\u306e\u624b\u304c\u304a\u304a\u304d\u304f\u63b2\u3052\u3089\u308c\u3066\u2015\u2015\u3002",
+    "Phrase": "その言葉のとおりに、ネピドーが手を伸ばした。\\n物理的に。\\n握りしめた『心うつしの宝珠』ごと、\\nその手がおおきく掲げられて――。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -674,30 +675,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u306e\u8155\u304c\u3001\u5f27\u3092\u63cf\u3044\u305f\u3002\\n\u540c\u6642\u306b\u958b\u304b\u308c\u305f\u624b\u306e\u3072\u3089\u304b\u3089\u3001\\n\u300e\u5fc3\u3046\u3064\u3057\u306e\u5b9d\u73e0\u300f\u306f\u5446\u6c17\u306a\u304f\u89e3\u304d\u653e\u305f\u308c\u2015\u2015\\n\u304b\u306a\u308a\u306e\u8ddd\u96e2\u3092\u98db\u3093\u3067\u3001\u5927\u6d77\u539f\u306b\u7740\u6c34\u3057\u305f\u3002",
+    "Phrase": "その腕が、弧を描いた。\\n同時に開かれた手のひらから、\\n『心うつしの宝珠』は呆気なく解き放たれ――\\nかなりの距離を飛んで、大海原に着水した。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -711,30 +712,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300c\u2026\u2026\u3042\u308a\u3083\uff1f\u300d",
+    "Name": "ネピドー",
+    "Phrase": "「……ありゃ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -748,30 +749,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u81ea\u5206\u306e\u884c\u70ba\u304c\u4fe1\u3058\u3089\u308c\u306a\u3044\u3001\u3068\u3044\u3046\u69d8\u5b50\u3067\u30cd\u30d4\u30c9\u30fc\u304c\u5c0f\u9996\u3092\u50be\u3052\u305f\u3002\\n\u305d\u306e\u5168\u8eab\u304c\u30d6\u30eb\u30d6\u30eb\u9707\u3048\u3066\u3001\u304f\u3061\u3073\u308b\u306e\u9699\u9593\u304b\u3089\u546a\u8a5b\u304c\u6f0f\u308c\u51fa\u308b\u3002",
+    "Phrase": "自分の行為が信じられない、という様子でネピドーが小首を傾げた。\\nその全身がブルブル震えて、くちびるの隙間から呪詛が漏れ出る。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -785,30 +786,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 2,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300e\u304a\u5144\u3061\u3083\u3042\u3042\u3042\u3042\u3093\u2015\u2015\u300f",
+    "Name": "ネピドー",
+    "Phrase": "『お兄ちゃああああん――』",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -822,30 +823,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 3,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300e\u3053\u306e\u99ac\u9e7f\uff01\u3000\u9593\u629c\u3051\uff01\u3000\u5e95\u629c\u3051\uff01\\n\u3000\u3084\u3063\u3071\u308a\u3060\u3088\u3001\u3084\u3063\u3071\u308a\u3042\u305f\u3057\u306e\u6c17\u6301\u3061\u3068\u304b\u307e\u3063\u305f\u304f\u8003\u3048\u3066\u304f\u308c\u3066\u306a\u3044\uff01\\n\u3000\u3082\u3049\u3049\u304a\u304a\u304a\u3046\u3001\u305d\u3093\u306a\u3053\u3068\u3060\u308d\u3046\u3068\u601d\u3063\u305f\uff01\u300f",
+    "Name": "ネピドー",
+    "Phrase": "『この馬鹿！　間抜け！　底抜け！\\n　やっぱりだよ、やっぱりあたしの気持ちとかまったく考えてくれてない！\\n　もぉぉおおおう、そんなことだろうと思った！』",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -859,30 +860,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300e\u3075\u3075\u3093\u3002\u3067\u3082\u3001\u6b8b\u5ff5\u3060\u3063\u305f\u306d\uff01\\n\u3000\u304a\u5144\u3061\u3083\u3093\u304c\u99ac\u9e7f\u3092\u3084\u3089\u304b\u3059\u3060\u308d\u3046\u3068\u4e88\u6e2c\u3057\u3066\u3001\\n\u3000\u3042\u305f\u3057\u306f\u3061\u3083\u3093\u3068\u5bfe\u7b56\u3092\u7528\u610f\u3057\u3066\u305f\u3082\u3093\u306d\uff01\u300f",
+    "Name": "ネピドー",
+    "Phrase": "『ふふん。でも、残念だったね！\\n　お兄ちゃんが馬鹿をやらかすだろうと予測して、\\n　あたしはちゃんと対策を用意してたもんね！』",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -896,30 +897,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300e\u3042\u305f\u3057\u304c\u7121\u7406\u3084\u308a\u7720\u3089\u3055\u308c\u305d\u3046\u306b\u306a\u3063\u305f\u3089\u3001\\n\u3000\u5bfe\u6297\u546a\u6587\u304c\u81ea\u52d5\u7684\u306b\u767a\u52d5\u3057\u3066\u2015\u2015\\n\u3000\u9006\u306b\u304a\u5144\u3061\u3083\u3093\u304c\u5bdd\u3061\u3083\u3046\u306e\uff01\u300f",
+    "Name": "ネピドー",
+    "Phrase": "『あたしが無理やり眠らされそうになったら、\\n　対抗呪文が自動的に発動して――\\n　逆にお兄ちゃんが寝ちゃうの！』",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -933,30 +934,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300e\u899a\u3048\u3068\u3044\u3066\uff01\\n\u3000\u59b9\u3088\u308a\u512a\u308c\u305f\u304a\u5144\u3061\u3083\u3093\u306f\u3044\u306a\u3044\u3093\u3060\u3088\uff01\\n\u3000\u99ac\u9e7f\u99ac\u9e7f\u99ac\u9e7f\u3063\u2026\u2026\uff01\u300f",
+    "Name": "ネピドー",
+    "Phrase": "『覚えといて！\\n　妹より優れたお兄ちゃんはいないんだよ！\\n　馬鹿馬鹿馬鹿っ……！』",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -970,30 +971,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u508d\u304b\u3089\u898b\u308b\u3068\u81ea\u5206\u3067\u81ea\u5206\u306e\u982d\u3092\u30dd\u30ab\u30dd\u30ab\u6bb4\u308b\u3001\\n\u3068\u3044\u3046\u5947\u884c\u3092\u3057\u306a\u304c\u3089\u2015\u2015\u30cd\u30d4\u30c9\u30fc\u306f\u3001\u6df1\u3005\u3068\u6e9c\u606f\u3092\u3064\u3044\u305f\u3002\\n\u305d\u3057\u3066\u3001\u3084\u3084\u72b6\u6cc1\u306b\u3064\u3044\u3066\u3044\u3051\u305a\u306b\u5446\u7136\u3068\u3057\u3066\u3044\u308b\u3053\u3061\u3089\u3092\u898b\u308b\u3002",
+    "Phrase": "傍から見ると自分で自分の頭をポカポカ殴る、\\nという奇行をしながら――ネピドーは、深々と溜息をついた。\\nそして、やや状況についていけずに呆然としているこちらを見る。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1007,30 +1008,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300e\u3054\u3081\u3093\u306a\u3055\u3044\u3001\u304a\u5144\u3061\u3083\u3093\u8eca\u638c\u3002\\n\u3000\u3064\u307e\u3093\u306a\u3044\u5144\u59b9\u55a7\u5629\u306b\u5dfb\u304d\u3053\u3093\u3058\u3083\u3063\u3066\u3055\u2026\u2026\u3002\\n\u3000\u6065\u305a\u304b\u3057\u3044\u306a\u3041\u3001\u3082\u3046\u300f",
+    "Name": "ネピドー",
+    "Phrase": "『ごめんなさい、お兄ちゃん車掌。\\n　つまんない兄妹喧嘩に巻きこんじゃってさ……。\\n　恥ずかしいなぁ、もう』",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1044,30 +1045,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300e\u3067\u3082\u3001\u5b89\u5fc3\u3057\u3066\u3002\\n\u3000\u4e8c\u5ea6\u3068\u30a2\u30db\u306a\u4f01\u3066\u304c\u3067\u304d\u306a\u3044\u3088\u3046\u306b\u3001\\n\u3000\u304a\u5144\u3061\u3083\u3093\u306e\u9b42\u3092\u5f04\u304f\u3063\u3061\u3083\u3046\u3064\u3082\u308a\u3060\u304b\u3089\u3002\\n\u3000\u81ea\u5206\u3082\u540c\u3058\u3053\u3068\u3092\u3057\u3088\u3046\u3068\u3057\u305f\u3093\u3060\u3082\u3093\u3001\u6587\u53e5\u306a\u3044\u3088\u306d\u2015\u2015\u304a\u5144\u3061\u3083\u3093\uff1f\u300f",
+    "Name": "ネピドー",
+    "Phrase": "『でも、安心して。\\n　二度とアホな企てができないように、\\n　お兄ちゃんの魂を弄くっちゃうつもりだから。\\n　自分も同じことをしようとしたんだもん、文句ないよね――お兄ちゃん？』",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1081,30 +1082,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5df1\u306e\u307b\u3063\u307a\u305f\u3092\u3064\u306d\u3063\u3066\u3001\\n\u7121\u99c4\u306b\u6d99\u76ee\u306b\u306a\u3063\u305f\u5f7c\u5973\u306f\u307c\u3084\u304f\u3002",
+    "Phrase": "己のほっぺたをつねって、\\n無駄に涙目になった彼女はぼやく。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1118,30 +1119,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300e\u3042\u305f\u3057\u3001\u304a\u5144\u3061\u3083\u3093\u304c\u601d\u3063\u3066\u308b\u307b\u3069\u5927\u4eba\u306b\u306a\u3063\u3066\u306a\u3044\u3088\u3002\\n\u3000\u3042\u306e\u300e\u9b54\u306e\u6e26\u300f\u3067\u306f\u3001\u307b\u3068\u3093\u3069\u7720\u3063\u3066\u305f\u3057\u2015\u2015\\n\u3000\u4eba\u751f\u306e\u534a\u5206\u304b\u305d\u308c\u4ee5\u4e0a\u3001\u304a\u5144\u3061\u3083\u3093\u304c\u3042\u305f\u3057\u306e\u8eab\u4f53\u3092\u4f7f\u3063\u3066\u305f\u3093\u3060\u3082\u3093\u300f",
+    "Name": "ネピドー",
+    "Phrase": "『あたし、お兄ちゃんが思ってるほど大人になってないよ。\\n　あの『魔の渦』では、ほとんど眠ってたし――\\n　人生の半分かそれ以上、お兄ちゃんがあたしの身体を使ってたんだもん』",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1155,30 +1156,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300e\u307e\u3060\u307e\u3060\u3001\u5fc3\u306f\u3061\u3063\u3068\u3082\u6210\u9577\u3057\u3066\u306a\u3044\u3088\u3002\\n\u3000\u5b50\u4f9b\u3060\u3088\u3001\u5bb6\u65cf\u3068\u307e\u305f\u304a\u5225\u308c\u3059\u308b\u3053\u3068\u306b\u306a\u3063\u305f\u3089\u6ce3\u3044\u3061\u3083\u3046\u3088\u300f",
+    "Name": "ネピドー",
+    "Phrase": "『まだまだ、心はちっとも成長してないよ。\\n　子供だよ、家族とまたお別れすることになったら泣いちゃうよ』",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1192,30 +1193,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300e\u3060\u304b\u3089\u304a\u9858\u3044\u3001\u307e\u3060\u4e00\u7dd2\u306b\u3044\u3066\u3088\u300f",
+    "Name": "ネピドー",
+    "Phrase": "『だからお願い、まだ一緒にいてよ』",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1229,30 +1230,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3046\u8a00\u3063\u3066\u3001\u4e0d\u601d\u8b70\u306a\u5144\u59b9\u306e\u300e\u59b9\u300f\u306f\u2015\u2015\\n\u81ea\u5206\u3067\u81ea\u5206\u3092\u62b1\u304d\u3057\u3081\u3066\u3001\u3078\u305f\u308a\u3053\u3093\u3060\u3002",
+    "Phrase": "そう言って、不思議な兄妹の『妹』は――\\n自分で自分を抱きしめて、へたりこんだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1266,30 +1267,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 36,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300e\u3054\u3081\u3093\u306d\u3001\u304a\u5144\u3061\u3083\u3093\u8eca\u638c\u3002\\n\u3000\u305f\u304f\u3055\u3093\u6642\u9593\u3068\u8cc7\u91d1\u3092\u4f7f\u3063\u3066\u7814\u7a76\u3057\u305f\u3051\u3069\u3001\\n\u3000\u305c\u3093\u3076\u7121\u99c4\u306b\u306a\u3063\u3061\u3083\u3063\u305f\u307f\u305f\u3044\u300f",
+    "Name": "ネピドー",
+    "Phrase": "『ごめんね、お兄ちゃん車掌。\\n　たくさん時間と資金を使って研究したけど、\\n　ぜんぶ無駄になっちゃったみたい』",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1303,30 +1304,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 37,
     "ViewOrder": 1,
-    "Name": "\u30cd\u30d4\u30c9\u30fc",
-    "Phrase": "\u300e\u771f\u9762\u76ee\u3067\u512a\u79c0\u306b\u898b\u3048\u3066\u3001\\n\u3000\u610f\u5916\u3068\u30d8\u30de\u3082\u304a\u304a\u3044\u5bae\u5ef7\u9b54\u8853\u5e2b\u30cd\u30d4\u30c9\u30fc\u306e\u2015\u2015\\n\u3000\u3044\u3064\u3082\u3069\u304a\u308a\u306e\u3001\u30c9\u30b8\u3067\u9593\u629c\u3051\u306a\u5927\u5931\u6557\u300f",
+    "Name": "ネピドー",
+    "Phrase": "『真面目で優秀に見えて、\\n　意外とヘマもおおい宮廷魔術師ネピドーの――\\n　いつもどおりの、ドジで間抜けな大失敗』",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1340,30 +1341,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 46401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 38,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u308c\u304b\u3089\u5f7c\u5973\u306f\u5b50\u4f9b\u3063\u307d\u304f\u3001\u308f\u3093\u308f\u3093\u3068\u6ce3\u304d\u3058\u3083\u304f\u3063\u305f\u3002",
+    "Phrase": "それから彼女は子供っぽく、わんわんと泣きじゃくった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1377,14 +1378,14 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

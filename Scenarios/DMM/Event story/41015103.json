@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u306e\u5f8c\u3001\u6211\u3005\u306f\u3044\u3063\u305f\u3093\u5b89\u5168\u306a\u5217\u8eca\u5185\u306b\u9000\u907f\u3057\u305f\u3002\\n\u306a\u305c\u304b\u9b54\u7269\u306b\u4e57\u3063\u305f\u5947\u5999\u306a\u6575\u306e\u4ea1\u9ab8\u306a\u3069\u306f\u56de\u53ce\u3067\u304d\u305a\u3001\\n\u4e0d\u5e78\u306b\u3082\u6226\u95d8\u306b\u5dfb\u304d\u3053\u307e\u308c\u305f\u8b0e\u306e\u5c11\u5973\u3060\u3051\u3092\u3068\u308a\u3042\u3048\u305a\u78ba\u4fdd\u3057\u3066\u2015\u2015",
+    "Phrase": "その後、我々はいったん安全な列車内に退避した。\\nなぜか魔物に乗った奇妙な敵の亡骸などは回収できず、\\n不幸にも戦闘に巻きこまれた謎の少女だけをとりあえず確保して――",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u2026\u2026\u2026\u2026\u300d",
+    "Name": "？？？",
+    "Phrase": "「…………」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,30 +46,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 102201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed",
-    "Phrase": "\u300c\u3053\u306e\u5b50\u3001\u4f55\u8005\u306a\u306e\u304b\u3057\u3089\u306d\u3093\uff1f\u300d",
+    "Name": "モンテカルロ",
+    "Phrase": "「この子、何者なのかしらねん？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -82,38 +83,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 100201,
         "Position": 2,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 51201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u3072\u3068\u307e\u305a\u3001\u9b54\u7269\u3067\u306f\u306a\u3044\u307f\u305f\u3044\u3060\u3088\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「ひとまず、魔物ではないみたいだよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -127,38 +128,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 100201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 51201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u6cbb\u7642\u9b54\u8853\u306b\u79c0\u3067\u305f\u30c6\u30eb\u30df\u30cb\u304c\u8b0e\u306e\u5c11\u5973\u306e\u5fdc\u6025\u624b\u5f53\u3092\u3057\u3064\u3064\u3001\\n\u30d9\u30c3\u30c9\u306b\u5bdd\u304b\u305b\u305f\u5f7c\u5973\u3092\u8208\u5473\u6df1\u3052\u306b\u89b3\u5bdf\u3057\u3066\u3044\u308b\u3002",
+    "Phrase": "治療魔術に秀でたテルミニが謎の少女の応急手当をしつつ、\\nベッドに寝かせた彼女を興味深げに観察している。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -172,21 +173,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u308f\u305f\u3057\u306e\u9b54\u8853\u3067\u5fb9\u5e95\u7684\u306b\u5206\u6790\u3057\u305f\u3051\u3069\u3001\\n\u3000\u308f\u305f\u3057\u305f\u3061\u3068\u8089\u4f53\u306e\u69cb\u6210\u8981\u7d20\u3092\u540c\u3058\u304f\u3059\u308b\u4eba\u9593\u3060\u306d\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「わたしの魔術で徹底的に分析したけど、\\n　わたしたちと肉体の構成要素を同じくする人間だね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -200,30 +202,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u3044\u308d\u3044\u308d\u8208\u5473\u6df1\u3044\u4e8b\u5b9f\u3082\u5224\u660e\u3057\u305f\u3051\u3069\u3002\\n\u3000\u3053\u306e\u5b50\u306f\u9b54\u7269\u3058\u3083\u306a\u3044\u3001\u308f\u305f\u3057\u305f\u3061\u306e\u6575\u3058\u3083\u306a\u3044\u3001\\n\u3000\u3063\u3066\u5148\u751f\u304c\u4fdd\u8a3c\u3057\u3066\u3042\u3052\u308b\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「いろいろ興味深い事実も判明したけど。\\n　この子は魔物じゃない、わたしたちの敵じゃない、\\n　って先生が保証してあげる」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -237,30 +239,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u6b63\u78ba\u306a\u3068\u3053\u308d\u306f\u3001\u3053\u306e\u5b50\u304c\u8d77\u304d\u305f\u3042\u3068\u306b\u8a71\u3092\u805e\u304b\u306a\u3044\u3068\u308f\u304b\u3093\u306a\u3044\u3051\u3069\u3002\\n\u3000\u62d8\u675f\u3068\u304b\u3092\u3059\u308b\u5fc5\u8981\u3082\u306a\u3055\u305d\u3046\u3060\u306d\u3001\\n\u3000\u8089\u4f53\u7684\u306b\u306f\u975e\u529b\u3067\u83ef\u5962\u306a\u666e\u901a\u306e\u5973\u306e\u5b50\u3063\u307d\u3044\u3057\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「正確なところは、この子が起きたあとに話を聞かないとわかんないけど。\\n　拘束とかをする必要もなさそうだね、\\n　肉体的には非力で華奢な普通の女の子っぽいし」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -274,30 +276,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed",
-    "Phrase": "\u300c\u307e\u3041\u3001\u898b\u308b\u304b\u3089\u306b\u7121\u529b\u306a\u4e00\u822c\u4eba\u3063\u3066\u611f\u3058\u3088\u306d\u3093\u300d",
+    "Name": "モンテカルロ",
+    "Phrase": "「まぁ、見るからに無力な一般人って感じよねん」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -311,30 +313,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 100201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed",
-    "Phrase": "\u300c\u306a\u305c\u304b\uff2d\u30f4\u30a7\u30eb\u30d5\u30a9\u30ec\u30c3\u30c8\u306e\u8ecd\u670d\u3092\u7740\u3066\u308b\u3051\u3069\u3002\\n\u3000\u8584\u6c5a\u308c\u3066\u308b\u3057\u3001\u3042\u3061\u3053\u3061\u64e6\u308a\u5207\u308c\u3066\u308b\u3057\u2015\u2015\\n\u3000\u305f\u3076\u3093\u3001\u843d\u3061\u3066\u305f\u306e\u3092\u62fe\u3063\u305f\u3060\u3051\u3068\u304b\u3058\u3083\u306a\u3044\u304b\u3057\u3089\u3093\uff1f\u300d",
+    "Name": "モンテカルロ",
+    "Phrase": "「なぜかＭヴェルフォレットの軍服を着てるけど。\\n　薄汚れてるし、あちこち擦り切れてるし――\\n　たぶん、落ちてたのを拾っただけとかじゃないかしらん？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -348,30 +350,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 100201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u305d\u3046\u3044\u3048\u3070\u30a4\u30ea\u30b9\u30e1\u30c8\u30ed\u306e\u3072\u3068\u305f\u3061\u3063\u3066\u3001\\n\u3000\u3042\u305f\u3057\u305f\u3061\u3068\u306f\u7740\u3066\u308b\u8ecd\u670d\u3068\u304b\u304c\u9055\u3044\u307e\u3059\u3088\u306d\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「そういえばイリスメトロのひとたちって、\\n　あたしたちとは着てる軍服とかが違いますよね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -385,30 +387,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
-    "Name": "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed",
-    "Phrase": "\u300c\u305a\u3046\u3063\u3068\u304a\u4e92\u3044\u307b\u307c\u7570\u4e16\u754c\u3067\u66ae\u3089\u3057\u3066\u3066\u4ea4\u6d41\u3082\u306a\u304b\u3063\u305f\u3093\u3060\u3057\u3001\\n\u3000\u540c\u3058\u670d\u3092\u7740\u3066\u308b\u307b\u3046\u304c\u5909\u3058\u3083\u306a\u3044\u306e\u3093\uff1f\u300d",
+    "Name": "モンテカルロ",
+    "Phrase": "「ずうっとお互いほぼ異世界で暮らしてて交流もなかったんだし、\\n　同じ服を着てるほうが変じゃないのん？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -422,30 +424,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 100201,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30bb\u30a4\u30e9\u30e0",
-    "Phrase": "\u300c\u3048\u3048\u3001\u670d\u3092\u7740\u3066\u3044\u308b\u307b\u3046\u304c\u5909\u3067\u3054\u3056\u3044\u307e\u3059\u306d\uff01\u300d",
+    "Name": "セイラム",
+    "Phrase": "「ええ、服を着ているほうが変でございますね！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -459,30 +461,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 36201,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed",
-    "Phrase": "\u300c\u305d\u308c\u306f\u9055\u3046\u308f\u3093\u300d",
+    "Name": "モンテカルロ",
+    "Phrase": "「それは違うわん」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -496,38 +498,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 100201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u670d\u306f\u7740\u307e\u3057\u3087\u3046\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「服は着ましょう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -541,38 +543,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 100201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u3075\u3075\u3002\u3057\u304b\u3057\u5927\u9a12\u304e\u3092\u3057\u305f\u308f\u308a\u306b\u3001\u3042\u3093\u307e\u308a\u53ce\u7a6b\u306f\u306a\u304b\u3063\u305f\u3088\u306d\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「ふふ。しかし大騒ぎをしたわりに、あんまり収穫はなかったよね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -586,30 +588,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u9699\u3042\u3089\u3070\u96d1\u8ac7\u3092\u59cb\u3081\u308b\u751f\u5f92\u305f\u3061\u3092\u5fae\u7b11\u307e\u3057\u3052\u306b\u898b\u3064\u3064\u3001\\n\u30c6\u30eb\u30df\u30cb\u304c\u5bdd\u5e8a\u306b\u6a2a\u305f\u308f\u3063\u305f\u8b0e\u306e\u5c11\u5973\u306e\u982d\u3092\u64ab\u3067\u308b\u3002",
+    "Phrase": "隙あらば雑談を始める生徒たちを微笑ましげに見つつ、\\nテルミニが寝床に横たわった謎の少女の頭を撫でる。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -623,30 +625,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u56de\u53ce\u3067\u304d\u305f\u306e\u306f\u3001\u3053\u306e\u5b50\u3060\u3051\u3002\\n\u3000\u5148\u306b\u8972\u3063\u3066\u304d\u305f\u300e\u9b54\u7269\u306b\u4e57\u3063\u305f\u8352\u304f\u308c\u3082\u306e\u305f\u3061\u300f\u306f\u3001\\n\u3000\u7070\u306b\u5451\u307e\u308c\u3066\u6d88\u3048\u3061\u3083\u3063\u305f\u3057\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「回収できたのは、この子だけ。\\n　先に襲ってきた『魔物に乗った荒くれものたち』は、\\n　灰に呑まれて消えちゃったし」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -660,30 +662,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed",
-    "Phrase": "\u300c\u3046\u3046\u3001\u308f\u305f\u3057\u306e\u5931\u614b\u304b\u3057\u3089\u3093\uff1f\\n\u3000\u3042\u306e\u9023\u4e2d\u304c\u4f55\u3060\u3063\u305f\u306e\u304b\u3068\u304b\u8abf\u3079\u305f\u304b\u3063\u305f\u3093\u3060\u3051\u3069\u306d\u3093\uff1f\u300d",
+    "Name": "モンテカルロ",
+    "Phrase": "「うう、わたしの失態かしらん？\\n　あの連中が何だったのかとか調べたかったんだけどねん？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -697,30 +699,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 100201,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u3044\u3084\u3001\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed\u3061\u3083\u3093\u306f\u6700\u9069\u306a\u5224\u65ad\u3068\u884c\u52d5\u3092\u3057\u305f\u3068\u601d\u3046\u3088\u3002\\n\u3000\u6210\u679c\u304c\u306a\u304b\u3063\u305f\u306e\u306f\u307e\u3041\u3001\u5358\u306b\u904b\u304c\u60aa\u304b\u3063\u305f\u3063\u3066\u3060\u3051\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「いや、モンテカルロちゃんは最適な判断と行動をしたと思うよ。\\n　成果がなかったのはまぁ、単に運が悪かったってだけ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -734,30 +736,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u3068\u3044\u3046\u304b\u3001\u6210\u679c\u306f\u3042\u3063\u305f\u3093\u3060\u3088\u306d\u3002\\n\u3000\u7070\u306b\u5451\u307e\u308c\u305f\u9023\u4e2d\u3092\u63a2\u67fb\u3057\u3066\u307f\u305f\u3093\u3060\u3051\u3069\u3001\u3069\u3053\u306b\u3082\u6b8b\u9ab8\u3059\u3089\u306a\u304b\u3063\u305f\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「というか、成果はあったんだよね。\\n　灰に呑まれた連中を探査してみたんだけど、どこにも残骸すらなかった」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -771,30 +773,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u3064\u307e\u308a\u3001\u3069\u3046\u3044\u3046\u3053\u3068\u304b\u308f\u304b\u308b\uff1f\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「つまり、どういうことかわかる？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -808,30 +810,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u305d\u3001\u305d\u3053\u3067\u3042\u305f\u3057\u305f\u3061\u306b\u632f\u308b\u3093\u3067\u3059\u304b\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「そ、そこであたしたちに振るんですか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -845,30 +847,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u5148\u751f\u304c\u305c\u3093\u3076\u306e\u7591\u554f\u306b\u7b54\u3048\u3092\u51fa\u3057\u3061\u3083\u3063\u305f\u3089\u3001\u6388\u696d\u306b\u306a\u3089\u306a\u3044\u3067\u3057\u3087\uff1f\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「先生がぜんぶの疑問に答えを出しちゃったら、授業にならないでしょ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -882,30 +884,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\u30bb\u30a4\u30e9\u30e0",
-    "Phrase": "\u300c\u3075\u3080\u3002\u5c4d\u4f53\u304c\u6d88\u3048\u305f\u2015\u2015\u3068\u3044\u3046\u3053\u3068\u306f\u3001\\n\u3000\u3084\u306f\u308a\u3042\u306e\u5947\u5999\u306a\u65b9\u3005\u306f\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\u3060\u3063\u305f\u306e\u3067\u3057\u3087\u3046\u304b\u300d",
+    "Name": "セイラム",
+    "Phrase": "「ふむ。屍体が消えた――ということは、\\n　やはりあの奇妙な方々はミストモンスターだったのでしょうか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -919,38 +921,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 36201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 100201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
-    "Name": "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed",
-    "Phrase": "\u300c\u3042\u3041\u3001\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u6b7b\u306c\u3068\u6d88\u3048\u308b\u3082\u306e\u306d\u3093\u3002\\n\u3000\u305d\u306e\u7406\u5c48\u306f\u308f\u304b\u3093\u306a\u3044\u3051\u3069\u300d",
+    "Name": "モンテカルロ",
+    "Phrase": "「あぁ、ミストモンスターは死ぬと消えるものねん。\\n　その理屈はわかんないけど」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -964,38 +966,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 36201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 100201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u5e7b\u9727\u304c\u767a\u751f\u3055\u305b\u305f\u602a\u7570\u3001\u7269\u7406\u7684\u306a\u5b9f\u4f53\u3092\u6301\u3063\u3066\u308b\u3060\u3051\u306e\\n\u3000\u5358\u306a\u308b\u5e7b\u899a\u3060\u304b\u3089\u2015\u2015\u3063\u3066\u8aac\u304c\u3042\u308b\u3051\u3069\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「幻霧が発生させた怪異、物理的な実体を持ってるだけの\\n　単なる幻覚だから――って説があるけど」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1009,30 +1011,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u5e7b\u9727\u306b\u307e\u3064\u308f\u308b\u3053\u3068\u306b\u3064\u3044\u3066\u306f\u3001\\n\u3000\u3055\u3059\u304c\u306e\u308f\u305f\u3057\u3082\u6b63\u78ba\u306a\u3053\u3068\u306f\u308f\u304b\u3089\u306a\u3044\u3093\u3060\u3088\u306d\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「幻霧にまつわることについては、\\n　さすがのわたしも正確なことはわからないんだよね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1046,30 +1048,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\u30bb\u30a4\u30e9\u30e0",
-    "Phrase": "\u300c\u305d\u308c\u3067\u3082\u3002\u4f55\u3092\u3059\u308c\u3070\u3069\u3046\u306a\u308b\u3001\\n\u3000\u3068\u3044\u3046\u300e\u516c\u5f0f\u300f\u304c\u308f\u304b\u308c\u3070\u5bfe\u51e6\u306f\u3067\u304d\u307e\u3059\u300d",
+    "Name": "セイラム",
+    "Phrase": "「それでも。何をすればどうなる、\\n　という『公式』がわかれば対処はできます」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1083,38 +1085,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 36201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 100201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u3046\u3093\u3002\u305d\u3046\u3084\u3063\u3066\u3001\u4eba\u985e\u306f\u5e7b\u9727\u306b\u5bfe\u51e6\u3057\u306a\u304c\u3089\u751f\u304d\u5ef6\u3073\u3066\u304d\u305f\u3093\u3060\u3002\\n\u3000\u308f\u304b\u3089\u306a\u3044\u3082\u306e\u3092\u308f\u304b\u3089\u306a\u3044\u306a\u308a\u306b\u3001\u306d\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「うん。そうやって、人類は幻霧に対処しながら生き延びてきたんだ。\\n　わからないものをわからないなりに、ね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1128,30 +1130,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u4eba\u985e\u306f\u3001\u305d\u3046\u3044\u3046\u306e\u304c\u5f97\u610f\u306a\u3093\u3060\u3088\u306d\u3002\\n\u3000\u6a5f\u68b0\u3068\u306f\u9055\u3063\u3066\u3001\u66d6\u6627\u306a\u3082\u306e\u3082\u66d6\u6627\u306a\u307e\u307e\u53d7\u3051\u5165\u308c\u3066\u6271\u3048\u308b\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「人類は、そういうのが得意なんだよね。\\n　機械とは違って、曖昧なものも曖昧なまま受け入れて扱える」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1165,30 +1167,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
-    "Name": "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed",
-    "Phrase": "\u300c\u3042\u3041\u3001\u307e\u305f\u8a71\u304c\u8131\u7dda\u3057\u3088\u3046\u3068\u3057\u3066\u308b\u308f\u3093\u300d",
+    "Name": "モンテカルロ",
+    "Phrase": "「あぁ、また話が脱線しようとしてるわん」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1202,38 +1204,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 36201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 100201,
         "Position": 4,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
-    "Name": "\u30bb\u30a4\u30e9\u30e0",
-    "Phrase": "\u300c\u3075\u3075\u3002\u30c6\u30eb\u30df\u30cb\u5148\u751f\u306e\u8a71\u3092\u805e\u3044\u3066\u3044\u308b\u3068\u3069\u3093\u3069\u3093\u77e5\u8b58\u304c\u5897\u3048\u307e\u3059\u304c\u3001\\n\u3000\u679c\u3066\u3057\u306a\u3044\u8ff7\u8def\u306b\u5165\u308a\u3053\u3093\u3060\u3088\u3046\u306a\u5fc3\u6301\u3061\u306b\u306a\u308a\u307e\u3059\u300d",
+    "Name": "セイラム",
+    "Phrase": "「ふふ。テルミニ先生の話を聞いているとどんどん知識が増えますが、\\n　果てしない迷路に入りこんだような心持ちになります」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1247,38 +1249,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 36201,
         "Position": 2,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 100201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u3046\u3093\u3002\u77e5\u8b58\u3063\u3066\u3044\u3046\u306e\u306f\u305d\u3046\u3044\u3046\u3082\u306e\u3060\u3057\u306d\u3002\\n\u3000\u3060\u304b\u3089\u3053\u305d\u3001\u308f\u305f\u3057\u3082\u305d\u306e\u300e\u679c\u3066\u3057\u306a\u3044\u8ff7\u8def\u300f\u3092\u8e0f\u7834\u3059\u308b\u305f\u3081\u306b\u3001\\n\u3000\u3053\u3093\u306a\u5b58\u5728\u306b\u306a\u3063\u305f\u3093\u3060\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「うん。知識っていうのはそういうものだしね。\\n　だからこそ、わたしもその『果てしない迷路』を踏破するために、\\n　こんな存在になったんだ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1292,30 +1294,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u4f55\u5ea6\u3082\u8089\u4f53\u3092\u4e57\u308a\u7d99\u304e\u3001\u8ee2\u751f\u3092\u7e70\u308a\u8fd4\u3059\\n\u300e\u4e0d\u6b7b\u8eab\u306e\u5927\u8ce2\u8005\u300f\u30c6\u30eb\u30df\u30cb\u306f\u611f\u6168\u6df1\u305d\u3046\u306b\u8a00\u3063\u305f\u3002",
+    "Phrase": "何度も肉体を乗り継ぎ、転生を繰り返す\\n『不死身の大賢者』テルミニは感慨深そうに言った。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1329,30 +1331,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 36,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u305f\u3060\u306d\u3001\u308f\u305f\u3057\u307f\u305f\u3044\u306b\u771f\u3063\u5f53\u306a\u4eba\u9593\u3067\u3042\u308b\u3053\u3068\u3092\u8f9e\u3081\u3066\u307e\u3067\u3001\\n\u3000\u77e5\u8b58\u3092\u6c42\u3081\u308b\u5fc5\u8981\u306f\u672c\u6765\u306f\u306a\u3044\u3093\u3060\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「ただね、わたしみたいに真っ当な人間であることを辞めてまで、\\n　知識を求める必要は本来はないんだ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1366,30 +1368,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 37,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u4f55\u3082\u77e5\u3089\u306a\u3044\u304a\u99ac\u9e7f\u3055\u3093\u3067\u3082\u3001\u5e78\u798f\u306a\u4eba\u751f\u306f\u5168\u3046\u3067\u304d\u308b\u3002\\n\u3000\u751f\u304d\u3066\u3044\u3051\u308b\u3002\\n\u3000\u305d\u3046\u8a00\u3063\u3066\u308f\u305f\u3057\u3092\u6279\u5224\u3057\u3066\u3001\u96e2\u308c\u3066\u3044\u3063\u305f\u5b50\u304c\u3044\u305f\u306a\u3041\u2015\u2015\u6614\u306b\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「何も知らないお馬鹿さんでも、幸福な人生は全うできる。\\n　生きていける。\\n　そう言ってわたしを批判して、離れていった子がいたなぁ――昔に」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1403,30 +1405,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 38,
     "ViewOrder": 1,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u2026\u2026\u3042\u3046\uff1f\u300d",
+    "Name": "？？？",
+    "Phrase": "「……あう？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1440,30 +1442,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 102201,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 39,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u4e0d\u601d\u8b70\u306a\u3053\u3068\u3092\u8a9e\u308b\u30c6\u30eb\u30df\u30cb\u306e\u58f0\u306b\u53cd\u5fdc\u3057\u305f\u306e\u304b\u3001\\n\u5f7c\u5973\u304c\u982d\u3092\u64ab\u3067\u3066\u3044\u305f\u8b0e\u306e\u5c11\u5973\u304c\u76ee\u3092\u899a\u307e\u3057\u305f\u3002",
+    "Phrase": "不思議なことを語るテルミニの声に反応したのか、\\n彼女が頭を撫でていた謎の少女が目を覚ました。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1477,30 +1479,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 102201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 40,
     "ViewOrder": 1,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u3042\u308c\uff1f\u3000\u3042\u308c\uff1f\u3000\u3053\u3053\u3001\u3069\u3053\uff1f\\n\u3000\u3042\u306a\u305f\u305f\u3061\u306f\u2026\u2026\uff1f\u300d",
+    "Name": "？？？",
+    "Phrase": "「あれ？　あれ？　ここ、どこ？\\n　あなたたちは……？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1514,30 +1516,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 102201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 41,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u304a\u306f\u3088\u3046\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「おはよう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1551,30 +1553,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 42,
     "ViewOrder": 1,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u304a\u3001\u304a\u306f\u3088\u3046\u3054\u3056\u3044\u307e\u3059\u3001\u3067\u3057\u2026\u2026\uff1f\u300d",
+    "Name": "？？？",
+    "Phrase": "「お、おはようございます、でし……？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1588,30 +1590,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 102201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 43,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u300e\u3067\u3057\u300f\uff1f\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「『でし』？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1625,38 +1627,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 36201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 77201,
         "Position": 4,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 44,
     "ViewOrder": 1,
-    "Name": "\u30bb\u30a4\u30e9\u30e0",
-    "Phrase": "\u300c\u3055\u3041\u3001\u30ef\u30af\u30ef\u30af\u62f7\u554f\u30bf\u30a4\u30e0\u306e\u59cb\u307e\u308a\u3067\u3054\u3056\u3044\u307e\u3059\u306d\u2606\u300d",
+    "Name": "セイラム",
+    "Phrase": "「さぁ、ワクワク拷問タイムの始まりでございますね☆」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1670,38 +1672,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 36201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 77201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 45,
     "ViewOrder": 1,
-    "Name": "\u30bb\u30a4\u30e9\u30e0",
-    "Phrase": "\u300c\u3053\u306e\u5b50\u3092\u5c0b\u554f\u3057\u3001\u5148\u307b\u3069\u306e\u9b54\u7269\uff08\u4eee\u5b9a\uff09\u306e\u6b63\u4f53\u3092\u63a2\u308b\uff01\\n\u3000\u305d\u3046\u3044\u3046\u3053\u3068\u3067\u3054\u3056\u3044\u307e\u3059\u3088\u306d\u3001\u30c6\u30eb\u30df\u30cb\u5148\u751f!?\u300d",
+    "Name": "セイラム",
+    "Phrase": "「この子を尋問し、先ほどの魔物（仮定）の正体を探る！\\n　そういうことでございますよね、テルミニ先生!?」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1715,38 +1717,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 36201,
         "Position": 2,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 77201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 46,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u3046\u3093\u3002\u307e\u3041\u3001\u305d\u3046\u3044\u3046\u3053\u3068\u3067\u306f\u3042\u308b\u3051\u3069\u306d\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「うん。まぁ、そういうことではあるけどね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1760,30 +1762,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 47,
     "ViewOrder": 1,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u3048\uff1f\u3000\u3048\uff1f\u3000\u30ca\u30dd\u30ea\u3001\u62f7\u554f\u3055\u308c\u308b\u3067\u3057\uff1f\\n\u3000\u9177\u3044\u3053\u3068\u306f\u3057\u306a\u3044\u3067\u307b\u3057\u3044\u3067\u3057\uff5e\uff01\u300d",
+    "Name": "？？？",
+    "Phrase": "「え？　え？　ナポリ、拷問されるでし？\\n　酷いことはしないでほしいでし～！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1797,30 +1799,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 102201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 48,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u3053\u3089\u3053\u3089\u3001\u6016\u304c\u3089\u305b\u3061\u3083\u99c4\u76ee\u3067\u3059\u304b\u3089\u306d\u3002\\n\u3000\u7279\u9244\u968a\u306e\u3072\u3068\u305f\u3061\u3063\u3066\u3001\u57fa\u672c\u7684\u306b\u5197\u8ac7\u304c\u30ad\u30c4\u3044\u3093\u3067\u3059\u3088\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「こらこら、怖がらせちゃ駄目ですからね。\\n　特鉄隊のひとたちって、基本的に冗談がキツいんですよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1834,38 +1836,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 36201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 77201,
         "Position": 4,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 49,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u3048\u3063\u3068\u3001\u30ca\u30dd\u30ea\u3055\u3093\u2026\u2026\u3063\u3066\u3044\u3046\u3093\u3067\u3059\u304b\uff1f\\n\u3000\u3044\u3058\u3081\u305f\u308a\u3057\u307e\u305b\u3093\u306e\u3067\u3001\u3059\u3053\u3057\u8a71\u3092\u805e\u304b\u305b\u3066\u3082\u3089\u3063\u3066\u3082\u3044\u3044\u3067\u3059\u304b\uff1f\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「えっと、ナポリさん……っていうんですか？\\n　いじめたりしませんので、すこし話を聞かせてもらってもいいですか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1879,38 +1881,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 36201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 77201,
         "Position": 4,
         "Action": 7,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 50,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30dd\u30ea",
-    "Phrase": "\u300c\u2026\u2026\uff1f\u3000\u2026\u2026\uff1f\u300d",
+    "Name": "ナポリ",
+    "Phrase": "「……？　……？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1924,30 +1926,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 102201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 51,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30ca\u30dd\u30ea\u3068\u81ea\u79f0\u3057\u305f\u5c11\u5973\u306f\u3001\\n\u5f53\u60d1\u6c17\u5473\u306b\u300e\u30c6\u30eb\u30df\u30cb\u6559\u5ba4\u300f\u306e\u9762\u3005\u3092\u898b\u56de\u3057\u3066\u3044\u305f\u3002",
+    "Phrase": "ナポリと自称した少女は、\\n当惑気味に『テルミニ教室』の面々を見回していた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1961,14 +1963,14 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

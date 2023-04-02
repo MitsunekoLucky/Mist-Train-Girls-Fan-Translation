@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u3055\u3042\u884c\u304d\u307e\u3059\u3088\uff01\u300d",
+    "Name": "オハナ",
+    "Phrase": "「さあ行きますよ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,30 +17,30 @@
     "Effect": 5,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u51cd\u3066\u3064\u304f\u5203\u306b\u9707\u3048\u306a\u3055\u3044\uff01\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「凍てつく刃に震えなさい！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -54,30 +54,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30a1\u30a4\u30a8\u30c3\u30c8",
-    "Phrase": "\u300c\u6b7b\u306b\u305f\u3044\u5974\u304b\u3089\u304b\u304b\u3063\u3066\u304f\u308b\u3093\u3060\u306a\uff01\u300d",
+    "Name": "ファイエット",
+    "Phrase": "「死にたい奴からかかってくるんだな！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -91,30 +91,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 27201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30d5\u30a3\u30f3\u30c1\u30ea\u30fc\u306e\u53f7\u4ee4\u3068\u5171\u306b\u3001\\n\u30aa\u30cf\u30ca\u3068\u30e4\u30af\u30fc\u30c4\u30af\u3068\u30d5\u30a1\u30a4\u30a8\u30c3\u30c8\u304c\u98db\u3073\u51fa\u3057\u3001\\n\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\u305f\u3061\u3092\u76f8\u624b\u306b\u3059\u308b\u3002",
+    "Phrase": "フィンチリーの号令と共に、\\nオハナとヤクーツクとファイエットが飛び出し、\\nミストモンスターたちを相手にする。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -128,38 +128,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 127,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u8857\u306e\u5e83\u5834\u307b\u3069\u306e\u6570\u3067\u306f\u306a\u3044\u3068\u306f\u3044\u3048\u3001\\n\u5de5\u5834\u5185\u306e\u3042\u308a\u3063\u305f\u3051\u306e\u6575\u304c\u5411\u304b\u3063\u3066\u304f\u308b\u3002\\n\u5f7c\u5973\u305f\u3061\u3058\u3083\u306a\u304b\u3063\u305f\u3089\u3001\u3082\u3046\u5168\u6ec5\u3057\u3066\u3044\u308b\u3053\u3068\u3060\u308d\u3046\u3002",
+    "Phrase": "街の広場ほどの数ではないとはいえ、\\n工場内のありったけの敵が向かってくる。\\n彼女たちじゃなかったら、もう全滅していることだろう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -173,38 +173,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 2,
         "Action": 4,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 127,
         "Position": 4,
         "Action": 2,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u30c7\u30c8\u30ed\u30a4\u30c8\u3001\u77ed\u671f\u6c7a\u6226\u3067\u3044\u304f\u308f\u3088\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「デトロイト、短期決戦でいくわよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -218,38 +218,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u3042\u3042\u3001\u3082\u3061\u308d\u3093\u3060\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「ああ、もちろんだ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -263,38 +263,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u76ee\u306e\u524d\u306e\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5012\u3057\u3001\\n\u6c17\u3065\u304b\u308c\u306a\u3044\u3046\u3061\u306b\u7269\u9670\u306b\u79fb\u52d5\u3059\u308b\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2\u3068\u30c7\u30c8\u30ed\u30a4\u30c8\u3002",
+    "Phrase": "目の前のミストモンスターを倒し、\\n気づかれないうちに物陰に移動するブラックフライアとデトロイト。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -308,38 +308,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 2,
         "Action": 6,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 127,
         "Position": 4,
         "Action": 4,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u5e7b\u9727\u306e\u767a\u751f\u6e90\u306f\u3069\u3053\uff1f\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「幻霧の発生源はどこ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -353,38 +353,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u968a\u9577\u3068\u3084\u3089\u304c\u9663\u53d6\u3063\u3066\u3044\u308b\u5834\u6240\u306e\u3055\u3089\u306b\u5965\u307f\u305f\u3044\u3060\u3002\\n\u3000\u3051\u3069\u3061\u3087\u3063\u3068\u5f85\u3063\u3066\u304f\u308c\u3001\u304a\u304b\u3057\u3044\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「隊長とやらが陣取っている場所のさらに奥みたいだ。\\n　けどちょっと待ってくれ、おかしい」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -398,38 +398,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u4f55\u304c\u3088\uff1f\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「何がよ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -443,38 +443,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 2,
         "Action": 5,
         "Emotion": 8,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u3044\u3064\u3082\u306a\u3089\u300e\u5f77\u5fa8\u3046\u751f\u300f\u306e\u767a\u751f\u6e90\u3063\u3066\u306e\u306f\u3001\\n\u3000\u3060\u3044\u305f\u3044\u305d\u306e\u4e2d\u306e\uff11\u4f53\u304c\u62c5\u3063\u3066\u3044\u308b\u3093\u3060\u3002\\n\u3000\u3051\u3069\u4eca\u56de\u306e\u767a\u751f\u6e90\u306f\u3001\u3069\u3046\u3084\u3089\u666e\u901a\u3068\u306f\u9055\u3046\u3089\u3057\u3044\u3002\\n\u3000\u793a\u3059\u5148\u306b\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\u3082\u300e\u5f77\u5fa8\u3046\u751f\u300f\u3082\u3044\u306a\u3044\u304b\u3089\u306a\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「いつもなら『彷徨う生』の発生源ってのは、\\n　だいたいその中の１体が担っているんだ。\\n　けど今回の発生源は、どうやら普通とは違うらしい。\\n　示す先にミストモンスターも『彷徨う生』もいないからな」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -488,38 +488,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u4eca\u56de\u306f\u3060\u3044\u3076\u7279\u6b8a\u306a\u30b1\u30fc\u30b9\u3068\u3044\u3046\u3053\u3068\u304b\u3057\u3089\u306d\u3002\\n\u3000\u3042\u306a\u305f\u304c\u3044\u3066\u304f\u308c\u3066\u672c\u5f53\u306b\u3088\u304b\u3063\u305f\u308f\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「今回はだいぶ特殊なケースということかしらね。\\n　あなたがいてくれて本当によかったわ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -533,38 +533,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u3078\u3063\u3001\u8912\u3081\u308b\u306e\u306f\u307e\u3060\u65e9\u3044\u3060\u308d\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「へっ、褒めるのはまだ早いだろ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -578,38 +578,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u3067\u3082\u3042\u3044\u3064\u3089\uff14\u4eba\u304c\u8eab\u4f53\u5f35\u3063\u3066\u304f\u308c\u3066\u308b\u304a\u304b\u3052\u3067\u3001\\n\u3000\u3053\u3063\u3061\u306f\u30b9\u30e0\u30fc\u30ba\u306b\u884c\u3051\u305d\u3046\u3060\u3002\\n\u3000\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2\u3001\u3053\u306e\u307e\u307e\u6700\u77ed\u30eb\u30fc\u30c8\u3092\u7a81\u3063\u5207\u308b\u305e\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「でもあいつら４人が身体張ってくれてるおかげで、\\n　こっちはスムーズに行けそうだ。\\n　ブラックフライア、このまま最短ルートを突っ切るぞ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -623,38 +623,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u5371\u306a\u3044\u30c7\u30c8\u30ed\u30a4\u30c8\uff01\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「危ないデトロイト！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -668,38 +668,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 2,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u5927\u578b\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc",
-    "Phrase": "\u300c\u30b0\u30aa\u30a9\u30a9\u30a9\u30c3\uff01\u300d",
+    "Name": "大型ミストモンスター",
+    "Phrase": "「グオォォォッ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -713,30 +713,30 @@
     "Effect": 5,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 7,
         "Emotion": 0,
         "FacialExpression": 10,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u7269\u9670\u304b\u3089\u98db\u3073\u51fa\u3057\u305f\u30c7\u30c8\u30ed\u30a4\u30c8\u306e\u8155\u3092\u3001\\n\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2\u304c\u5f15\u3063\u5f35\u308b\u3002",
+    "Phrase": "物陰から飛び出したデトロイトの腕を、\\nブラックフライアが引っ張る。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -750,38 +750,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u308c\u3068\u307b\u307c\u540c\u6642\u306b\u3001\u7a81\u5982\u51fa\u73fe\u3057\u305f\u5927\u578b\u306e\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\u304c\u3001\\n\u30c7\u30c8\u30ed\u30a4\u30c8\u304c\u8e0f\u307f\u8fbc\u3093\u3067\u3044\u305f\u306f\u305a\u306e\u5834\u6240\u306b\u3001\u5927\u304d\u306a\u8155\u3092\u632f\u308a\u4e0b\u308d\u3057\u305f\u3002",
+    "Phrase": "それとほぼ同時に、突如出現した大型のミストモンスターが、\\nデトロイトが踏み込んでいたはずの場所に、大きな腕を振り下ろした。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -795,38 +795,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2\u304c\u6b62\u3081\u3066\u3044\u306a\u304b\u3063\u305f\u3089\u3001\\n\u30c7\u30c8\u30ed\u30a4\u30c8\u306f\u4eca\u3054\u308d\u53e9\u304d\u6f70\u3055\u308c\u3066\u3044\u305f\u304b\u3082\u3057\u308c\u306a\u3044\u3002",
+    "Phrase": "ブラックフライアが止めていなかったら、\\nデトロイトは今ごろ叩き潰されていたかもしれない。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -840,38 +840,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u30b5\u30f3\u30ad\u30e5\u30fc\u3001\u52a9\u304b\u3063\u305f\u305c\u3002\\n\u3000\u307e\u3055\u304b\u3053\u3093\u306a\u5927\u7269\u3092\u96a0\u3057\u3066\u3084\u304c\u3063\u305f\u3068\u306f\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「サンキュー、助かったぜ。\\n　まさかこんな大物を隠してやがったとは」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -885,38 +885,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u3063\u3066\u304a\u3044\u3001\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2\u5927\u4e08\u592b\u304b\uff01\uff1f\\n\u3000\u3042\u3093\u305f\u3001\u30a2\u30bf\u30b7\u306e\u4ee3\u308f\u308a\u306b\u2026\u2026\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「っておい、ブラックフライア大丈夫か！？\\n　あんた、アタシの代わりに……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -930,38 +930,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 2,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u5927\u4e08\u592b\u3088\u3002\u3061\u3087\u3063\u3068\u63a0\u3063\u305f\u3060\u3051\u3002\u51fa\u8840\u3082\u3057\u3066\u306a\u3044\u3002\\n\u3000\u307e\u3042\u3001\u305d\u308c\u3067\u3053\u306e\u5a01\u529b\u306a\u3093\u3060\u3051\u3069\u306d\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「大丈夫よ。ちょっと掠っただけ。出血もしてない。\\n　まあ、それでこの威力なんだけどね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -975,38 +975,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u3068\u306b\u304b\u304f\u3001\u3042\u306a\u305f\u306f\u7a81\u7834\u3059\u308b\u3053\u3068\u3060\u3051\u3092\u8003\u3048\u3066\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「とにかく、あなたは突破することだけを考えて」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1020,38 +1020,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u305d\u3046\u306f\u8a00\u3063\u3066\u3082\u3088\u2026\u2026\uff01\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「そうは言ってもよ……！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1065,38 +1065,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u3044\u3044\u6a5f\u4f1a\u3060\u304b\u3089\u6559\u3048\u3066\u3042\u3052\u308b\u3002\\n\u3000\u300e\u5916\u306e\u90e8\u968a\u300f\u306e\u6559\u8a13\u3067\u3001\u79c1\u306e\u30dd\u30ea\u30b7\u30fc\u3067\u3082\u3042\u308b\u8a00\u8449\u3092\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「いい機会だから教えてあげる。\\n　『外の部隊』の教訓で、私のポリシーでもある言葉を」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1110,38 +1110,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u300e\u6311\u307e\u306d\u3070\u52dd\u3066\u306a\u3044\u3002\u52dd\u3064\u305f\u3081\u306b\u6311\u3080\u300f\u3002\\n\u3000\u307b\u3089\u3001\u884c\u304d\u306a\u3055\u3044\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「『挑まねば勝てない。勝つために挑む』。\\n　ほら、行きなさい」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1155,38 +1155,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
-    "Name": "\u5927\u578b\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc",
-    "Phrase": "\u300c\u30b0\u30aa\u30a9\u30a9\u30a9\u30c3\uff01\uff01\u300d",
+    "Name": "大型ミストモンスター",
+    "Phrase": "「グオォォォッ！！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1200,30 +1200,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 10,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u3053\u306e\u6226\u3044\u3001\u52dd\u3064\u306e\u306f\u7279\u9244\u968a\u3088\u3002\\n\u3000\u305f\u3068\u3048\u79c1\u304c\u3069\u3046\u306a\u308d\u3046\u3068\u3082\u306d\uff01\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「この戦い、勝つのは特鉄隊よ。\\n　たとえ私がどうなろうともね！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1237,30 +1237,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u3044\u3044\u3048\u3001\u3042\u306a\u305f\u306f\u6b7b\u306a\u305b\u307e\u305b\u3093\u300d",
+    "Name": "オハナ",
+    "Phrase": "「いいえ、あなたは死なせません」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1274,30 +1274,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 6,
         "Emotion": 0,
         "FacialExpression": 10,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u30aa\u30cf\u30ca\uff01\uff1f\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「オハナ！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1311,30 +1311,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u5927\u4e08\u592b\u3067\u3059\u304b\u3001\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2\u3055\u3093\u300d",
+    "Name": "オハナ",
+    "Phrase": "「大丈夫ですか、ブラックフライアさん」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1348,30 +1348,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u3064\u3001\u3064\u3048\u3048\u2026\u2026\u3002\\n\u3000\u3042\u3093\u305f\u3044\u3063\u305f\u3044\u4f55\u8005\u306a\u3093\u3060\u3088\uff01\uff1f\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「つ、つええ……。\\n　あんたいったい何者なんだよ！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1385,30 +1385,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 43201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u79c1\u3067\u3059\u304b\uff1f\\n\u3000\u3054\u5b58\u77e5\u3060\u3068\u601d\u3044\u307e\u3059\u304c\u3001\u305f\u3060\u306e\u5bee\u6bcd\u3067\u3059\u3088\u266a\u300d",
+    "Name": "オハナ",
+    "Phrase": "「私ですか？\\n　ご存知だと思いますが、ただの寮母ですよ♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1422,30 +1422,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u52a9\u304b\u3063\u305f\u308f\u30aa\u30cf\u30ca\u3002\\n\u3000\u3067\u3082\u3042\u306a\u305f\u3001\u3042\u306e\u6570\u3092\u76f8\u624b\u306b\u3057\u306a\u304c\u3089\u3001\\n\u3000\u3088\u304f\u3053\u3063\u3061\u307e\u3067\u2026\u2026\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「助かったわオハナ。\\n　でもあなた、あの数を相手にしながら、\\n　よくこっちまで……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1459,38 +1459,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 80201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 36,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u30d5\u30a3\u30f3\u30c1\u30ea\u30fc\u3061\u3083\u3093\u306e\u6307\u793a\u3067\u3059\u3088\u3002\\n\u3000\u3053\u3061\u3089\u306b\u6575\u304c\u51fa\u73fe\u3057\u305f\u6642\u70b9\u3067\u3001\\n\u3000\u5411\u3053\u3046\u3067\u6291\u3048\u7d9a\u3051\u308b\u610f\u5473\u3082\u306a\u304f\u306a\u3063\u305f\u3068\u3001\\n\u3000\u3042\u306e\u5b50\u304c\u6226\u7dda\u3092\u62bc\u3057\u4e0a\u3052\u308b\u6c7a\u65ad\u3092\u3057\u305f\u3093\u3067\u3059\u300d",
+    "Name": "オハナ",
+    "Phrase": "「フィンチリーちゃんの指示ですよ。\\n　こちらに敵が出現した時点で、\\n　向こうで抑え続ける意味もなくなったと、\\n　あの子が戦線を押し上げる決断をしたんです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1504,38 +1504,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 80201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 37,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u3061\u3087\u3063\u3068\u4e71\u6226\u6c17\u5473\u306b\u306a\u3063\u3066\u3057\u307e\u3044\u307e\u3059\u304c\u3001\\n\u3000\u304a\u304b\u3052\u3067\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2\u3055\u3093\u305f\u3061\u3092\u7121\u4e8b\u3001\\n\u3000\u767a\u751f\u6e90\u3078\u3068\u5411\u304b\u308f\u305b\u308b\u3053\u3068\u304c\u51fa\u6765\u305d\u3046\u3067\u3059\u306d\u266a\u300d",
+    "Name": "オハナ",
+    "Phrase": "「ちょっと乱戦気味になってしまいますが、\\n　おかげでブラックフライアさんたちを無事、\\n　発生源へと向かわせることが出来そうですね♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1549,38 +1549,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 80201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 38,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u305d\u3046\u3001\u30d5\u30a3\u30f3\u30c1\u30ea\u30fc\u304c\u2026\u2026\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「そう、フィンチリーが……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1594,38 +1594,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 80201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 39,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30a3\u30f3\u30c1\u30ea\u30fc",
-    "Phrase": "\u300c\u5148\u8f29\u3001\u884c\u3063\u3066\u4e0b\u3055\u3044\uff01\\n\u3000\u3042\u306a\u305f\u306f\u3053\u3093\u306a\u3068\u3053\u308d\u3067\u5012\u308c\u3066\u3044\u3044\u4eba\u3058\u3083\u306a\u3044\uff01\u300d",
+    "Name": "フィンチリー",
+    "Phrase": "「先輩、行って下さい！\\n　あなたはこんなところで倒れていい人じゃない！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1639,30 +1639,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 9201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 40,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u5168\u4f53\u3092\u628a\u63e1\u3057\u3066\u3001\u67d4\u8edf\u304b\u3064\u5927\u80c6\u306a\u6307\u63ee\u2026\u2026\u3002\\n\u3000\u3075\u3075\u3001\u3042\u306e\u5b50\u3082\u6210\u9577\u3057\u305f\u308f\u306d\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「全体を把握して、柔軟かつ大胆な指揮……。\\n　ふふ、あの子も成長したわね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1676,38 +1676,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 80201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 41,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u3048\u3048\u3002\u30bc\u30ed\u671f\u751f\u306e\u9803\u306b\u6bd4\u3079\u305f\u3089\u3001\u898b\u9055\u3048\u308b\u3088\u3046\u3067\u3059\u300d",
+    "Name": "オハナ",
+    "Phrase": "「ええ。ゼロ期生の頃に比べたら、見違えるようです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1721,38 +1721,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 80201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 42,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u5f8c\u8f29\u306e\u6210\u9577\u3092\u898b\u3089\u308c\u3066\u3001\\n\u3000\u5148\u8f29\u3068\u3057\u3066\u306f\u3068\u3066\u3082\u5b09\u3057\u3044\u6c17\u5206\u3060\u308f\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「後輩の成長を見られて、\\n　先輩としてはとても嬉しい気分だわ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1766,38 +1766,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 80201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 43,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u305d\u308c\u3067\u306f\uff12\u4eba\u3068\u3082\u3001\\n\u3000\u79c1\u304c\u9032\u8def\u4e0a\u306e\u6575\u3092\u5012\u3057\u307e\u3059\u304b\u3089\u3001\\n\u3000\u7acb\u3061\u6b62\u307e\u3089\u305a\u306b\u8d70\u3063\u3066\u4e0b\u3055\u3044\u300d",
+    "Name": "オハナ",
+    "Phrase": "「それでは２人とも、\\n　私が進路上の敵を倒しますから、\\n　立ち止まらずに走って下さい」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1811,30 +1811,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 44,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30e9\u30c3\u30af\u30d5\u30e9\u30a4\u30a2",
-    "Phrase": "\u300c\u983c\u3093\u3060\u308f\u3001\u30aa\u30cf\u30ca\u300d",
+    "Name": "ブラックフライア",
+    "Phrase": "「頼んだわ、オハナ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1848,38 +1848,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 45,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u4eca\u5ea6\u3053\u305d\u767a\u751f\u6e90\u307e\u3067\u8fbf\u308a\u7740\u3044\u3066\u3084\u308b\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「今度こそ発生源まで辿り着いてやる」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1893,38 +1893,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 80201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 46,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u305d\u308c\u3067\u306f\u79c1\u306b\u7d9a\u3044\u3066\u4e0b\u3055\u3044\uff01\u300d",
+    "Name": "オハナ",
+    "Phrase": "「それでは私に続いて下さい！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1938,23 +1938,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u4f11\u65e5\u3001\u30bb\u30f3\u30c8\u30a4\u30ea\u30b9\u306e\u8857\u3092\u6b69\u3044\u3066\u3044\u308b\u3068\u3001\\n\u516c\u5712\u3067\u30dd\u30fc\u30ba\u3092\u6c7a\u3081\u3066\u3044\u308b\u30eb\u30fc\u30a2\u30f3\u306e\u59ff\u3092\u898b\u304b\u3051\u305f\u3002",
+    "Phrase": "休日、セントイリスの街を歩いていると、\\n公園でポーズを決めているルーアンの姿を見かけた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2015\u2015\u304a\u3044\u2026\u2026\u3002\\n\uff11\u4eba\u3067\u4f55\u3084\u3063\u3066\u308b\u3093\u3060\u3001\u30eb\u30fc\u30a2\u30f3\u3002",
+    "Phrase": "――おい……。\\n１人で何やってるんだ、ルーアン。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,21 +46,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u2015\u2015\u3042\u3089\u3042\u3001\u8eca\u638c\u30b5\u30f3\u3058\u3083\u3054\u3056\u3044\u307e\u305b\u3093\u306e\u3002\\n\u3000\u5076\u7136\u3067\u3059\u308f\u306d\u3001\u3053\u3093\u306a\u3068\u3053\u308d\u3067\u304a\u4f1a\u3044\u3059\u308b\u306a\u3093\u3066\u266a\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「――あらあ、車掌サンじゃございませんの。\\n　偶然ですわね、こんなところでお会いするなんて♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -73,30 +75,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u30cf\u30c3\u3001\u3082\u3057\u304b\u3057\u3066\u2026\u2026\uff01\uff1f\\n\u3000\u3053\u306e\u30eb\u30fc\u30a2\u30f3\u30fb\u30ea\u30f4\u30fb\u30c9\u30ed\u30ef\u30c3\u30c8\u304c\u3053\u3053\u306b\u3044\u308b\u3053\u3068\u3092\u3001\\n\u3000\u306f\u3058\u3081\u304b\u3089\u3054\u5b58\u3058\u3060\u3063\u305f\u306e\u3067\u306f\uff01\uff1f\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「ハッ、もしかして……！？\\n　このルーアン・リヴ・ドロワットがここにいることを、\\n　はじめからご存じだったのでは！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -110,30 +112,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u516c\u5712\u3067\u622f\u308c\u308b\u30ea\u30b9\u305f\u3061\u306e\u3046\u308f\u3055\u8a71\u3067\u8033\u306b\u3057\u305f\u306e\u304b\u3057\u3089\uff1f\\n\u3000\u305d\u308c\u3068\u3082\u3001\u5674\u6c34\u3067\u6c34\u6d74\u3073\u3057\u3066\u3044\u308b\u30cf\u30c8\u306b\u8033\u6253\u3061\u3067\u3082\u3055\u308c\u305f\u306e\u304b\u3057\u3089\uff1f\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「公園で戯れるリスたちのうわさ話で耳にしたのかしら？\\n　それとも、噴水で水浴びしているハトに耳打ちでもされたのかしら？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -147,30 +149,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3044\u3084\u3001\u5168\u7136\u9055\u3046\u304c\uff1f\\n\u305f\u307e\u305f\u307e\u901a\u308a\u304b\u304b\u3063\u305f\u3089\u3001\\n\u305d\u3063\u3061\u304c\u58f0\u3092\u639b\u3051\u3066\u307b\u3057\u305d\u3046\u306b\u3057\u3066\u305f\u304b\u3089\u3002",
+    "Phrase": "いや、全然違うが？\\nたまたま通りかかったら、\\nそっちが声を掛けてほしそうにしてたから。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -184,30 +186,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u3079\u3001\u3079\u3064\u306b\u304b\u307e\u3063\u3066\u307b\u3057\u3044\u306a\u3093\u3066\u601d\u3063\u3066\u307e\u305b\u3093\u3051\u3069\uff01\uff1f\\n\u3000\u306a\u306b\u3088\u3001\u4eba\u306e\u3053\u3068\u304b\u308f\u3044\u305d\u3046\u306a\u5b50\u307f\u305f\u3044\u306b\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「べ、べつにかまってほしいなんて思ってませんけど！？\\n　なによ、人のことかわいそうな子みたいに」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -221,30 +223,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 6,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u2026\u2026\u30b3\u30db\u30f3\u3002\\n\u3000\u307e\u3001\u307e\u3042\u3001\u3088\u308d\u3057\u304f\u3066\u3088\u3002\\n\u3000\u8eca\u638c\u30b5\u30f3\u306f\u7d20\u76f4\u306b\u306a\u308c\u306a\u3044\u304a\u5e74\u9803\u3056\u3041\u307e\u3059\u3082\u306e\u306d\u266a\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「……コホン。\\n　ま、まあ、よろしくてよ。\\n　車掌サンは素直になれないお年頃ざぁますものね♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -258,30 +260,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2015\u2015\u3082\u3057\u304b\u3057\u3066\u3001\u3060\u304c\u3002",
+    "Phrase": "――もしかして、だが。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -295,21 +297,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5148\u307b\u3069\u304b\u3089\u3053\u3061\u3089\u304c\u3042\u3048\u3066\\n\u5b8c\u5168\u30b9\u30eb\u30fc\u3057\u3066\u3044\u308b\u5999\u3061\u304f\u308a\u3093\u306a\u8a00\u8449\u9063\u3044\u306f\u3001\\n\u305d\u306e\u65b0\u3057\u3044\u30c9\u30ec\u30b9\u306e\u4e16\u754c\u89b3\u3092\u610f\u8b58\u3057\u3066\u3044\u308b\u306e\u304b\uff1f",
+    "Phrase": "先ほどからこちらがあえて\\n完全スルーしている妙ちくりんな言葉遣いは、\\nその新しいドレスの世界観を意識しているのか？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -323,21 +326,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u2015\u2015\u6c17\u3065\u3044\u3061\u3083\u3063\u305f\uff1f\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「――気づいちゃった？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -351,30 +355,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 7,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u305d\u3046\u306a\u306e\u3088\u3049\u30fc\uff01\\n\u3000\u7d20\u6575\u3067\u3057\u3087\u3001\u3053\u306e\u30c9\u30ec\u30b9\u266a\\n\u3000\u306a\u3093\u3068\u3001\u3042\u305f\u3057\u304c\u81ea\u5206\u3067\u7e2b\u3063\u305f\u306e\u3088\uff01\\n\u3000\u304b\u306a\u308a\u3044\u3044\u51fa\u6765\u3060\u3068\u601d\u308f\u306a\u3044\uff1f\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「そうなのよぉー！\\n　素敵でしょ、このドレス♪\\n　なんと、あたしが自分で縫ったのよ！\\n　かなりいい出来だと思わない？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -388,30 +392,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 8,
         "Emotion": 1,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u307b\u3046\u2026\u2026\u81ea\u4f5c\u3068\u306f\u7d20\u76f4\u306b\u9a5a\u3044\u305f\u3002\\n\u78ba\u304b\u306b\u30af\u30aa\u30ea\u30c6\u30a3\u304c\u9ad8\u3044\u3057\u3001\\n\u4f55\u3088\u308a\u30eb\u30fc\u30a2\u30f3\u306b\u3088\u304f\u4f3c\u5408\u3063\u3066\u3044\u308b\u3002",
+    "Phrase": "ほう……自作とは素直に驚いた。\\n確かにクオリティが高いし、\\n何よりルーアンによく似合っている。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -425,30 +429,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u3067\u3057\u3087\u3067\u3057\u3087\u3067\u3057\u3087\u3063\uff1f\\n\u3000\u306a\u304b\u306a\u304b\u5206\u304b\u3063\u3066\u308b\u3058\u3083\u306a\u3044\u3001\u8eca\u638c\u266a\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「でしょでしょでしょっ？\\n　なかなか分かってるじゃない、車掌♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -462,30 +466,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u3042\u3093\u305f\u306b\u4e00\u756a\u306b\u898b\u305b\u305f\u304b\u3063\u305f\u306e\u3088\u306d\uff5e\u3002\\n\u3000\u5f85\u3061\u4f0f\u305b\u3057\u3066\u305f\u7532\u6590\u304c\u3042\u3063\u305f\u308f\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「あんたに一番に見せたかったのよね～。\\n　待ち伏せしてた甲斐があったわ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -499,30 +503,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2026\u2026\u3093\uff1f\\n\u4eca\u3001\u5f85\u3061\u4f0f\u305b\u3063\u3066\u8a00\u3063\u305f\u306e\u304b\uff1f",
+    "Phrase": "……ん？\\n今、待ち伏せって言ったのか？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -536,30 +540,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30ea\u30b9\u306e\u5642\u8a71\u306f\uff1f\\n\u30cf\u30c8\u306e\u8033\u6253\u3061\u306f\uff1f",
+    "Phrase": "リスの噂話は？\\nハトの耳打ちは？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -573,30 +577,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u2026\u2026\u30cf\u30c3\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「……ハッ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -610,30 +614,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u307e\u3001\u307e\u3042\u307e\u3042\u3001\u305d\u3093\u306a\u7d30\u304b\u3044\u3053\u3068\u306f\u3069\u3046\u3067\u3082\u3044\u3044\u3058\u3083\u306a\u3044\uff1f\\n\u3000\u7d50\u679c\u7684\u306b\u306f\u3053\u3046\u3057\u3066\u4f1a\u3048\u305f\u308f\u3051\u3060\u3057\u3001\u540c\u3058\u3053\u3068\u3088\uff01\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「ま、まあまあ、そんな細かいことはどうでもいいじゃない？\\n　結果的にはこうして会えたわけだし、同じことよ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -647,30 +651,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u2015\u2015\u305d\u3046\u3088\u306d\u3001\u30e9\u30a6\u30ec\u30c3\u30bf\uff1f\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「――そうよね、ラウレッタ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -684,30 +688,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3046\u8a00\u3063\u3066\u3001\u30eb\u30fc\u30a2\u30f3\u306f\u62b1\u3048\u3066\u3044\u305f\u4eba\u5f62\u306b\u7b11\u3044\u304b\u3051\u305f\u3002",
+    "Phrase": "そう言って、ルーアンは抱えていた人形に笑いかけた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -721,30 +725,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u5b9f\u306f\u3053\u306e\u30ef\u30f3\u30d4\u30fc\u30b9\u3001\u3053\u306e\u5b50\u3068\u304a\u305d\u308d\u3044\u306a\u306e\u266a\\n\u3000\u5143\u3005\u30e9\u30a6\u30ec\u30c3\u30bf\u304c\u7740\u3066\u305f\u30c9\u30ec\u30b9\u306e\u30c7\u30b6\u30a4\u30f3\u3092\u771f\u4f3c\u3066\u4f5c\u3063\u305f\u306e\u3088\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「実はこのワンピース、この子とおそろいなの♪\\n　元々ラウレッタが着てたドレスのデザインを真似て作ったのよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -758,30 +762,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u7dba\u9e97\u306a\u30d3\u30b9\u30af\u30c9\u30fc\u30eb\u3067\u3057\u3087\uff1f\\n\u3000\u8857\u306e\u9aa8\u8463\u5c4b\u3055\u3093\u3067\u4e00\u76ee\u60da\u308c\u3057\u3066\u3001\\n\u3000\u8ff7\u308f\u305a\u304a\u8fce\u3048\u3057\u3061\u3083\u3063\u305f\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「綺麗なビスクドールでしょ？\\n　街の骨董屋さんで一目惚れして、\\n　迷わずお迎えしちゃった」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -795,30 +799,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u76ee\u304c\u5408\u3063\u305f\u77ac\u9593\u3001\u904b\u547d\u3092\u611f\u3058\u305f\u306e\u3002\\n\u3000\u3042\u305f\u3057\u306e\u3068\u3053\u308d\u306b\u6765\u305f\u3044\u3063\u3066\u3001\\n\u3000\u305d\u3046\u8a00\u3063\u3066\u308b\u3088\u3046\u306b\u898b\u3048\u305f\u306e\u3088\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「目が合った瞬間、運命を感じたの。\\n　あたしのところに来たいって、\\n　そう言ってるように見えたのよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -832,30 +836,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u307b\u3089\u3001\u30e9\u30a6\u30ec\u30c3\u30bf\u3002\\n\u3000\u8eca\u638c\u306b\u3054\u6328\u62f6\u3057\u3066\uff1f\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「ほら、ラウレッタ。\\n　車掌にご挨拶して？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -869,30 +873,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30d8\u30c3\u30c9\u30c9\u30ec\u30b9\u306e\u4e2d\u3092\u8997\u304d\u8fbc\u3093\u3067\u307f\u308b\u3068\u3001\\n\u30a8\u30e1\u30e9\u30eb\u30c9\u30b0\u30ea\u30fc\u30f3\u306e\u77b3\u304c\u3053\u3061\u3089\u3092\u898b\u8fd4\u3057\u3066\u3044\u305f\u3002\\n\u30c4\u30e4\u306e\u3042\u308b\u982c\u306b\u89e6\u308c\u3066\u307f\u3066\u3001\u305d\u306e\u610f\u5916\u306a\u611f\u89e6\u306b\u9a5a\u304f\u3002",
+    "Phrase": "ヘッドドレスの中を覗き込んでみると、\\nエメラルドグリーンの瞳がこちらを見返していた。\\nツヤのある頬に触れてみて、その意外な感触に驚く。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -906,21 +910,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3053\u306e\u4eba\u5f62\u306e\u9854\u2026\u2026\u9676\u5668\u3067\u51fa\u6765\u3066\u308b\u306e\u304b\uff1f",
+    "Phrase": "この人形の顔……陶器で出来てるのか？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -934,21 +939,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u3048\u3048\u3001\u305d\u3046\u3088\u3002\\n\u3000\u30d3\u30b9\u30af\u30c9\u30fc\u30eb\u306e\u9854\u3063\u3066\u306d\u3001\\n\u3000\u9676\u78c1\u5668\u3068\u540c\u3058\u304f\u571f\u3092\u713c\u3044\u3066\u4f5c\u3089\u308c\u3066\u308b\u306e\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「ええ、そうよ。\\n　ビスクドールの顔ってね、\\n　陶磁器と同じく土を焼いて作られてるの」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -962,30 +968,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u304b\u306a\u308a\u306e\u5e74\u4ee3\u7269\u3060\u3051\u3069\u3001\\n\u3000\u3059\u3054\u304f\u72b6\u614b\u304c\u3044\u3044\u3067\u3057\u3087\uff1f\\n\u3000\u3088\u307b\u3069\u5927\u5207\u306b\u3055\u308c\u3066\u3044\u305f\u306e\u306d\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「かなりの年代物だけど、\\n　すごく状態がいいでしょ？\\n　よほど大切にされていたのね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -999,30 +1005,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u30e9\u30a6\u30ec\u30c3\u30bf\u3063\u3066\u3044\u3046\u7d20\u6575\u306a\u540d\u524d\u3082\u3001\\n\u3000\u524d\u306e\u6301\u3061\u4e3b\u3055\u3093\u306b\u3064\u3051\u3066\u3082\u3089\u3063\u305f\u3093\u3060\u3068\u601d\u3046\u308f\u3002\\n\u3000\u307b\u3089\u3001\u3053\u3053\u306b\u523a\u7e4d\u3055\u308c\u3066\u3044\u308b\u3067\u3057\u3087\u3046\uff1f\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「ラウレッタっていう素敵な名前も、\\n　前の持ち主さんにつけてもらったんだと思うわ。\\n　ほら、ここに刺繍されているでしょう？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1036,30 +1042,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5dee\u3057\u51fa\u3055\u308c\u305f\u4eba\u5f62\u3092\u53d7\u3051\u53d6\u308a\u3001\\n\u30ef\u30f3\u30d4\u30fc\u30b9\u306e\u88fe\u3092\u3081\u304f\u3063\u3066\u307f\u308b\u3002\\n\u306a\u308b\u307b\u3069\u3001\u78ba\u304b\u306b\u300e\u30e9\u30a6\u30ec\u30c3\u30bf\u300f\u3068\u8a18\u3055\u308c\u3066\u3044\u305f\u3002",
+    "Phrase": "差し出された人形を受け取り、\\nワンピースの裾をめくってみる。\\nなるほど、確かに『ラウレッタ』と記されていた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1073,21 +1079,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u308c\u306b\u3057\u3066\u3082\u3001\u6c17\u306e\u305b\u3044\u3060\u308d\u3046\u304b\uff1f\\n\u3053\u306e\u4eba\u5f62\u3001\u30eb\u30fc\u30a2\u30f3\u306b\u4f3c\u3066\u3044\u308b\u3088\u3046\u306a\u6c17\u304c\u2026\u2026\u3002",
+    "Phrase": "それにしても、気のせいだろうか？\\nこの人形、ルーアンに似ているような気が……。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1101,21 +1108,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u3048\u3001\u8eca\u638c\u3082\u305d\u3046\u601d\u3046\uff1f\\n\u3000\u3053\u306e\u524d\u3001\u30a2\u30df\u30a2\u30f3\u306b\u3082\u8a00\u308f\u308c\u305f\u306e\u3088\u306d\u3002\\n\u3000\u3061\u3087\u3063\u3068\u6016\u3044\u304f\u3089\u3044\u4f3c\u3066\u308b\u3001\u3063\u3066\u3002\\n\u3000\u305a\u3063\u3068\u4e00\u7dd2\u306b\u3044\u308b\u3068\u4f3c\u3066\u304d\u3061\u3083\u3046\u3082\u306e\u306a\u306e\u304b\u3057\u3089\uff1f\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「え、車掌もそう思う？\\n　この前、アミアンにも言われたのよね。\\n　ちょっと怖いくらい似てる、って。\\n　ずっと一緒にいると似てきちゃうものなのかしら？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1129,30 +1137,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u3042\u305f\u3057\u3068\u3057\u3066\u306f\u3001\u6016\u3044\u3069\u3053\u308d\u304b\u5b09\u3057\u3044\u3051\u3069\u306d\u3002\\n\u3000\u30e9\u30a6\u30ec\u30c3\u30bf\u307f\u305f\u3044\u306a\u7f8e\u4eba\u3068\u4f3c\u3066\u308b\u306a\u3093\u3066\u3001\\n\u3000\u8912\u3081\u8a00\u8449\u3067\u3057\u304b\u306a\u3044\u3082\u306e\u266a\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「あたしとしては、怖いどころか嬉しいけどね。\\n　ラウレッタみたいな美人と似てるなんて、\\n　褒め言葉でしかないもの♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1166,30 +1174,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u2026\u2026\u3063\u3066\u3001\u3061\u3087\u3063\u3068\u8eca\u638c\uff01\uff1f\\n\u3000\u3042\u3093\u305f\u3001\u30e9\u30a6\u30ec\u30c3\u30bf\u306b\u4f55\u3092\uff01\uff1f\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「……って、ちょっと車掌！？\\n　あんた、ラウレッタに何を！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1203,30 +1211,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 36,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3044\u3084\u3001\u3053\u306e\u3075\u308f\u3063\u3068\u3057\u305f\u30b9\u30ab\u30fc\u30c8\u306e\u4e0b\u306f\\n\u3069\u3046\u306a\u3063\u3066\u308b\u306e\u304b\u306a\u3068\u601d\u3063\u3066\u3002",
+    "Phrase": "いや、このふわっとしたスカートの下は\\nどうなってるのかなと思って。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1240,21 +1248,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 37,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u307e\u3042\u6c17\u306b\u3059\u308b\u306a\u3002\\n\u7537\u306a\u3089\u8ab0\u3067\u3082\u62b1\u304f\u7d20\u6734\u306a\u7591\u554f\u3060\u3002\\n\u3069\u3046\u305e\u304a\u304b\u307e\u3044\u306a\u304f\u3002",
+    "Phrase": "まあ気にするな。\\n男なら誰でも抱く素朴な疑問だ。\\nどうぞおかまいなく。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1268,21 +1277,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 38,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u304a\u304b\u307e\u3044\u306a\u304f\u3001\u3063\u3066\u2026\u2026\u305d\u3046\u3044\u3046\u554f\u984c\u3058\u3083\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「おかまいなく、って……そういう問題じゃ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1296,30 +1306,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 39,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u2015\u2015\u3046\u3072\u3083\u3042\u3063\uff01\uff1f\\n\u3000\u3069\u3001\u3069\u3053\u89e6\u3063\u3066\u308b\u306e\u3088\uff01\uff1f\\n\u3000\u305d\u3093\u306a\u3068\u3053\u308d\u2026\u2026\u3042\u3063\u3001\u3042\u3063\u3001\\n\u3000\u305d\u3001\u305d\u308c\u4ee5\u4e0a\u306f\u3060\u3081\u3060\u3063\u3066\u3070\u3041\u3063\uff01\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「――うひゃあっ！？\\n　ど、どこ触ってるのよ！？\\n　そんなところ……あっ、あっ、\\n　そ、それ以上はだめだってばぁっ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1333,30 +1343,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 6,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 40,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3079\u3064\u306b\u3044\u3044\u3058\u3083\u306a\u3044\u304b\u3002\\n\u30eb\u30fc\u30a2\u30f3\u306e\u8eab\u4f53\u306b\u76f4\u63a5\\n\u30c4\u30f3\u30c4\u30f3\u3057\u3066\u308b\u308f\u3051\u3058\u3083\u306a\u3044\u3093\u3060\u3057\u3002",
+    "Phrase": "べつにいいじゃないか。\\nルーアンの身体に直接\\nツンツンしてるわけじゃないんだし。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1370,21 +1380,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 41,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u305f\u3001\u78ba\u304b\u306b\u2026\u2026\u3002\\n\u3000\u305d\u308c\u306f\u305d\u3046\u306a\u3093\u3060\u3051\u3069\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「た、確かに……。\\n　それはそうなんだけど」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1398,30 +1409,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 42,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3075\u3080\u3075\u3080\u2026\u2026\u306a\u308b\u307b\u3069\u3002\\n\u3069\u308c\u3069\u308c\u3001\u3082\u3063\u3068\u5965\u307e\u3067\u898b\u3066\u307f\u3088\u3046\u3002\\n\u2026\u2026\u307b\u3046\u3001\u3053\u308c\u306f\u306a\u304b\u306a\u304b\u3002",
+    "Phrase": "ふむふむ……なるほど。\\nどれどれ、もっと奥まで見てみよう。\\n……ほう、これはなかなか。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1435,21 +1446,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 43,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u3046\u3046\u3046\u3001\u6065\u305a\u304b\u3057\u3044\u2026\u2026\uff01\\n\u3000\u81ea\u5206\u304c\u3055\u308c\u3066\u308b\u308f\u3051\u3058\u3083\u306a\u3044\u306e\u306b\u3001\\n\u3000\u3069\u3046\u3057\u3066\u3053\u3093\u306a\u306b\u6065\u305a\u304b\u3057\u3044\u306e\u304b\u3057\u3089\u2026\u2026\uff01\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「ううう、恥ずかしい……！\\n　自分がされてるわけじゃないのに、\\n　どうしてこんなに恥ずかしいのかしら……！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1463,30 +1475,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 44,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u305d\u3001\u305d\u3093\u306a\u306b\u8db3\u3092\u958b\u3044\u3061\u3083\u2026\u2026\uff01\\n\u3000\u3084\u3063\u3001\u3060\u3081\u3063\u3001\u305d\u3093\u306a\u3053\u3068\u3057\u3061\u3083\u2026\u2026\u3060\u3081\u3047\u3047\uff01\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「そ、そんなに足を開いちゃ……！\\n　やっ、だめっ、そんなことしちゃ……だめぇぇ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1500,30 +1512,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 45,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30eb\u30fc\u30a2\u30f3\u304c\u6d99\u76ee\u3067\u8eab\u60b6\u3048\u3066\u3044\u308b\u306e\u3092\u898b\u3066\u3001\\n\u3061\u3087\u3063\u3068\u3084\u308a\u3059\u304e\u305f\u304b\u306a\u3001\u3068\u53cd\u7701\u3059\u308b\u3002",
+    "Phrase": "ルーアンが涙目で身悶えているのを見て、\\nちょっとやりすぎたかな、と反省する。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1537,21 +1549,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 46,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2015\u2015\u3054\u3081\u3093\u3054\u3081\u3093\u3002\u304b\u3089\u304b\u3063\u3066\u60aa\u304b\u3063\u305f\u3002\\n\u307b\u3089\u3001\u30e9\u30a6\u30ec\u30c3\u30bf\u306f\u3061\u3083\u3093\u3068\u8fd4\u3059\u304b\u3089\u3002",
+    "Phrase": "――ごめんごめん。からかって悪かった。\\nほら、ラウレッタはちゃんと返すから。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1565,21 +1578,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 47,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u304a\u308f\u3073\u306b\u4f55\u304b\u304a\u3054\u3063\u3066\u3084\u308d\u3046\u3002\\n\u30d1\u30f3\u30b1\u30fc\u30ad\u306e\u7f8e\u5473\u3044\u5e97\u304c\u3042\u308b\u3093\u3060\u304c\u3001\\n\u4e00\u7dd2\u306b\u3069\u3046\u3060\uff1f",
+    "Phrase": "おわびに何かおごってやろう。\\nパンケーキの美味い店があるんだが、\\n一緒にどうだ？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1593,21 +1607,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 48,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u2015\u2015\u884c\u304f\uff01\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「――行く！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1621,30 +1636,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 49,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u2026\u2026\u3058\u3083\u306a\u304f\u3066\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「……じゃなくて」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1658,30 +1673,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 50,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u30b3\u30db\u30f3\u3002\u3057\u3087\u3046\u304c\u306a\u3044\u3067\u3059\u3053\u3068\u3002\\n\u3000\u3068\u3073\u304d\u308a\u7f8e\u5473\u3057\u3044\u30d1\u30f3\u30b1\u30fc\u30ad\u3068\u5f15\u304d\u63db\u3048\u306b\u3001\\n\u3000\u4eca\u56de\u306e\u3053\u3068\u306f\u8a31\u3057\u3066\u3042\u3052\u306a\u304f\u3082\u306a\u3044\u3067\u3059\u308f\u3002\\n\u3000\u305d\u306e\u304b\u308f\u308a\u2026\u2026\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「コホン。しょうがないですこと。\\n　とびきり美味しいパンケーキと引き換えに、\\n　今回のことは許してあげなくもないですわ。\\n　そのかわり……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1695,30 +1710,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 51,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u4e8c\u500d\u76db\u308a\u751f\u30af\u30ea\u30fc\u30e0\u3001\\n\u3000\u30c8\u30c3\u30d4\u30f3\u30b0\u3067\u8ffd\u52a0\u3057\u3066\u3082\u3088\u308d\u3057\u304f\u3066\uff1f\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「二倍盛り生クリーム、\\n　トッピングで追加してもよろしくて？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1732,30 +1747,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 52,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3082\u3061\u308d\u3093\u3001\u3044\u304f\u3089\u3067\u3082\u3002",
+    "Phrase": "もちろん、いくらでも。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1769,30 +1784,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 53,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u3048\u3078\u3063\u3001\u3084\u3063\u305f\u3042\uff01\\n\u3000\u8eca\u638c\u3001\u3060\u30fc\u3044\u597d\u304d\u266a\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「えへっ、やったあ！\\n　車掌、だーい好き♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1806,30 +1821,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 1,
         "Emotion": 1,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 54,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u3042\u3063\u3001\u9055\u3063\u3001\u5927\u597d\u304d\u3067\u3059\u3053\u3068\u3088\uff5e\u266a\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「あっ、違っ、大好きですことよ～♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1843,30 +1858,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 55,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2026\u2026\u3044\u3064\u307e\u3067\u3084\u308b\u3064\u3082\u308a\u306a\u3093\u3060\u3001\u305d\u308c\u3002",
+    "Phrase": "……いつまでやるつもりなんだ、それ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1880,21 +1895,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 56,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3059\u3063\u304b\u308a\u3054\u6a5f\u5acc\u306b\u306a\u3063\u305f\u30eb\u30fc\u30a2\u30f3\u3092\u9023\u308c\u3001\\n\u516c\u5712\u3092\u51fa\u3088\u3046\u3068\u3057\u305f\u3001\u305d\u306e\u6642\u3060\u3063\u305f\u3002",
+    "Phrase": "すっかりご機嫌になったルーアンを連れ、\\n公園を出ようとした、その時だった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1908,21 +1924,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 57,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2015\u2015\u30b7\u30e3\u30b7\u30e7\u30a6\u3001\u30c0\u30a4\u30b9\u30ad\u3002",
+    "Phrase": "――シャショウ、ダイスキ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1936,21 +1953,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 58,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2026\u2026\u4eca\u3001\u4f55\u304b\u8a00\u3063\u305f\u304b\uff1f",
+    "Phrase": "……今、何か言ったか？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1964,21 +1982,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 59,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u3048\uff1f\u3000\u3046\u3046\u3093\u3001\u3079\u3064\u306b\u4f55\u3082\uff1f\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「え？　ううん、べつに何も？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1992,30 +2011,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33402,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 60,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u6c17\u306e\u305b\u3044\u304b\uff1f\u3000\u3068\u9996\u3092\u304b\u3057\u3052\u306a\u304c\u3089\u3001\\n\u30eb\u30fc\u30a2\u30f3\u306e\u8155\u306b\u62b1\u304b\u308c\u305f\\n\u30d3\u30b9\u30af\u30c9\u30fc\u30eb\u306b\u76ee\u3092\u7559\u3081\u308b\u3002",
+    "Phrase": "気のせいか？　と首をかしげながら、\\nルーアンの腕に抱かれた\\nビスクドールに目を留める。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2029,21 +2048,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 61,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u7d05\u3044\u53e3\u7d05\u3092\u8f09\u305b\u305f\u7f8e\u3057\u3044\u53e3\u5143\u306b\u306f\u3001\\n\u5fae\u304b\u306a\u7b11\u307f\u304c\u6d6e\u304b\u3093\u3067\u3044\u305f\u3002",
+    "Phrase": "紅い口紅を載せた美しい口元には、\\n微かな笑みが浮かんでいた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2057,14 +2077,14 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

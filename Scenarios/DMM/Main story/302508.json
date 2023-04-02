@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u30bf\u30a4\u30b7\u30a7\u30c8\u306e\u5831\u544a\u306b\u3088\u308c\u3070\u3001\\n\u3000\u3042\u306e\u6050\u308d\u3057\u3044\u6c37\u9727\u306f\u30f4\u30a9\u30eb\u30bf\u30fc\u30e4\u5929\u7403\u306e\u5468\u8fba\u3067\u983b\u7e41\u306b\u767a\u751f\u3059\u308b\u305d\u3046\u3088\u3002\\n\u3000\u5ce0\u307e\u3067\u884c\u304f\u3068\u6c37\u9727\u306e\u767a\u751f\u304c\u8996\u8a8d\u3067\u304d\u308b\u304b\u3089\u3001\\n\u3000\u3053\u306e\u89b3\u6e2c\u5730\u70b9\u3068\u5ce0\u3092\u884c\u3063\u305f\u308a\u6765\u305f\u308a\u3057\u3066\u6c37\u9727\u3092\u56de\u907f\u3057\u3066\u3044\u305f\u3093\u3067\u3059\u3063\u3066\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「タイシェトの報告によれば、\\n　あの恐ろしい氷霧はヴォルターヤ天球の周辺で頻繁に発生するそうよ。\\n　峠まで行くと氷霧の発生が視認できるから、\\n　この観測地点と峠を行ったり来たりして氷霧を回避していたんですって」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,30 +17,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3",
-    "Phrase": "\u300c\u7c21\u5358\u306b\u8a00\u3046\u3051\u3069\u3001\u6c37\u9727\u304c\u898b\u3048\u308b\u304b\u3089\u3068\u3044\u3063\u3066\\n\u3000\u4f55\u65e5\u3082\u3053\u3053\u3067\u751f\u304d\u5ef6\u3073\u3089\u308c\u308b\u3068\u3044\u3046\u308f\u3051\u3058\u3083\u306a\u3044\u308f\u3088\u300d",
+    "Name": "ヴィヴィアン",
+    "Phrase": "「簡単に言うけど、氷霧が見えるからといって\\n　何日もここで生き延びられるというわけじゃないわよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -54,38 +54,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 13201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 35201,
         "Position": 4,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30d7\u30c8\u30e9",
-    "Phrase": "\u300c\u3057\u304b\u3082\u305f\u3063\u305f\u4e00\u4eba\u3067\u3067\u3057\u3087\uff1f\\n\u3000\u6c37\u9727\u306e\u305b\u3044\u3067\u98df\u6599\u3082\u5168\u90e8\u30c0\u30e1\u306b\u306a\u3063\u3061\u3083\u3063\u305f\u3089\u3057\u3044\u3057\u3001\\n\u3000\u3059\u3054\u3044\u30b5\u30d0\u30a4\u30d0\u30eb\u80fd\u529b\u3060\u3088\u306d\u300d",
+    "Name": "プトラ",
+    "Phrase": "「しかもたった一人ででしょ？\\n　氷霧のせいで食料も全部ダメになっちゃったらしいし、\\n　すごいサバイバル能力だよね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -99,38 +99,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 13201,
         "Position": 2,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 35201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u30bf\u30a4\u30b7\u30a7\u30c8\u306f\u8ecd\u306b\u4fdd\u8b77\u3055\u308c\u308b\u307e\u3067\\n\u3000\u30a2\u30a4\u30bc\u30f3\u30b0\u30e9\u30fc\u30c8\u306e\u5317\u90e8\u3092\u6e21\u308a\u6b69\u3044\u3066\u3044\u305f\u304b\u3089\u306d\u3002\\n\u3000\u5c4b\u5916\u3067\u306e\u884c\u52d5\u306b\u9577\u3051\u3066\u3044\u308b\u306e\u3088\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「タイシェトは軍に保護されるまで\\n　アイゼングラートの北部を渡り歩いていたからね。\\n　屋外での行動に長けているのよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -144,38 +144,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 13201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30d7\u30c8\u30e9",
-    "Phrase": "\u300c\u3046\u3046\u3001\u30bf\u30a4\u30b7\u30a7\u30c8\u3068\u540c\u3058\u3053\u3068\u3092\u3084\u3063\u3066\u306e\u3051\u308d\u3063\u3066\\n\u3000\u8a00\u308f\u308c\u3066\u3082\u3042\u305f\u3057\u306b\u306f\u3067\u304d\u305d\u3046\u3082\u306a\u3044\u3088\u300d",
+    "Name": "プトラ",
+    "Phrase": "「うう、タイシェトと同じことをやってのけろって\\n　言われてもあたしにはできそうもないよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -189,38 +189,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 13201,
         "Position": 4,
         "Action": 2,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u3067\u3082\u79c1\u305f\u3061\u306f\u8907\u6570\u4eba\u306e\u90e8\u968a\u3067\u3059\u3002\\n\u3000\u5358\u72ec\u3067\u306e\u884c\u52d5\u3092\u3057\u306a\u3051\u308c\u3070\u56f0\u96e3\u306b\u6253\u3061\u52dd\u3064\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「でも私たちは複数人の部隊です。\\n　単独での行動をしなければ困難に打ち勝つことができます」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -234,30 +234,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u8abf\u67fb\u968a\u306e\u307f\u306a\u3055\u3093\u3092\u52a9\u3051\u3089\u308c\u308b\u53ef\u80fd\u6027\u304c\u3042\u308b\u4ee5\u4e0a\u3001\\n\u3000\u30bf\u30a4\u30b7\u30a7\u30c8\u3055\u3093\u306e\u5354\u529b\u3092\u5f97\u3066\u3053\u306e\u307e\u307e\u4efb\u52d9\u3092\u7d9a\u884c\u3059\u308b\u3079\u304d\u3067\u3059\u3002\\n\u3000\u79c1\u305f\u3061\u304c\u5408\u6d41\u3057\u305f\u3053\u3068\u306b\u3088\u3063\u3066\u72b6\u6cc1\u306f\u597d\u8ee2\u3057\u305f\u306e\u3067\u3059\u304b\u3089\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「調査隊のみなさんを助けられる可能性がある以上、\\n　タイシェトさんの協力を得てこのまま任務を続行するべきです。\\n　私たちが合流したことによって状況は好転したのですから」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -271,30 +271,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4\u3055\u3093\u306e\u8a00\u3046\u901a\u308a\u3067\u3059\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「クインズウェイさんの言う通りです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -308,30 +308,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u30bf\u30a4\u30b7\u30a7\u30c8\u306e\u6551\u51fa\u306b\u306f\u6210\u529f\u3057\u305f\u3002\\n\u3000\u540c\u6642\u306b\u3001\u79c1\u305f\u3061\u306f\u6c37\u9727\u653b\u7565\u306e\u624b\u304c\u304b\u308a\u3068\\n\u3000\u96ea\u4e0a\u4f5c\u6226\u306e\u30b9\u30da\u30b7\u30e3\u30ea\u30b9\u30c8\u3092\u7372\u5f97\u3057\u305f\u2026\u2026\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「タイシェトの救出には成功した。\\n　同時に、私たちは氷霧攻略の手がかりと\\n　雪上作戦のスペシャリストを獲得した……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -345,30 +345,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u3084\u308c\u308b\u306f\u305a\u3067\u3059\u3002\\n\u3000\u3053\u306e\u307e\u307e\u6c37\u9727\u3092\u6674\u3089\u3059\u65b9\u6cd5\u3092\u63a2\u3057\u307e\u3057\u3087\u3046\u3002\\n\u3000\u30f4\u30a9\u30eb\u30bf\u30fc\u30e4\u5ce0\u306b\u884c\u3051\u3070\u6c37\u9727\u304c\u8996\u8a8d\u3067\u304d\u308b\u3068\u3044\u3046\u3053\u3068\u306f\u3001\\n\u3000\u3042\u306e\u6c37\u9727\u306f\u5929\u7403\u304c\u751f\u307f\u51fa\u3057\u3066\u3044\u308b\u3068\u3044\u3046\u53ef\u80fd\u6027\u304c\u9ad8\u3044\u3067\u3059\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「やれるはずです。\\n　このまま氷霧を晴らす方法を探しましょう。\\n　ヴォルターヤ峠に行けば氷霧が視認できるということは、\\n　あの氷霧は天球が生み出しているという可能性が高いです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -382,30 +382,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3053\u3061\u3089\u3082\u30d9\u30b9\u30c1\u30e3\u306e\u610f\u898b\u306b\u8cdb\u6210\u3060\u3002\\n\u30b5\u30de\u30f3\u30b5\u306e\u8a00\u3063\u3066\u3044\u305f\u3053\u3068\u3082\u6c17\u306b\u306a\u308b\u3057\u3001\\n\u30a4\u30ea\u30b9\u30e1\u30c8\u30ed\u306e\u5404\u5730\u3067\u5929\u7403\u306e\u7570\u72b6\u304c\u8d77\u304d\u3066\u3044\u308b\u306e\u3082\u304d\u3063\u3068\u4f55\u304b\u95a2\u4fc2\u304c\u3042\u308b\u3002",
+    "Phrase": "こちらもベスチャの意見に賛成だ。\\nサマンサの言っていたことも気になるし、\\nイリスメトロの各地で天球の異状が起きているのもきっと何か関係がある。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -419,21 +419,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5929\u7403\u306b\u8fd1\u3065\u3044\u3066\u307f\u3088\u3046\u3002\\n\u30f4\u30a9\u30eb\u30bf\u30fc\u30e4\u5ce0\u306f\u3053\u306e\u89b3\u6e2c\u5730\u70b9\u304b\u3089\u305d\u3046\u9060\u304f\u306a\u3044\u3002",
+    "Phrase": "天球に近づいてみよう。\\nヴォルターヤ峠はこの観測地点からそう遠くない。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -447,21 +448,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u6c7a\u307e\u308a\u306d\u3002\u3053\u306e\u89b3\u6e2c\u5730\u70b9\u3067\u6e96\u5099\u3092\u6574\u3048\u3066\u3001\\n\u3000\u5168\u54e1\u3067\u30f4\u30a9\u30eb\u30bf\u30fc\u30e4\u5ce0\u306b\u5411\u304b\u3044\u307e\u3057\u3087\u3046\u3002\\n\u3000\u5c11\u3057\u4f11\u61a9\u3057\u305f\u307b\u3046\u304c\u3044\u3044\u308f\u3002\u98df\u4e8b\u3082\u3061\u3083\u3093\u3068\u6442\u308b\u3053\u3068\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「決まりね。この観測地点で準備を整えて、\\n　全員でヴォルターヤ峠に向かいましょう。\\n　少し休憩したほうがいいわ。食事もちゃんと摂ること」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -475,30 +477,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3",
-    "Phrase": "\u300c\u30d7\u30c8\u30e9\u3001\u9632\u5bd2\u5bfe\u7b56\u3068\u5f8c\u65b9\u306e\u8b66\u6212\u306f\u3057\u3063\u304b\u308a\u306d\u3002\\n\u3000\u300e\u30ec\u30c3\u30c9\u30db\u30c3\u30c8\u30c1\u30ea\u30d1\u30fc\u30ab\u30fc\u300f\u304c\u51cd\u3089\u306a\u3044\u3088\u3046\u306b\u6c17\u3092\u3064\u3051\u3066\u300d",
+    "Name": "ヴィヴィアン",
+    "Phrase": "「プトラ、防寒対策と後方の警戒はしっかりね。\\n　『レッドホットチリパーカー』が凍らないように気をつけて」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -512,38 +514,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 13201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 35201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30d7\u30c8\u30e9",
-    "Phrase": "\u300c\u305d\u3046\u3060\u306d\u3002\\n\u3000\u307e\u305f\u6c37\u306e\u4e0a\u3067\u3072\u3093\u5265\u304b\u308c\u305f\u3089\u305f\u307e\u3063\u305f\u3082\u3093\u3058\u3083\u306a\u3044\u3057\u300d",
+    "Name": "プトラ",
+    "Phrase": "「そうだね。\\n　また氷の上でひん剥かれたらたまったもんじゃないし」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -557,38 +559,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 13201,
         "Position": 2,
         "Action": 2,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 35201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u305d\u3046\u3044\u3048\u3070\u30bf\u30a4\u30b7\u30a7\u30c8\u306e\u59ff\u304c\u306a\u3044\u308f\u306d\u3002\\n\u3000\u3042\u306e\u5b50\u3001\u3069\u3053\u307e\u3067\u898b\u5f35\u308a\u306b\u884c\u3063\u305f\u306e\u304b\u3057\u3089\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「そういえばタイシェトの姿がないわね。\\n　あの子、どこまで見張りに行ったのかしら」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -602,38 +604,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 5,
         "Emotion": 4,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u96ea\u5d29\u306e\u767a\u751f\u6e90\u3092\u8abf\u3079\u308b\u3068\u8a00\u3063\u3066\u3044\u307e\u3057\u305f\u3002\\n\u3000\u305d\u308c\u307b\u3069\u96e2\u308c\u3066\u306f\u3044\u306a\u3044\u306e\u3067\u3001\u79c1\u304c\u69d8\u5b50\u3092\u898b\u306b\u884c\u3063\u3066\u304d\u307e\u3059\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「雪崩の発生源を調べると言っていました。\\n　それほど離れてはいないので、私が様子を見に行ってきます」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -647,38 +649,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u3048\u3048\u3001\u304a\u9858\u3044\u306d\u3002\\n\u3000\u3042\u3093\u307e\u308a\u30e0\u30c1\u30e3\u3055\u305b\u306a\u3044\u3067\u3088\u3002\u96e3\u3057\u3044\u3068\u306f\u601d\u3046\u3051\u3069\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「ええ、お願いね。\\n　あんまりムチャさせないでよ。難しいとは思うけど」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -692,38 +694,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u5584\u51e6\u3057\u307e\u3059\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「善処します」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -737,38 +739,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u2026\u2026\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -782,30 +784,30 @@
     "Effect": 4,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u96ea\u306e\u5207\u308c\u76ee\u304c\u306a\u3044\u3002\\n\u3000\u305d\u308c\u306b\u3001\u3053\u306e\u3042\u305f\u308a\u306f\u3069\u3053\u3082\u5e73\u3089\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「雪の切れ目がない。\\n　それに、このあたりはどこも平ら」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -819,30 +821,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u30d9\u30b9\u30c1\u30e3\u3092\u304a\u305d\u3063\u305f\u306e\u306f\u3001\u9b54\u6cd5\u306b\u3088\u308b\u3053\u3046\u3052\u304d\uff1f\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「ベスチャをおそったのは、魔法によるこうげき？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -856,30 +858,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 3,
         "Action": 5,
         "Emotion": 4,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u30bf\u30a4\u30b7\u30a7\u30c8\u3001\u3053\u3093\u306a\u9060\u304f\u307e\u3067\u6765\u3066\u3044\u305f\u306e\u3067\u3059\u304b\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「タイシェト、こんな遠くまで来ていたのですか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -893,38 +895,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u30d9\u30b9\u30c1\u30e3\u3002\u4f53\u306f\u3082\u3046\u3060\u3044\u3058\u3087\u3046\u3076\uff1f\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「ベスチャ。体はもうだいじょうぶ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -938,38 +940,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 5,
         "Emotion": 8,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u5e73\u6c17\u3067\u3059\u3002\\n\u3000\u3042\u306a\u305f\u304c\u3059\u3050\u306b\u898b\u3064\u3051\u3066\u304f\u308c\u305f\u306e\u3067\\n\u3000\u4f53\u3078\u306e\u30c0\u30e1\u30fc\u30b8\u306f\u305d\u308c\u307b\u3069\u3042\u308a\u307e\u305b\u3093\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「平気です。\\n　あなたがすぐに見つけてくれたので\\n　体へのダメージはそれほどありません」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -983,38 +985,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u307e\u3042\u3001\u5922\u306f\u898b\u307e\u3057\u305f\u3051\u3069\u2026\u2026\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「まあ、夢は見ましたけど……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1028,38 +1030,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u305d\u308c\u3088\u308a\u3001\u3053\u3053\u3067\u4f55\u3092\u8abf\u3079\u3066\u3044\u305f\u306e\u3067\u3059\u304b\uff1f\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「それより、ここで何を調べていたのですか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1073,38 +1075,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u96ea\u5d29\u306e\u539f\u56e0\u3092\u3057\u3089\u3079\u3066\u3044\u305f\u3093\u3060\u3088\u3002\\n\u3000\u3042\u306e\u3068\u304d\u306e\u96ea\u5d29\u306f\u3001\u3068\u3066\u3082\u3075\u3057\u305c\u3093\u3060\u3063\u305f\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「雪崩の原因をしらべていたんだよ。\\n　あのときの雪崩は、とてもふしぜんだった」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1118,38 +1120,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u3053\u3053\u306f\u5e73\u3089\u306a\u5834\u6240\u3002\\n\u3000\u96ea\u306e\u5207\u308c\u76ee\u3082\u3001\u6ed1\u3063\u305f\u3042\u3068\u3082\u306a\u3044\u3002\\n\u3000\u3042\u308c\u3060\u3051\u306e\u96ea\u5d29\u304c\u8d77\u3053\u308b\u306a\u3093\u3066\u304a\u304b\u3057\u3044\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「ここは平らな場所。\\n　雪の切れ目も、滑ったあともない。\\n　あれだけの雪崩が起こるなんておかしい」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1163,38 +1165,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u30d9\u30b9\u30c1\u30e3\u3092\u304a\u305d\u3063\u305f\u96ea\u5d29\u3082\u3001\u5929\u7403\u306e\u305b\u3044\u304b\u3082\u3057\u308c\u306a\u3044\u3002\\n\u3000\u305d\u308c\u304b\u3001\u5225\u306e\u3060\u308c\u304b\u306e\u3057\u308f\u3056\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「ベスチャをおそった雪崩も、天球のせいかもしれない。\\n　それか、別のだれかのしわざ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1208,38 +1210,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u653b\u6483\u9b54\u6cd5\u3060\u3068\u3067\u3082\u8a00\u3046\u306e\u3067\u3059\u304b\uff1f\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「攻撃魔法だとでも言うのですか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1253,38 +1255,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 5,
         "Emotion": 8,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u3046\u3093\u3002\u30bf\u30a4\u30b7\u30a7\u30c8\u306f\u305d\u3046\u601d\u3046\u3088\u3002\\n\u3000\u7279\u9244\u968a\u3092\u8db3\u6b62\u3081\u3057\u3088\u3046\u3068\u3057\u305f\u4eba\u304c\u3001\\n\u3000\u30f4\u30a9\u30eb\u30bf\u30fc\u30e4\u5ce0\u306b\u3044\u308b\u3093\u3058\u3083\u306a\u3044\u304b\u306a\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「うん。タイシェトはそう思うよ。\\n　特鉄隊を足止めしようとした人が、\\n　ヴォルターヤ峠にいるんじゃないかな」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1298,38 +1300,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u3067\u3082\u30bf\u30a4\u30b7\u30a7\u30c8\u306f\u3053\u3053\u3067\u8ab0\u306e\u59ff\u3082\u898b\u3066\u3044\u306a\u3044\u306e\u3067\u3057\u3087\u3046\uff1f\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「でもタイシェトはここで誰の姿も見ていないのでしょう？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1343,38 +1345,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u3046\u3093\u3001\u305d\u3046\u3060\u3088\u3002\\n\u3000\u3067\u3082\u3001\u30bf\u30a4\u30b7\u30a7\u30c8\u304c\u898b\u3066\u306a\u3044\u3060\u3051\u3002\\n\u3000\u3082\u3057\u304b\u3057\u305f\u3089\u3044\u308b\u306e\u304b\u3082\u3057\u308c\u306a\u3044\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「うん、そうだよ。\\n　でも、タイシェトが見てないだけ。\\n　もしかしたらいるのかもしれない」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1388,38 +1390,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u8ecd\u306b\u6240\u5c5e\u3057\u3066\u3044\u306a\u3044\u4eba\u304c\u3001\\n\u3000\u30f4\u30a9\u30eb\u30bf\u30fc\u30e4\u5929\u7403\u306e\u7570\u5e38\u3092\u8abf\u3079\u306b\u304d\u305f\u306e\u304b\u3082\u3057\u308c\u306a\u3044\u3088\u3002\\n\u3000\u30bf\u30a4\u30b7\u30a7\u30c8\u3084\u30d9\u30b9\u30c1\u30e3\u3088\u308a\u3082\u5f37\u3044\u4eba\u3060\u3068\u3057\u305f\u3089\u3001\\n\u3000\u6c17\u3065\u304b\u308c\u305a\u306b\u5929\u7403\u306b\u8fd1\u3065\u304f\u3053\u3068\u304c\u3067\u304d\u308b\u306f\u305a\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「軍に所属していない人が、\\n　ヴォルターヤ天球の異常を調べにきたのかもしれないよ。\\n　タイシェトやベスチャよりも強い人だとしたら、\\n　気づかれずに天球に近づくことができるはず」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1433,38 +1435,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 36,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u5f37\u3044\u4eba\u306f\u3001\u4eba\u524d\u306b\u59ff\u3092\u3042\u3089\u308f\u3055\u306a\u3044\u3002\\n\u3000\u9727\u306e\u4e2d\u3084\u3001\u96ea\u306e\u4e2d\u306b\u8eab\u3092\u6f5c\u3081\u3066\u3044\u308b\u3093\u3060\u3088\u3002\\n\u3000\u30bf\u30a4\u30b7\u30a7\u30c8\u306e\u6614\u306e\u4ef2\u9593\u305f\u3061\u3082\u3001\u305d\u3046\u3044\u3046\u4eba\u305f\u3061\u3060\u3063\u305f\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「強い人は、人前に姿をあらわさない。\\n　霧の中や、雪の中に身を潜めているんだよ。\\n　タイシェトの昔の仲間たちも、そういう人たちだった」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1478,38 +1480,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 37,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u78ba\u304b\u306b\u305d\u3046\u3067\u3059\u306d\u2026\u2026\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「確かにそうですね……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1523,38 +1525,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 38,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u3068\u3044\u3046\u304b\u3001\u3069\u3046\u3057\u3066\u3053\u3093\u306a\u5358\u7d14\u306a\u3053\u3068\u306b\u6c17\u3065\u304b\u306a\u304b\u3063\u305f\u306e\u3067\u3057\u3087\u3046\u304b\u3002\\n\u3000\u5929\u7403\u306e\u66b4\u8d70\u3068\u3044\u3046\u898b\u65b9\u306b\u3068\u3089\u308f\u308c\u3066\u3001\\n\u3000\u4eba\u304c\u95a2\u4e0e\u3057\u3066\u3044\u308b\u3068\u3044\u3046\u53ef\u80fd\u6027\u3092\u898b\u843d\u3068\u3057\u3066\u3044\u307e\u3057\u305f\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「というか、どうしてこんな単純なことに気づかなかったのでしょうか。\\n　天球の暴走という見方にとらわれて、\\n　人が関与しているという可能性を見落としていました」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1568,38 +1570,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 39,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u5f37\u3044\u4eba\u3084\u9b54\u7269\u3068\u6226\u3046\u6e96\u5099\u3092\u3057\u305f\u307b\u3046\u304c\u3044\u3044\u3002\\n\u3000\u30bf\u30a4\u30b7\u30a7\u30c8\u304c\u4eca\u307e\u3067\u7121\u4e8b\u3067\u3044\u3089\u308c\u305f\u306e\u306f\u3001\\n\u3000\u72e9\u4eba\u306b\u751f\u304b\u3055\u308c\u3066\u3044\u305f\u3060\u3051\u306a\u306e\u304b\u3082\u3057\u308c\u306a\u3044\u304b\u3089\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「強い人や魔物と戦う準備をしたほうがいい。\\n　タイシェトが今まで無事でいられたのは、\\n　狩人に生かされていただけなのかもしれないから」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1613,38 +1615,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 40,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u72e9\u4eba\u306b\u751f\u304b\u3055\u308c\u308b\uff1f\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「狩人に生かされる？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1658,38 +1660,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 5,
         "Emotion": 8,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 41,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u30bf\u30a4\u30b7\u30a7\u30c8\u306f\u3001\u3082\u3063\u3068\u5927\u304d\u306a\u7372\u7269\u3092\u72e9\u308b\u305f\u3081\u306e\u30a8\u30b5\u3002\\n\u3000\u5927\u304d\u306a\u7372\u7269\u306f\u3001\u98df\u3079\u308b\u304b\u3001\u3079\u3093\u308a\u306a\u3069\u3046\u3050\u3068\u3057\u3066\u5229\u7528\u3059\u308b\u3002\\n\u3000\u30d9\u30b9\u30c1\u30e3\u3084\u30e4\u30af\u30fc\u30c4\u30af\u3060\u3068\u3001\u3061\u3087\u3063\u3068\u5c0f\u3055\u3044\u304b\u3082\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「タイシェトは、もっと大きな獲物を狩るためのエサ。\\n　大きな獲物は、食べるか、べんりなどうぐとして利用する。\\n　ベスチャやヤクーツクだと、ちょっと小さいかも」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1703,38 +1705,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 42,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u7279\u9244\u968a\u306e\u5927\u304d\u306a\u7372\u7269\u306f\u3001\u3057\u3083\u3057\u3087\u3046\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「特鉄隊の大きな獲物は、しゃしょう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1748,38 +1750,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 43,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u3060\u3068\u3057\u305f\u3089\u3001\u8eca\u638c\u6bbf\u306f\u5929\u7403\u306b\u8fd1\u3065\u304b\u306a\u3044\u307b\u3046\u304c\u3044\u3044\u3002\\n\u3000\u3084\u306f\u308a\u5f8c\u9000\u3057\u3066\u5897\u63f4\u3092\u5f85\u3064\u3079\u304d\u3067\u3057\u3087\u3046\u3002\\n\u3000\u8a3c\u62e0\u306f\u4e0d\u5341\u5206\u3067\u3059\u304c\u3001\u3053\u306e\u307e\u307e\u5168\u54e1\u3067\u5ce0\u306b\u5411\u304b\u3046\u306e\u306f\u5371\u967a\u3059\u304e\u308b\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「だとしたら、車掌殿は天球に近づかないほうがいい。\\n　やはり後退して増援を待つべきでしょう。\\n　証拠は不十分ですが、このまま全員で峠に向かうのは危険すぎる」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1793,38 +1795,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 44,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u30d9\u30b9\u30c1\u30e3\u306f\u307b\u3093\u3068\u3046\u306b\u982d\u304c\u3044\u3044\u306d\u3002\\n\u3000\u305d\u308c\u306b\u3001\u3068\u3066\u3082\u3084\u3055\u3057\u3044\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「ベスチャはほんとうに頭がいいね。\\n　それに、とてもやさしい」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1838,38 +1840,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 45,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u30bf\u30a4\u30b7\u30a7\u30c8\u3001\u30d9\u30b9\u30c1\u30e3\u3068\u3044\u3063\u3057\u3087\u306b\u304a\u4ed5\u4e8b\u304c\u3067\u304d\u3066\u3046\u308c\u3057\u3044\u3002\\n\u3000\u30d9\u30b9\u30c1\u30e3\u306f\u9727\u306e\u4e2d\u3092\u65c5\u3057\u3066\u3001\u5f37\u304f\u306a\u3063\u305f\u3002\\n\u3000\u30bf\u30a4\u30b7\u30a7\u30c8\u3082\u3001\u304c\u3093\u3070\u3063\u3066\u304a\u52c9\u5f37\u3057\u3066\u3001\u8ecd\u4eba\u3055\u3093\u306b\u306a\u308c\u305f\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「タイシェト、ベスチャといっしょにお仕事ができてうれしい。\\n　ベスチャは霧の中を旅して、強くなった。\\n　タイシェトも、がんばってお勉強して、軍人さんになれた」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1883,38 +1885,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 46,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u4e8c\u4eba\u3067\u529b\u3092\u3042\u308f\u305b\u3088\u3046\uff1f\\n\u3000\u30e1\u30c8\u30ed\u306e\u4e16\u754c\u306e\u4eba\u305f\u3061\u306e\u3053\u3068\u3082\u3001\u52a9\u3051\u3066\u3042\u3052\u3088\u3046\uff1f\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「二人で力をあわせよう？\\n　メトロの世界の人たちのことも、助けてあげよう？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1928,38 +1930,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 47,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u3082\u3061\u308d\u3093\u3067\u3059\u3088\u3002\\n\u3000\u4e00\u7dd2\u306b\u6226\u3044\u307e\u3057\u3087\u3046\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「もちろんですよ。\\n　一緒に戦いましょう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1973,38 +1975,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 48,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u3055\u3042\u3001\u89b3\u6e2c\u6240\u306b\u623b\u3063\u3066\u59c9\u3055\u307e\u305f\u3061\u306b\u5831\u544a\u3057\u307e\u3057\u3087\u3046\u3002\\n\u3000\u98df\u4e8b\u306e\u7528\u610f\u3092\u3057\u3066\u304f\u308c\u3066\u3044\u308b\u306f\u305a\u3067\u3059\u3002\u6e29\u304b\u3044\u30b9\u30fc\u30d7\u3082\u3042\u308a\u307e\u3059\u3088\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「さあ、観測所に戻って姉さまたちに報告しましょう。\\n　食事の用意をしてくれているはずです。温かいスープもありますよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2018,38 +2020,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 49,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u3046\u3046\u3093\u3001\u305d\u308c\u306f\u307e\u305f\u3053\u3093\u3069\u3060\u3088\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「ううん、それはまたこんどだよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2063,38 +2065,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 50,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u3048\u2026\u2026\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「え……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2108,38 +2110,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 51,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u5ce0\u306e\u307b\u3046\u306b\u5149\u304c\u898b\u3048\u308b\u3002\\n\u3000\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u6c17\u914d\u3082\u3059\u308b\u3002\\n\u3000\u304d\u3063\u3068\u5929\u7403\u306e\u305d\u3070\u3067\u3001\u5927\u304d\u306a\u5e7b\u9727\u304c\u767a\u751f\u3057\u3066\u308b\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「峠のほうに光が見える。\\n　ミストモンスターの気配もする。\\n　きっと天球のそばで、大きな幻霧が発生してる」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2153,38 +2155,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 52,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u3044\u305d\u3044\u3067\u307f\u3093\u306a\u306b\u3053\u306e\u3053\u3068\u3092\u77e5\u3089\u305b\u3066\u3002\\n\u3000\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\u306f\u3057\u3083\u3057\u3087\u3046\u3092\u72d9\u3046\u304b\u3082\u3057\u308c\u306a\u3044\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「いそいでみんなにこのことを知らせて。\\n　ミストモンスターはしゃしょうを狙うかもしれない」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2198,38 +2200,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 53,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u30bf\u30a4\u30b7\u30a7\u30c8\u306f\u3069\u3046\u3059\u308b\u3093\u3067\u3059\u304b\uff1f\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「タイシェトはどうするんですか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2243,38 +2245,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 54,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u5ce0\u306b\u884c\u3063\u3066\u6226\u3046\u3002\\n\u3000\u307f\u3093\u306a\u304c\u6765\u3066\u304f\u308c\u308b\u307e\u3067\u6642\u9593\u3092\u7a3c\u3050\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「峠に行って戦う。\\n　みんなが来てくれるまで時間を稼ぐ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2288,38 +2290,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 55,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u3088\u3044\u7b56\u3067\u3059\u304c\u5371\u967a\u3067\u3059\u3088\u3002\\n\u3000\u3046\u307e\u304f\u5f8c\u9000\u3057\u306a\u304c\u3089\u6226\u308f\u306a\u3044\u3068\u5305\u56f2\u3055\u308c\u3066\u3057\u307e\u3044\u307e\u3059\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「よい策ですが危険ですよ。\\n　うまく後退しながら戦わないと包囲されてしまいます」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2333,38 +2335,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 2,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 56,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u3060\u3044\u3058\u3087\u3046\u3076\u3002\u5ce0\u3067\u306f\u4f55\u5ea6\u3082\u5e7b\u9727\u3068\u6226\u3063\u305f\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「だいじょうぶ。峠では何度も幻霧と戦った」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2378,38 +2380,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 57,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u30bf\u30a4\u30b7\u30a7\u30c8\u306f\u3078\u3044\u304d\u3060\u3088\u3002\\n\u3000\u30bf\u30a4\u30b7\u30a7\u30c8\u306f\u3001\u3053\u306e\u305f\u3081\u306b\u8a13\u7df4\u3057\u3066\u304d\u305f\u3002\\n\u3000\u300e\u666e\u901a\u306e\u5b50\u300f\u306b\u306a\u3063\u3066\u3001\u300e\u3088\u3044\u8ecd\u4eba\u300f\u306b\u306a\u3063\u305f\u306e\u306f\u3001\\n\u3000\u305d\u3053\u304f\u3068\u3001\u305f\u3044\u305b\u3064\u306a\u4eba\u3092\u5b88\u308b\u305f\u3081\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「タイシェトはへいきだよ。\\n　タイシェトは、このために訓練してきた。\\n　『普通の子』になって、『よい軍人』になったのは、\\n　そこくと、たいせつな人を守るため」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2423,38 +2425,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 58,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u3067\u3082\u30bf\u30a4\u30b7\u30a7\u30c8\u306f\u3001\u53cb\u9054\u306e\u305f\u3081\u306b\u3082\u6226\u3044\u305f\u3044\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「でもタイシェトは、友達のためにも戦いたい」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2468,38 +2470,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 59,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u53cb\u9054\u306e\u305f\u3081\u2026\u2026\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「友達のため……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2513,38 +2515,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 60,
     "ViewOrder": 1,
-    "Name": "\u30bf\u30a4\u30b7\u30a7\u30c8",
-    "Phrase": "\u300c\u3082\u3046\u884c\u304b\u306a\u3044\u3068\u3002\\n\u3000\u30d9\u30b9\u30c1\u30e3\u3001\u3042\u3068\u3067\u4f1a\u304a\u3046\u306d\u3002\\n\u3000\u307f\u3093\u306a\u3068\u4e00\u7dd2\u306b\u3001\u5168\u54e1\u3067\u6226\u304a\u3046\u300d",
+    "Name": "タイシェト",
+    "Phrase": "「もう行かないと。\\n　ベスチャ、あとで会おうね。\\n　みんなと一緒に、全員で戦おう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2558,38 +2560,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 61,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u30bf\u30a4\u30b7\u30a7\u30c8\u2026\u2026\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「タイシェト……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2603,38 +2605,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 2201,
         "Position": 2,
         "Action": 6,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 62,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u2026\u2026\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2648,30 +2650,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 63,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u2026\u2026\u4e0b\u3092\u5411\u304f\u306a\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「……下を向くな」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2685,30 +2687,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 64,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u4e0b\u3092\u5411\u304f\u306a\uff01\u3000\u79c1\u306f\u30a2\u30a4\u30bc\u30f3\u30b0\u30e9\u30fc\u30c8\u8ecd\u4eba\u3060\uff01\\n\u3000\u52dd\u5229\u306e\u305f\u3081\u306b\u524d\u9032\u3057\u3001\u6b66\u5668\u3092\u3082\u3063\u3066\u6575\u3092\u6bb2\u6ec5\u3059\u308b\uff01\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「下を向くな！　私はアイゼングラート軍人だ！\\n　勝利のために前進し、武器をもって敵を殲滅する！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2722,30 +2724,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 65,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u3053\u308c\u3088\u308a\u659c\u9762\u3092\u4e0b\u308a\u3001\u7279\u9244\u968a\u3068\u5171\u306b\u5ce0\u306b\u5411\u304b\u3046\u3002\\n\u3000\u6226\u95d8\u4e2d\u306e\u30bf\u30a4\u30b7\u30a7\u30c8\u3068\u901f\u3084\u304b\u306b\u5408\u6d41\u3002\\n\u3000\u4eca\u3053\u305d\u8a13\u7df4\u306e\u6210\u679c\u3092\u898b\u305b\u308b\u3068\u304d\u3088\u3002\u30d9\u30b9\u30c1\u30e3\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「これより斜面を下り、特鉄隊と共に峠に向かう。\\n　戦闘中のタイシェトと速やかに合流。\\n　今こそ訓練の成果を見せるときよ。ベスチャ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2759,30 +2761,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 66,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u2026\u2026\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2796,30 +2798,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 67,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u983c\u307f\u307e\u3057\u305f\u3088\u3002\u30bf\u30a4\u30b7\u30a7\u30c8\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「頼みましたよ。タイシェト」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2833,23 +2835,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

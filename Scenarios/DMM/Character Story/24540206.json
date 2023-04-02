@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3042\u308b\u65e5\u306e\u591c\u3001\u30d1\u30f3\u30af\u30e9\u30b9\u3068\u4e8c\u4eba\u3067\\n\u30bb\u30f3\u30c8\u30a4\u30ea\u30b9\u99c5\u524d\u306e\u5e83\u5834\u3092\u6b69\u3044\u3066\u3044\u305f\u3002\\n\u8ab0\u3082\u3044\u306a\u3044\u591c\u66f4\u3051\u306e\u5e83\u5834\u306f\u3068\u3066\u3082\u9759\u304b\u3067\u3001\\n\u3069\u3053\u304b\u958b\u653e\u7684\u306a\u6c17\u6301\u3061\u306b\u3055\u305b\u3066\u304f\u308c\u308b\u3002",
+    "Phrase": "ある日の夜、パンクラスと二人で\\nセントイリス駅前の広場を歩いていた。\\n誰もいない夜更けの広場はとても静かで、\\nどこか開放的な気持ちにさせてくれる。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30f3\u30af\u30e9\u30b9",
-    "Phrase": "\u300c\u3075\u3075\u3063\u3001\u591c\u306e\u9759\u5bc2\u3092\u3072\u3068\u308a\u3058\u3081\u3067\u3059\u308f\u306d\u2026\u2026\u300d",
+    "Name": "パンクラス",
+    "Phrase": "「ふふっ、夜の静寂をひとりじめですわね……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,30 +46,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 45402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u306b\u3053\u3084\u304b\u306b\u7b11\u3044\u304b\u3051\u3066\u304f\u308b\u30d1\u30f3\u30af\u30e9\u30b9\u3002\\n\u3057\u3093\u3001\u3068\u6f84\u3093\u3060\u7a7a\u6c17\u306e\u4e2d\u306b\u5f7c\u5973\u306e\u58f0\u3060\u3051\u304c\u5e83\u304c\u3063\u3066\u3044\u304f\u3002",
+    "Phrase": "にこやかに笑いかけてくるパンクラス。\\nしん、と澄んだ空気の中に彼女の声だけが広がっていく。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -82,30 +83,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 45402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u591c\u306e\u8857\u3092\u6563\u6b69\u3057\u305f\u3044\u3001\u3068\u8a00\u3046\u5f7c\u5973\u306e\u63d0\u6848\u306b\u4e57\u3063\u3066\u307f\u305f\u304c\\n\u3053\u308c\u3082\u306a\u304b\u306a\u304b\u30aa\u30c4\u306a\u3082\u306e\u3060\u3002\\n\u663c\u306f\u96f2\u3072\u3068\u3064\u306a\u3044\u5feb\u6674\u3060\u3063\u305f\u3053\u3068\u3082\u3042\u3063\u3066\u304b\\n\u591c\u98a8\u306f\u51b7\u305f\u3059\u304e\u305a\u3001\u5fc3\u5730\u304c\u3044\u3044\u3002",
+    "Phrase": "夜の街を散歩したい、と言う彼女の提案に乗ってみたが\\nこれもなかなかオツなものだ。\\n昼は雲ひとつない快晴だったこともあってか\\n夜風は冷たすぎず、心地がいい。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -119,30 +120,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 45402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30f3\u30af\u30e9\u30b9",
-    "Phrase": "\u300c\u3075\u3075\u3063\u2026\u2026\u266a\u300d",
+    "Name": "パンクラス",
+    "Phrase": "「ふふっ……♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -156,30 +157,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 45402,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30d1\u30f3\u30af\u30e9\u30b9\u306f\u30b9\u30ab\u30fc\u30c8\u3092\u305f\u306a\u3073\u304b\u305b\u306a\u304c\u3089\u3001\\n\u304f\u308b\u304f\u308b\u3068\u697d\u3057\u305d\u3046\u306b\u56de\u3063\u3066\u3044\u308b\u3002",
+    "Phrase": "パンクラスはスカートをたなびかせながら、\\nくるくると楽しそうに回っている。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -193,30 +194,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 45402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30f3\u30af\u30e9\u30b9",
-    "Phrase": "\u300c\u4eba\u304c\u3044\u306a\u3044\u3068\u3064\u3044\u3064\u3044\u5927\u80c6\u306b\u306a\u3063\u3066\u3057\u307e\u3044\u307e\u3059\u308f\u306d\u3002\\n\u3000\u3042\u3001\u305d\u3046\u3067\u3059\u308f\u2026\u2026\uff01\u300d",
+    "Name": "パンクラス",
+    "Phrase": "「人がいないとついつい大胆になってしまいますわね。\\n　あ、そうですわ……！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -230,30 +231,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 45402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30f3\u30af\u30e9\u30b9",
-    "Phrase": "\u300c\u3048\u3044\u3063\u300d",
+    "Name": "パンクラス",
+    "Phrase": "「えいっ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -267,30 +268,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 45402,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3059\u308b\u3068\u4f55\u3092\u601d\u3063\u305f\u306e\u304b\u3001\\n\u30d1\u30f3\u30af\u30e9\u30b9\u306f\u7a81\u7136\u30b9\u30ab\u30fc\u30c8\u3092\u305f\u304f\u3057\u4e0a\u3052\u305f\u3002",
+    "Phrase": "すると何を思ったのか、\\nパンクラスは突然スカートをたくし上げた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -304,30 +305,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 45402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30f3\u30af\u30e9\u30b9",
-    "Phrase": "\u300c\u3075\u3075\u3001\u958b\u653e\u611f\u304c\u3042\u3063\u3066\u3044\u3044\u3067\u3059\u308f\u306d\u2026\u2026\u300d",
+    "Name": "パンクラス",
+    "Phrase": "「ふふ、開放感があっていいですわね……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -341,30 +342,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 45402,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u4e0b\u7740\u306f\u5f53\u7136\u306e\u3054\u3068\u304f\u4e38\u898b\u3048\u72b6\u614b\u3002\\n\u3053\u308c\u306b\u306f\u3055\u3059\u304c\u306b\u5468\u308a\u306e\u76ee\u3092\u6c17\u306b\u3057\u3066\u3057\u307e\u3046\u3002",
+    "Phrase": "下着は当然のごとく丸見え状態。\\nこれにはさすがに周りの目を気にしてしまう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -378,30 +379,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 45402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30f3\u30af\u30e9\u30b9",
-    "Phrase": "\u300c\u3075\u3075\u3001\u8eca\u638c\u3055\u307e\u3082\u3044\u304b\u304c\u3067\u3059\u304b\uff1f \\n\u3000\u304a\u30d1\u30f3\u30c4\u306b\u591c\u98a8\u304c\u5f53\u305f\u3063\u3066\u6c17\u6301\u3061\u3044\u3044\u3067\u3059\u308f\u3088\uff1f\u300d",
+    "Name": "パンクラス",
+    "Phrase": "「ふふ、車掌さまもいかがですか？ \\n　おパンツに夜風が当たって気持ちいいですわよ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -415,30 +416,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 45402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u307e\u3055\u304b\u3001\u7279\u9244\u968a\u306e\u30e1\u30f3\u30d0\u30fc\u306b\u9732\u51fa\u3092\u52e7\u3081\u3089\u308c\u308b\u3068\u306f\u2026\u2026\u3002\\n\u3053\u3093\u306a\u99ac\u9e7f\u3052\u305f\u63d0\u6848\u306b\u666e\u6bb5\u3067\u3042\u308c\u3070\u4e57\u308b\u306f\u305a\u304c\u306a\u3044\u3001\u306e\u3060\u304c\u2026\u2026\u3002",
+    "Phrase": "まさか、特鉄隊のメンバーに露出を勧められるとは……。\\nこんな馬鹿げた提案に普段であれば乗るはずがない、のだが……。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -452,21 +453,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u5360\u3044\u5e2b",
-    "Phrase": "\u300c3\u756a\u306e\u30ab\u30fc\u30c9\u3092\u9078\u3093\u3060\u3042\u306a\u305f\uff01\u3000\u3044\u3064\u3082\u306f\u3084\u3089\u306a\u3044\u3053\u3068\u3092\u3084\u3063\u3066\u307f\u3066\uff01\\n\u3000\u30e9\u30c3\u30ad\u30fc\u30a2\u30a4\u30c6\u30e0\u306f\u300e\u304a\u6c17\u306b\u5165\u308a\u306e\u4e0b\u7740\u300f\uff01\uff63",
+    "Name": "占い師",
+    "Phrase": "「3番のカードを選んだあなた！　いつもはやらないことをやってみて！\\n　ラッキーアイテムは『お気に入りの下着』！｣",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -480,21 +482,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u4eca\u671d\u3001\u8def\u5730\u88cf\u306e\u602a\u3057\u3044\u5360\u3044\u5e2b\u306b\u305d\u3046\u8a00\u308f\u308c\u3001\\n\u534a\u4fe1\u534a\u7591\u3067\u304a\u6c17\u306b\u5165\u308a\u306e\u4e0b\u7740\u306b\u7740\u66ff\u3048\u3066\u304d\u305f\u306e\u3060\u304c\u3001\\n\u307e\u3055\u304b\u3053\u3053\u3067\u7e4b\u304c\u3063\u3066\u304f\u308b\u3068\u306f\u2026\u2026",
+    "Phrase": "今朝、路地裏の怪しい占い師にそう言われ、\\n半信半疑でお気に入りの下着に着替えてきたのだが、\\nまさかここで繋がってくるとは……",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -508,21 +511,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3084\u308b\u304b\u2026\u2026\u3002\\n\u3084\u3063\u3066\u3057\u307e\u3046\u306e\u304b\u2026\u2026\u3002",
+    "Phrase": "やるか……。\\nやってしまうのか……。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -536,21 +540,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3046\u3057\u3066\u30ba\u30dc\u30f3\u306b\u624b\u3092\u639b\u3051\u305f\u77ac\u9593\u2026\u2026",
+    "Phrase": "そうしてズボンに手を掛けた瞬間……",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -564,21 +569,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30f3\u30af\u30e9\u30b9",
-    "Phrase": "\u300c\u3042\u3063\u2026\u2026\u300d",
+    "Name": "パンクラス",
+    "Phrase": "「あっ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -592,30 +598,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 45402,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5f8c\u65b9\u306b\u4eba\u306e\u6c17\u914d\u3092\u611f\u3058\u3001\\n\u3055\u3063\u3068\u3001\u30d1\u30f3\u30af\u30e9\u30b9\u306e\u624b\u3092\u5f15\u304d\u7269\u9670\u306b\u8eab\u3092\u96a0\u3057\u305f\u3002",
+    "Phrase": "後方に人の気配を感じ、\\nさっと、パンクラスの手を引き物陰に身を隠した。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -629,23 +635,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 45402,
         "Position": 3,
         "Action": 4,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u6570\u65e5\u304c\u304b\u308a\u306e\u8a0e\u4f10\u4f5c\u6226\u306e\u305f\u3081\u30f4\u30a7\u30eb\u30d5\u30a9\u30ec\u30c3\u30c8\u3092\u8a2a\u308c\u3066\u3044\u305f\u7279\u9244\u968a\u3002\\n\u7121\u4e8b\u306b\u5168\u3066\u306e\u4efb\u52d9\u3092\u7d42\u3048\u3001\u4eca\u65e5\u304c\u6700\u5f8c\u306e\u6ede\u5728\u3068\u306a\u3063\u305f\u306e\u3067\u3001\\n\u30bb\u30f3\u30c8\u30a4\u30ea\u30b9\u99d0\u5c6f\u5730\u306b\u5e30\u6295\u3059\u308b\u307e\u3067\u306e\u534a\u65e5\u3092\u81ea\u7531\u6642\u9593\u3068\u3057\u305f\u3002",
+    "Phrase": "数日がかりの討伐作戦のためヴェルフォレットを訪れていた特鉄隊。\\n無事に全ての任務を終え、今日が最後の滞在となったので、\\nセントイリス駐屯地に帰投するまでの半日を自由時間とした。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u81ea\u5206\u3082\u3001\u307b\u3093\u306e\u5c11\u3057\u7fbd\u3092\u4f38\u3070\u3057\u306b\u884c\u3053\u3046\u304b\u3068\u601d\u3063\u305f\u306e\u3060\u304c\u3001\\n\u30a2\u30df\u30a2\u30f3\u3068\u306e\u4f1a\u8a71\u306e\u6d41\u308c\u3067\u300c\u81ea\u7531\u6642\u9593\u306f\u5949\u4ed5\u306e\u6642\u9593\u300d\u3068\u3044\u3046\u3053\u3068\u306b\u306a\u308a\u3001\\n\u30f4\u30a7\u30eb\u30d5\u30a9\u30ec\u30c3\u30c8\u306e\u305f\u3081\u306b\u306a\u308b\u3053\u3068\u3092\u63a2\u3057\u3066\u3044\u308b\u306e\u3060\u3002",
+    "Phrase": "自分も、ほんの少し羽を伸ばしに行こうかと思ったのだが、\\nアミアンとの会話の流れで「自由時間は奉仕の時間」ということになり、\\nヴェルフォレットのためになることを探しているのだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,21 +46,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30df\u30a2\u30f3",
-    "Phrase": "\u300c\u8eca\u638c\u3055\u3093\u3001\u3042\u305d\u3053\u306b\u8ab0\u304b\u3044\u307e\u3059\u3002\\n\u3000\u5c0f\u5ddd\u306e\u305d\u3070\u306b\u82e5\u3044\u7537\u306e\u4eba\u304c\u4e8c\u4eba\u2026\u2026\u3002\\n\u3000\u3053\u3093\u306a\u68ee\u306e\u4e2d\u3067\u4f55\u3092\u3057\u3066\u3044\u308b\u3093\u3067\u3057\u3087\u3046\uff1f\u300d",
+    "Name": "アミアン",
+    "Phrase": "「車掌さん、あそこに誰かいます。\\n　小川のそばに若い男の人が二人……。\\n　こんな森の中で何をしているんでしょう？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -73,30 +75,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 29401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30df\u30a2\u30f3",
-    "Phrase": "\u300c\u63a2\u3057\u7269\u2026\u2026\u3067\u3057\u3087\u3046\u304b\uff1f\\n\u3000\u3044\u3084\u3001\u3088\u304f\u898b\u308b\u3068\u3001\u4f55\u304b\u3092\u62fe\u3044\u96c6\u3081\u3066\u3044\u308b\u3088\u3046\u3067\u3059\u306d\u2026\u2026\u300d",
+    "Name": "アミアン",
+    "Phrase": "「探し物……でしょうか？\\n　いや、よく見ると、何かを拾い集めているようですね……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -110,30 +112,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 29401,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30df\u30a2\u30f3",
-    "Phrase": "\u300c\u79c1\u3001\u3061\u3087\u3063\u3068\u58f0\u3092\u304b\u3051\u3066\u304d\u307e\u3059\u300d",
+    "Name": "アミアン",
+    "Phrase": "「私、ちょっと声をかけてきます」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -147,30 +149,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 29401,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30df\u30a2\u30f3",
-    "Phrase": "\u300c\u3042\u306e\u3001\u3059\u307f\u307e\u305b\u3093\u3002\\n\u3000\u4f55\u304b\u304a\u56f0\u308a\u3067\u3059\u304b\uff1f\u300d",
+    "Name": "アミアン",
+    "Phrase": "「あの、すみません。\\n　何かお困りですか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -184,30 +186,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 29401,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u82e5\u3044\u7537\uff21",
-    "Phrase": "\u300c\u3063\uff01\u300d",
+    "Name": "若い男Ａ",
+    "Phrase": "「っ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -221,38 +223,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 105,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 110,
         "Position": 4,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30a2\u30df\u30a2\u30f3\u304c\u58f0\u3092\u304b\u3051\u308b\u3068\u3001\\n\u7537\u305f\u3061\u306f\u614c\u3066\u3066\u4f5c\u696d\u3092\u6b62\u3081\u3001\u670d\u306e\u4e0b\u306b\u4f55\u304b\u3092\u96a0\u3057\u305f\u3002",
+    "Phrase": "アミアンが声をかけると、\\n男たちは慌てて作業を止め、服の下に何かを隠した。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -266,38 +268,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 105,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 110,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30df\u30a2\u30f3",
-    "Phrase": "\u300c\u3053\u3093\u306a\u3068\u3053\u308d\u3067\u4f55\u3092\u3057\u3066\u3044\u308b\u3093\u3067\u3059\u304b\uff1f\u300d",
+    "Name": "アミアン",
+    "Phrase": "「こんなところで何をしているんですか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -311,30 +313,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 29401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u82e5\u3044\u7537\uff21",
-    "Phrase": "\u300c\u3042\u3001\u3044\u3084\u3001\u3061\u3087\u3063\u3068\u30b4\u30df\u62fe\u3044\u3092\u2026\u2026\u300d",
+    "Name": "若い男Ａ",
+    "Phrase": "「あ、いや、ちょっとゴミ拾いを……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -348,38 +350,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 105,
         "Position": 2,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 110,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30df\u30a2\u30f3",
-    "Phrase": "\u300c\u30b4\u30df\u62fe\u3044\u306a\u3089\u79c1\u3082\u624b\u4f1d\u3044\u307e\u3059\u3088\u3002\\n\u3000\u3061\u3087\u3046\u3069\u8ab0\u304b\u306e\u304a\u5f79\u306b\u7acb\u3066\u308b\u3088\u3046\u306a\u304a\u4ed5\u4e8b\u3092\u63a2\u3057\u3066\u305f\u3093\u3067\u3059\u300d",
+    "Name": "アミアン",
+    "Phrase": "「ゴミ拾いなら私も手伝いますよ。\\n　ちょうど誰かのお役に立てるようなお仕事を探してたんです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -393,30 +395,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 29401,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 5,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
-    "Name": "\u82e5\u3044\u7537\uff21",
-    "Phrase": "\u300c\u3044\u3084\uff01 \u305d\u308c\u306f\u30c0\u30e1\u3060\uff01\u300d",
+    "Name": "若い男Ａ",
+    "Phrase": "「いや！ それはダメだ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -430,38 +432,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 105,
         "Position": 2,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 110,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u82e5\u3044\u7537\uff22",
-    "Phrase": "\u300c\u305d\u3046\u3068\u3082\uff01\\n\u3000\u3053\u308c\u306f\u4ffa\u305f\u3061\u3060\u3051\u306e\u4ed5\u4e8b\u306a\u3093\u3060\uff01\u300d",
+    "Name": "若い男Ｂ",
+    "Phrase": "「そうとも！\\n　これは俺たちだけの仕事なんだ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -475,38 +477,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 105,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 110,
         "Position": 4,
         "Action": 1,
         "Emotion": 5,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30df\u30a2\u30f3",
-    "Phrase": "\u300c\u4ed5\u4e8b\u3063\u3066\u2026\u2026\uff1f\u300d",
+    "Name": "アミアン",
+    "Phrase": "「仕事って……？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -520,30 +522,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 29401,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u82e5\u3044\u7537\uff21",
-    "Phrase": "\u300c\u5b9f\u306f\u3001\u62fe\u3063\u3066\u3044\u308b\u306e\u306f\u30b4\u30df\u3058\u3083\u306a\u304f\u3066\u300e\u304a\u5b9d\u300f\u306a\u3093\u3060\u3088\u3002\\n\u3000\u4ffa\u305f\u3061\u306e\u5922\u3068\u5e0c\u671b\u3068\u9858\u671b\u304c\u8a70\u307e\u3063\u305f\u79d8\u5bc6\u306e\u66f8\u3055\u3002\\n\u3000\u3060\u304b\u3089\u3001\u4ed6\u306e\u4eba\u306b\u90aa\u9b54\u3055\u308c\u305f\u304f\u306a\u304f\u3066\u2026\u2026\u300d",
+    "Name": "若い男Ａ",
+    "Phrase": "「実は、拾っているのはゴミじゃなくて『お宝』なんだよ。\\n　俺たちの夢と希望と願望が詰まった秘密の書さ。\\n　だから、他の人に邪魔されたくなくて……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -557,38 +559,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 105,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 110,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\u82e5\u3044\u7537\uff21",
-    "Phrase": "\u300c\u305d\u3053\u306e\u3042\u3093\u305f\u3082\u3001\u7537\u306a\u3089\u308f\u304b\u3063\u3066\u304f\u308c\u308b\u3060\u308d\u3046\uff1f\u300d",
+    "Name": "若い男Ａ",
+    "Phrase": "「そこのあんたも、男ならわかってくれるだろう？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -602,38 +604,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 105,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 110,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u79d8\u5bc6\u306e\u66f8\u2015\u2015\u82e5\u3044\u7537\u306b\u305d\u3046\u30a6\u30a4\u30f3\u30af\u3092\u3055\u308c\u3066\u3001\u5bdf\u3057\u304c\u4ed8\u3044\u305f\u3002\\n\u306a\u308b\u307b\u3069\u306a\u2026\u2026\u308f\u304b\u308b\u3002\u7537\u306b\u306f\u308f\u304b\u308b\u305e\u3002",
+    "Phrase": "秘密の書――若い男にそうウインクをされて、察しが付いた。\\nなるほどな……わかる。男にはわかるぞ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -647,38 +649,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 105,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 110,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u7537\u304c\u670d\u306e\u4e0b\u306b\u96a0\u3057\u305f\u306e\u306f\u3001\u304a\u305d\u3089\u304f\u66f8\u7269\u306e\u4e00\u90e8\u3002\u3082\u3057\u304f\u306f\u5168\u90e8\u3060\u3002\\n\u3061\u3087\u3063\u3074\u308a\u30bb\u30af\u30b7\u30fc\u306a\u5185\u5bb9\u304c\u66f8\u304b\u308c\u305f\u66f8\u7269\u3067\u3042\u308b\u3002\\n\u30a2\u30df\u30a2\u30f3\u306b\u898b\u305b\u3089\u308c\u308b\u3088\u3046\u306a\u30b7\u30ed\u30e2\u30ce\u3067\u306f\u306a\u3044\u3002",
+    "Phrase": "男が服の下に隠したのは、おそらく書物の一部。もしくは全部だ。\\nちょっぴりセクシーな内容が書かれた書物である。\\nアミアンに見せられるようなシロモノではない。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -692,30 +694,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 29401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30df\u30a2\u30f3",
-    "Phrase": "\u300c\u3088\u304f\u308f\u304b\u308a\u307e\u305b\u3093\u304c\u3001\\n\u3000\u79c1\u306e\u51fa\u308b\u5e55\u3067\u306f\u306a\u3044\u3068\u3044\u3046\u3053\u3068\u3067\u3059\u306d\u300d",
+    "Name": "アミアン",
+    "Phrase": "「よくわかりませんが、\\n　私の出る幕ではないということですね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -729,30 +731,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 29401,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u670d\u306e\u4e0b\u306b\u300e\u304a\u5b9d\u300f\u3092\u96a0\u3057\u305f\u7537\u305f\u3061\u304c\u3001\\n\u3046\u3093\u3046\u3093\u3046\u3093\u3068\u4e00\u6589\u306b\u9837\u304f\u3002",
+    "Phrase": "服の下に『お宝』を隠した男たちが、\\nうんうんうんと一斉に頷く。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -766,30 +768,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 29401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30df\u30a2\u30f3",
-    "Phrase": "\u300c\u3061\u306a\u307f\u306b\u3069\u3093\u306a\u304a\u5b9d\u306a\u3093\u3067\u3059\u304b\uff1f\u300d",
+    "Name": "アミアン",
+    "Phrase": "「ちなみにどんなお宝なんですか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -803,30 +805,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 29401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u82e5\u3044\u7537\uff21",
-    "Phrase": "\u300c\u305d\u3001\u305d\u308c\u306f\u5f7c\u6c0f\u306b\u805e\u304f\u3068\u3044\u3044\u3088\uff01\u300d",
+    "Name": "若い男Ａ",
+    "Phrase": "「そ、それは彼氏に聞くといいよ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -840,38 +842,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 105,
         "Position": 2,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 110,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30df\u30a2\u30f3",
-    "Phrase": "\u300c\u3048\u3063\uff01\uff1f\u300d",
+    "Name": "アミアン",
+    "Phrase": "「えっ！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -885,30 +887,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 29401,
         "Position": 3,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u82e5\u3044\u7537\uff22",
-    "Phrase": "\u300c\u305d\u3001\u305d\u3046\u3060\u305d\u3046\u3060\uff01\\n\u3000\u5f7c\u6c0f\u306b\u805e\u304f\u306e\u304c\u4e00\u756a\u3060\u300d",
+    "Name": "若い男Ｂ",
+    "Phrase": "「そ、そうだそうだ！\\n　彼氏に聞くのが一番だ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -922,38 +924,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 105,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 110,
         "Position": 4,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30df\u30a2\u30f3",
-    "Phrase": "\u300c\u304b\u304b\u304b\u304b\u304b\u304b\u304b\u304b\u5f7c\u6c0f\u3067\u3059\u3063\u3066\uff01\uff1f\\n\u3000\u8eca\u638c\u3055\u3093\u304c\u3001\u308f\u3063\u308f\u3063\u308f\u3063\u79c1\u306e\u5f7c\u6c0f\uff01\uff1f\u300d",
+    "Name": "アミアン",
+    "Phrase": "「かかかかかかかか彼氏ですって！？\\n　車掌さんが、わっわっわっ私の彼氏！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -967,30 +969,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 29401,
         "Position": 3,
         "Action": 1,
         "Emotion": 6,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
-    "Name": "\u82e5\u3044\u7537\uff22",
-    "Phrase": "\u300c\u3042\u3093\u305f\u3089\u604b\u4eba\u540c\u58eb\u306a\u3093\u3060\u308d\uff1f\\n\u3000\u3060\u3063\u305f\u3089\u304d\u3063\u3068\u3001\u30e2\u30c6\u306a\u3044\u4ffa\u305f\u3061\u3088\u308a\u3082\\n\u3000\u305d\u3046\u3044\u3046\u3053\u3068\u306b\u8a73\u3057\u3044\u306f\u305a\u3060\u2026\u2026\u300d",
+    "Name": "若い男Ｂ",
+    "Phrase": "「あんたら恋人同士なんだろ？\\n　だったらきっと、モテない俺たちよりも\\n　そういうことに詳しいはずだ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1004,38 +1006,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 105,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 110,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
-    "Name": "\u82e5\u3044\u7537\uff21",
-    "Phrase": "\u300c\u30d0\u30ab\uff01 \u304a\u524d\u306a\u306b\u8a00\u3063\u3066\u3093\u3060\u3088\uff01\\n\u3000\u4ffa\u305f\u3061\u3060\u3063\u3066\u305d\u3053\u305d\u3053\u8a73\u3057\u3044\u3060\u308d\u3046\uff01\\n\u3000\u5b9f\u6226\u7d4c\u9a13\u306f\u306a\u3044\u3051\u3069\u3001\u672c\u3067\u305f\u304f\u3055\u3093\u52c9\u5f37\u3057\u305f\u3093\u3060\u304b\u3089\u300d",
+    "Name": "若い男Ａ",
+    "Phrase": "「バカ！ お前なに言ってんだよ！\\n　俺たちだってそこそこ詳しいだろう！\\n　実戦経験はないけど、本でたくさん勉強したんだから」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1049,38 +1051,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 105,
         "Position": 2,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 110,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
-    "Name": "\u82e5\u3044\u7537\uff22",
-    "Phrase": "\u300c\u306a\u3093\u3060\u3088\u3001\u304a\u524d\u305d\u308c\u81ea\u5206\u3067\u8a00\u3063\u3066\u3066\u60b2\u3057\u304f\u306a\u3089\u306d\u3047\u306e\u304b\u3088\u300d",
+    "Name": "若い男Ｂ",
+    "Phrase": "「なんだよ、お前それ自分で言ってて悲しくならねぇのかよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1094,38 +1096,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 105,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 110,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30df\u30a2\u30f3",
-    "Phrase": "\u300c\u3061\u3087\u3063\u3068\u3061\u3087\u3063\u3068\uff01\\n\u3000\u30b1\u30f3\u30ab\u306f\u3084\u3081\u3066\u304f\u3060\u3055\u3044\uff01\u300d",
+    "Name": "アミアン",
+    "Phrase": "「ちょっとちょっと！\\n　ケンカはやめてください！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1139,30 +1141,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 29401,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u843d\u3061\u7740\u3051\u3002\u307f\u3093\u306a\u843d\u3061\u7740\u3051\u3002\\n\u7279\u306b\u52c9\u5f37\u71b1\u5fc3\u306a\u7537\u305f\u3061\u3088\u3001\u81ea\u3089\u5893\u7a74\u3092\u6398\u308b\u3093\u3058\u3083\u306a\u3044\u3002\\n\u30a2\u30df\u30a2\u30f3\u3082\u3001\u604b\u4eba\u3068\u8a00\u308f\u308c\u305f\u304f\u3089\u3044\u3067\u4f55\u3092\u305d\u3093\u306a\u306b\u7167\u308c\u3066\u3044\u308b\u306e\u3060\u3002",
+    "Phrase": "落ち着け。みんな落ち着け。\\n特に勉強熱心な男たちよ、自ら墓穴を掘るんじゃない。\\nアミアンも、恋人と言われたくらいで何をそんなに照れているのだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1176,30 +1178,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 29401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30df\u30a2\u30f3",
-    "Phrase": "\u300c\u305d\u3001\u305d\u308c\u3082\u305d\u3046\u3067\u3057\u305f\u306d\u2026\u2026\u3002\\n\u3000\u3044\u3084\u3060\u3001\u79c1\u3063\u305f\u3089\u4f55\u3092\u7126\u3063\u3066\u3044\u308b\u3093\u3067\u3057\u3087\u3046\u304b\u300d",
+    "Name": "アミアン",
+    "Phrase": "「そ、それもそうでしたね……。\\n　いやだ、私ったら何を焦っているんでしょうか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1213,30 +1215,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 29401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30df\u30a2\u30f3",
-    "Phrase": "\u300c\u79c1\u306f\u7279\u9244\u968a\u306e\u30c8\u30ec\u30a4\u30f3\u30ca\u30a4\u30c8\u3067\u3001\\n\u3000\u3053\u3061\u3089\u306e\u65b9\u306f\u7279\u9244\u968a\u306e\u8eca\u638c\u3055\u3093\u3067\u3059\u3002\\n\u3000\u604b\u4eba\u3068\u3044\u3046\u95a2\u4fc2\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u300d",
+    "Name": "アミアン",
+    "Phrase": "「私は特鉄隊のトレインナイトで、\\n　こちらの方は特鉄隊の車掌さんです。\\n　恋人という関係ではありません」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1250,30 +1252,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 29401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30df\u30a2\u30f3",
-    "Phrase": "\u300c\u3067\u3082\u3001\u604b\u4eba\u540c\u58eb\u3060\u304b\u3089\u8a73\u3057\u3044\u306f\u305a\u3063\u3066\u3001\\n\u3000\u3069\u3046\u3044\u3046\u3053\u3068\u3067\u3059\u304b\uff1f \u3044\u3063\u305f\u3044\u4f55\u3064\u3044\u3066\u8a73\u3057\u3044\u3093\u3067\u3059\u304b\uff1f\u300d",
+    "Name": "アミアン",
+    "Phrase": "「でも、恋人同士だから詳しいはずって、\\n　どういうことですか？ いったい何ついて詳しいんですか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1287,30 +1289,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 29401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
-    "Name": "\u82e5\u3044\u7537\uff21",
-    "Phrase": "\u300c\u305d\u3093\u306a\u306e\u3001\u7537\u5973\u306e\u95a2\u4fc2\u306b\u3064\u3044\u3066\u306b\u6c7a\u307e\u3063\u3066\u308b\u3060\u308d\u300d",
+    "Name": "若い男Ａ",
+    "Phrase": "「そんなの、男女の関係についてに決まってるだろ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1324,38 +1326,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 105,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 110,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30df\u30a2\u30f3",
-    "Phrase": "\u300c\u7537\u5973\u306e\u95a2\u4fc2\u2026\u2026\u300d",
+    "Name": "アミアン",
+    "Phrase": "「男女の関係……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1369,30 +1371,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 29401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 36,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30df\u30a2\u30f3",
-    "Phrase": "\u300c\u305d\u3001\u305d\u3046\u3044\u3046\u3053\u3068\u3067\u3057\u305f\u304b\uff01\\n\u3000\u79c1\u3001\u305d\u306e\u3001\u604b\u611b\u95a2\u4fc2\u306b\u306f\u758e\u304f\u3066\u2026\u2026\u604b\u30d0\u30ca\u3001\u3068\u3044\u3046\u3084\u3064\u3067\u3059\u3088\u306d\uff1f\u300d",
+    "Name": "アミアン",
+    "Phrase": "「そ、そういうことでしたか！\\n　私、その、恋愛関係には疎くて……恋バナ、というやつですよね？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1406,30 +1408,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 29401,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 37,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3061\u3087\u3063\u3068\u9055\u3046\u304c\u3001\u307e\u3042\u4eca\u306f\u305d\u3046\u3044\u3046\u3053\u3068\u306b\u3057\u3066\u304a\u3053\u3046\u3002\\n\u3053\u3053\u306f\u5f7c\u3089\u306b\u4efb\u305b\u3066\u3001\u9759\u304b\u306b\u3001\u51fa\u6765\u308b\u3060\u3051\u65e9\u304f\u7acb\u3061\u53bb\u308b\u3079\u304d\u3060\u3002\\n\u4f55\u3082\u898b\u3066\u3044\u306a\u3044\u3057\u3001\u4f55\u3082\u805e\u3044\u3066\u3044\u306a\u3044\u3002\\n\u305d\u3046\u3044\u3046\u6c17\u9063\u3044\u3082\u3001\u6642\u306b\u306f\u5fc5\u8981\u306a\u306e\u3067\u3042\u308b\u3002",
+    "Phrase": "ちょっと違うが、まあ今はそういうことにしておこう。\\nここは彼らに任せて、静かに、出来るだけ早く立ち去るべきだ。\\n何も見ていないし、何も聞いていない。\\nそういう気遣いも、時には必要なのである。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1443,30 +1445,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 29401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 38,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30df\u30a2\u30f3",
-    "Phrase": "\u300c\u308f\u304b\u308a\u307e\u3057\u305f\u3002\\n\u3000\u305d\u308c\u3067\u306f\u3001\u5f15\u304d\u7d9a\u304d\u5de1\u56de\u3092\u3057\u307e\u3057\u3087\u3046\u3002\\n\u3000\u3082\u3046\u5c11\u3057\u5317\u306e\u307b\u3046\u3078\u884c\u3063\u3066\u307f\u307e\u3057\u3087\u3046\u304b\u300d",
+    "Name": "アミアン",
+    "Phrase": "「わかりました。\\n　それでは、引き続き巡回をしましょう。\\n　もう少し北のほうへ行ってみましょうか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1480,30 +1482,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 29401,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 39,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30df\u30a2\u30f3",
-    "Phrase": "\u300c\u3067\u306f\u3001\u79c1\u306f\u3053\u308c\u3067\u5931\u793c\u3057\u307e\u3059\u3002\\n\u3000\u5927\u4e8b\u306a\u304a\u4ed5\u4e8b\u3092\u90aa\u9b54\u3057\u3066\u3057\u307e\u3044\u3001\u7533\u3057\u8a33\u3042\u308a\u307e\u305b\u3093\u3067\u3057\u305f\u300d",
+    "Name": "アミアン",
+    "Phrase": "「では、私はこれで失礼します。\\n　大事なお仕事を邪魔してしまい、申し訳ありませんでした」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1517,30 +1519,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 29401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 40,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u68ee\u306e\u4e2d\u3001\u30bb\u30af\u30b7\u30fc\u306a\u66f8\u7269\u306e\u5207\u308c\u7aef\u3092\u96c6\u3081\u3066\u3044\u305f\u3067\u3042\u308d\u3046\u7537\u305f\u3061\u306f\u3001\\n\u30a2\u30df\u30a2\u30f3\u306e\u5f8c\u308d\u59ff\u3092\u898b\u9001\u308a\u306a\u304c\u3089\u300c\u5317\u304b\u2026\u2026\u300d\u3068\u5c0f\u3055\u304f\u545f\u3044\u305f\u3002",
+    "Phrase": "森の中、セクシーな書物の切れ端を集めていたであろう男たちは、\\nアミアンの後ろ姿を見送りながら「北か……」と小さく呟いた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1554,14 +1556,14 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

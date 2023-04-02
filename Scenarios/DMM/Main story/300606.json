@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3084\u306f\u308a\u81ea\u5206\u3067\u3082\u4e0d\u601d\u8b70\u306a\u307b\u3069\u6c17\u306b\u306a\u3063\u3066\u3057\u307e\u3063\u305f\u306e\u3067\u3001\\nDr.\u30b0\u30ed\u30fc\u30ea\u30a2\u3068\u9762\u8ac7\u3059\u308b\u3053\u3068\u306b\u3057\u305f\u3002\\n\u82e6\u7b11\u304e\u307f\u306e\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8\u306b\u5148\u5c0e\u3055\u308c\u3001\u57fa\u5730\u5185\u306e\u533b\u52d9\u5ba4\u3078\u3068\u5411\u304b\u3046\u3002",
+    "Phrase": "やはり自分でも不思議なほど気になってしまったので、\\nDr.グローリアと面談することにした。\\n苦笑ぎみのカールスルーエに先導され、基地内の医務室へと向かう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8",
-    "Phrase": "\u300c\u3042\u3093\u306a\u4e0e\u592a\u8005\u3068\u558b\u3063\u3066\u3082\u3001\\n\u3000\u4f55\u306e\u53ce\u7a6b\u3082\u306a\u3044\u3060\u308d\u3046\u3068\u306f\u601d\u3046\u3093\u3067\u3059\u3051\u3069\u306d\u3047\u300d",
+    "Name": "カールスルーエ",
+    "Phrase": "「あんな与太者と喋っても、\\n　何の収穫もないだろうとは思うんですけどねぇ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,30 +46,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8",
-    "Phrase": "\uff08\u3080\u3057\u308d\u3002\u305d\u3093\u306a\u53ef\u80fd\u6027\u306f\u6975\u3081\u3066\u4f4e\u3044\u308f\u3051\u3067\u3059\u304c\u3001\\n\u3000\u300e\u53ce\u7a6b\u304c\u3042\u3063\u305f\u300f\u5834\u5408\u304c\u554f\u984c\u3067\u3059\u3002\\n\u3000Dr.\u30b0\u30ed\u30fc\u30ea\u30a2\u304a\u3088\u3073\u30c9\u30c3\u30ac\u30f3\u56e3\u306a\u308b\u72af\u7f6a\u96c6\u56e3\u306b\u307e\u3064\u308f\u308b\u3001\\n\u3000\u300e\u3042\u306e\u5642\u8a71\u300f\u304c\u4e8b\u5b9f\u3060\u3063\u305f\u3068\u3057\u305f\u3089\u2015\u2015\uff09",
+    "Name": "カールスルーエ",
+    "Phrase": "（むしろ。そんな可能性は極めて低いわけですが、\\n　『収穫があった』場合が問題です。\\n　Dr.グローリアおよびドッガン団なる犯罪集団にまつわる、\\n　『あの噂話』が事実だったとしたら――）",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -82,30 +83,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8",
-    "Phrase": "\uff08\u8eca\u638c\u95a3\u4e0b\u3092Dr.\u30b0\u30ed\u30fc\u30ea\u30a2\u3068\u4f1a\u308f\u305b\u308b\u306e\u306f\u3001\\n\u3000\u6975\u3081\u3066\u307e\u305a\u3044\u304b\u3082\u3057\u308c\u307e\u305b\u3093\uff09",
+    "Name": "カールスルーエ",
+    "Phrase": "（車掌閣下をDr.グローリアと会わせるのは、\\n　極めてまずいかもしれません）",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -119,30 +120,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8",
-    "Phrase": "\uff08\u6700\u60aa\u306e\u5834\u5408\u3001\u4eca\u5f8c\u306e\u7279\u9244\u968a\u306e\u6d3b\u52d5\u306b\u652f\u969c\u304c\u3067\u308b\u304b\u3082\u2026\u2026\u3002\\n\u3000\u305b\u3081\u3066\u300e\u51f1\u65cb\u5f0f\u300f\u3050\u3089\u3044\u306f\u3001\\n\u3000\u3053\u3061\u3089\u306e\u76ee\u8ad6\u898b\u3069\u304a\u308a\u6059\u306a\u304f\u7d42\u3048\u3066\u307b\u3057\u3044\u3093\u3067\u3059\u3051\u3069\u306d\u3047\uff09",
+    "Name": "カールスルーエ",
+    "Phrase": "（最悪の場合、今後の特鉄隊の活動に支障がでるかも……。\\n　せめて『凱旋式』ぐらいは、\\n　こちらの目論見どおり恙なく終えてほしいんですけどねぇ）",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -156,30 +157,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8",
-    "Phrase": "\uff08\u6211\u3005\u306e\u3001\u3044\u3044\u3048\u2015\u2015\u308f\u305f\u3057\u306e\u76ee\u7684\u306e\u305f\u3081\u306b\u3082\uff09",
+    "Name": "カールスルーエ",
+    "Phrase": "（我々の、いいえ――わたしの目的のためにも）",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -193,30 +194,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8",
-    "Phrase": "\u300c\u2026\u2026\uff1f\\n\u3000\u95a3\u4e0b\u3001\u3044\u3063\u305f\u3093\u7acb\u3061\u6b62\u307e\u3063\u3066\u3044\u305f\u3060\u3051\u307e\u3059\u304b\u3041\uff1f\u300d",
+    "Name": "カールスルーエ",
+    "Phrase": "「……？\\n　閣下、いったん立ち止まっていただけますかぁ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -230,30 +231,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3069\u3046\u3057\u305f\uff1f",
+    "Phrase": "どうした？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -267,30 +268,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8",
-    "Phrase": "\u300c\u5999\u3067\u3059\u306d\u3047\u3002\u4eca\u3001\u9283\u58f0\u306e\u3088\u3046\u306a\u3082\u306e\u304c\u805e\u3053\u3048\u307e\u305b\u3093\u3067\u3057\u305f\u304b\uff1f\\n\u3000\u3082\u3046\u591c\u66f4\u3051\u3067\u3059\u3057\u3001\\n\u3000\u9283\u3092\u7528\u3044\u305f\u8a13\u7df4\u306a\u3069\u306f\u884c\u308f\u308c\u3066\u3044\u306a\u3044\u306f\u305a\u3067\u3059\u3051\u3069\u2015\u2015\u300d",
+    "Name": "カールスルーエ",
+    "Phrase": "「妙ですねぇ。今、銃声のようなものが聞こえませんでしたか？\\n　もう夜更けですし、\\n　銃を用いた訓練などは行われていないはずですけど――」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -304,30 +305,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8\u306b\u4fc3\u3055\u308c\u3001\u8033\u3092\u6f84\u307e\u305b\u3066\u307f\u308b\u3002\\n\u65ad\u7d9a\u7684\u306b\u8b66\u5831\u304c\u9cf4\u308a\u97ff\u3044\u3066\u304a\u308a\u97f3\u304c\u62fe\u3044\u306b\u304f\u3044\u304c\u3001\\n\u78ba\u304b\u306b\u2015\u2015\u8ab0\u304b\u304c\u4e89\u3044\u3042\u3046\u3088\u3046\u306a\u9a12\u97f3\u304c\u805e\u3053\u3048\u308b\u3088\u3046\u306a\uff1f",
+    "Phrase": "カールスルーエに促され、耳を澄ませてみる。\\n断続的に警報が鳴り響いており音が拾いにくいが、\\n確かに――誰かが争いあうような騒音が聞こえるような？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -341,30 +342,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8",
-    "Phrase": "\u300c\u5931\u793c\u3057\u3066\u3001\u3061\u3087\u3063\u3068\u69d8\u5b50\u3092\u898b\u306b\u884c\u3063\u3066\u304d\u307e\u3059\u306d\u3047\u3002\\n\u3000\u3069\u3046\u3082\u80f8\u9a12\u304e\u304c\u3057\u307e\u3059\u306e\u3067\u3001\u95a3\u4e0b\u306f\u3053\u3053\u3067\u304a\u5f85\u3061\u3092\u300d",
+    "Name": "カールスルーエ",
+    "Phrase": "「失礼して、ちょっと様子を見に行ってきますねぇ。\\n　どうも胸騒ぎがしますので、閣下はここでお待ちを」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -378,30 +379,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3044\u3084\u3001\u3067\u304d\u308c\u3070\u540c\u884c\u3055\u305b\u3066\u307b\u3057\u3044\u3002\\n\u60c5\u3051\u306a\u3044\u8a71\u3060\u304c\u3001\u4f8b\u3048\u3070\u8cca\u306a\u3069\u304c\u57fa\u5730\u5185\u306b\u4fb5\u5165\u3057\u3066\u304d\u3066\u3044\u305f\u5834\u5408\u2015\u2015\\n\u5358\u72ec\u3067\u52d5\u304f\u3088\u308a\u3001\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8\u3068\u4e00\u7dd2\u306b\u3044\u305f\u307b\u3046\u304c\u751f\u5b58\u7387\u304c\u9ad8\u307e\u308b\u3002",
+    "Phrase": "いや、できれば同行させてほしい。\\n情けない話だが、例えば賊などが基地内に侵入してきていた場合――\\n単独で動くより、カールスルーエと一緒にいたほうが生存率が高まる。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -415,30 +416,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8",
-    "Phrase": "\u300c\u3042\u3089\u3001\u3046\u3075\u3075\u2026\u2026\u304b\u3041\u308f\u3044\u3044\u266a\\n\u3000\u3051\u308c\u3069\u5b9f\u969b\u305d\u306e\u3068\u304a\u308a\u3067\u3059\u306d\u3047\u3001\u300e\u8eca\u638c\u300f\u95a3\u4e0b\u306f\u975e\u6226\u95d8\u8981\u54e1\u3067\u3059\u3057\u3002\\n\u3000\u8a13\u7df4\u3092\u7a4d\u3093\u3060\u8ecd\u4eba\u305f\u308b\u3001\u308f\u305f\u3057\u304b\u3089\u96e2\u308c\u306a\u3044\u307b\u3046\u304c\u5b89\u5168\u3067\u3057\u3087\u3046\u300d",
+    "Name": "カールスルーエ",
+    "Phrase": "「あら、うふふ……かぁわいい♪\\n　けれど実際そのとおりですねぇ、『車掌』閣下は非戦闘要員ですし。\\n　訓練を積んだ軍人たる、わたしから離れないほうが安全でしょう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -452,30 +453,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 2,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3053\u3061\u3089\u3092\u611b\u3089\u3057\u3044\u751f\u304d\u7269\u3067\u3082\u898b\u308b\u3088\u3046\u306b\u898b\u3066\u3001\\n\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8\u306f\u5f7c\u5973\u306e\u6b66\u5668\u3067\u3042\u308b\u97ad\u3092\u69cb\u3048\u308b\u3002\\n\u305d\u3093\u306a\u5f7c\u5973\u3068\u4e00\u7dd2\u306b\u97f3\u306e\u767a\u751f\u6e90\u3092\u63a2\u308a\u3001\u614e\u91cd\u306b\u901a\u8def\u3092\u79fb\u52d5\u3057\u305f\u3002",
+    "Phrase": "こちらを愛らしい生き物でも見るように見て、\\nカールスルーエは彼女の武器である鞭を構える。\\nそんな彼女と一緒に音の発生源を探り、慎重に通路を移動した。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -489,30 +490,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3084\u304c\u3066\u8fbf\u308a\u7740\u3044\u305f\u3001\u57fa\u5730\u5185\u306e\u4e00\u89d2\u3067\u2015\u2015\u3002",
+    "Phrase": "やがて辿り着いた、基地内の一角で――。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -526,30 +527,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u306b\u3072\u3072\u3072\u3072\u2606\u3000\u591c\u3082\u9045\u3044\u304b\u3089\u3063\u3066\u5148\u306b\u5bdd\u3061\u3083\u56f0\u308a\u307e\u3059\u305c\u3043\u3001\\n\u3000\u52e4\u52d9\u6642\u9593\u5916\u3060\u308d\u3046\u306b\u50cd\u304b\u305b\u3066\u7533\u3057\u8a33\u306a\u3044\u3067\u3059\u3051\u3069\u2015\u2015\\n\u3000\u3042\u3063\u3057\u3068\u4e00\u7dd2\u306b\u697d\u3057\u304f\u5143\u6c17\u306b\u30b5\u30fc\u30d3\u30b9\u6b8b\u696d\u3092\u3044\u305f\u3057\u3084\u3057\u3087\u3046\u3063\u3001\\n\u3000\u307b\u3089\u307b\u3089\u307b\u3089\u3041\u3063\u266a\u300d",
+    "Name": "？？？",
+    "Phrase": "「にひひひひ☆　夜も遅いからって先に寝ちゃ困りますぜぃ、\\n　勤務時間外だろうに働かせて申し訳ないですけど――\\n　あっしと一緒に楽しく元気にサービス残業をいたしやしょうっ、\\n　ほらほらほらぁっ♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -563,30 +564,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 5,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 9,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2015\u2015\u6fc0\u3057\u3044\u6226\u95d8\u304c\u884c\u308f\u308c\u3066\u3044\u305f\u3002\\n\u5148\u523b\u3001\u5df1\u306e\u90e8\u5c4b\u3078\u3068\u6848\u5185\u3055\u308c\u3066\u53bb\u3063\u3066\u884c\u3063\u305f\u30d5\u30e5\u30c3\u30bb\u30f3\u3068\u30e9\u30a4\u30d7\u30c4\u30a3\u30d2\u304c\u3001\\n\u6b63\u4f53\u4e0d\u660e\u306e\u7570\u69d8\u306a\u4eba\u7269\u3068\u9354\u8feb\u308a\u5408\u3044\u3092\u7e70\u308a\u5e83\u3052\u3066\u3044\u308b\u3002",
+    "Phrase": "――激しい戦闘が行われていた。\\n先刻、己の部屋へと案内されて去って行ったフュッセンとライプツィヒが、\\n正体不明の異様な人物と鍔迫り合いを繰り広げている。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -600,38 +601,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 26201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 17201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u3069\u304c\u3069\u304c\u3069\u3063\u304c\uff5e\u3093\u3001\u30c9\u30c3\u30ac\u30f3\u56e3\uff01\\n\u3000\u30c9\u30c3\u30ac\u30f3\u56e3\u306e\u300e\u30c9\u300f\u306f\u3001\u300e\u3069\u3046\u3057\u3088\u3046\u3082\u306a\u3044\u300f\u306e\u300e\u30c9\u300f\uff01\\n\u3000\u30c9\u30c3\u30ac\u30f3\u56e3\u306e\u300e\u30ac\u300f\u306f\u3001\u300e\u304c\u3093\u3070\u308a\u5c4b\u3055\u3093\u300f\u306e\u300e\u30ac\u300f\uff01\u300d",
+    "Name": "？？？",
+    "Phrase": "「どがどがどっが～ん、ドッガン団！\\n　ドッガン団の『ド』は、『どうしようもない』の『ド』！\\n　ドッガン団の『ガ』は、『がんばり屋さん』の『ガ』！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -645,30 +646,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 5,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 2,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u300e\u30f3\u300f\u306f\u2015\u2015\u3042\u308c\u3001\u300e\u30f3\u300f\u3067\u59cb\u307e\u308b\u8a00\u8449\u3068\u304b\u6025\u306b\u601d\u3044\u6d6e\u304b\u3073\u3084\u305b\u3093\u3088\uff01\uff1f\\n\u3000\u3084\u3081\u3084\u3081\u3063\u3001\u5931\u6557\u5931\u6557\uff01\u3000\u4eca\u306e\u306f\u5fd8\u308c\u3066\u3064\u304b\u3041\u3055\u3044\uff01\\n\u3000\u306b\u3063\u3072\u3072\u3072\u3072\u3001\u3082\u3046\u3061\u3087\u3063\u3068\u8003\u3048\u3066\u304b\u3089\u558b\u308b\u3079\u304d\u3067\u3057\u305f\u306d\uff01\\n\u3000\u3042\u3063\u3057\u3063\u305f\u3089\u30a6\u30c3\u30ab\u30ea\u5c4b\u3055\u3093\u2026\u2026\uff01\u300d",
+    "Name": "？？？",
+    "Phrase": "「『ン』は――あれ、『ン』で始まる言葉とか急に思い浮かびやせんよ！？\\n　やめやめっ、失敗失敗！　今のは忘れてつかぁさい！\\n　にっひひひひ、もうちょっと考えてから喋るべきでしたね！\\n　あっしったらウッカリ屋さん……！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -682,30 +683,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 5,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e5\u30c3\u30bb\u30f3",
-    "Phrase": "\u300c\u3050\u3046\u3063\u2026\u2026\uff1f\u3000\u610f\u5473\u4e0d\u660e\u3059\u304e\u3066\u982d\u75db\u304c\u3059\u308b\u306e\u3060\u3088\uff01\\n\u3000\u3042\u3041\u4e0d\u6109\u5feb\u3060\u8033\u969c\u308a\u3060\u82db\u3005\u3059\u308b\u3063\u3001\u30e9\u30a4\u30d7\u30c4\u30a3\u30d2\u3068\u3044\u3063\u305f\u304b\u2015\u2015\\n\u3000\u3055\u3063\u3055\u3068\u305d\u306e\u5947\u3063\u602a\u306a\u8cca\u3092\u4ed5\u7559\u3081\u305f\u307e\u3048\uff01\u300d",
+    "Name": "フュッセン",
+    "Phrase": "「ぐうっ……？　意味不明すぎて頭痛がするのだよ！\\n　あぁ不愉快だ耳障りだ苛々するっ、ライプツィヒといったか――\\n　さっさとその奇っ怪な賊を仕留めたまえ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -719,38 +720,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 26201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 17201,
         "Position": 4,
         "Action": 0,
         "Emotion": 2,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
-    "Name": "\u30e9\u30a4\u30d7\u30c4\u30a3\u30d2",
-    "Phrase": "\u300c\u7387\u76f4\u306b\u8a00\u3063\u3066\u56f0\u96e3\u3067\u3042\u308a\u307e\u3059\uff01\\n\u3000\u6575\u306f\u304b\u306a\u308a\u306e\u624b\u7df4\u308c\u2015\u2015\u6240\u4f5c\u304b\u3089\u3044\u3063\u3066\u3001\\n\u3000\u6697\u6bba\u8005\u3068\u3057\u3066\u306e\u8a13\u7df4\u3092\u53d7\u3051\u3066\u3044\u308b\u3082\u306e\u3068\u63a8\u6e2c\u3057\u307e\u3059\uff01\\n\u3000\u3053\u306e\u3088\u3046\u306a\u72ed\u3044\u7a7a\u9593\u3067\u306e\u7acb\u3061\u56de\u308a\u306f\u4e0d\u5229\u3067\u3059\uff01\u300d",
+    "Name": "ライプツィヒ",
+    "Phrase": "「率直に言って困難であります！\\n　敵はかなりの手練れ――所作からいって、\\n　暗殺者としての訓練を受けているものと推測します！\\n　このような狭い空間での立ち回りは不利です！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -764,38 +765,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 26201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 17201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e5\u30c3\u30bb\u30f3",
-    "Phrase": "\u300c\u306f\u3041\uff1f\u3000\u4e0d\u5229\u3092\u8986\u3057\u3066\u3053\u305d\u306e\u8ecd\u4eba\u306a\u306e\u3060\u3088\u3001\\n\u3000\u4f59\u306e\u3082\u306e\u306b\u306a\u308b\u306f\u305a\u3060\u3063\u305f\u5eb6\u6c11\u306e\u8840\u7a0e\u3092\u6d6a\u8cbb\u3057\u3066\u935b\u3048\u3066\u3044\u308b\u306e\u3060\u308d\u3046\uff1f\\n\u3000\u547d\u61f8\u3051\u3067\u6c17\u5f35\u308b\u304c\u3088\u3044\uff01\u300d",
+    "Name": "フュッセン",
+    "Phrase": "「はぁ？　不利を覆してこその軍人なのだよ、\\n　余のものになるはずだった庶民の血税を浪費して鍛えているのだろう？\\n　命懸けで気張るがよい！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -809,38 +810,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 26201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 17201,
         "Position": 4,
         "Action": 0,
         "Emotion": 3,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30e9\u30a4\u30d7\u30c4\u30a3\u30d2",
-    "Phrase": "\u300c\u30d5\u30e5\u30c3\u30bb\u30f3\u6bbf\u4e0b\uff01\\n\u3000\u3053\u3053\u306f\u672c\u5b98\u304c\u8089\u306e\u58c1\u3068\u306a\u308a\u6575\u3092\u963b\u307f\u307e\u3059\u306e\u3067\u3001\u305d\u306e\u9593\u306b\u907f\u96e3\u3092\uff01\u300d",
+    "Name": "ライプツィヒ",
+    "Phrase": "「フュッセン殿下！\\n　ここは本官が肉の壁となり敵を阻みますので、その間に避難を！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -854,38 +855,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 26201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 17201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e5\u30c3\u30bb\u30f3",
-    "Phrase": "\u300c\u3075\u3080\uff1f\u3000\u305d\u306e\u9078\u629e\u306f\u5f53\u7136\u3060\u306d\u3001\u4f55\u3088\u308a\u512a\u5148\u3059\u3079\u304d\u306f\u4f59\u306e\u547d\u306a\u306e\u3060\u3088\u266a\\n\u3000\u3051\u308c\u3069\u2015\u2015\u305d\u306e\u3088\u3046\u306a\u9053\u5316\u8005\u306b\u5632\u5f04\u3055\u308c\u305f\u307e\u307e\u3001\\n\u3000\u8ca0\u3051\u72ac\u306e\u3088\u3046\u306b\u3059\u3054\u3059\u3054\u3068\u9003\u3052\u51fa\u3059\u306e\u306f\u4e0d\u672c\u610f\u306a\u306e\u3060\u3051\u3069\uff1f\u300d",
+    "Name": "フュッセン",
+    "Phrase": "「ふむ？　その選択は当然だね、何より優先すべきは余の命なのだよ♪\\n　けれど――そのような道化者に嘲弄されたまま、\\n　負け犬のようにすごすごと逃げ出すのは不本意なのだけど？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -899,38 +900,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 26201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 17201,
         "Position": 4,
         "Action": 5,
         "Emotion": 1,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8",
-    "Phrase": "\u300c\u6211\u304c\u4fad\u3092\u8a00\u3063\u3066\u306a\u3044\u3067\u3001\\n\u3000\u30e9\u30a4\u30d7\u30c4\u30a3\u30d2\u306e\u6307\u793a\u306b\u5f93\u3044\u306a\u3055\u3044\u2015\u2015\u30d5\u30e5\u30c3\u30bb\u30f3\u304a\u5b22\u3061\u3083\u307e\uff01\u300d",
+    "Name": "カールスルーエ",
+    "Phrase": "「我が侭を言ってないで、\\n　ライプツィヒの指示に従いなさい――フュッセンお嬢ちゃま！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -944,30 +945,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u73fe\u5834\u306e\u72b6\u6cc1\u3092\u898b\u3066\u5373\u5ea7\u306b\u5224\u65ad\u3057\u3001\\n\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8\u304c\u8ff7\u3044\u306a\u304f\u4e71\u5165\u3057\u3066\u3044\u304f\u3002\\n\u3053\u3061\u3089\u3082\u63f4\u8b77\u3057\u3088\u3046\u3068\u8e0f\u307f\u51fa\u3057\u304b\u3051\u305f\u304c\u3001\\n\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8\u304c\u76ee\u914d\u305b\u3067\u5236\u6b62\u3057\u3066\u304d\u305f\u3002",
+    "Phrase": "現場の状況を見て即座に判断し、\\nカールスルーエが迷いなく乱入していく。\\nこちらも援護しようと踏み出しかけたが、\\nカールスルーエが目配せで制止してきた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -981,46 +982,46 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 1,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 3
-      },
-      {
+    },
+    {
         "MCharacterId": 26201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 17201,
         "Position": 5,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8",
-    "Phrase": "\u300c\u95a3\u4e0b\u3068\u30d5\u30e5\u30c3\u30bb\u30f3\u304a\u5b22\u3061\u3083\u307e\u306f\u3001\u3069\u3046\u304b\u907f\u96e3\u3092\uff01\\n\u3000\u3053\u3053\u306f\u6211\u3089\u306e\u57fa\u5730\u3067\u3059\u3001\u5b89\u5168\u4fdd\u969c\u306f\u6211\u3089\u306e\u8cac\u52d9\uff01\\n\u3000\u304a\u99ac\u9e7f\u3055\u3093\u3063\u2015\u2015\\n\u3000\u3046\u3061\u306e\u57fa\u5730\u306b\u8e0f\u307f\u3053\u3093\u3060\u3053\u3068\u3092\u5f8c\u6094\u3055\u305b\u3066\u3042\u3052\u307e\u3059\u304b\u3089\u306d\u3047\uff01\u300d",
+    "Name": "カールスルーエ",
+    "Phrase": "「閣下とフュッセンお嬢ちゃまは、どうか避難を！\\n　ここは我らの基地です、安全保障は我らの責務！\\n　お馬鹿さんっ――\\n　うちの基地に踏みこんだことを後悔させてあげますからねぇ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1034,46 +1035,46 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 1,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 26201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 17201,
         "Position": 5,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8\u304c\u679c\u6562\u306b\u653b\u3081\u308b\u3002\\n\u666e\u6bb5\u306e\u512a\u96c5\u306a\u7269\u8170\u304b\u3089\u306f\u60f3\u50cf\u3082\u3067\u304d\u306a\u3044\u3001\u82db\u70c8\u306a\u97ad\u634c\u304d\u3060\u3002\\n\u30e9\u30a4\u30d7\u30c4\u30a3\u30d2\u3082\u6163\u308c\u305f\u3082\u306e\u3067\u3001\u305d\u3093\u306a\u5f7c\u5973\u306b\u5408\u308f\u305b\u3066\u63f4\u8b77\u5c04\u6483\u3092\u884c\u3046\u3002",
+    "Phrase": "カールスルーエが果敢に攻める。\\n普段の優雅な物腰からは想像もできない、苛烈な鞭捌きだ。\\nライプツィヒも慣れたもので、そんな彼女に合わせて援護射撃を行う。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1087,46 +1088,46 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 1,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 26201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 17201,
         "Position": 5,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u308f\u308f\u3001\u3063\u3068\u3068\uff1f\u3000\u305f\uff5e\u306e\u3057\u3043\uff01\\n\u3000\u306a\u3041\u3093\u3060\u3001\u610f\u5916\u3068\u6b6f\u5fdc\u3048\u306a\u3044\u306a\u3041\u3063\u3066\u6b8b\u5ff5\u306b\u601d\u3063\u3066\u305f\u3093\u3067\u3059\u3051\u3069\u2015\u2015\\n\u3000\u3084\u308c\u3070\u3067\u304d\u308b\u3058\u3083\u306a\u3044\u3067\u3059\u304b\u3043\uff01\u3000\u306b\u3072\u3072\u3072\u3072\u2606\u300d",
+    "Name": "？？？",
+    "Phrase": "「わわ、っとと？　た～のしぃ！\\n　なぁんだ、意外と歯応えないなぁって残念に思ってたんですけど――\\n　やればできるじゃないですかぃ！　にひひひひ☆」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1140,30 +1141,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 5,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u3082\u3063\u3068\uff01\u3000\u3082\u3063\u3068\u697d\u3057\u304f\u30cf\u30b7\u30e3\u304e\u3084\u3057\u3087\u3046\u305c\uff01\\n\u3000\u3042\u3063\u3057\u3089\u30c9\u30c3\u30ac\u30f3\u56e3\u306f\u3001\u305d\u306e\u305f\u3081\u306b\u5b58\u5728\u3057\u3066\u308b\u3093\u3067\u3084\u3093\u3059\uff01\u300d",
+    "Name": "？？？",
+    "Phrase": "「もっと！　もっと楽しくハシャぎやしょうぜ！\\n　あっしらドッガン団は、そのために存在してるんでやんす！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1177,30 +1178,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 5,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30c9\u30c3\u30ac\u30f3\u56e3\u2026\u2026\uff1f\\n\u305d\u3093\u306a\u6109\u5feb\u306a\u540d\u524d\u306e\u96c6\u56e3\u304c\u3044\u304f\u3064\u3082\u5b58\u5728\u3057\u3066\u3044\u308b\u3068\u306f\u601d\u3048\u306a\u3044\u3001\\n\u5f7c\u5973\u3082Dr.\u30b0\u30ed\u30fc\u30ea\u30a2\u3068\u540c\u3058\u3088\u3046\u306b\u30c9\u30c3\u30ac\u30f3\u56e3\u306e\u4e00\u54e1\u306a\u306e\u304b\uff1f",
+    "Phrase": "ドッガン団……？\\nそんな愉快な名前の集団がいくつも存在しているとは思えない、\\n彼女もDr.グローリアと同じようにドッガン団の一員なのか？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1214,30 +1215,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 5,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8",
-    "Phrase": "\u300c\u307b\u3089\u3063\u3001\u304a\u5b22\u3061\u3083\u307e\uff01\\n\u3000\u30e2\u30bf\u30e2\u30bf\u3057\u306a\u3044\u3067\u3001\u305f\u307e\u306b\u306f\u8a00\u3046\u3053\u3068\u3092\u805e\u304d\u306a\u3055\u3044\uff01\u300d",
+    "Name": "カールスルーエ",
+    "Phrase": "「ほらっ、お嬢ちゃま！\\n　モタモタしないで、たまには言うことを聞きなさい！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1251,30 +1252,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e5\u30c3\u30bb\u30f3",
-    "Phrase": "\u300c\u5049\u305d\u3046\u306b\u3002\\n\u3000\u4f59\u306b\u547d\u4ee4\u3057\u3066\u3088\u3044\u306e\u306f\u3001\u4f59\u81ea\u8eab\u3060\u3051\u306a\u306e\u3060\u3088\u300d",
+    "Name": "フュッセン",
+    "Phrase": "「偉そうに。\\n　余に命令してよいのは、余自身だけなのだよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1288,38 +1289,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 17201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3053\u3093\u306a\u4e88\u65ad\u306e\u8a31\u3055\u308c\u306c\u72b6\u6cc1\u3060\u3068\u3044\u3046\u306e\u306b\u3001\\n\u307e\u305f\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8\u3068\u30d5\u30e5\u30c3\u30bb\u30f3\u304c\u63c9\u3081\u3066\u3044\u308b\u3002\\n\u5446\u308c\u3066\u898b\u3066\u3044\u308b\u3068\u2015\u2015\u7d20\u65e9\u304f\u6295\u64f2\u3055\u308c\u305f\u6575\u306e\u77ed\u5263\u3092\u3001\\n\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8\u304c\u7d20\u65e9\u304f\u97ad\u3067\u6253\u3061\u6255\u3063\u305f\u3002",
+    "Phrase": "こんな予断の許されぬ状況だというのに、\\nまたカールスルーエとフュッセンが揉めている。\\n呆れて見ていると――素早く投擲された敵の短剣を、\\nカールスルーエが素早く鞭で打ち払った。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1333,38 +1334,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 17201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8",
-    "Phrase": "\u300c\u5b88\u3063\u3066\u3042\u3052\u308b\u3063\u3066\u8a00\u3063\u3066\u308b\u3093\u3067\u3059\uff01\\n\u3000\u3053\u306e\u57fa\u5730\u306e\u7ba1\u7406\u8cac\u4efb\u8005\u306f\u308f\u305f\u3057\u3067\u3059\u3001\\n\u3000\u3053\u3053\u3067\u8cb4\u65cf\u306e\u3042\u306a\u305f\u306b\u6b7b\u306a\u308c\u308b\u3068\u8ff7\u60d1\u306a\u3093\u3067\u3059\u3088\u306d\u3047\uff01\u300d",
+    "Name": "カールスルーエ",
+    "Phrase": "「守ってあげるって言ってるんです！\\n　この基地の管理責任者はわたしです、\\n　ここで貴族のあなたに死なれると迷惑なんですよねぇ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1378,38 +1379,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 2,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 17201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 36,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e5\u30c3\u30bb\u30f3",
-    "Phrase": "\u300c\u307b\u3046\u2026\u2026\u3002\u6700\u521d\u304b\u3089\u305d\u306e\u3088\u3046\u306b\u8a00\u3048\u3070\u3088\u3044\u306e\u3060\u3088\u3001\\n\u3000\u982d\u3054\u306a\u3057\u306b\u547d\u4ee4\u3059\u308b\u306e\u3067\u306f\u306a\u304f\u3066\u306d\u3002\\n\u3000\u3088\u3044\u3088\u3044\u3001\u591a\u5c11\u306f\u5df1\u306e\u7acb\u5834\u3082\u5f01\u3048\u3066\u3044\u308b\u3088\u3046\u3060\u306d\u4fd7\u7269\u266a\u300d",
+    "Name": "フュッセン",
+    "Phrase": "「ほう……。最初からそのように言えばよいのだよ、\\n　頭ごなしに命令するのではなくてね。\\n　よいよい、多少は己の立場も弁えているようだね俗物♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1423,38 +1424,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 17201,
         "Position": 4,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 9,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 37,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e5\u30c3\u30bb\u30f3",
-    "Phrase": "\u300c\u2015\u2015\u6c17\u307e\u3050\u308c\u3067\u3001\u4eca\u56de\u3060\u3051\u306f\u6307\u793a\u306b\u5f93\u3063\u3066\u3084\u308d\u3046\u3002\\n\u3000\u884c\u304f\u3088\u8eca\u638c\u3001\u5b89\u5168\u570f\u307e\u3067\u907f\u96e3\u8a98\u5c0e\u3057\u3066\u3042\u3052\u3088\u3046\u300d",
+    "Name": "フュッセン",
+    "Phrase": "「――気まぐれで、今回だけは指示に従ってやろう。\\n　行くよ車掌、安全圏まで避難誘導してあげよう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1468,38 +1469,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 17201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 38,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u306a\u305c\u304b\u6e80\u8db3\u3052\u306b\u5fae\u7b11\u307f\u306a\u304c\u3089\u3001\\n\u30d5\u30e5\u30c3\u30bb\u30f3\u304c\u3053\u3061\u3089\u306e\u624b\u3092\u53d6\u308a\u8d70\u308a\u59cb\u3081\u308b\u3002\\n\u5f15\u304d\u305a\u3089\u308c\u305d\u3046\u306b\u306a\u308a\u306a\u304c\u3089\u3001\u614c\u3066\u3066\u305d\u3093\u306a\u5f7c\u5973\u306b\u5f93\u3063\u305f\u3002",
+    "Phrase": "なぜか満足げに微笑みながら、\\nフュッセンがこちらの手を取り走り始める。\\n引きずられそうになりながら、慌ててそんな彼女に従った。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1513,38 +1514,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 17201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 39,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e5\u30c3\u30bb\u30f3",
-    "Phrase": "\u300c\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8\uff01\u3000\u8cb4\u69d8\u3082\u6b7b\u306c\u306a\u3088\u3001\u3068\u547d\u3058\u3066\u304a\u304f\uff01\\n\u3000\u4f59\u3068\u5bfe\u7b49\u306b\u53e3\u55a7\u5629\u304c\u3067\u304d\u308b\u76f8\u624b\u304c\u6e1b\u308b\u3068\u3001\u3061\u3087\u3063\u3074\u308a\u6b8b\u5ff5\u3060\u304b\u3089\u306d\uff01\u300d",
+    "Name": "フュッセン",
+    "Phrase": "「カールスルーエ！　貴様も死ぬなよ、と命じておく！\\n　余と対等に口喧嘩ができる相手が減ると、ちょっぴり残念だからね！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1558,38 +1559,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 17201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 40,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30fc\u30eb\u30b9\u30eb\u30fc\u30a8",
-    "Phrase": "\u300c\u3044\u3044\u304b\u3089\u3001\u3055\u3063\u3055\u3068\u884c\u304d\u306a\u3055\u3044\uff01\\n\u3000\u3044\u3064\u307e\u3067\u3082\u624b\u304c\u639b\u304b\u308a\u307e\u3059\u306d\u3047\u3001\\n\u3000\u7518\u3084\u304b\u3055\u308c\u3066\u80b2\u3063\u305f\u8cb4\u65cf\u306e\u304a\u5b22\u3061\u3083\u307e\u306f\uff01\u300d",
+    "Name": "カールスルーエ",
+    "Phrase": "「いいから、さっさと行きなさい！\\n　いつまでも手が掛かりますねぇ、\\n　甘やかされて育った貴族のお嬢ちゃまは！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1603,38 +1604,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 19201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 17201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 41,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u59e6\u3057\u304f\u9a12\u3050\u3075\u305f\u308a\u3092\u4e2d\u5fc3\u306b\u3001\u4e8b\u614b\u306f\u518d\u3073\u52d5\u304d\u59cb\u3081\u308b\u3002\\n\u5973\u3069\u3046\u3057\u306e\u95a2\u4fc2\u6027\u3068\u3044\u3046\u306e\u306f\u7537\u306e\u81ea\u5206\u306b\u306f\u3088\u304f\u308f\u304b\u3089\u306a\u3044\u306a\u2015\u2015\\n\u3068\u4e0d\u601d\u8b70\u306a\u611f\u6168\u3092\u5f97\u306a\u304c\u3089\u3082\u3001\u7121\u4eba\u306e\u901a\u8def\u3092\u8d70\u3063\u305f\u3002",
+    "Phrase": "姦しく騒ぐふたりを中心に、事態は再び動き始める。\\n女どうしの関係性というのは男の自分にはよくわからないな――\\nと不思議な感慨を得ながらも、無人の通路を走った。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1648,30 +1649,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 17201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 42,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305f\u3060\u3001\u81ea\u5206\u3082\u30d5\u30e5\u30c3\u30bb\u30f3\u3082\u57fa\u5730\u5185\u306e\u69cb\u9020\u306b\u306f\u8a73\u3057\u304f\u306a\u3044\u3002\\n\u30a2\u30a4\u30bc\u30f3\u30b0\u30e9\u30fc\u30c8\u306e\u8ecd\u4e8b\u65bd\u8a2d\u306f\u6a5f\u5bc6\u4fdd\u6301\u3092\u5efa\u524d\u306b\u3057\u3066\u3001\\n\u5185\u90e8\u306e\u898b\u53d6\u308a\u56f3\u306a\u3069\u3092\u307e\u3063\u305f\u304f\u516c\u958b\u3057\u3066\u3044\u306a\u3044\u306e\u3060\u3002\\n\u5b89\u5168\u570f\u307e\u3067\u5f85\u907f\u3001\u3068\u8a00\u308f\u308c\u3066\u3082\u2015\u2015\u3069\u3053\u3078\u5411\u304b\u3063\u305f\u3082\u306e\u304b\uff1f",
+    "Phrase": "ただ、自分もフュッセンも基地内の構造には詳しくない。\\nアイゼングラートの軍事施設は機密保持を建前にして、\\n内部の見取り図などをまったく公開していないのだ。\\n安全圏まで待避、と言われても――どこへ向かったものか？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1685,30 +1686,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 17201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 43,
     "ViewOrder": 1,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u3075\u3093\u304c\u3042\u3042\u3042\u3042\u3042\uff01\u300d",
+    "Name": "？？？",
+    "Phrase": "「ふんがあああああ！」",
     "PhraseFontSize": 3,
     "PhraseSpeed": 3,
     "IsPhraseCenter": true,
@@ -1722,30 +1723,30 @@
     "Effect": 5,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 9,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 44,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u601d\u6848\u3057\u3066\u3044\u308b\u3068\u3001\u5510\u7a81\u306b\u76ee\u306e\u524d\u306e\u58c1\u304c\u7c89\u7815\u3055\u308c\u305f\uff01\\n\u51fa\u73fe\u3057\u305f\u306e\u306f\u5de8\u5927\u306a\u3001\u3069\u3046\u3082\u5168\u8eab\u93a7\u3092\u8eab\u306b\u307e\u3068\u3063\u3066\u3044\u308b\u5927\u7537\u2015\u2015\\n\u3044\u3044\u3084\u3001\u3082\u3057\u304b\u3057\u305f\u3089\u30ed\u30dc\u30c3\u30c8\u3060\u308d\u3046\u304b\uff1f",
+    "Phrase": "思案していると、唐突に目の前の壁が粉砕された！\\n出現したのは巨大な、どうも全身鎧を身にまとっている大男――\\nいいや、もしかしたらロボットだろうか？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1759,30 +1760,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 45,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5168\u8eab\u3092\u56fa\u305d\u3046\u306a\u91d1\u5c5e\u3067\u8986\u3063\u305f\u4f55\u8005\u304b\u306f\u3001\\n\u8eab\u4f53\u306e\u5404\u6240\u304b\u3089\u84b8\u6c17\u3092\u5674\u304d\u306a\u304c\u3089\u6717\u3005\u3068\u5420\u3048\u305f\u3002",
+    "Phrase": "全身を固そうな金属で覆った何者かは、\\n身体の各所から蒸気を噴きながら朗々と吠えた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1796,30 +1797,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 46,
     "ViewOrder": 1,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u4e0d\u656c\uff01\u3000\u4e0d\u5feb\uff01\u3000\u4e0d\u53ef\u89e3\u3067\u3042\u308b\uff01\\n\u3000\u306a\u305c\u4eba\u9593\u3069\u3082\u306e\u3064\u304f\u308b\u5efa\u7269\u3068\u3044\u3046\u306e\u306f\u3001\\n\u3000\u3053\u306e\u3088\u3046\u306b\u30b4\u30c1\u30e3\u30b4\u30c1\u30e3\u3068\u3057\u3066\u72ed\u82e6\u3057\u3044\u306e\u304b\uff01\uff1f\u300d",
+    "Name": "？？？",
+    "Phrase": "「不敬！　不快！　不可解である！\\n　なぜ人間どものつくる建物というのは、\\n　このようにゴチャゴチャとして狭苦しいのか！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1833,23 +1834,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30a2\u30b5\u30ae\u306b\u3088\u308b\u5bfe\u9b54\u5fcd\u306e\u7a3d\u53e4\u306f\u4eca\u3082\u307e\u3060\u7d9a\u3044\u3066\u3044\u305f\u3002",
+    "Phrase": "アサギによる対魔忍の稽古は今もまだ続いていた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3",
-    "Phrase": "\u300c\u306f\u3041\u3001\u306f\u3041\u3063\u2026\u2026\u3082\u3001\u3082\u3046\u2026\u2026\u30e0\u30ea\u2026\u2026\u300d",
+    "Name": "ヴィヴィアン",
+    "Phrase": "「はぁ、はぁっ……も、もう……ムリ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,30 +46,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 35201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3",
-    "Phrase": "\u300c\u3046\u3045\uff5e\u3001\u7b4b\u30c8\u30ec\u306e\u3057\u3059\u304e\u3067\u3001\\n\u3000\u8155\u3082\u811a\u3082\u30d1\u30f3\u30d1\u30f3\u306b\u5f35\u3063\u3061\u3083\u3063\u3066\u308b\u2026\u2026\u300d",
+    "Name": "ヴィヴィアン",
+    "Phrase": "「うぅ～、筋トレのしすぎで、\\n　腕も脚もパンパンに張っちゃってる……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -82,30 +83,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 35201,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u6c34\u57ce\u3086\u304d\u304b\u305c",
-    "Phrase": "\u300c\u4f55\u3088\u3001\u307e\u3060\u76ee\u6a19\u30b9\u30af\u30ef\u30c3\u30c8\u6570\u306e\u534a\u5206\u4ee5\u4e0b\u3057\u304b\u3084\u3063\u3066\u306a\u3044\u3058\u3083\u306a\u3044\u300d",
+    "Name": "水城ゆきかぜ",
+    "Phrase": "「何よ、まだ目標スクワット数の半分以下しかやってないじゃない」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -119,38 +120,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 125201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 35201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u6c34\u57ce\u3086\u304d\u304b\u305c",
-    "Phrase": "\u300c\u9811\u5f35\u3063\u3066\u3001\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3\u3002\\n\u3000\u304d\u3063\u3068\u3042\u3093\u305f\u306a\u3089\u3067\u304d\u308b\u304b\u3089\uff01\u300d",
+    "Name": "水城ゆきかぜ",
+    "Phrase": "「頑張って、ヴィヴィアン。\\n　きっとあんたならできるから！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -164,38 +165,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 125201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 35201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3086\u304d\u304b\u305c\u306f\u71b1\u8840\u30ce\u30ea\u3067\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3\u306e\u5fdc\u63f4\u3092\u3057\u3066\u304f\u308c\u3066\u3044\u308b\u3002",
+    "Phrase": "ゆきかぜは熱血ノリでヴィヴィアンの応援をしてくれている。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -209,38 +210,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 125201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 35201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u4e95\u6cb3\u30a2\u30b5\u30ae",
-    "Phrase": "\u300c\u3060\u3089\u3057\u306a\u3044\u308f\u306d\u3001\u307e\u3063\u305f\u304f\u3002\\n\u3000\u3068\u8a00\u3044\u305f\u3044\u3068\u3053\u308d\u3060\u3051\u3069\u2015\u2015\u300d",
+    "Name": "井河アサギ",
+    "Phrase": "「だらしないわね、まったく。\\n　と言いたいところだけど――」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -254,30 +255,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130301,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u4e95\u6cb3\u30a2\u30b5\u30ae",
-    "Phrase": "\u300c\u3044\u304d\u306a\u308a\u3084\u3089\u305b\u3066\u30ad\u30c4\u3044\u306e\u306f\u4ed5\u65b9\u306a\u3044\u308f\u3002\\n\u3000\u79c1\u3082\u30c0\u30e1\u5143\u3067\u8ab2\u984c\u3092\u51fa\u3057\u3066\u307f\u305f\u3068\u3053\u308d\u3082\u3042\u308b\u3057\u300d",
+    "Name": "井河アサギ",
+    "Phrase": "「いきなりやらせてキツいのは仕方ないわ。\\n　私もダメ元で課題を出してみたところもあるし」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -291,30 +292,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u4e95\u6cb3\u30a2\u30b5\u30ae",
-    "Phrase": "\u300c\u56f0\u96e3\u306b\u7acb\u3061\u5411\u304b\u3046\u59ff\u52e2\u3092\u898b\u305b\u3066\u304f\u308c\u305f\u3053\u3068\u304c\\n\u3000\u4f55\u3088\u308a\u3082\u5b09\u3057\u3044\u308f\u3001\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3\u300d",
+    "Name": "井河アサギ",
+    "Phrase": "「困難に立ち向かう姿勢を見せてくれたことが\\n　何よりも嬉しいわ、ヴィヴィアン」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -328,30 +329,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3",
-    "Phrase": "\u300c\u30a2\u30b5\u30ae\u5148\u751f\u2026\u2026\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\uff01\u300d",
+    "Name": "ヴィヴィアン",
+    "Phrase": "「アサギ先生……ありがとうございます！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -365,30 +366,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 35201,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u76ee\u6a19\u672a\u9054\u3092\u8cac\u3081\u308b\u306e\u3067\u306f\u306a\u304f\u3001\u52aa\u529b\u306e\u904e\u7a0b\u3092\u8912\u3081\u308b\u3002\\n\u3055\u3059\u304c\u306e\u4eba\u5fc3\u638c\u63e1\u3076\u308a\u3068\u8a00\u3048\u308b\u3060\u308d\u3046\u3002",
+    "Phrase": "目標未達を責めるのではなく、努力の過程を褒める。\\nさすがの人心掌握ぶりと言えるだろう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -402,30 +403,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 35201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30a2\u30b5\u30ae\u304c\u4ed6\u306e\u5bfe\u9b54\u5fcd\u304b\u3089\u6155\u308f\u308c\u3066\u3044\u308b\u306e\u3082\\n\u7d0d\u5f97\u3067\u304d\u308b\u3068\u3044\u3046\u3082\u306e\u3060\u3002",
+    "Phrase": "アサギが他の対魔忍から慕われているのも\\n納得できるというものだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -439,30 +440,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 35201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u4e95\u6cb3\u30a2\u30b5\u30ae",
-    "Phrase": "\u300c\u3055\u3066\u3001\u305d\u308c\u3067\u306f\u6b21\u306e\u6388\u696d\u3092\u59cb\u3081\u307e\u3057\u3087\u3046\u300d",
+    "Name": "井河アサギ",
+    "Phrase": "「さて、それでは次の授業を始めましょう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -476,30 +477,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130301,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3",
-    "Phrase": "\u300c\u3082\u3001\u3082\u3046\u6b21\u306a\u306e\uff01\uff1f\\n\u3000\u5c11\u3057\u3060\u3051\u4f11\u307e\u305b\u3066\u307b\u3057\u3044\u3093\u3060\u3051\u3069\u2026\u2026\u300d",
+    "Name": "ヴィヴィアン",
+    "Phrase": "「も、もう次なの！？\\n　少しだけ休ませてほしいんだけど……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -513,30 +514,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 35201,
         "Position": 3,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u3075\u3046\u307e\u5c0f\u592a\u90ce",
-    "Phrase": "\u300c\u3055\u3059\u304c\u306e\u30b9\u30d1\u30eb\u30bf\u6559\u80b2\u3060\u2026\u2026\u300d",
+    "Name": "ふうま小太郎",
+    "Phrase": "「さすがのスパルタ教育だ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -550,30 +551,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\u4e95\u6cb3\u30a2\u30b5\u30ae",
-    "Phrase": "\u300c\u3075\u3075\u3063\u3001\u5fc3\u914d\u306b\u306f\u53ca\u3070\u306a\u3044\u308f\u3002\\n\u3000\u3053\u308c\u304b\u3089\u59cb\u3081\u308b\u306e\u306f\u5ea7\u5b66\u306e\u3088\u3046\u306a\u3082\u306e\u3060\u304b\u3089\u300d",
+    "Name": "井河アサギ",
+    "Phrase": "「ふふっ、心配には及ばないわ。\\n　これから始めるのは座学のようなものだから」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -587,30 +588,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130301,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u6c34\u57ce\u3086\u304d\u304b\u305c",
-    "Phrase": "\u300c\u5ea7\u5b66\u3068\u3044\u3046\u3053\u3068\u306f\u3001\u3082\u3057\u304b\u3057\u3066\u2026\u2026\uff1f\u300d",
+    "Name": "水城ゆきかぜ",
+    "Phrase": "「座学ということは、もしかして……？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -624,30 +625,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 125201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u4e95\u6cb3\u30a2\u30b5\u30ae",
-    "Phrase": "\u300c\u3048\u3048\u3001\u5973\u3068\u3057\u3066\u306e\u8272\u6c17\u3092\u5b66\u3076\u7279\u5225\u8b1b\u5ea7\u3088\u300d",
+    "Name": "井河アサギ",
+    "Phrase": "「ええ、女としての色気を学ぶ特別講座よ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -661,30 +662,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130301,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3",
-    "Phrase": "\u300c\u3044\u3001\u8272\u6c17\u3063\u3066\u2026\u2026\u3002\\n\u3000\u305d\u308c\u304c\u3069\u3046\u5bfe\u9b54\u5fcd\u3068\u95a2\u4fc2\u3057\u3066\u304f\u308b\u3063\u3066\u3044\u3046\u306e\uff1f\u300d",
+    "Name": "ヴィヴィアン",
+    "Phrase": "「い、色気って……。\\n　それがどう対魔忍と関係してくるっていうの？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -698,30 +699,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 35201,
         "Position": 3,
         "Action": 0,
         "Emotion": 6,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
-    "Name": "\u4e95\u6cb3\u30a2\u30b5\u30ae",
-    "Phrase": "\u300c\u95a2\u4fc2\u3057\u3066\u3044\u308b\u306a\u3069\u3068\u3044\u3046\u3082\u306e\u3067\u306f\u306a\u3044\u308f\u3002\\n\u3000\u3080\u3057\u308d\u5bc6\u63a5\u306b\u7d50\u3073\u3064\u3044\u3066\u3044\u308b\u3068\u8a00\u3063\u3066\u3082\u3044\u3044\u304f\u3089\u3044\u3088\u300d",
+    "Name": "井河アサギ",
+    "Phrase": "「関係しているなどというものではないわ。\\n　むしろ密接に結びついていると言ってもいいくらいよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -735,30 +736,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
-    "Name": "\u4e95\u6cb3\u30a2\u30b5\u30ae",
-    "Phrase": "\u300c\u5bfe\u9b54\u5fcd\u306e\u4efb\u52d9\u306f\u6575\u306e\u6bb2\u6ec5\u306e\u307f\u306b\u3042\u3089\u305a\u3002\\n\u3000\u6575\u5730\u3078\u306e\u6f5c\u5165\u5de5\u4f5c\u3084\u3001\u305d\u308c\u306b\u4ed8\u968f\u3059\u308b\u30cf\u30cb\u30fc\u30c8\u30e9\u30c3\u30d7\u306a\u3069\u591a\u5c90\u306b\u6e21\u308b\u300d",
+    "Name": "井河アサギ",
+    "Phrase": "「対魔忍の任務は敵の殲滅のみにあらず。\\n　敵地への潜入工作や、それに付随するハニートラップなど多岐に渡る」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -772,30 +773,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u4e95\u6cb3\u30a2\u30b5\u30ae",
-    "Phrase": "\u300c\u5973\u306e\u6b66\u5668\u3092\u4f7f\u3046\u5c40\u9762\u306f\u3044\u304f\u3089\u3067\u3082\u8a2a\u308c\u308b\u3002\\n\u3000\u3042\u3089\u304b\u3058\u3081\u5099\u3048\u3066\u304a\u304f\u306e\u306f\u81f3\u6975\u5f53\u7136\u306e\u3053\u3068\u3088\u300d",
+    "Name": "井河アサギ",
+    "Phrase": "「女の武器を使う局面はいくらでも訪れる。\\n　あらかじめ備えておくのは至極当然のことよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -809,30 +810,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3",
-    "Phrase": "\u300c\u306a\u308b\u307b\u3069\u2026\u2026\u3002\\n\u3000\u305f\u3060\u6575\u3068\u6226\u3046\u3060\u3051\u3058\u3083\u306a\u3044\u306e\u306d\u3001\u5bfe\u9b54\u5fcd\u3063\u3066\u300d",
+    "Name": "ヴィヴィアン",
+    "Phrase": "「なるほど……。\\n　ただ敵と戦うだけじゃないのね、対魔忍って」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -846,30 +847,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 35201,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3",
-    "Phrase": "\u300c\u3067\u3082\u3001\u305d\u308c\u306a\u3089\u3055\u3063\u304d\u3088\u308a\u306f\u79c1\u3067\u3082\u3084\u308c\u308b\u304b\u3082\u2026\u2026\uff01\u300d",
+    "Name": "ヴィヴィアン",
+    "Phrase": "「でも、それならさっきよりは私でもやれるかも……！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -883,30 +884,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 35201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3082\u3068\u3082\u3068\u304a\u6d12\u843d\u597d\u304d\u306e\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3\u306a\u3089\u3001\\n\u5973\u6027\u306e\u5916\u898b\u3092\u6d3b\u304b\u3059\u5206\u91ce\u3068\u306e\u76f8\u6027\u306f\u305f\u3057\u304b\u306b\u826f\u3055\u305d\u3046\u3060\u3002",
+    "Phrase": "もともとお洒落好きのヴィヴィアンなら、\\n女性の外見を活かす分野との相性はたしかに良さそうだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -920,30 +921,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 35201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
-    "Name": "\u6c34\u57ce\u3086\u304d\u304b\u305c",
-    "Phrase": "\u300c\u79c1\u3082\u307e\u305f\u53c2\u52a0\u3057\u305f\u3044\u306e\u3067\u3059\u3051\u3069\u3001\\n\u3000\u3088\u308d\u3057\u3044\u3067\u3059\u304b\uff1f\u300d",
+    "Name": "水城ゆきかぜ",
+    "Phrase": "「私もまた参加したいのですけど、\\n　よろしいですか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -957,30 +958,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 125201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
-    "Name": "\u4e95\u6cb3\u30a2\u30b5\u30ae",
-    "Phrase": "\u300c\u3082\u3061\u308d\u3093\u3088\u3002\u5148\u8f29\u3068\u3057\u3066\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3\u306b\\n\u3000\u5bfe\u9b54\u5fcd\u306e\u306a\u3093\u305f\u308b\u304b\u3092\u6559\u793a\u3057\u3066\u3042\u3052\u306a\u3055\u3044\u300d",
+    "Name": "井河アサギ",
+    "Phrase": "「もちろんよ。先輩としてヴィヴィアンに\\n　対魔忍のなんたるかを教示してあげなさい」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -994,30 +995,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130301,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
-    "Name": "\u4e95\u6cb3\u30a2\u30b5\u30ae",
-    "Phrase": "\u300c\u305d\u308c\u3067\u306f\u3001\u5973\u306e\u8272\u6c17\u306b\u3064\u3044\u3066\u7279\u5225\u8b1b\u5ea7\u3092\u59cb\u3081\u307e\u3057\u3087\u3046\u300d",
+    "Name": "井河アサギ",
+    "Phrase": "「それでは、女の色気について特別講座を始めましょう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1031,30 +1032,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130301,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3",
-    "Phrase": "\u300c\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\u3063\u300d",
+    "Name": "ヴィヴィアン",
+    "Phrase": "「よろしくお願いしますっ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1068,30 +1069,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 35201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
-    "Name": "\u4e95\u6cb3\u30a2\u30b5\u30ae",
-    "Phrase": "\u300c\u307e\u305a\u521d\u3081\u306b\u8a00\u3063\u3066\u304a\u304d\u305f\u3044\u306e\u306f\u3001\\n\u3000\u5973\u3068\u3057\u3066\u751f\u307e\u308c\u6301\u3063\u305f\u8272\u6c17\u304c\u5168\u3066\u3067\u306f\u306a\u3044\u3068\u3044\u3046\u3053\u3068\u300d",
+    "Name": "井河アサギ",
+    "Phrase": "「まず初めに言っておきたいのは、\\n　女として生まれ持った色気が全てではないということ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1105,30 +1106,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
-    "Name": "\u4e95\u6cb3\u30a2\u30b5\u30ae",
-    "Phrase": "\u300c\u30d5\u30a7\u30ed\u30e2\u30f3\u306f\u5df1\u306e\u610f\u601d\u306b\u3088\u3063\u3066\\n\u3000\u767a\u751f\u3055\u305b\u308b\u3053\u3068\u304c\u53ef\u80fd\u3067\u3042\u308b\u3068\u5fc3\u5f97\u3066\u307b\u3057\u3044\u300d",
+    "Name": "井河アサギ",
+    "Phrase": "「フェロモンは己の意思によって\\n　発生させることが可能であると心得てほしい」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1142,30 +1143,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
-    "Name": "\u4e95\u6cb3\u30a2\u30b5\u30ae",
-    "Phrase": "\u300c\u71b1\u3063\u307d\u3044\u3001\u3068\u3044\u3046\u8a00\u8449\u304c\u3042\u308b\u3067\u3057\u3087\u3046\uff1f\\n\u3000\u3042\u306e\u72b6\u614b\u306b\u81ea\u5206\u3092\u8fd1\u3065\u3051\u3066\u3044\u304f\u306e\u304c\u809d\u8981\u3088\u300d",
+    "Name": "井河アサギ",
+    "Phrase": "「熱っぽい、という言葉があるでしょう？\\n　あの状態に自分を近づけていくのが肝要よ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1179,30 +1180,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3046\u8a00\u3063\u3066\u30a2\u30b5\u30ae\u306f\\n\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3\u306b\u5411\u304b\u3063\u3066\u5996\u8276\u306a\u7b11\u307f\u3092\u6d6e\u304b\u3079\u308b\u3002",
+    "Phrase": "そう言ってアサギは\\nヴィヴィアンに向かって妖艶な笑みを浮かべる。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1216,30 +1217,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3",
-    "Phrase": "\u300c\u30a2\u30b5\u30ae\u3055\u3093\u8272\u3063\u307d\u3044\u2026\u2026\u3002\\n\u3000\u5973\u306e\u5b50\u540c\u58eb\u306a\u306e\u306b\u306a\u3093\u3060\u304b\u30c9\u30ad\u30c9\u30ad\u3057\u3066\u304d\u3061\u3083\u3063\u305f\u300d",
+    "Name": "ヴィヴィアン",
+    "Phrase": "「アサギさん色っぽい……。\\n　女の子同士なのになんだかドキドキしてきちゃった」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1253,30 +1254,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 35201,
         "Position": 3,
         "Action": 0,
         "Emotion": 6,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
-    "Name": "\u4e95\u6cb3\u30a2\u30b5\u30ae",
-    "Phrase": "\u300c\u8eab\u4f53\u3092\u52d5\u304b\u3059\u3068\u304d\u3082\u3001\u8170\u3092\u8276\u3081\u304b\u3057\u304f\u52d5\u304b\u3059\u3053\u3068\u306b\\n\u3000\u7559\u610f\u3057\u3066\u307f\u308b\u3068\u3044\u3044\u308f\u3002\u307b\u3089\u3001\u3053\u3046\u3088\u300d",
+    "Name": "井河アサギ",
+    "Phrase": "「身体を動かすときも、腰を艶めかしく動かすことに\\n　留意してみるといいわ。ほら、こうよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1290,30 +1291,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 36,
     "ViewOrder": 1,
-    "Name": "\u6c34\u57ce\u3086\u304d\u304b\u305c",
-    "Phrase": "\u300c\u306f\u3042\u3041\u3063\u3001\u3059\u3054\u304f\u30bb\u30af\u30b7\u30fc\u3067\u3059\u2026\u2026\uff01\u300d",
+    "Name": "水城ゆきかぜ",
+    "Phrase": "「はあぁっ、すごくセクシーです……！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1327,30 +1328,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 125201,
         "Position": 3,
         "Action": 0,
         "Emotion": 6,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 37,
     "ViewOrder": 1,
-    "Name": "\u4e95\u6cb3\u30a2\u30b5\u30ae",
-    "Phrase": "\u300c\u305f\u304b\u304c\u4ed5\u8349\u3068\u601d\u3046\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u3069\u3001\\n\u3000\u3053\u308c\u306f\u3053\u308c\u3067\u899a\u3048\u3066\u304a\u3051\u3070\u8eab\u3092\u52a9\u3051\u308b\u3053\u3068\u3082\u3042\u308b\u308f\u300d",
+    "Name": "井河アサギ",
+    "Phrase": "「たかが仕草と思うかも知れないけど、\\n　これはこれで覚えておけば身を助けることもあるわ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1364,30 +1365,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 38,
     "ViewOrder": 1,
-    "Name": "\u4e95\u6cb3\u30a2\u30b5\u30ae",
-    "Phrase": "\u300c\u3055\u3042\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3\u3001\u3084\u3063\u3066\u307f\u3066\u300d",
+    "Name": "井河アサギ",
+    "Phrase": "「さあヴィヴィアン、やってみて」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1401,30 +1402,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 39,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3",
-    "Phrase": "\u300c\u306f\u3044\u3063\uff01\u3000\u304f\u306d\u304f\u306d\u2026\u2026\u3063\u3066\u3001\u3053\u3046\u304b\u3057\u3089\u3002\\n\u3000\u3042\u308c\u3001\u306a\u3093\u304b\u9055\u3046\uff1f\u300d",
+    "Name": "ヴィヴィアン",
+    "Phrase": "「はいっ！　くねくね……って、こうかしら。\\n　あれ、なんか違う？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1438,30 +1439,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 35201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 40,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3",
-    "Phrase": "\u300c\u3055\u3063\u304d\u306e\u30a2\u30b5\u30ae\u3055\u3093\u307f\u305f\u3044\u306b\u3044\u304b\u306a\u3044\u308f\u306d\u2026\u2026\u3002\\n\u3000\u3093\u3001\u3093\u3063\u3002\u3053\u3046\uff1f\u300d",
+    "Name": "ヴィヴィアン",
+    "Phrase": "「さっきのアサギさんみたいにいかないわね……。\\n　ん、んっ。こう？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1475,30 +1476,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 35201,
         "Position": 3,
         "Action": 2,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 41,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u306a\u304b\u306a\u304b\u52dd\u624b\u304c\u63b4\u3081\u306a\u3044\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3\u3060\u3063\u305f\u304c\u3001\\n\u305d\u308c\u3082\u30e0\u30ea\u306e\u306a\u3044\u3053\u3068\u3060\u308d\u3046\u3068\u306f\u601d\u3046\u3002",
+    "Phrase": "なかなか勝手が掴めないヴィヴィアンだったが、\\nそれもムリのないことだろうとは思う。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1512,30 +1513,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 35201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 42,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u4e16\u306e\u5973\u6027\u304c\u307f\u3093\u306a\u30a2\u30b5\u30ae\u306e\u3088\u3046\u306a\u30e0\u30f3\u30e0\u30f3\u3068\u3057\u305f\u304a\u8272\u6c17\u3092\u4f1a\u5f97\u3057\u305f\u3089\u3001\\n\u305d\u308c\u306f\u305d\u308c\u3067\u5927\u5909\u306a\u4e16\u306e\u4e2d\u306b\u306a\u3063\u3066\u3057\u307e\u3046\u3060\u308d\u3046\u304b\u3089\u3002",
+    "Phrase": "世の女性がみんなアサギのようなムンムンとしたお色気を会得したら、\\nそれはそれで大変な世の中になってしまうだろうから。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1549,23 +1550,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 35201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

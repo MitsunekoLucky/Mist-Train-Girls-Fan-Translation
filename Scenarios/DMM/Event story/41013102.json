@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30ab\u30e9\u30de\u30c1\u304c\u5009\u5eab\u4ee3\u308f\u308a\u306b\u501f\u308a\u3066\u3044\u305f\u5c4b\u6577\u304c\u7a7a\u304d\u5de3\u306b\u5165\u3089\u308c\u305f\u305f\u3081\u3001\\n\u30e8\u30b7\u30ce\u306e\u63d0\u6848\u3067\u9632\u72af\u8a2d\u5099\u3092\u6574\u3048\u3088\u3046\u3068\u3044\u3046\u3053\u3068\u306b\u306a\u3063\u305f\u3002",
+    "Phrase": "カラマチが倉庫代わりに借りていた屋敷が空き巣に入られたため、\\nヨシノの提案で防犯設備を整えようということになった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u308c\u3067\u65e9\u901f\u53d6\u308a\u304b\u304b\u308b\u305f\u3081\u3001\\n\u307f\u3093\u306a\u3067\u5c4b\u6577\u306b\u5411\u304b\u3063\u3066\u3044\u308b\u3068\u3001\\n\u4eca\u65e5\u306e\u898b\u56de\u308a\u62c5\u5f53\u306e\u30e4\u30af\u30fc\u30c4\u30af\u3068\u3070\u3063\u305f\u308a\u4f1a\u3063\u305f\u3002",
+    "Phrase": "それで早速取りかかるため、\\nみんなで屋敷に向かっていると、\\n今日の見回り担当のヤクーツクとばったり会った。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,21 +46,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u3042\u3089\u3001\u73cd\u3057\u3044\u9762\u5b50\u306d\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「あら、珍しい面子ね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -73,30 +75,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30e8\u30b7\u30ce",
-    "Phrase": "\u300c\u30e4\u30af\u305f\u3093\u3001\u304a\u75b2\u308c\u3055\u307e\u3002\\n\u3000\u898b\u56de\u308a\u3001\u3051\u3063\u3053\u3046\u6642\u9593\u304b\u304b\u3063\u305f\u307f\u305f\u3044\u3060\u306d\u300d",
+    "Name": "ヨシノ",
+    "Phrase": "「ヤクたん、お疲れさま。\\n　見回り、けっこう時間かかったみたいだね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -110,38 +112,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 1,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 24201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u305d\u3046\u306a\u306e\u3088\u3002\u898b\u56de\u308a\u3057\u3066\u305f\u3089\u3001\\n\u3000\u5e7b\u9727\u306e\u767a\u751f\u6e90\u3060\u3063\u305f\u68ee\u306e\u5411\u3053\u3046\u306b\u96c6\u843d\u3092\u898b\u3064\u3051\u3061\u3083\u3063\u3066\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「そうなのよ。見回りしてたら、\\n　幻霧の発生源だった森の向こうに集落を見つけちゃって」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -155,30 +157,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30e9\u30de\u30c1",
-    "Phrase": "\u300c\u3078\u3048\u3001\u3042\u306a\u3044\u306a\u5834\u6240\u306b\u96c6\u843d\u304c\u3042\u3063\u305f\u3093\u3069\u3059\u304b\u3002\\n\u3000\u305d\u308c\u306f\u6c17\u3065\u304b\u306a\u304b\u3063\u305f\u3069\u3059\u306a\u3041\u300d\u3000",
+    "Name": "カラマチ",
+    "Phrase": "「へえ、あないな場所に集落があったんどすか。\\n　それは気づかなかったどすなぁ」　",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -192,38 +194,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 1,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 24201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u3061\u3087\u3063\u3068\u4e0d\u601d\u8b70\u306a\u3068\u3053\u308d\u3060\u3063\u305f\u308f\u3002\\n\u3000\u666e\u901a\u306e\u96c6\u843d\u306a\u306e\u306b\u3001\u5b50\u3069\u3082\u305f\u3061\u306e\u7740\u7269\u3060\u3051\u3068\u3063\u3066\u3082\u9ad8\u7d1a\u305d\u3046\u306a\u306e\u3002\\n\u3000\u89aa\u5fc3\u3068\u8a00\u308f\u308c\u308c\u3070\u305d\u308c\u307e\u3067\u3060\u3051\u3069\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「ちょっと不思議なところだったわ。\\n　普通の集落なのに、子どもたちの着物だけとっても高級そうなの。\\n　親心と言われればそれまでだけど」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -237,30 +239,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30e8\u30b7\u30ce",
-    "Phrase": "\u300c\u3044\u3044\u7740\u7269\u306f\u3001\u3072\u3068\u306e\u5fc3\u3092\u8c4a\u304b\u306b\u3057\u307e\u3059\u300d",
+    "Name": "ヨシノ",
+    "Phrase": "「いい着物は、ひとの心を豊かにします」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -274,38 +276,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 1,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 24201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30e9\u30de\u30c1",
-    "Phrase": "\u300c\u30e8\u30b7\u30ce\u306f\u3093\u304c\u8a00\u3046\u3068\u3001\u8aac\u5f97\u529b\u3042\u308a\u307e\u3059\u306a\u3041\u300d",
+    "Name": "カラマチ",
+    "Phrase": "「ヨシノはんが言うと、説得力ありますなぁ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -319,38 +321,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 1,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 24201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u307e\u3042\u3001\u305d\u3046\u3044\u3046\u308f\u3051\u3067\u660e\u65e5\u4ee5\u964d\u306e\u898b\u56de\u308a\u306f\u3001\\n\u3000\u96c6\u843d\u3082\u7bc4\u56f2\u306b\u5165\u308c\u3066\u3061\u3087\u3046\u3060\u3044\u3002\\n\u3000\u3042\u3068\u3001\u305d\u3053\u306e\u5b50\u3069\u3082\u305f\u3061\u304c\u30cf\u30e0\u30b9\u30bf\u30fc\u63a2\u3057\u3066\u308b\u307f\u305f\u3044\u3060\u304b\u3089\u3001\\n\u3000\u898b\u56de\u308a\u3064\u3044\u3067\u306b\u63a2\u3057\u3066\u3042\u3052\u3066\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「まあ、そういうわけで明日以降の見回りは、\\n　集落も範囲に入れてちょうだい。\\n　あと、そこの子どもたちがハムスター探してるみたいだから、\\n　見回りついでに探してあげて」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -364,30 +366,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30e8\u30b7\u30ce",
-    "Phrase": "\u300c\u30cf\u30e0\u30b9\u30bf\u30fc\uff1f\u300d",
+    "Name": "ヨシノ",
+    "Phrase": "「ハムスター？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -401,30 +403,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u30da\u30c3\u30c8\u306e\u30cf\u30e0\u30b9\u30bf\u30fc\u304c\u9003\u3052\u3061\u3083\u3063\u305f\u3093\u3060\u3063\u3066\u3002\\n\u3000\u9996\u306b\u5e03\u3092\u5dfb\u3044\u3066\u308b\u3063\u3066\u8a71\u3060\u304b\u3089\u3001\u898b\u308c\u3070\u5206\u304b\u308b\u3089\u3057\u3044\u308f\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「ペットのハムスターが逃げちゃったんだって。\\n　首に布を巻いてるって話だから、見れば分かるらしいわ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -438,30 +440,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30e8\u30b7\u30ce",
-    "Phrase": "\u300c\u308f\u304b\u3063\u305f\u3088\u3001\u30cf\u30e0\u30b9\u30bf\u30fc\u3082\u6c17\u306b\u3057\u3066\u304a\u304f\u306d\u300d",
+    "Name": "ヨシノ",
+    "Phrase": "「わかったよ、ハムスターも気にしておくね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -475,30 +477,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30e8\u30b7\u30ce",
-    "Phrase": "\u300c\u3068\u3053\u308d\u3067\u30e4\u30af\u305f\u3093\u3002\\n\u3000\u3053\u306e\u3042\u3068\u4e88\u5b9a\u304c\u306a\u3044\u306a\u3089\u3001\\n\u3000\u30ab\u30e9\u30de\u30c1\u52a9\u3051\u308b\u306e\u624b\u4f1d\u3063\u3066\u307b\u3057\u3044\u300d",
+    "Name": "ヨシノ",
+    "Phrase": "「ところでヤクたん。\\n　このあと予定がないなら、\\n　カラマチ助けるの手伝ってほしい」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -512,30 +514,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u69cb\u308f\u306a\u3044\u3051\u3069\u3001\u3044\u3063\u305f\u3044\u4f55\u304c\u3042\u3063\u305f\u306e\uff1f\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「構わないけど、いったい何があったの？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -549,30 +551,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\u30e8\u30b7\u30ce",
-    "Phrase": "\u300c\u5b9f\u306f\u2026\u2026\u300d",
+    "Name": "ヨシノ",
+    "Phrase": "「実は……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -586,30 +588,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u305d\u308c\u306f\u8a31\u305b\u306a\u3044\u308f\u306d\u3002\\n\u3000\u3044\u3044\u308f\u3001\u3053\u306e\u79c1\u304c\u624b\u4f1d\u3063\u3066\u3042\u3052\u308b\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「それは許せないわね。\\n　いいわ、この私が手伝ってあげる」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -623,30 +625,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30e9\u30de\u30c1",
-    "Phrase": "\u300c\u30e4\u30af\u30fc\u30c4\u30af\u306f\u3093\u307e\u3067\u3001\u3044\u3044\u3093\u3069\u3059\uff1f\u300d",
+    "Name": "カラマチ",
+    "Phrase": "「ヤクーツクはんまで、いいんどす？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -660,30 +662,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 1,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u9762\u5012\u3060\u3051\u3069\u3001\\n\u3000\u30ab\u30e9\u30de\u30c1\u306e\u7269\u8cc7\u304c\u5165\u8377\u3057\u306a\u304f\u306a\u3063\u305f\u3089\u7279\u9244\u968a\u306e\u5927\u640d\u5931\u3060\u3082\u306e\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「面倒だけど、\\n　カラマチの物資が入荷しなくなったら特鉄隊の大損失だもの」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -697,30 +699,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
-    "Name": "\u30e8\u30b7\u30ce",
-    "Phrase": "\u300c\u30ab\u30e9\u30de\u30c1\u304c\u56f0\u3063\u3066\u308b\u304b\u3089\u305c\u3072\u52a9\u3051\u305f\u3044\u3001\\n\u3000\u3068\u9060\u56de\u3057\u306b\u30e4\u30af\u305f\u3093\u306f\u7533\u3057\u3066\u304a\u308a\u307e\u3059\u300d",
+    "Name": "ヨシノ",
+    "Phrase": "「カラマチが困ってるからぜひ助けたい、\\n　と遠回しにヤクたんは申しております」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -734,30 +736,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u304b\u3001\u52dd\u624b\u306a\u610f\u8a33\u3057\u306a\u3044\u3067\u3061\u3087\u3046\u3060\u3044\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「か、勝手な意訳しないでちょうだい」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -771,30 +773,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 3,
         "Action": 0,
         "Emotion": 6,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30e9\u30de\u30c1",
-    "Phrase": "\u300c\u30e4\u30af\u30fc\u30c4\u30af\u306f\u3093\u3001\u304a\u304a\u304d\u306b\u306a\u3041\u300d",
+    "Name": "カラマチ",
+    "Phrase": "「ヤクーツクはん、おおきになぁ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -808,30 +810,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 1,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u793c\u306a\u3093\u3066\u3044\u3089\u306a\u3044\u308f\u3088\u3002\\n\u3000\u305d\u308c\u3067\u3001\u3042\u3093\u305f\u306e\u5c4b\u6577\u306f\u3069\u3053\u306a\u306e\uff1f\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「礼なんていらないわよ。\\n　それで、あんたの屋敷はどこなの？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -845,30 +847,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30e9\u30de\u30c1",
-    "Phrase": "\u300c\u3053\u3053\u3069\u3059\u300d",
+    "Name": "カラマチ",
+    "Phrase": "「ここどす」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -882,30 +884,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 1,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u3048\u3001\u3053\u308c\uff1f\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「え、これ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -919,30 +921,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30e9\u30de\u30c1",
-    "Phrase": "\u300c\u5b9f\u306f\u3082\u3046\u5230\u7740\u3057\u3066\u306f\u3063\u305f\u3093\u3084\u3051\u3069\u3001\\n\u3000\u4f1a\u8a71\u306e\u6d41\u308c\u7684\u306b\u8a00\u3044\u51fa\u3057\u3065\u308d\u3046\u3066\u306a\u3041\u300d",
+    "Name": "カラマチ",
+    "Phrase": "「実はもう到着してはったんやけど、\\n　会話の流れ的に言い出しづろうてなぁ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -956,30 +958,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 1,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30ab\u30e9\u30de\u30c1\u306e\u80cc\u5f8c\u306b\u3042\u308b\u5c4b\u6577\u3092\u3001\\n\u30e8\u30b7\u30ce\u3068\u30e4\u30af\u30fc\u30c4\u30af\u304c\u540c\u6642\u306b\u898b\u4e0a\u3052\u305f\u3002\\n\u5c0f\u3055\u306a\u57ce\u3068\u8a00\u3063\u3066\u3082\u3044\u3044\u304f\u3089\u3044\u306e\u5927\u304d\u3055\u3067\u3042\u308b\u3002",
+    "Phrase": "カラマチの背後にある屋敷を、\\nヨシノとヤクーツクが同時に見上げた。\\n小さな城と言ってもいいくらいの大きさである。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -993,30 +995,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 1,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
-    "Name": "\u30e8\u30b7\u30ce",
-    "Phrase": "\u300c\u304a\u304a\u30fc\u3001\u30ab\u30e9\u30de\u30c1\u306e\u304a\u5c4b\u6577\u3001\\n\u3000\u3068\u3063\u3066\u3082\u5927\u304d\u3044\u3067\u3059\u300d",
+    "Name": "ヨシノ",
+    "Phrase": "「おおー、カラマチのお屋敷、\\n　とっても大きいです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1030,38 +1032,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 2,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 20201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u3053\u308c\u3001\u672c\u5f53\u306b\u5009\u5eab\u306b\u4f7f\u3063\u3066\u308b\u306e\uff1f\\n\u3000\u5225\u8358\u3068\u304b\u3058\u3083\u306a\u304f\u3066\uff1f\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「これ、本当に倉庫に使ってるの？\\n　別荘とかじゃなくて？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1075,38 +1077,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 20201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30e9\u30de\u30c1",
-    "Phrase": "\u300c\u307b\u3093\u307e\u306b\u5009\u5eab\u3069\u3059\uff5e\u3002\\n\u3000\u7acb\u6d3e\u306b\u898b\u3048\u308b\u3051\u3069\u4e2d\u306f\u5927\u3057\u305f\u3053\u3068\u306a\u3044\u3067\u3002\\n\u3000\u305d\u308c\u306b\u8857\u5916\u308c\u3067\u8272\u3005\u3068\u4e0d\u4fbf\u3084\u3057\u3001\u5009\u5eab\u4ee5\u5916\u306b\u306f\u4f7f\u308f\u308c\u3078\u3093\u308f\u3002\\n\u3000\u307e\u3042\u305d\u306e\u5206\u3001\u8cc3\u6599\u306f\u5b89\u3044\u3093\u3084\u3051\u3069\u306d\u300d",
+    "Name": "カラマチ",
+    "Phrase": "「ほんまに倉庫どす～。\\n　立派に見えるけど中は大したことないで。\\n　それに街外れで色々と不便やし、倉庫以外には使われへんわ。\\n　まあその分、賃料は安いんやけどね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1120,30 +1122,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 1,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30e9\u30de\u30c1",
-    "Phrase": "\u300c\u3067\u3082\u305d\u308c\u3067\u6ce5\u68d2\u306b\u5165\u3089\u308c\u3066\u305f\u3089\u3001\\n\u3000\u5b89\u3044\u306e\u3082\u610f\u5473\u3042\u3089\u3057\u307e\u3078\u3093\u308f\u3002\\n\u3000\u307b\u3093\u307e\u56f0\u3063\u305f\u8a71\u3069\u3059\uff5e\u300d",
+    "Name": "カラマチ",
+    "Phrase": "「でもそれで泥棒に入られてたら、\\n　安いのも意味あらしまへんわ。\\n　ほんま困った話どす～」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1157,30 +1159,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 1,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
-    "Name": "\u30e8\u30b7\u30ce",
-    "Phrase": "\u300c\u3067\u3082\u3001\u3082\u3046\u5927\u4e08\u592b\u3060\u3088\u3002\\n\u3000\u30e8\u30b7\u30ce\u305f\u3061\u306b\u306f\u300e\u9632\u72af\u4eba\u5f62\u307d\u30fc\u3074\u30fc\u304f\u3093\u300f\u304c\u3042\u308b\u306e\u3067\u300d",
+    "Name": "ヨシノ",
+    "Phrase": "「でも、もう大丈夫だよ。\\n　ヨシノたちには『防犯人形ぽーぴーくん』があるので」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1194,38 +1196,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 20201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30e9\u30de\u30c1",
-    "Phrase": "\u300c\u305b\u3084\u306d\u3002\\n\u3000\u3053\u306e\u4eba\u5f62\u306e\u30b5\u30a4\u30ec\u30f3\u805e\u3044\u305f\u3089\u3001\\n\u3000\u3069\u3093\u306a\u6ce5\u68d2\u3082\u88f8\u8db3\u3067\u9003\u3052\u51fa\u3059\u30ec\u30d9\u30eb\u3069\u3059\u300d",
+    "Name": "カラマチ",
+    "Phrase": "「せやね。\\n　この人形のサイレン聞いたら、\\n　どんな泥棒も裸足で逃げ出すレベルどす」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1239,30 +1241,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 1,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30e9\u30de\u30c1",
-    "Phrase": "\u300c\u3058\u3083\u3042\u7384\u95a2\u306b\u4eba\u5f62\u3092\u8a2d\u7f6e\u3059\u308b\u3093\u306f\u30e8\u30b7\u30ce\u306f\u3093\u306b\u4efb\u305b\u3066\u3001\\n\u3000\u30a6\u30c1\u3089\u306f\u7e01\u5074\u3084\u52dd\u624b\u53e3\u3092\u677f\u3067\u585e\u304e\u307e\u3057\u3087\u3002\\n\u3000\u307f\u306a\u3055\u3093\u3001\u3088\u308d\u3057\u3085\u3046\u983c\u3093\u307e\u3059\u300d",
+    "Name": "カラマチ",
+    "Phrase": "「じゃあ玄関に人形を設置するんはヨシノはんに任せて、\\n　ウチらは縁側や勝手口を板で塞ぎましょ。\\n　みなさん、よろしゅう頼んます」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1276,30 +1278,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 1,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30ab\u30e9\u30de\u30c1\u306e\u6307\u793a\u306b\u5f93\u3044\u3001\\n\u307f\u3093\u306a\u3067\u624b\u5206\u3051\u3057\u3066\u4f5c\u696d\u3092\u9032\u3081\u3066\u3044\u304f\u3002",
+    "Phrase": "カラマチの指示に従い、\\nみんなで手分けして作業を進めていく。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1313,21 +1315,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 36,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3057\u3066\u4f5c\u696d\u3092\u7d42\u3048\u3066\u3001\\n\u518d\u3073\u7384\u95a2\u524d\u306b\u96c6\u307e\u3063\u305f\u3002",
+    "Phrase": "そして作業を終えて、\\n再び玄関前に集まった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1341,21 +1344,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 37,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30e9\u30de\u30c1",
-    "Phrase": "\u300c\u3075\u3045\u3001\u3053\u308c\u3067\u5b8c\u6210\u3069\u3059\u300d",
+    "Name": "カラマチ",
+    "Phrase": "「ふぅ、これで完成どす」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1369,30 +1373,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 1,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 38,
     "ViewOrder": 1,
-    "Name": "\u30e8\u30b7\u30ce",
-    "Phrase": "\u300c\u3060\u3044\u3076\u300e\u306a\u3093\u3053\u30fc\u3075\u3089\u304f\u300f\u306b\u306a\u3063\u305f\u306d\u300d",
+    "Name": "ヨシノ",
+    "Phrase": "「だいぶ『なんこーふらく』になったね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1406,30 +1410,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 39,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30e9\u30de\u30c1",
-    "Phrase": "\u300c\u305b\u3084\u306d\u3002\\n\u3000\u307b\u3093\u307e\u4eca\u591c\u306f\u5b89\u5fc3\u3057\u3066\u7720\u308c\u305d\u3046\u3069\u3059\u308f\uff5e\u300d",
+    "Name": "カラマチ",
+    "Phrase": "「せやね。\\n　ほんま今夜は安心して眠れそうどすわ～」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1443,30 +1447,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 1,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 40,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5009\u5eab\u306e\u5fc3\u914d\u3092\u3057\u306a\u304f\u3066\u3044\u3044\u3068\u3001\\n\u30ab\u30e9\u30de\u30c1\u304c\u5b89\u5835\u306e\u7b11\u307f\u3092\u6d6e\u304b\u3079\u308b\u3002",
+    "Phrase": "倉庫の心配をしなくていいと、\\nカラマチが安堵の笑みを浮かべる。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1480,21 +1484,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 41,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3060\u304c\u2015\u2015",
+    "Phrase": "だが――",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1508,21 +1513,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 42,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u306e\u6669\u30ab\u30e9\u30de\u30c1\u306e\u5c4b\u6577\u306f\u3001\\n\u307e\u305f\u3057\u3066\u3082\u6ce5\u68d2\u88ab\u5bb3\u306b\u906d\u3063\u3066\u3057\u307e\u3063\u305f\u306e\u3060\u3063\u305f\u3002",
+    "Phrase": "その晩カラマチの屋敷は、\\nまたしても泥棒被害に遭ってしまったのだった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1536,14 +1542,14 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

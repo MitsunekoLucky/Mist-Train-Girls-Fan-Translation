@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u606f\u304c\u82e6\u3057\u3044\u3002\\n\u3075\u3089\u3075\u3089\u3068\u6b69\u3044\u3066\u3001\u306a\u3093\u3068\u304b\u8fbf\u308a\u7740\u3044\u305f\u8eca\u638c\u5ba4\u3067\\n\u8ee2\u3076\u3088\u3046\u306b\u30d9\u30c3\u30c9\u3078\u5012\u308c\u8fbc\u3093\u3060\u3002\\n\u71b1\u3067\u3082\u3042\u308b\u306e\u304b\u3001\u306a\u3093\u3060\u304b\u4f53\u304c\u71b1\u3044\u3002",
+    "Phrase": "息が苦しい。\\nふらふらと歩いて、なんとか辿り着いた車掌室で\\n転ぶようにベッドへ倒れ込んだ。\\n熱でもあるのか、なんだか体が熱い。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30b3\u30f3\u30b3\u30f3\u3068\u63a7\u3048\u3081\u306a\u30ce\u30c3\u30af\u97f3\u304c\u8033\u306b\u5165\u308b\u3002\\n\u60aa\u3044\u2026\u2026\u4eca\u306f\u958b\u3051\u3089\u308c\u305d\u3046\u306b\u306a\u3044\u3002",
+    "Phrase": "コンコンと控えめなノック音が耳に入る。\\n悪い……今は開けられそうにない。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,21 +46,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30e1\u30c3\u30b7\u30fc\u30ca",
-    "Phrase": "\u300c\u5165\u308b\u3088\u3001\u8eca\u638c\u304f\u3093\u300d",
+    "Name": "メッシーナ",
+    "Phrase": "「入るよ、車掌くん」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -73,30 +75,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 70201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30e1\u30c3\u30b7\u30fc\u30ca",
-    "Phrase": "\u300c\u3069\u3046\u3057\u305f\u306e\uff1f\u3000\u5177\u5408\u304c\u60aa\u3044\u306e\uff1f\u300d",
+    "Name": "メッシーナ",
+    "Phrase": "「どうしたの？　具合が悪いの？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -110,30 +112,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 70201,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30e1\u30c3\u30b7\u30fc\u30ca\u304c\u66f8\u985e\u3092\u6301\u3063\u3066\u99c6\u3051\u3066\u5bc4\u3063\u3066\u304f\u308b\u3002\\n\u3042\u3042\u3001\u3061\u3087\u3063\u3068\u4e0d\u8abf\u307f\u305f\u3044\u3067\u3002\\n\u5c11\u3057\u71b1\u3063\u307d\u3044\u3093\u3060\u3002",
+    "Phrase": "メッシーナが書類を持って駆けて寄ってくる。\\nああ、ちょっと不調みたいで。\\n少し熱っぽいんだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -147,30 +149,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 70201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30e1\u30c3\u30b7\u30fc\u30ca",
-    "Phrase": "\u300c\u71b1\u2026\u2026\u78ba\u304b\u306b\u5c11\u3057\u3042\u308b\u307f\u305f\u3044\u3060\u306d\u3002\\n\u3000\u4ed6\u306b\u75db\u3044\u3068\u3053\u308d\u3084\u82e6\u3057\u3044\u3068\u3053\u308d\u306f\uff1f\u300d",
+    "Name": "メッシーナ",
+    "Phrase": "「熱……確かに少しあるみたいだね。\\n　他に痛いところや苦しいところは？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -184,30 +186,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 70201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5c11\u3057\u606f\u82e6\u3057\u3044\u3051\u3069\u2026\u2026\u4ed6\u306f\u5206\u304b\u3089\u306a\u3044\u306a\u3002",
+    "Phrase": "少し息苦しいけど……他は分からないな。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -221,30 +223,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 70201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30e1\u30c3\u30b7\u30fc\u30ca",
-    "Phrase": "\u300c\u5206\u304b\u3089\u306a\u3044\u3063\u3066\u2026\u2026\u541b\u306e\u4f53\u3060\u3088\uff1f\\n\u3000\u5c11\u3057\u8a3a\u5bdf\u3092\u3057\u3088\u3046\u304b\u3002\u3042\u305f\u3057\u306f\u770b\u8b77\u5e2b\u3067\u3042\u3063\u3066\u304a\u533b\u8005\u3055\u3093\u3058\u3083\u306a\u3044\u3051\u3069\\n\u3000\u4f55\u304b\u5206\u304b\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u3057\u300d",
+    "Name": "メッシーナ",
+    "Phrase": "「分からないって……君の体だよ？\\n　少し診察をしようか。あたしは看護師であってお医者さんじゃないけど\\n　何か分かるかもしれないし」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -258,30 +260,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 70201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3053\u3061\u3089\u304c\u4f53\u3092\u8d77\u3053\u3059\u3068\u3001\u30e1\u30c3\u30b7\u30fc\u30ca\u306f\u4e21\u624b\u3067\u4f53\u4e2d\u306b\u89e6\u308c\u3066\u8a3a\u5bdf\u3092\u3057\u3066\u304f\u308c\u308b\u3002\\n\u3061\u3087\u3063\u3068\u5927\u3052\u3055\u306a\u3093\u3058\u3083\u306a\u3044\u304b\u3001\u3068\u3082\u601d\u3063\u305f\u304c\u3001\\n\u30e1\u30c3\u30b7\u30fc\u30ca\u306f\u771f\u5263\u305d\u306e\u3082\u306e\u306a\u306e\u3067\u3001\u305d\u306e\u307e\u307e\u4efb\u305b\u308b\u3053\u3068\u306b\u3057\u305f\u3002",
+    "Phrase": "こちらが体を起こすと、メッシーナは両手で体中に触れて診察をしてくれる。\\nちょっと大げさなんじゃないか、とも思ったが、\\nメッシーナは真剣そのものなので、そのまま任せることにした。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -295,30 +297,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 70201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u771f\u9762\u76ee\u306b\u53d6\u308a\u7d44\u3080\u30e1\u30c3\u30b7\u30fc\u30ca\u306e\u59ff\u306f\u672c\u7269\u306e\u533b\u5e2b\u3068\u4f55\u3089\u5909\u308f\u308a\u306f\u306a\u3044\u3002",
+    "Phrase": "真面目に取り組むメッシーナの姿は本物の医師と何ら変わりはない。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -332,30 +334,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 70201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30e1\u30c3\u30b7\u30fc\u30ca",
-    "Phrase": "\u300c\u5168\u4f53\u7684\u306b\u71b1\u3044\u306d\u2026\u2026\u5589\u306f\uff1f\u3000\u75db\u304f\u306a\u3044\uff1f\u300d",
+    "Name": "メッシーナ",
+    "Phrase": "「全体的に熱いね……喉は？　痛くない？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -369,30 +371,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 70201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5589\u306f\u5e73\u6c17\u3060\u3002\\n\u7279\u306b\u54b3\u306a\u3069\u3082\u306a\u3044\u3002",
+    "Phrase": "喉は平気だ。\\n特に咳などもない。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -406,30 +408,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 70201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30e1\u30c3\u30b7\u30fc\u30ca",
-    "Phrase": "\u300c\u8efd\u3044\u98a8\u90aa\u304b\u306a\uff1f\u3000\u95a2\u7bc0\u75db\u3082\u306a\u3044\u3093\u3060\u3088\u306d\uff1f\u300d",
+    "Name": "メッシーナ",
+    "Phrase": "「軽い風邪かな？　関節痛もないんだよね？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -443,30 +445,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 70201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u9837\u3044\u3066\u898b\u305b\u308b\u3068\u3001\u30e1\u30c3\u30b7\u30fc\u30ca\u306f\u984e\u306b\u624b\u3092\u5f53\u3066\u3066\u3001\u3075\u3080\u3001\u3068\u8003\u3048\u8fbc\u3080\u3002\\n\u305d\u3057\u3066\u3001\u5ff5\u306e\u305f\u3081\u306b\u3068\u3082\u3046\u4e00\u5ea6\u5168\u8eab\u3092\u307e\u3093\u3079\u3093\u306a\u304f\u89e6\u3063\u305f\u3002",
+    "Phrase": "頷いて見せると、メッシーナは顎に手を当てて、ふむ、と考え込む。\\nそして、念のためにともう一度全身をまんべんなく触った。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -480,30 +482,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 70201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30e1\u30c3\u30b7\u30fc\u30ca",
-    "Phrase": "\u300c\u3067\u3082\u3001\u98a8\u90aa\u306b\u3057\u3066\u306f\u304a\u304b\u3057\u3044\u304b\u306a\u2026\u2026\u300d",
+    "Name": "メッシーナ",
+    "Phrase": "「でも、風邪にしてはおかしいかな……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -517,30 +519,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 70201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u304a\u304b\u3057\u3044\uff1f\u3000\u3044\u3063\u305f\u3044\u3069\u3053\u304c\uff1f",
+    "Phrase": "おかしい？　いったいどこが？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -554,30 +556,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 70201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u30e1\u30c3\u30b7\u30fc\u30ca",
-    "Phrase": "\u300c\u4e00\u90e8\u5206\u3060\u3051\u71b1\u304c\u9ad8\u3044\u3093\u3060\u3088\u300d",
+    "Name": "メッシーナ",
+    "Phrase": "「一部分だけ熱が高いんだよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -591,30 +593,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 70201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u4e00\u90e8\u5206\uff1f\u3000\u3044\u3063\u305f\u3044\u3069\u3053\u3060\u308d\u3046\uff1f",
+    "Phrase": "一部分？　いったいどこだろう？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -628,30 +630,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 70201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30e1\u30c3\u30b7\u30fc\u30ca",
-    "Phrase": "\u300c\u3046\u30fc\u3093\u3001\u3072\u3068\u307e\u305a\u89e3\u71b1\u5264\u3067\u69d8\u5b50\u3092\u898b\u3088\u3046\u304b\u300d",
+    "Name": "メッシーナ",
+    "Phrase": "「うーん、ひとまず解熱剤で様子を見ようか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -665,23 +667,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 70201,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

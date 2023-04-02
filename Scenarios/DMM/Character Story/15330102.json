@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u7b2c\u4e00\u8a71\u306e\u3042\u3089\u3059\u3058\u3002\\n\u3068\u3042\u308b\u4efb\u52d9\u306e\u305f\u3081\u306b\u5217\u8eca\u3067\u79fb\u52d5\u3057\u3066\u3044\u308b\u9014\u4e2d\u3067\u3001\\n\u571f\u7802\u5d29\u308c\u306e\u305f\u3081\u306b\u3053\u3053\u304b\u3089\u5148\u306f\u901a\u884c\u4e0d\u80fd\u3060\u3068\u3044\u3046\u9023\u7d61\u3092\u53d7\u3051\u305f\u3002",
+    "Phrase": "第一話のあらすじ。\\nとある任務のために列車で移動している途中で、\\n土砂崩れのためにここから先は通行不能だという連絡を受けた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u306e\u65e5\u306e\u591c\u3002\u6211\u3005\u306f\u571f\u7802\u5d29\u308c\u306e\u64a4\u53bb\u4f5c\u696d\u304c\u7d42\u308f\u308b\u307e\u3067\u306e\u9593\u3001\\n\u5bbf\u6cca\u3059\u308b\u305f\u3081\u306e\u753a\u307e\u3067\u5f92\u6b69\u3067\u79fb\u52d5\u3057\u305f\u3002\\n\u3053\u3061\u3089\u3068\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3\u306f\u975e\u6226\u95d8\u8981\u54e1\u306e\u305f\u3081\u4e0d\u5b89\u3060\u3063\u305f\u304c\u3001\\n\u4e00\u4eba\u65c5\u306b\u3082\u6163\u308c\u3066\u3044\u308b\u30c8\u30a5\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3\u304c\u3057\u3063\u304b\u308a\u8b77\u885b\u3057\u3066\u304f\u308c\u305f\u3002",
+    "Phrase": "その日の夜。我々は土砂崩れの撤去作業が終わるまでの間、\\n宿泊するための町まで徒歩で移動した。\\nこちらとパディントンは非戦闘要員のため不安だったが、\\n一人旅にも慣れているトゥームストーンがしっかり護衛してくれた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,21 +46,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3",
-    "Phrase": "\u300c\u3075\u3075\u3002\u8b77\u885b\u3092\u304c\u3093\u3070\u3063\u3066\u304f\u308c\u305f\u30c8\u30a5\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3\u3055\u3093\u306e\u305f\u3081\u306b\u3082\u3001\\n\u3000\u8155\u306b\u3088\u308a\u3092\u304b\u3051\u3066\u6599\u7406\u3057\u3061\u3083\u3044\u307e\u3059\u306d\u266a\u300d",
+    "Name": "パディントン",
+    "Phrase": "「ふふ。護衛をがんばってくれたトゥームストーンさんのためにも、\\n　腕によりをかけて料理しちゃいますね♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -73,30 +75,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 0,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 5,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3082\u3046\u304a\u5e97\u304c\u958b\u3044\u3066\u3044\u306a\u3044\u6642\u9593\u5e2f\u3060\u3063\u305f\u306e\u3067\u3001\\n\u4ed8\u8fd1\u306e\u6c11\u5bb6\u304b\u3089\u3054\u539a\u610f\u3067\u98df\u6750\u3092\u3044\u305f\u3060\u304d\u3001\u305d\u308c\u3092\u81ea\u5206\u305f\u3061\u3067\u6599\u7406\u3057\u3066\u3044\u308b\u3002\\n\u753a\u306e\u304a\u5927\u5c3d\u304c\u4f7f\u3063\u3066\u3044\u306a\u3044\u5225\u8358\u3092\u3053\u308c\u3082\u89aa\u5207\u3067\u8cb8\u3057\u3066\u304f\u308c\u305f\u305f\u3081\u3001\\n\u4e09\u4eba\u3076\u3093\u306e\u6599\u7406\u3092\u3064\u304f\u308b\u3060\u3051\u306a\u306e\u306f\u3082\u3063\u305f\u3044\u306a\u3044\u3050\u3089\u3044\u7acb\u6d3e\u306a\u53a8\u623f\u3060\u3002",
+    "Phrase": "もうお店が開いていない時間帯だったので、\\n付近の民家からご厚意で食材をいただき、それを自分たちで料理している。\\n町のお大尽が使っていない別荘をこれも親切で貸してくれたため、\\n三人ぶんの料理をつくるだけなのはもったいないぐらい立派な厨房だ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -110,30 +112,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 0,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3",
-    "Phrase": "\u300c\u3075\u3093\u3075\u3093\u3075\u3093\u3001\u3075\u3075\u3075\u3093\u3075\uff5e\u3093\u266a\u300d",
+    "Name": "パディントン",
+    "Phrase": "「ふんふんふん、ふふふんふ～ん♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -147,30 +149,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 0,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3054\u6a5f\u5acc\u3060\u306a\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3\u3001\u6599\u7406\u304c\u597d\u304d\u3060\u3063\u305f\u306e\u304b\uff1f",
+    "Phrase": "ご機嫌だなパディントン、料理が好きだったのか？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -184,30 +186,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 0,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3",
-    "Phrase": "\u300c\u306f\u308f\u3063\uff1f\u3000\u3044\u3048\u3042\u306e\u3001\u305d\u306e\u3046\u3001\\n\u3000\u65b0\u5a5a\u3055\u3093\u307f\u305f\u3044\u3067\u5b09\u3057\u3044\u306a\uff5e\u3068\u304b\u601d\u3063\u3066\u307e\u305b\u3093\u3051\u3069!?\u300d",
+    "Name": "パディントン",
+    "Phrase": "「はわっ？　いえあの、そのう、\\n　新婚さんみたいで嬉しいな～とか思ってませんけど!?」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -221,30 +223,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 0,
         "Position": 3,
         "Action": 5,
         "Emotion": 6,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u6700\u8fd1\u3061\u3087\u304f\u3061\u3087\u304f\u305d\u3093\u306a\u3053\u3068\u3092\u8a00\u3063\u3066\u3044\u308b\u306a\u3001\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3\u3002\\n\u304a\u307e\u3048\u3055\u3048\u826f\u3051\u308c\u3070\u3001\u3053\u3061\u3089\u306f\u672c\u5f53\u306b\u7d50\u5a5a\u3057\u3066\u3082\u69cb\u308f\u306a\u3044\u306e\u3060\u304c\u2015\u2015",
+    "Phrase": "最近ちょくちょくそんなことを言っているな、パディントン。\\nおまえさえ良ければ、こちらは本当に結婚しても構わないのだが――",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -258,30 +260,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 0,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3",
-    "Phrase": "\u300c\u306f\u308f\u308f\u3063!?\u3000\u3054\u3054\u3054\u5197\u8ac7\u3092\u8eca\u638c\u3069\u306e\u3063\u3001\\n\u3000\u79c1\u305f\u3061\u306f\u540c\u3058\u795e\u5b50\u3067\u3059\u3057\u89aa\u621a\u307f\u305f\u3044\u306a\u3082\u306e\u3060\u304b\u3089\u907a\u4f1d\u5b66\u7684\u306b\u2015\u2015\\n\u3000\u306f\u308f\u306f\u308f\u306f\u308f\u306f\u308f\u3041\u3042\u3042\u3063!?\u300d",
+    "Name": "パディントン",
+    "Phrase": "「はわわっ!?　ごごご冗談を車掌どのっ、\\n　私たちは同じ神子ですし親戚みたいなものだから遺伝学的に――\\n　はわはわはわはわぁああっ!?」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -295,30 +297,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 0,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3069\u3093\u304c\u3089\u304c\u3063\u3057\u3083\u3093\u3001\u3068\u6d3e\u624b\u306b\u8ee2\u3093\u3067\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3\u304c\u98df\u6750\u3092\u6492\u304d\u6563\u3089\u3059\u3002\\n\u5c11\u3005\u304b\u3089\u304b\u3044\u3059\u304e\u305f\u304b\u2015\u2015\u3068\u53cd\u7701\u3057\u3064\u3064\u3001\\n\u5e8a\u306b\u843d\u3061\u3088\u3046\u3068\u3057\u3066\u3044\u308b\u98df\u6750\u306b\u624b\u3092\u4f38\u3070\u3057\u305f\u304c\u3002",
+    "Phrase": "どんがらがっしゃん、と派手に転んでパディントンが食材を撒き散らす。\\n少々からかいすぎたか――と反省しつつ、\\n床に落ちようとしている食材に手を伸ばしたが。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -332,30 +334,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 0,
         "Position": 3,
         "Action": 6,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30c8\u30a5\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3",
-    "Phrase": "\u300c\u308f\u3093\u3001\u3068\u3045\uff5e\u3001\u3059\u308a\u3043\u266a\u300d",
+    "Name": "トゥームストーン",
+    "Phrase": "「わん、とぅ～、すりぃ♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -369,30 +371,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 53301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30c8\u30a5\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3\u304c\u8efd\u3084\u304b\u306b\u52d5\u304d\u3001\\n\u843d\u4e0b\u3057\u304b\u3051\u305f\u91ce\u83dc\u306a\u3069\u3092\u7d20\u65e9\u304f\u30b5\u30fc\u30d6\u3057\u305f\u3002\\n\u5f7c\u5973\u304c\u624b\u3084\u8db3\u3067\u8efd\u304f\u89e6\u308c\u308b\u3068\u9b54\u6cd5\u306e\u3088\u3046\u306b\u98df\u6750\u304c\u6d6e\u304b\u3073\u3001\\n\u5143\u306e\u5834\u6240\u306b\u7dba\u9e97\u306b\u4e26\u3079\u3089\u308c\u308b\u3002",
+    "Phrase": "トゥームストーンが軽やかに動き、\\n落下しかけた野菜などを素早くサーブした。\\n彼女が手や足で軽く触れると魔法のように食材が浮かび、\\n元の場所に綺麗に並べられる。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -406,30 +408,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 53301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30c8\u30a5\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3",
-    "Phrase": "\u300c\u3075\u3041\u3044\u3084\u3063\u266a\u300d",
+    "Name": "トゥームストーン",
+    "Phrase": "「ふぁいやっ♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -443,30 +445,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 53301,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u9060\u304f\u306e\u307b\u3046\u306b\u843d\u4e0b\u3057\u304b\u3051\u305f\u304a\u934b\u3082\u3001\\n\u5f7c\u5973\u304c\u629c\u304f\u624b\u3092\u898b\u305b\u306a\u3044\u901f\u5ea6\u3067\u9283\u3092\u6483\u3061\u3001\\n\u305d\u306e\u885d\u6483\u3067\u3084\u306f\u308a\u6642\u9593\u3092\u5dfb\u304d\u623b\u3059\u3088\u3046\u306b\u3057\u3066\u5143\u306e\u5834\u6240\u306b\u623b\u3063\u305f\u3002",
+    "Phrase": "遠くのほうに落下しかけたお鍋も、\\n彼女が抜く手を見せない速度で銃を撃ち、\\nその衝撃でやはり時間を巻き戻すようにして元の場所に戻った。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -480,30 +482,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 53301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3",
-    "Phrase": "\u300c\u304a\u304a\uff5e\u2026\u2026\u3063\u3066\u3001\u30e8\u30b7\u30ce\u3055\u3093\u307f\u305f\u3044\u306a\u58f0\u304c\u51fa\u3061\u3083\u3044\u307e\u3057\u305f\u300d",
+    "Name": "パディントン",
+    "Phrase": "「おお～……って、ヨシノさんみたいな声が出ちゃいました」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -517,30 +519,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 0,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u540c\u3058\u304f\u3002\u3059\u3054\u3044\u306a\u30c8\u30a5\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3\u3001\\n\u76f8\u5909\u308f\u3089\u305a\u5927\u3057\u305f\u9283\u634c\u304d\u3068\u8eab\u306e\u3053\u306a\u3057\u3060\u3002",
+    "Phrase": "同じく。すごいなトゥームストーン、\\n相変わらず大した銃捌きと身のこなしだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -554,30 +556,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 0,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u30c8\u30a5\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3",
-    "Phrase": "\u300c\u3048\u3078\u3093\u3002\u304a\u52c9\u5f37\u306f\u3067\u304d\u306a\u3044\u3051\u3069\u3053\u3046\u3044\u3046\u306e\u306f\u5f97\u610f\u3067\u3047\u3059\u3001\\n\u3000\u308f\u305f\u3057\u897f\u90e8\u3092\u65c5\u3057\u3066\u305f\u3053\u308d\u306f\u3053\u308c\u3067\u98df\u8cbb\u3092\u8cc4\u3063\u3066\u305f\u3093\u3067\u3047\u3059\u266a\u300d",
+    "Name": "トゥームストーン",
+    "Phrase": "「えへん。お勉強はできないけどこういうのは得意でぇす、\\n　わたし西部を旅してたころはこれで食費を賄ってたんでぇす♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -591,30 +593,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 53301,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5b9f\u969b\u3001\u5f7c\u5973\u306f\u53e4\u3081\u304b\u3057\u3044\u7c97\u60aa\u306a\u9283\u3092\u611b\u7528\u3057\u3066\u3044\u308b\u304c\u3001\\n\u305d\u306e\u547d\u4e2d\u7cbe\u5ea6\u306f\u6700\u65b0\u88c5\u5099\u3092\u64cd\u308b\u7279\u9244\u968a\u306e\u72d9\u6483\u624b\u306a\u3069\u306b\u3082\u5f15\u3051\u3092\u53d6\u3089\u306a\u3044\u3002\\n\u307e\u3060\u5e7c\u304f\u898b\u3048\u308b\u5f7c\u5973\u304c\u305d\u3093\u306a\u6280\u8853\u3092\u5f97\u308b\u305f\u3081\u306b\u306f\u3001\\n\u3044\u3063\u305f\u3044\u5982\u4f55\u307b\u3069\u306e\u82e6\u52b4\u3068\u52aa\u529b\u304c\u5fc5\u8981\u3060\u3063\u305f\u306e\u3060\u308d\u3046\u3002",
+    "Phrase": "実際、彼女は古めかしい粗悪な銃を愛用しているが、\\nその命中精度は最新装備を操る特鉄隊の狙撃手などにも引けを取らない。\\nまだ幼く見える彼女がそんな技術を得るためには、\\nいったい如何ほどの苦労と努力が必要だったのだろう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -628,30 +630,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 53301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30c8\u30a5\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3",
-    "Phrase": "\u300c\u82e6\u52b4\u306f\u3057\u3066\u306a\u3044\u3067\u3047\u3059\u3001\u3053\u308c\u3057\u304b\u73a9\u5177\u304c\u306a\u3044\u307f\u305f\u3044\u306a\u611f\u3058\u3067\u3057\u305f\u306e\u3067\uff01\\n\u3000\u52aa\u529b\u3082\u3057\u3066\u306a\u3044\u3063\u3066\u3044\u3046\u304b\u3001\u3053\u308c\u3067\u304a\u91d1\u3092\u7a3c\u3044\u3067\u305f\u3089\u81ea\u7136\u3068\\n\u3000\u8eab\u306b\u3064\u3044\u305f\u3093\u3067\u3047\u3059\uff01\u300d",
+    "Name": "トゥームストーン",
+    "Phrase": "「苦労はしてないでぇす、これしか玩具がないみたいな感じでしたので！\\n　努力もしてないっていうか、これでお金を稼いでたら自然と\\n　身についたんでぇす！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -665,30 +667,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 53301,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3",
-    "Phrase": "\u300c\u2026\u2026\u79c1\u304c\u5e83\u3044\u304a\u5c4b\u6577\u3067\u5bb6\u65cf\u3068\u4e00\u7dd2\u306b\u7d75\u672c\u3092\u8aad\u3093\u3060\u308a\u3001\\n\u3000\u306c\u3044\u3050\u308b\u307f\u3067\u3054\u3063\u3053\u904a\u3073\u3092\u3057\u305f\u308a\u3057\u3066\u305f\u3053\u308d\u3001\\n\u3000\u30c8\u30a5\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3\u3055\u3093\u306f\u7121\u6cd5\u306e\u8352\u91ce\u3092\u72ec\u308a\u3067\u751f\u304d\u629c\u3044\u3066\u3044\u305f\u306e\u3067\u3059\u3088\u306d\u300d",
+    "Name": "パディントン",
+    "Phrase": "「……私が広いお屋敷で家族と一緒に絵本を読んだり、\\n　ぬいぐるみでごっこ遊びをしたりしてたころ、\\n　トゥームストーンさんは無法の荒野を独りで生き抜いていたのですよね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -702,30 +704,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 0,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3",
-    "Phrase": "\u300c\u5049\u3044\u3067\u3059\uff01\u3000\u3046\u3046\u3063\u3001\u4eca\u65e5\u306f\u30c8\u30a5\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3\u3055\u3093\u306e\\n\u3000\u5927\u597d\u7269\u3070\u3063\u304b\u308a\u3064\u304f\u3063\u3061\u3083\u3044\u307e\u3059\u304b\u3089\u306d\uff01\\n\u3000\u4f55\u304b\u30ea\u30af\u30a8\u30b9\u30c8\u306f\u3042\u308a\u307e\u3059\u304b\u3063\uff1f\u300d",
+    "Name": "パディントン",
+    "Phrase": "「偉いです！　ううっ、今日はトゥームストーンさんの\\n　大好物ばっかりつくっちゃいますからね！\\n　何かリクエストはありますかっ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -739,30 +741,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 0,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30c8\u30a5\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3",
-    "Phrase": "\u300c\u3046\u308f\u3041\u3044\uff01\u3000\u3058\u3083\u3042\u3042\u308c\u304c\u98df\u3079\u305f\u3044\u3067\u3047\u3059\u3001\\n\u3000\u3067\u3053\u308c\u3047\u3057\u3087\u3093\u30fb\u3051\u3047\u304d\uff01\u300d",
+    "Name": "トゥームストーン",
+    "Phrase": "「うわぁい！　じゃああれが食べたいでぇす、\\n　でこれぇしょん・けぇき！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -776,30 +778,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 53301,
         "Position": 3,
         "Action": 1,
         "Emotion": 1,
         "FacialExpression": 5,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3",
-    "Phrase": "\u300c\u300e\u524d\u7565\u3002\u30a8\u30eb\u30ed\u30f3\u30c9\u5bb6\u306e\u4e94\u5973\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3\u3067\u3059\u3002\\n\u3000\u305f\u3044\u3078\u3093\u4e0d\u8ebe\u306a\u304a\u9858\u3044\u306b\u306f\u306a\u308a\u307e\u3059\u304c\u3001\\n\u3000\u4eca\u3059\u3050\u6211\u304c\u5bb6\u306e\u6a29\u9650\u306b\u3088\u308a\u30bb\u30f3\u30c8\u30a4\u30ea\u30b9\u4e00\u306e\u30d1\u30c6\u30a3\u30b7\u30a8\u306b\u4f9d\u983c\u3092\u300f\u2015\u2015\u300d",
+    "Name": "パディントン",
+    "Phrase": "「『前略。エルロンド家の五女パディントンです。\\n　たいへん不躾なお願いにはなりますが、\\n　今すぐ我が家の権限によりセントイリス一のパティシエに依頼を』――」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -813,30 +815,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 0,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u6d99\u3050\u307f\u3001\u901f\u9054\u7528\u306e\u4fbf\u305b\u3093\u306b\u7b46\u3092\u8d70\u3089\u305b\u308b\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3\u3060\u3063\u305f\u3002\\n\u3044\u3084\u3001\u305d\u308c\u3082\u3044\u3044\u304c\u6599\u7406\u3082\u3057\u3066\u307b\u3057\u3044\u3002\\n\u4eca\u65e5\u306f\u305f\u3063\u3077\u308a\u6b69\u3044\u305f\u308a\u3057\u305f\u306e\u3067\u3001\u304a\u8179\u304c\u7a7a\u3044\u3066\u3044\u308b\u3002",
+    "Phrase": "涙ぐみ、速達用の便せんに筆を走らせるパディントンだった。\\nいや、それもいいが料理もしてほしい。\\n今日はたっぷり歩いたりしたので、お腹が空いている。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -850,30 +852,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 0,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\u30c8\u30a5\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3",
-    "Phrase": "\u300c\u3075\u3075\u3093\u266a\u3000\u53e3\u3092\u958b\u3051\u3066\u5f85\u3063\u3066\u308b\u3060\u3051\u3058\u3083\u3054\u306f\u3093\u306f\u98df\u3079\u3089\u308c\u306a\u3044\u3067\u3047\u3059\u3001\\n\u3000\u30b7\u30e3\u30b7\u30e7\u3055\u3093\u3082\u81ea\u5206\u3067\u98df\u3079\u308b\u3076\u3093\u3050\u3089\u3044\u306f\u81ea\u5206\u3067\u6599\u7406\u3059\u308b\u3067\u3047\u3059\uff01\u300d",
+    "Name": "トゥームストーン",
+    "Phrase": "「ふふん♪　口を開けて待ってるだけじゃごはんは食べられないでぇす、\\n　シャショさんも自分で食べるぶんぐらいは自分で料理するでぇす！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -887,30 +889,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 53301,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u308c\u3082\u305d\u3046\u3060\u3002\\n\u3068\u306f\u3044\u3048\u3001\u666e\u6bb5\u306f\u81ea\u708a\u3082\u3057\u306a\u3044\u304b\u3089\u3069\u3046\u3057\u305f\u3082\u306e\u304b\uff1f",
+    "Phrase": "それもそうだ。\\nとはいえ、普段は自炊もしないからどうしたものか？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -924,30 +926,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 53301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3",
-    "Phrase": "\u300c\u3042\u3063\u3001\u3058\u3083\u3042\u6559\u3048\u307e\u3059\u3088\u79c1\uff01\u3000\u3046\u3061\u306e\u4f8d\u5973\u306e\u30f4\u30a3\u30af\u30c8\u30ea\u30a2\u306b\u6559\u308f\u3063\u305f\u3001\\n\u3000\u3069\u308c\u3060\u3051\u4e71\u66b4\u3067\u3082\u30c9\u30b8\u3067\u3082\u5931\u6557\u3057\u306a\u3044\u30ec\u30b7\u30d4\u3068\u3044\u3046\u306e\u304c\u3042\u3063\u3066\u2026\u2026\uff01\u300d",
+    "Name": "パディントン",
+    "Phrase": "「あっ、じゃあ教えますよ私！　うちの侍女のヴィクトリアに教わった、\\n　どれだけ乱暴でもドジでも失敗しないレシピというのがあって……！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -961,30 +963,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 0,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u666e\u901a\u306e\u30ec\u30b7\u30d4\u3060\u3068\u5931\u6557\u3059\u308b\u3001\u3068\u3044\u3046\u524d\u63d0\u3063\u307d\u3044\u306e\u304c\u4e0d\u5b89\u3060\u306a\u3002",
+    "Phrase": "普通のレシピだと失敗する、という前提っぽいのが不安だな。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -998,30 +1000,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 0,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3",
-    "Phrase": "\u300c\u3060\u3001\u5927\u4e08\u592b\u3067\u3059\u3088\uff01\u3000\u597d\u304d\u3053\u305d\u7269\u306e\u4e0a\u624b\u306a\u308c\u3067\u3059\u3063\u3001\\n\u3000\u98df\u3044\u3057\u3093\u574a\u306e\u79c1\u306f\u6599\u7406\u3082\u5f97\u610f\u3063\u3066\u3053\u3068\u3067\u3059\u3088\uff01\u300d",
+    "Name": "パディントン",
+    "Phrase": "「だ、大丈夫ですよ！　好きこそ物の上手なれですっ、\\n　食いしん坊の私は料理も得意ってことですよ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1035,30 +1037,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 0,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
-    "Name": "\u30c8\u30a5\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3",
-    "Phrase": "\u300c\u3044\u3047\u3042\uff01\u3000\u3055\u3059\u304c\u3067\u3047\u3059\u30d5\u30af\u30c1\u30e7\u3055\u3093\u3063\u3001\u8ad6\u7406\u7684\u3067\u3047\u3059\uff01\u300d",
+    "Name": "トゥームストーン",
+    "Phrase": "「いぇあ！　さすがでぇすフクチョさんっ、論理的でぇす！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1072,30 +1074,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 53301,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3",
-    "Phrase": "\u300c\u306f\u3044\uff01\u3000\u305d\u308c\u306b\u79c1\u306e\u77e5\u8b58\u3068\u3001\u8eca\u638c\u3069\u306e\u306e\u6226\u7565\u773c\u304c\u5408\u308f\u3055\u308c\u3070\u7121\u6575\u3067\u3059\uff01\\n\u3000\u53f8\u4ee4\u5854\u306f\u304a\u9858\u3044\u3057\u307e\u3059\u306d\u8eca\u638c\u3069\u306e\u3063\u3001\\n\u3000\u5f79\u5272\u5206\u62c5\u3057\u3066\u6700\u9ad8\u306e\u6599\u7406\u3092\u3064\u304f\u3063\u3061\u3083\u3044\u307e\u3057\u3087\u3046\uff01\u300d",
+    "Name": "パディントン",
+    "Phrase": "「はい！　それに私の知識と、車掌どのの戦略眼が合わされば無敵です！\\n　司令塔はお願いしますね車掌どのっ、\\n　役割分担して最高の料理をつくっちゃいましょう！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1109,30 +1111,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 0,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
-    "Name": "\u30c8\u30a5\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3",
-    "Phrase": "\u300c\u3089\u3058\u3083\uff5e\uff01\u3000\u5f53\u7136\u308f\u305f\u3057\u3082\u304a\u624b\u4f1d\u3044\u3059\u308b\u3067\u3047\u3059\uff01\\n\u3000\u7f8e\u5473\u3057\u3044\u3051\u3047\u304d\u3092\u3064\u304f\u308a\u307e\u3057\u3087\u3046\u3001\u3051\u3047\u304d\u3092\uff01\u300d",
+    "Name": "トゥームストーン",
+    "Phrase": "「らじゃ～！　当然わたしもお手伝いするでぇす！\\n　美味しいけぇきをつくりましょう、けぇきを！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1146,30 +1148,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 53301,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3",
-    "Phrase": "\u300c\u3088\u3001\u591c\u4e2d\u306b\u305d\u3093\u306a\u9ad8\u30ab\u30ed\u30ea\u30fc\u306a\u3082\u306e\u98df\u3079\u305f\u3089\u592a\u3063\u3061\u3083\u3044\u307e\u3059\u3051\u3069\u306d\u3063\uff1f\u300d",
+    "Name": "パディントン",
+    "Phrase": "「よ、夜中にそんな高カロリーなもの食べたら太っちゃいますけどねっ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1183,30 +1185,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 0,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
-    "Name": "\u30c8\u30a5\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3",
-    "Phrase": "\u300c\u5927\u4e08\u592b\u3067\u3047\u3059\uff01\u3000\u307e\u308b\u307e\u308b\u592a\u3063\u3066\u305f\u307b\u3046\u304c\u98df\u3044\u3067\u304c\u3042\u308b\u3067\u3047\u3059\uff01\u300d",
+    "Name": "トゥームストーン",
+    "Phrase": "「大丈夫でぇす！　まるまる太ってたほうが食いでがあるでぇす！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1220,30 +1222,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 53301,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3",
-    "Phrase": "\u300c\u3042\u308c\u3063\u3001\u3082\u3057\u304b\u3057\u3066\u79c1\u3082\u98df\u6750\u306e\u3072\u3068\u3064\u3068\u3057\u3066\u6570\u3048\u3089\u308c\u3066\u307e\u3059\u304b!?\u300d",
+    "Name": "パディントン",
+    "Phrase": "「あれっ、もしかして私も食材のひとつとして数えられてますか!?」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1257,30 +1259,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 0,
         "Position": 3,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 36,
     "ViewOrder": 1,
-    "Name": "\u30c8\u30a5\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3",
-    "Phrase": "\u300c\u2015\u2015\u3048\u3078\u3078\u266a\u300d",
+    "Name": "トゥームストーン",
+    "Phrase": "「――えへへ♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1294,30 +1296,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 53301,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 37,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u4e0d\u610f\u306b\u30c8\u30a5\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3\u304c\u3001\u8fd1\u6240\u304b\u3089\u82e6\u60c5\u304c\u304d\u305d\u3046\u306a\u307b\u3069\u9a12\u304e\u306a\u304c\u3089\u3001\\n\u5b09\u3057\u305d\u3046\u306b\u3053\u3061\u3089\u3068\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3\u306e\u4e21\u8155\u3092\u5df1\u306b\u5f15\u304d\u5bc4\u305b\u3066\u7b11\u3063\u305f\u3002",
+    "Phrase": "不意にトゥームストーンが、近所から苦情がきそうなほど騒ぎながら、\\n嬉しそうにこちらとパディントンの両腕を己に引き寄せて笑った。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1331,30 +1333,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 53301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 38,
     "ViewOrder": 1,
-    "Name": "\u30c8\u30a5\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3",
-    "Phrase": "\u300c\u308f\u305f\u3057\u3001\u4eca\u3068\u3063\u3066\u3082\u300e\u306f\u3063\u3074\u3043\u300f\u3067\u3047\u3059\uff01\\n\u3000\u697d\u3057\u304f\u3066\u5b09\u3057\u304f\u3066\u308f\u3051\u308f\u304b\u3093\u306a\u3044\u3050\u3089\u3044\u3067\u3047\u3059\uff01\\n\u3000\u3053\u3093\u306a\u306e\u3001\u751f\u307e\u308c\u3066\u521d\u3081\u3066\u3067\u3047\u3059\u2015\u2015\u300d",
+    "Name": "トゥームストーン",
+    "Phrase": "「わたし、今とっても『はっぴぃ』でぇす！\\n　楽しくて嬉しくてわけわかんないぐらいでぇす！\\n　こんなの、生まれて初めてでぇす――」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1368,30 +1370,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 53301,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 39,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3093\u306a\u3075\u3046\u306b\u8a00\u3063\u3066\u306f\u306b\u304b\u3080\u5f7c\u5973\u3092\u898b\u3066\u3001\u5f53\u7136\u3001\\n\u3053\u3061\u3089\u3082\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3\u3082\u751f\u6daf\u3067\u3044\u3061\u3070\u3093\u5f35\u308a\u5207\u3063\u3066\u6599\u7406\u3092\u3057\u305f\u306e\u3060\u3063\u305f\u3002",
+    "Phrase": "そんなふうに言ってはにかむ彼女を見て、当然、\\nこちらもパディントンも生涯でいちばん張り切って料理をしたのだった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1405,21 +1407,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 40,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u6211\u3005\u306e\u3088\u3046\u306a\u795e\u5b50\u306f\u3001\u795e\u3068\u4eba\u3092\u7e4b\u3050\u306e\u304c\u304a\u5f79\u76ee\u3060\u3002\\n\u306a\u3089\u3070\u795e\u3088\u3001\u3082\u3057\u3082\u3053\u3061\u3089\u306e\u58f0\u304c\u805e\u3053\u3048\u3066\u3044\u308b\u306a\u3089\u3001\\n\u3069\u3046\u304b\u4e0d\u5e78\u306a\u534a\u751f\u3092\u904e\u3054\u3057\u305f\u3053\u306e\u5b50\u306e\u5c06\u6765\u306b\u5e78\u3044\u3057\u304b\u306a\u3044\u3088\u3046\u306b\u2015\u2015\\n\u3068\u7948\u3089\u305b\u3066\u307b\u3057\u3044\u3002\u3053\u306e\u9858\u3044\u3092\u53f6\u3048\u3066\u307b\u3057\u3044\u3002",
+    "Phrase": "我々のような神子は、神と人を繋ぐのがお役目だ。\\nならば神よ、もしもこちらの声が聞こえているなら、\\nどうか不幸な半生を過ごしたこの子の将来に幸いしかないように――\\nと祈らせてほしい。この願いを叶えてほしい。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1433,21 +1436,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 41,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u7b2c\u4e09\u8a71\u306b\u3064\u3065\u304f\u3002",
+    "Phrase": "第三話につづく。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1461,14 +1465,14 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u3084\u3063\u305f\uff01\u3000\u5de8\u5927\u30b4\u30fc\u30ec\u30e0\u306e\u52d5\u304d\u304c\u6b62\u307e\u3063\u305f\u308f\uff01\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「やった！　巨大ゴーレムの動きが止まったわ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,30 +17,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u3001\u3084\u308a\u307e\u3057\u305f\u306d\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「ブルターニュ、やりましたね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -54,38 +54,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u3048\u3048\u3002\u68ee\u756a\u306e\u52d9\u3081\u3001\u679c\u305f\u305b\u307e\u3057\u305f\u306d\u3002\u3067\u3059\u304c\u2026\u2026\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「ええ。森番の務め、果たせましたね。ですが……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -99,38 +99,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u304c\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3002\\n\u5de8\u5927\u30b4\u30fc\u30ec\u30e0\u306f\u6b62\u3081\u305f\u304c\u3001\u3044\u307e\u3060\u96f7\u96f2\u306f\u7a7a\u306b\u6e26\u5dfb\u3044\u3066\u3044\u305f\u3002",
+    "Phrase": "ブルターニュが空を見上げる。\\n巨大ゴーレムは止めたが、いまだ雷雲は空に渦巻いていた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -144,21 +144,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u305d\u3093\u306a\u3001\u6b62\u3081\u305f\u306e\u306b\u96f2\u304c\u6d88\u3048\u306a\u3044\u306a\u3093\u3066\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「そんな、止めたのに雲が消えないなんて」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -172,30 +173,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33201,
         "Position": 3,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u3042\u304f\u307e\u3067\u547c\u3073\u5bc4\u305b\u305f\u306e\u306f\u3001\\n\u3000\u9b54\u6cd5\u306a\u3069\u306e\u7523\u7269\u3067\u306f\u306a\u304f\u81ea\u7136\u73fe\u8c61\u3001\u3068\u3044\u3046\u3053\u3068\u3067\u3059\u304b\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「あくまで呼び寄せたのは、\\n　魔法などの産物ではなく自然現象、ということですか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -209,38 +210,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u30df\u30cb\u30df\u30cb\u30ed\u30c3\u30afP",
-    "Phrase": "\u300c\u3074\u3063\u3074\u3063\u3074\u30fc\u3063\u266a\u300d",
+    "Name": "ミニミニロックP",
+    "Phrase": "「ぴっぴっぴーっ♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -254,30 +255,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 135,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u306a\u3063\u2026\u2026\uff01\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「なっ……！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -291,38 +292,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 1,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u3069\u3046\u3057\u305f\u3093\u3067\u3059\u304b\u3001\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u3002\\n\u3000\u4eca\u5ea6\u306f\u3044\u3063\u305f\u3044\u4f55\u304c\u3042\u3063\u305f\u3093\u3067\u3059\uff1f\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「どうしたんですか、ブルターニュ。\\n　今度はいったい何があったんです？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -336,38 +337,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 5,
         "Emotion": 8,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u300e\u3055\u3042\u3001\u6249\u304c\u964d\u3063\u3066\u304d\u307e\u3059\u3088\u300f\u3068\u2026\u2026\u305d\u3046\u8a00\u308f\u308c\u307e\u3057\u305f\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「『さあ、扉が降ってきますよ』と……そう言われました」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -381,38 +382,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u7570\u754c\u306e\u6249\u306f\u5b8c\u6210\u3057\u3066\u3044\u305f\u3063\u3066\u3053\u3068\uff01\uff1f\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「異界の扉は完成していたってこと！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -426,30 +427,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u5145\u5206\u306a\u91cf\u306e\u96f7\u96f2\u3092\u547c\u3073\u5bc4\u305b\u3089\u308c\u305f\u3001\u3068\u3044\u3046\u3053\u3068\u306a\u306e\u3067\u3057\u3087\u3046\u3002\\n\u3000\u3082\u3046\u6249\u306f\u306a\u304f\u306a\u3063\u305f\u3068\u601d\u3063\u305f\u3093\u3067\u3059\u304c\u2026\u2026\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「充分な量の雷雲を呼び寄せられた、ということなのでしょう。\\n　もう扉はなくなったと思ったんですが……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -463,30 +464,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u306e\u77b3\u304c\u63fa\u308c\u308b\u3002",
+    "Phrase": "ブルターニュの瞳が揺れる。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -500,30 +501,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u304d\u3063\u3068\u3001\u5de8\u5927\u30b4\u30fc\u30ec\u30e0\u3092\u6b62\u3081\u308b\u6642\u306b\u3001\\n\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u306f\u4e00\u5ea6\u306f\u7570\u754c\u306e\u6249\u3092\u8ae6\u3081\u305f\u306e\u3060\u308d\u3046\u3002\\n\u305d\u308c\u306a\u306e\u306b\u3001\u518d\u3073\u30c6\u30fc\u30d6\u30eb\u304c\u3072\u3063\u304f\u308a\u8fd4\u3063\u305f\u3002",
+    "Phrase": "きっと、巨大ゴーレムを止める時に、\\nブルターニュは一度は異界の扉を諦めたのだろう。\\nそれなのに、再びテーブルがひっくり返った。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -537,21 +538,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u8ab0\u3060\u3063\u3066\u3001\u8ae6\u3081\u305f\u3082\u306e\u3092\u6539\u3081\u3066\u76ee\u306e\u524d\u306b\u51fa\u3055\u308c\u305f\u3089\u3001\\n\u63fa\u3089\u3044\u3067\u3057\u307e\u3046\u3082\u306e\u3060\u3002",
+    "Phrase": "誰だって、諦めたものを改めて目の前に出されたら、\\n揺らいでしまうものだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -565,21 +567,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u79c1\u306f\u3001\u305d\u308c\u304c\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u306e\u9858\u3044\u3067\u3042\u308b\u3068\u3044\u3046\u306a\u3089\u3001\u6b62\u3081\u307e\u305b\u3093\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「私は、それがブルターニュの願いであるというなら、止めません」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -593,38 +596,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u30ec\u30f3\u30cc\u2026\u2026\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「レンヌ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -638,38 +641,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u3060\u3063\u3066\u3053\u308c\u306f\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u306e\u60b2\u9858\u3058\u3083\u306a\u3044\u3067\u3059\u304b\u3002\\n\u3000\u30b7\u30e3\u30ca\u65cf\u306e\u5834\u6240\u3078\u3068\u884c\u3051\u308b\u3093\u3067\u3059\u3088\uff1f\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「だってこれはブルターニュの悲願じゃないですか。\\n　シャナ族の場所へと行けるんですよ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -683,38 +686,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u3082\u3061\u308d\u3093\u5bc2\u3057\u3044\u3067\u3059\u3088\u3002\\n\u3000\u3067\u3082\u3001\u305a\u3063\u3068\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u304c\u6c42\u3081\u3066\u3044\u305f\u3053\u3068\u3067\u3059\u3002\\n\u3000\u79c1\u306f\u3042\u306a\u305f\u306e\u5922\u3092\u58ca\u3057\u305f\u304f\u306a\u3093\u3066\u3042\u308a\u307e\u305b\u3093\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「もちろん寂しいですよ。\\n　でも、ずっとブルターニュが求めていたことです。\\n　私はあなたの夢を壊したくなんてありません」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -728,38 +731,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u5fc3\u6b8b\u308a\u304c\u3042\u308b\u3068\u3059\u308c\u3070\u3001\u30ea\u30f3\u30b4\u306e\u30ac\u30ec\u30c3\u30c8\u3092\\n\u3000\u3082\u3046\u4e00\u5ea6\u98df\u3079\u3055\u305b\u3066\u3042\u3052\u3089\u308c\u306a\u304b\u3063\u305f\u3053\u3068\u3067\u3059\u304c\u2026\u2026\u3002\\n\u3000\u305d\u306e\u6642\u9593\u306f\u3082\u3046\u306a\u3044\u307f\u305f\u3044\u3067\u3059\u306d\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「心残りがあるとすれば、リンゴのガレットを\\n　もう一度食べさせてあげられなかったことですが……。\\n　その時間はもうないみたいですね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -773,38 +776,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u307b\u3089\u3001\u3082\u3046\u3059\u3050\u96f7\u304c\u843d\u3061\u3066\u304d\u307e\u3059\u3088\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「ほら、もうすぐ雷が落ちてきますよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -818,38 +821,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u306d\u3048\u8eca\u638c\u3001\\n\u3000\u3042\u305f\u3057\u3001\u3084\u3063\u3071\u308a\u5bc2\u3057\u3044\u308f\u3002\\n\u3000\u4f55\u3068\u304b\u306a\u3089\u306a\u3044\u306e\u2026\u2026\uff1f\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「ねえ車掌、\\n　あたし、やっぱり寂しいわ。\\n　何とかならないの……？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -863,30 +866,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3053\u3061\u3089\u3082\u30eb\u30fc\u30a2\u30f3\u3068\u540c\u3058\u3088\u3046\u306b\u5bc2\u3057\u3044\u3002\\n\u3060\u304c\u3053\u308c\u306f\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u3068\u30ec\u30f3\u30cc\u306e\u554f\u984c\u3060\u3002\\n\u4e8c\u4eba\u304c\u6c7a\u3081\u308b\u3053\u3068\u306a\u3093\u3060\u2026\u2026\u3002",
+    "Phrase": "こちらもルーアンと同じように寂しい。\\nだがこれはブルターニュとレンヌの問題だ。\\n二人が決めることなんだ……。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -900,30 +903,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u30ec\u30f3\u30cc\u2026\u2026\u79c1\u306f\u2026\u2026\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「レンヌ……私は……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -937,38 +940,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u5f8c\u306e\u3053\u3068\u306f\u79c1\u306b\u4efb\u305b\u3066\u4e0b\u3055\u3044\u3002\\n\u3000\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u306f\u5145\u5206\u3001\u68ee\u756a\u3068\u3057\u3066\u306e\u52d9\u3081\u3092\u679c\u305f\u3057\u3066\u304f\u308c\u307e\u3057\u305f\u3002\\n\u3000\u3061\u3083\u3093\u3068\u307f\u3093\u306a\u3082\u7d0d\u5f97\u3057\u3066\u304f\u308c\u307e\u3059\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「後のことは私に任せて下さい。\\n　ブルターニュは充分、森番としての務めを果たしてくれました。\\n　ちゃんとみんなも納得してくれます」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -982,38 +985,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u3044\u3063\u3066\u3089\u3063\u3057\u3083\u3044\u3001\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「いってらっしゃい、ブルターニュ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1027,30 +1030,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 7,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u7b54\u3048\u3092\u51fa\u305b\u306a\u3044\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u306e\u80a9\u3092\u3001\\n\u30ec\u30f3\u30cc\u304c\u305d\u3063\u3068\u512a\u3057\u304f\u62bc\u3059\u3002",
+    "Phrase": "答えを出せないブルターニュの肩を、\\nレンヌがそっと優しく押す。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1064,30 +1067,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u306f\u305d\u3093\u306a\u30ec\u30f3\u30cc\u306e\u899a\u609f\u306b\u9006\u3089\u3048\u306a\u3044\u3068\u3070\u304b\u308a\u306b\u3001\\n\u529b\u306a\u3044\u8db3\u53d6\u308a\u3067\u3001\u5de8\u5927\u30b4\u30fc\u30ec\u30e0\u306e\u8fd1\u304f\u307e\u3067\u6b69\u307f\u3092\u9032\u3081\u305f\u3002",
+    "Phrase": "ブルターニュはそんなレンヌの覚悟に逆らえないとばかりに、\\n力ない足取りで、巨大ゴーレムの近くまで歩みを進めた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1101,30 +1104,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 3,
         "Action": 7,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u7279\u5927\u306e\u96f7\u306e\u4e88\u5146\u306a\u306e\u304b\u3001\u96f7\u96f2\u304c\u8352\u3076\u308b\u3088\u3046\u306b\u6e26\u5dfb\u304f\u3002",
+    "Phrase": "特大の雷の予兆なのか、雷雲が荒ぶるように渦巻く。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1138,30 +1141,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u3055\u3042\u8eca\u638c\u3055\u3093\u3001\u30eb\u30fc\u30a2\u30f3\u3055\u3093\u3002\\n\u3000\u79c1\u305f\u3061\u306f\u5dfb\u304d\u8fbc\u307e\u308c\u306a\u3044\u3088\u3046\u306b\u5c11\u3057\u96e2\u308c\u307e\u3057\u3087\u3046\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「さあ車掌さん、ルーアンさん。\\n　私たちは巻き込まれないように少し離れましょう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1175,30 +1178,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 8,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3046\u8a00\u3044\u306a\u304c\u3089\u3001\\n\u30ec\u30f3\u30cc\u304c\u3053\u3061\u3089\u306e\u8155\u3092\u5f15\u3063\u5f35\u3063\u3066\u8db3\u65e9\u306b\u96e2\u308c\u308b\u3002",
+    "Phrase": "そう言いながら、\\nレンヌがこちらの腕を引っ張って足早に離れる。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1212,30 +1215,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u30ec\u30f3\u30cc\u2026\u2026\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「レンヌ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1249,38 +1252,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 33201,
         "Position": 4,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u307b\u3089\u3001\u79c1\u305f\u3061\u3082\u7b11\u3063\u3066\u898b\u9001\u3063\u3066\u3042\u3052\u306a\u3044\u3068\u3044\u3051\u307e\u305b\u3093\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「ほら、私たちも笑って見送ってあげないといけません」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1294,38 +1297,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 33201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u3058\u3083\u306a\u3044\u3068\u3001\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u3092\u5fc3\u914d\u3055\u305b\u3066\u3057\u307e\u3044\u307e\u3059\u2026\u2026\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「じゃないと、ブルターニュを心配させてしまいます……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1339,38 +1342,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 33201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u2026\u2026\u3046\u3001\u3046\u3045\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「……う、うぅ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1384,38 +1387,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 2,
         "Action": 2,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 33201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 36,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u3084\u3063\u3071\u308a\u5acc\u3041\u3063\uff01\uff01\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「やっぱり嫌ぁっ！！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1429,21 +1432,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 37,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u6d99\u3092\u6ea2\u308c\u3055\u305b\u306a\u304c\u3089\u3001\\n\u30ec\u30f3\u30cc\u304c\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u3078\u3068\u99c6\u3051\u51fa\u3059\u3002",
+    "Phrase": "涙を溢れさせながら、\\nレンヌがブルターニュへと駆け出す。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1457,21 +1461,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 38,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u5acc\u3001\u5acc\u3067\u3059\u3053\u3093\u306a\u306e\u3063\uff01\\n\u3000\u3069\u3046\u3057\u3066\u4eca\u304a\u5225\u308c\u3057\u306a\u304d\u3083\u3044\u3051\u306a\u3044\u3093\u3067\u3059\u304b\u3063\uff01\\n\u3000\u3042\u307e\u308a\u306b\u3082\u7a81\u7136\u3059\u304e\u308b\u3058\u3083\u306a\u3044\u3067\u3059\u304b\uff01\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「嫌、嫌ですこんなのっ！\\n　どうして今お別れしなきゃいけないんですかっ！\\n　あまりにも突然すぎるじゃないですか！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1485,21 +1490,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 39,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u91cc\u5e30\u308a\u3059\u308b\u3063\u3066\u8a00\u3063\u305f\u3058\u3083\u3042\u308a\u307e\u305b\u3093\u304b\uff01\\n\u3000\u5f8c\u3067\u30ac\u30ec\u30c3\u30c8\u98df\u3079\u307e\u3057\u3087\u3046\u3063\u3066\u8a00\u3063\u305f\u3058\u3083\u306a\u3044\u3067\u3059\u304b\uff01\\n\u3000\u68ee\u756a\u3092\u52e4\u3081\u3042\u3052\u308b\u3063\u3066\u8a00\u3063\u3066\u305f\u3058\u3083\u306a\u3044\u3067\u3059\u304b\uff01\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「里帰りするって言ったじゃありませんか！\\n　後でガレット食べましょうって言ったじゃないですか！\\n　森番を勤めあげるって言ってたじゃないですか！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1513,21 +1519,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 40,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u6700\u5f8c\u307e\u3067\u3042\u306a\u305f\u306e\u5922\u3092\u5fdc\u63f4\u3057\u305f\u304b\u3063\u305f\u3067\u3059\u3001\\n\u3000\u3067\u3082\u3001\u3067\u3082\u3084\u3063\u3071\u308a\u79c1\u306b\u306f\u7121\u7406\u3067\u3059\uff01\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「最後まであなたの夢を応援したかったです、\\n　でも、でもやっぱり私には無理です！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1541,21 +1548,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 41,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u3060\u3063\u3066\u79c1\u306f\u3001\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u3068\u3082\u3063\u3068\u4e00\u7dd2\u306b\u3044\u305f\u3044\u3063\uff01\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「だって私は、ブルターニュともっと一緒にいたいっ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1569,21 +1577,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 42,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u6ce3\u304d\u3058\u3083\u304f\u308a\u306a\u304c\u3089\u3001\\n\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u306e\u5143\u3078\u8fbf\u308a\u7740\u3053\u3046\u3068\u30ec\u30f3\u30cc\u304c\u5fc5\u6b7b\u306b\u99c6\u3051\u308b\u3002",
+    "Phrase": "泣きじゃくりながら、\\nブルターニュの元へ辿り着こうとレンヌが必死に駆ける。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1597,21 +1606,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 43,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u306e\u6642\u3001\u4e00\u77ac\u306b\u3057\u3066\u7a7a\u6c17\u304c\u3056\u308f\u3064\u3044\u305f\u3002\\n\u5168\u54e1\u306e\u9aea\u306e\u6bdb\u304c\u3001\u6e26\u5dfb\u304f\u96f2\u306e\u4e2d\u5fc3\u306b\u5438\u3044\u8fbc\u307e\u308c\u308b\u304b\u306e\u3088\u3046\u306b\u9006\u7acb\u3064\u3002",
+    "Phrase": "その時、一瞬にして空気がざわついた。\\n全員の髪の毛が、渦巻く雲の中心に吸い込まれるかのように逆立つ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1625,21 +1635,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 44,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u9ed2\u304f\u6e26\u5dfb\u304f\u96f2\u306e\u4e2d\u5fc3\u306b\u3001\u5149\u304c\u751f\u307e\u308c\u2015\u2015",
+    "Phrase": "黒く渦巻く雲の中心に、光が生まれ――",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1653,21 +1664,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 45,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u884c\u304b\u306a\u3044\u3067\u3001\u304a\u59c9\u3061\u3083\u3093\uff01\uff01\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「行かないで、お姉ちゃん！！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1681,21 +1693,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 46,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u30ec\u30f3\u30cc\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「レンヌ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1709,21 +1722,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 47,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u77b3\u3092\u9589\u3058\u3066\u3082\u306a\u304a\u3001\u7db2\u819c\u3092\u8cab\u304f\u5149\u306e\u5954\u6d41\u306e\u3042\u3068\u3002\\n\u3069\u3046\u306b\u304b\u76ee\u3092\u958b\u304f\u3068\u3001\u9ed2\u7159\u3068\u571f\u7159\u304c\u5165\u308a\u6df7\u3058\u3063\u3066\u8fba\u308a\u306b\u5145\u6e80\u3057\u3066\u3044\u305f\u3002",
+    "Phrase": "瞳を閉じてもなお、網膜を貫く光の奔流のあと。\\nどうにか目を開くと、黒煙と土煙が入り混じって辺りに充満していた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1737,21 +1751,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 48,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u3068\u30ec\u30f3\u30cc\u306f\u3069\u3046\u306a\u3063\u305f\u306e\u304b\u3002\\n\u4e00\u7dd2\u306b\u65c5\u7acb\u3063\u3066\u3057\u307e\u3063\u305f\u306e\u304b\u3001\u305d\u308c\u3068\u3082\u2015\u2015",
+    "Phrase": "ブルターニュとレンヌはどうなったのか。\\n一緒に旅立ってしまったのか、それとも――",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1765,21 +1780,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 49,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3044\u3051\u306a\u3044\u3001\u60aa\u3044\u60f3\u50cf\u306a\u3093\u3066\u3057\u3066\u305f\u307e\u308b\u3082\u306e\u304b\u3002",
+    "Phrase": "いけない、悪い想像なんてしてたまるものか。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1793,21 +1809,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 50,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u76ee\u3092\u7d30\u3081\u3066\u5fc5\u6b7b\u306b\u63a2\u3059\u3002\\n\u3068\u3001\u7159\u306e\u5411\u3053\u3046\u306b\u4eba\u5f71\u304c\u898b\u3048\u305f\u3002",
+    "Phrase": "目を細めて必死に探す。\\nと、煙の向こうに人影が見えた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1821,21 +1838,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 51,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u8eca\u638c\uff01\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「車掌！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1849,30 +1867,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33201,
         "Position": 3,
         "Action": 7,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 52,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u96a3\u306e\u30eb\u30fc\u30a2\u30f3\u3068\u9837\u304d\u5408\u3063\u3066\u3001\u4eba\u5f71\u306b\u5411\u304b\u3063\u3066\u99c6\u3051\u51fa\u3059\u3002",
+    "Phrase": "隣のルーアンと頷き合って、人影に向かって駆け出す。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1886,30 +1904,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 53,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\uff01\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「ブルターニュ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1923,30 +1941,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33201,
         "Position": 3,
         "Action": 8,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 54,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u304a\u4e8c\u4eba\u3068\u3082\u3001\u7121\u4e8b\u3067\u3057\u305f\u304b\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「お二人とも、無事でしたか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1960,30 +1978,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 3,
         "Action": 8,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 55,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u3048\u3001\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u304c\u30ec\u30f3\u30cc\u3092\u62b1\u304d\u3057\u3081\u3066\u2026\u2026\uff1f\\n\u3000\u307e\u3055\u304b\u3001\u30ec\u30f3\u30cc\u3060\u3051\u304c\u96f7\u306b\u6253\u305f\u308c\u3066\uff01\uff1f\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「え、ブルターニュがレンヌを抱きしめて……？\\n　まさか、レンヌだけが雷に打たれて！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1997,30 +2015,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33201,
         "Position": 3,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 56,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u5fc3\u914d\u3057\u306a\u3044\u3067\u5927\u4e08\u592b\u3067\u3059\u3088\u3001\u30eb\u30fc\u30a2\u30f3\u3055\u3093\u3002\\n\u3000\u3053\u306e\u5b50\u304c\u96f7\u306b\u5dfb\u304d\u8fbc\u307e\u308c\u305d\u3046\u3060\u3063\u305f\u306e\u3067\u3001\u52a9\u3051\u305f\u3093\u3067\u3059\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「心配しないで大丈夫ですよ、ルーアンさん。\\n　この子が雷に巻き込まれそうだったので、助けたんです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2034,30 +2052,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 57,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u305d\u3001\u305d\u3046\u3060\u3063\u305f\u306e\u3002\u3088\u304b\u3063\u305f\u308f\u2026\u2026\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「そ、そうだったの。よかったわ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2071,30 +2089,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33201,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 58,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u3046\u3046\u3093\u2026\u2026\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「ううん……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2108,30 +2126,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 59,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u3042\u308c\u2026\u2026\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u304c\u3044\u307e\u3059\u3002\\n\u3000\u3082\u3057\u304b\u3057\u3066\u79c1\u3082\u3001\u6249\u3092\u901a\u3063\u3066\u3057\u307e\u3044\u307e\u3057\u305f\u304b\u2026\u2026\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「あれ……ブルターニュがいます。\\n　もしかして私も、扉を通ってしまいましたか……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2145,38 +2163,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 1,
         "EnterAction": 2
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 60,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u9055\u3044\u307e\u3059\u3088\u30ec\u30f3\u30cc\u3002\\n\u3000\u3053\u3053\u306f\u30a4\u30ea\u30b9\u30af\u30e9\u30a6\u30c9\u306e\u30f4\u30a7\u30eb\u30d5\u30a9\u30ec\u30c3\u30c8\u3001\\n\u3000\u30d6\u30ed\u30bb\u30ea\u30a2\u30f3\u30c8\u306e\u68ee\u306e\u5357\u3001\u7570\u754c\u306e\u6249\u306e\u907a\u8de1\u3067\u3059\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「違いますよレンヌ。\\n　ここはイリスクラウドのヴェルフォレット、\\n　ブロセリアントの森の南、異界の扉の遺跡です」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2190,38 +2208,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 61,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u305d\u308c\u3058\u3083\u3042\u3001\u884c\u304b\u306a\u304b\u3063\u305f\u3093\u3067\u3059\u304b\u2026\u2026\uff1f\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「それじゃあ、行かなかったんですか……？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2235,38 +2253,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 62,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u3042\u3042\u305d\u3046\u304b\u3001\u79c1\u306e\u305b\u3044\u3067\u3059\u306d\u3002\\n\u3000\u79c1\u304c\u98db\u3073\u51fa\u3057\u3066\u3057\u307e\u3063\u305f\u304b\u3089\u2026\u2026\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「ああそうか、私のせいですね。\\n　私が飛び出してしまったから……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2280,38 +2298,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 3,
         "Emotion": 2,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 63,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u529b\u306a\u304f\u545f\u304f\u30ec\u30f3\u30cc\u3092\u3001\\n\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u304c\u3082\u3046\u4e00\u5ea6\u529b\u5f37\u304f\u62b1\u304d\u3057\u3081\u308b\u3002",
+    "Phrase": "力なく呟くレンヌを、\\nブルターニュがもう一度力強く抱きしめる。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2325,38 +2343,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 64,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u3054\u3081\u3093\u306a\u3055\u3044\u30ec\u30f3\u30cc\u3002\\n\u3000\u79c1\u306f\u3042\u306a\u305f\u306e\u6c17\u6301\u3061\u3082\u8003\u3048\u305a\u3001\\n\u3000\u3068\u3066\u3082\u52dd\u624b\u306a\u3053\u3068\u3092\u3057\u3066\u3057\u307e\u3044\u307e\u3057\u305f\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「ごめんなさいレンヌ。\\n　私はあなたの気持ちも考えず、\\n　とても勝手なことをしてしまいました」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2370,38 +2388,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 65,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u4f55\u8a00\u3063\u3066\u308b\u3093\u3067\u3059\u304b\u3002\\n\u3000\u305d\u308c\u306f\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u306e\u60b2\u9858\u3060\u3063\u305f\u3093\u3067\u3059\u304b\u3089\u3001\u3044\u3044\u3093\u3067\u3059\u3088\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「何言ってるんですか。\\n　それはブルターニュの悲願だったんですから、いいんですよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2415,38 +2433,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 66,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u3044\u3044\u3048\u3002\u5bb6\u65cf\u306e\u3042\u306a\u305f\u3092\u306a\u3044\u304c\u3057\u308d\u306b\u3057\u3066\u307e\u3067\u3001\\n\u3000\u53f6\u3048\u305f\u3044\u9858\u3044\u306a\u3093\u3066\u3001\u306a\u304b\u3063\u305f\u3093\u3067\u3059\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「いいえ。家族のあなたをないがしろにしてまで、\\n　叶えたい願いなんて、なかったんです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2460,38 +2478,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 67,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u6249\u304c\u73fe\u308c\u308b\u3068\u5206\u304b\u3063\u305f\u6642\u3001\\n\u3000\u79c1\u306e\u5fc3\u304c\u4e00\u77ac\u63fa\u3089\u3044\u3060\u306e\u306f\u78ba\u304b\u3067\u3059\u3002\\n\u3000\u3067\u3059\u304c\u3001\u3084\u3063\u3071\u308a\u3053\u3053\u306b\u3044\u305f\u3044\u3063\u3066\u601d\u3044\u307e\u3057\u305f\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「扉が現れると分かった時、\\n　私の心が一瞬揺らいだのは確かです。\\n　ですが、やっぱりここにいたいって思いました」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2505,38 +2523,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 68,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u3060\u3063\u3066\u79c1\u306b\u3068\u3063\u3066\u306e\u4eca\u306e\u5bb6\u65cf\u306f\u3001\\n\u3000\u30ec\u30f3\u30cc\u3084\u304a\u6bcd\u3055\u307e\u3001\u30d6\u30ed\u30bb\u30ea\u30a2\u30f3\u30c8\u306e\u307f\u306a\u3055\u3093\u306a\u3093\u3067\u3059\u304b\u3089\u3002\\n\u3000\u5bb6\u65cf\u3092\u60b2\u3057\u307e\u305b\u308b\u306a\u3093\u3066\u3001\u79c1\u306f\u3057\u305f\u304f\u3042\u308a\u307e\u305b\u3093\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「だって私にとっての今の家族は、\\n　レンヌやお母さま、ブロセリアントのみなさんなんですから。\\n　家族を悲しませるなんて、私はしたくありません」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2550,38 +2568,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 69,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u2026\u2026\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「ブルターニュ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2595,38 +2613,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 70,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u3082\u3061\u308d\u3093\u3001\u8840\u7e01\u8005\u3092\u63a2\u3057\u305f\u3044\u3068\u3044\u3046\u6c17\u6301\u3061\u306f\u3042\u308a\u307e\u3059\u3002\\n\u3000\u305d\u3053\u306b\u3064\u3044\u3066\u3001\u5618\u306f\u3064\u3051\u307e\u305b\u3093\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「もちろん、血縁者を探したいという気持ちはあります。\\n　そこについて、嘘はつけません」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2640,38 +2658,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 71,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u3067\u3059\u304c\u4f55\u304c\u3042\u308d\u3046\u3068\u3001\u3042\u306a\u305f\u306f\u79c1\u306e\u5927\u5207\u306a\u59b9\u3067\u3059\u3002\\n\u3000\u3053\u306e\u5148\u305f\u3068\u3048\u30b7\u30e3\u30ca\u65cf\u306e\u3044\u308b\u3068\u3053\u308d\u306b\u8fbf\u308a\u7740\u3053\u3046\u3068\u3082\u3001\\n\u3000\u3061\u3083\u3093\u3068\u3042\u306a\u305f\u306e\u3082\u3068\u306b\u5e30\u3063\u3066\u304d\u307e\u3059\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「ですが何があろうと、あなたは私の大切な妹です。\\n　この先たとえシャナ族のいるところに辿り着こうとも、\\n　ちゃんとあなたのもとに帰ってきます」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2685,38 +2703,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 72,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u2026\u2026\u672c\u5f53\u3067\u3059\u304b\uff1f\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「……本当ですか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2730,38 +2748,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 73,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u3048\u3048\u3001\u672c\u5f53\u3067\u3059\u3088\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「ええ、本当ですよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2775,38 +2793,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 74,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u305d\u308c\u306b\u79c1\u306f\u300e\u304a\u59c9\u3061\u3083\u3093\u300f\u3068\u547c\u3076\u3088\u3046\u306a\u3001\\n\u3000\u7518\u3048\u3093\u574a\u306e\u59b9\u304c\u53ef\u611b\u304f\u3066\u4ed5\u65b9\u306a\u3044\u3067\u3059\u304b\u3089\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「それに私は『お姉ちゃん』と呼ぶような、\\n　甘えん坊の妹が可愛くて仕方ないですから」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2820,38 +2838,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 75,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u305d\u3001\u305d\u3093\u306a\u3053\u3068\u8a00\u3063\u305f\u899a\u3048\u306f\u3042\u308a\u307e\u305b\u3093\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「そ、そんなこと言った覚えはありません」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2865,38 +2883,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 1,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 76,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u3058\u3083\u3042\u9583\u5149\u304c\u898b\u305b\u305f\u5e7b\u3060\u3063\u305f\u306e\u304b\u3082\u3057\u308c\u307e\u305b\u3093\u306d\u3002\\n\u3000\u3068\u306b\u304b\u304f\u79c1\u306f\u3042\u306e\u77ac\u9593\u3001\u3068\u3066\u3082\u5e78\u305b\u3067\u3057\u305f\u3088\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「じゃあ閃光が見せた幻だったのかもしれませんね。\\n　とにかく私はあの瞬間、とても幸せでしたよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2910,38 +2928,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 77,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u304a\u59c9\u3061\u3083\u3093\u306e\u3044\u3058\u308f\u308b\u2026\u2026\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「お姉ちゃんのいじわる……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2955,38 +2973,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 3,
         "Emotion": 6,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 78,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u3058\u3083\u3042\u30ec\u30f3\u30cc\u3001\u7d04\u675f\u901a\u308a\u30ac\u30ec\u30c3\u30c8\u3092\u9802\u304d\u305f\u3044\u306e\u3067\u3059\u304c\u2026\u2026\\n\u3000\u307e\u3060\u6b8b\u3063\u3066\u3044\u307e\u3059\u304b\uff1f\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「じゃあレンヌ、約束通りガレットを頂きたいのですが……\\n　まだ残っていますか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3000,38 +3018,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 79,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u3042\uff01\u3000\u305d\u3046\u3044\u3048\u3070\u4f5c\u3063\u3066\u308b\u6642\u9593\u306a\u304b\u3063\u305f\u308f\u306d\u3001\u30ec\u30f3\u30cc\uff01\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「あ！　そういえば作ってる時間なかったわね、レンヌ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3045,30 +3063,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 33201,
         "Position": 3,
         "Action": 1,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 80,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u3069\u3045\u3075\u3075\u2026\u2026\u79c1\u3092\u8ab0\u3060\u3068\u601d\u3063\u3066\u3044\u308b\u3093\u3067\u3059\u3002\\n\u3000\u79c1\u3068\u8a00\u3048\u3070\u30ac\u30ec\u30c3\u30c8\u3001\u30ac\u30ec\u30c3\u30c8\u3068\u8a00\u3048\u3070\u79c1\u3067\u3059\u3088\u3002\\n\u3000\u3059\u3050\u306b\u4f5c\u3063\u3066\u307f\u305b\u307e\u3057\u3087\u3046\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「どぅふふ……私を誰だと思っているんです。\\n　私と言えばガレット、ガレットと言えば私ですよ。\\n　すぐに作ってみせましょう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3082,30 +3100,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 81,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3046\u8a00\u3063\u3066\u3001\u5143\u6c17\u3092\u53d6\u308a\u623b\u3057\u305f\u30ec\u30f3\u30cc\u304c\u8abf\u7406\u5668\u5177\u3092\u53d6\u308a\u51fa\u3059\u3002",
+    "Phrase": "そう言って、元気を取り戻したレンヌが調理器具を取り出す。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3119,30 +3137,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 82,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u306f\u3044\u3001\u30ea\u30f3\u30b4\u4f7f\u3063\u3066\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「はい、リンゴ使って」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3156,38 +3174,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 33201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 83,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u611f\u8b1d\u3067\u3059\u3088\u30eb\u30fc\u30a2\u30f3\u3055\u3093\u3002\\n\u3000\u305d\u308c\u3067\u306f\u30ea\u30f3\u30b4\u3092\u5207\u3063\u3066\u3001\u716e\u8fbc\u3093\u3067\u2026\u2026\u3002\\n\u3000\u3069\u3045\u3075\u3075\u3001\u3055\u3042\u3001\u5b8c\u6210\u3057\u307e\u3057\u305f\u3088\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「感謝ですよルーアンさん。\\n　それではリンゴを切って、煮込んで……。\\n　どぅふふ、さあ、完成しましたよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3201,30 +3219,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 84,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3044\u304f\u3089\u4f55\u3067\u3082\u3001\u305d\u308c\u306f\u65e9\u3059\u304e\u3058\u3083\u306a\u3044\u304b\uff01\uff1f",
+    "Phrase": "いくら何でも、それは早すぎじゃないか！？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3238,30 +3256,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 85,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u8eca\u638c\u69d8\u3001\u30ec\u30f3\u30cc\u306e\u30ac\u30ec\u30c3\u30c8\u4f5c\u308a\u306e\u8155\u306f\u4e16\u754c\u4e00\u306a\u3093\u3067\u3059\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「車掌様、レンヌのガレット作りの腕は世界一なんです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3275,38 +3293,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 7,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 33201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 86,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u305d\u3046\u3088\u3002\u30ec\u30f3\u30cc\u306b\u306a\u3089\u4e0d\u53ef\u80fd\u306f\u306a\u3044\u308f\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「そうよ。レンヌになら不可能はないわ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3320,38 +3338,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 33201,
         "Position": 4,
         "Action": 7,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 87,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3044\u3084\u3001\u30ea\u30f3\u30b4\u3092\u624b\u306b\u3057\u3066\u304b\u3089\u4e00\u77ac\u306a\u3093\u3060\u304c\u3002\\n\u7570\u754c\u306e\u6249\u3088\u308a\u3082\u4e16\u754c\u306e\u4e0d\u601d\u8b70\u306b\u6570\u3048\u3089\u308c\u308b\u305e\u2026\u2026\u3002",
+    "Phrase": "いや、リンゴを手にしてから一瞬なんだが。\\n異界の扉よりも世界の不思議に数えられるぞ……。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3365,38 +3383,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 33201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 88,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u3069\u3045\u3075\u3001\u3069\u3045\u3075\u3075\u2026\u2026\u3002\\n\u3000\u3055\u3042\u307f\u306a\u3055\u3093\u3001\u30ea\u30f3\u30b4\u306e\u30ac\u30ec\u30c3\u30c8\u3092\u98df\u3079\u307e\u3057\u3087\u3046\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「どぅふ、どぅふふ……。\\n　さあみなさん、リンゴのガレットを食べましょう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3410,30 +3428,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 89,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u304d\u308c\u3044\u306b\u713c\u304d\u4e0a\u3052\u3089\u308c\u305f\u30ea\u30f3\u30b4\u306e\u30ac\u30ec\u30c3\u30c8\u3092\u3001\\n\u307f\u3093\u306a\u3067\u4e00\u6589\u306b\u53e3\u306b\u904b\u3076\u3002",
+    "Phrase": "きれいに焼き上げられたリンゴのガレットを、\\nみんなで一斉に口に運ぶ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3447,30 +3465,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 90,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u3093\uff5e\uff5e\uff5e\u5916\u306e\u30b5\u30af\u30b5\u30af\u306f\u305d\u306e\u307e\u307e\u306b\u3001\\n\u3000\u3061\u3087\u3063\u3068\u4e2d\u306f\u3057\u3063\u3068\u308a\u3057\u3066\u3066\u3001\u4f55\u3088\u308a\u7518\u9178\u3063\u3071\u3044\u308f\u3002\\n\u3000\u307b\u3093\u3068\u3001\u304a\u3044\u3057\u3044\uff5e\uff5e\uff5e\u266a\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「ん～～～外のサクサクはそのままに、\\n　ちょっと中はしっとりしてて、何より甘酸っぱいわ。\\n　ほんと、おいしい～～～♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3484,38 +3502,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 8,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 33201,
         "Position": 4,
         "Action": 8,
         "Emotion": 7,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 91,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u3042\u3042\u3001\u3084\u3063\u3071\u308a\u30ec\u30f3\u30cc\u306e\u30ac\u30ec\u30c3\u30c8\u306f\u6700\u9ad8\u3067\u3059\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「ああ、やっぱりレンヌのガレットは最高です」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3529,38 +3547,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 33201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 92,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u305d\u3046\u3067\u3057\u3087\u3046\u3001\u305d\u3046\u3067\u3057\u3087\u3046\u2026\u2026\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「そうでしょう、そうでしょう……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3574,30 +3592,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 93,
     "ViewOrder": 1,
-    "Name": "\u30eb\u30fc\u30a2\u30f3",
-    "Phrase": "\u300c\u305d\u308c\u306b\u3057\u3066\u3082\u3001\u7d50\u5c40\u3053\u306e\u907a\u8de1\u3063\u3066\u3001\\n\u3000\u7570\u754c\u306e\u6249\u4ee5\u5916\u306f\u4f55\u4e00\u3064\u306a\u304b\u3063\u305f\u308f\u306d\u3002\\n\u3000\u3082\u3046\u5c11\u3057\u3001\u30b7\u30e3\u30ca\u65cf\u306e\u6587\u732e\u3068\u304b\u3042\u308b\u304b\u3068\u601d\u3063\u305f\u3093\u3060\u3051\u3069\u300d",
+    "Name": "ルーアン",
+    "Phrase": "「それにしても、結局この遺跡って、\\n　異界の扉以外は何一つなかったわね。\\n　もう少し、シャナ族の文献とかあるかと思ったんだけど」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3611,38 +3629,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 33201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 94,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u305d\u3046\u3067\u3059\u306d\u3002\u30eb\u30fc\u30a2\u30f3\u3055\u3093\u306e\u8a00\u3046\u3068\u304a\u308a\u3001\\n\u3000\u30b7\u30e3\u30ca\u65cf\u306e\u3053\u3068\u306f\u3055\u3063\u3071\u308a\u5206\u304b\u308a\u307e\u305b\u3093\u3067\u3057\u305f\u306d\u3002\\n\u3000\u3067\u3059\u304c\u3001\u4eca\u306f\u305d\u308c\u3067\u3088\u304b\u3063\u305f\u3068\u601d\u3063\u3066\u3044\u307e\u3059\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「そうですね。ルーアンさんの言うとおり、\\n　シャナ族のことはさっぱり分かりませんでしたね。\\n　ですが、今はそれでよかったと思っています」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3656,38 +3674,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 33201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 95,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u3044\u3064\u304b\u6a5f\u4f1a\u304c\u3042\u308c\u3070\u3001\u30b7\u30e3\u30ca\u65cf\u306b\u3064\u3044\u3066\u307e\u305f\u8abf\u3079\u308b\u304b\u3082\u3057\u308c\u307e\u305b\u3093\u3002\\n\u3000\u3067\u3082\u4f55\u304c\u3042\u308d\u3046\u3068\u3001\u30ec\u30f3\u30cc\u306e\u30ac\u30ec\u30c3\u30c8\u3092\u98df\u3079\u3089\u308c\u308b\u5e78\u305b\u306b\u306f\u52dd\u308a\u307e\u305b\u3093\u3002\\n\u3000\u305d\u308c\u306f\u79c1\u306b\u3068\u3063\u3066\u306e\u3053\u306e\u4e16\u306e\u771f\u7406\u3067\u3059\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「いつか機会があれば、シャナ族についてまた調べるかもしれません。\\n　でも何があろうと、レンヌのガレットを食べられる幸せには勝りません。\\n　それは私にとってのこの世の真理です」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3701,38 +3719,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 33201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 96,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u2026\u2026\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「ブルターニュ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3746,30 +3764,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 97,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u3053\u3089\u3001\u30ec\u30f3\u30cc\u3002\\n\u3000\u4eba\u524d\u3067\u306f\u300e\u304a\u59c9\u3061\u3083\u3093\u300f\u3068\u547c\u3073\u306a\u3055\u3044\u3068\u8a00\u3063\u3066\u308b\u3067\u3057\u3087\u3046\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「こら、レンヌ。\\n　人前では『お姉ちゃん』と呼びなさいと言ってるでしょう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3783,38 +3801,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 98,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u304a\u3001\u304a\u59c9\u3061\u3083\u3093\uff1f\\n\u3000\u305d\u3093\u306a\u306e\u4eca\u307e\u3067\u8a00\u3063\u3066\u306a\u304b\u3063\u305f\u3058\u3083\u306a\u3044\u3067\u3059\u304b\uff01\\n\u3000\u4f55\u3061\u3087\u3063\u3068\u5473\u3057\u3081\u3066\u308b\u3093\u3067\u3059\u304b\uff01\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「お、お姉ちゃん？\\n　そんなの今まで言ってなかったじゃないですか！\\n　何ちょっと味しめてるんですか！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3828,38 +3846,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 99,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5",
-    "Phrase": "\u300c\u305d\u3046\u3067\u3057\u305f\u304b\uff1f\\n\u3000\u307e\u3042\u7d30\u304b\u3044\u3053\u3068\u306f\u6c17\u306b\u3057\u3066\u306f\u3044\u3051\u307e\u305b\u3093\u3088\u3001\u30ec\u30f3\u30cc\u300d",
+    "Name": "ブルターニュ",
+    "Phrase": "「そうでしたか？\\n　まあ細かいことは気にしてはいけませんよ、レンヌ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3873,38 +3891,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 100,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3046\u8a00\u3063\u3066\u3001\u30ec\u30f3\u30cc\u304b\u3089\u3082\u3046\u4e00\u5ea6\\n\u300e\u304a\u59c9\u3061\u3083\u3093\u300f\u3092\u5f15\u304d\u51fa\u305d\u3046\u3068\u3059\u308b\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u3002\\n\u4e8c\u4eba\u306e\u68ee\u756a\u59c9\u59b9\u306f\u3001\u9583\u5149\u3092\u7d4c\u3066\u3001\u3088\u308a\u7d46\u3092\u6df1\u3081\u5408\u3063\u305f\u3088\u3046\u3060\u3002",
+    "Phrase": "そう言って、レンヌからもう一度\\n『お姉ちゃん』を引き出そうとするブルターニュ。\\n二人の森番姉妹は、閃光を経て、より絆を深め合ったようだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3918,31 +3936,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 71201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

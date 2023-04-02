@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30aa\u30cf\u30ca\u306e\u5100\u5f0f\u3081\u3044\u305f\u7f60\u306b\u5f15\u3063\u304b\u304b\u3063\u305f\u306e\u306f\u3001\u5de8\u5927\u306a\u30ad\u30ce\u30b3\u3067\u3042\u3063\u305f\u3002\\n\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4\u3001\u30d5\u30a3\u30f3\u30c1\u30ea\u30fc\u304c\u4e0a\u624b\u304f\u9023\u643a\u3092\u3068\u3063\u3066\\n\u3053\u306e\u5de8\u5927\u30ad\u30ce\u30b3\u306e\u8a0e\u4f10\u306b\u6311\u3093\u3060\u304c\u3001\\n\u6575\u306f\u306a\u304b\u306a\u304b\u3057\u3076\u3068\u304f\u3001\u305d\u3046\u7c21\u5358\u306b\u5012\u308c\u3066\u306f\u304f\u308c\u306a\u3044\u3002",
+    "Phrase": "オハナの儀式めいた罠に引っかかったのは、巨大なキノコであった。\\nクインズウェイ、フィンチリーが上手く連携をとって\\nこの巨大キノコの討伐に挑んだが、\\n敵はなかなかしぶとく、そう簡単に倒れてはくれない。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30a3\u30f3\u30c1\u30ea\u30fc",
-    "Phrase": "\u300c\u306a\u3093\u3068\u3044\u3046\u7d99\u6226\u80fd\u529b\u3060\u3002\\n\u3000\u4f55\u5ea6\u30d5\u30cb\u30e3\u30d5\u30cb\u30e3\u306b\u306a\u3063\u3066\u3082\u5fc5\u305a\u7acb\u3061\u4e0a\u304c\u3063\u3066\u304f\u308b\u2026\u2026\u300d",
+    "Name": "フィンチリー",
+    "Phrase": "「なんという継戦能力だ。\\n　何度フニャフニャになっても必ず立ち上がってくる……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,30 +46,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 9201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30b9\u30fc\u30d1\u30fc\u30d3\u30c3\u30b0\u30de\u30c3\u30b7\u30e5",
-    "Phrase": "\u300c\u30de\u30c0\u30de\u30c0\u3001\u30a4\u30b1\u30de\u30fc\u30fc\u30fc\u30c3\u30b7\u30e5\u3063\u2026\u2026\uff01\u300d",
+    "Name": "スーパービッグマッシュ",
+    "Phrase": "「マダマダ、イケマーーーッシュっ……！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -82,30 +83,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30a3\u30f3\u30c1\u30ea\u30fc",
-    "Phrase": "\u300c\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4\u3001\u3082\u3046\u4e00\u5ea6\u3084\u308b\u305e\u3002\\n\u3000\u79c1\u304c\u30e4\u30c4\u3092\u5f15\u304d\u3064\u3051\u3066\u3044\u308b\u9593\u306b\u80cc\u5f8c\u3092\u53d6\u308c\u300d",
+    "Name": "フィンチリー",
+    "Phrase": "「クインズウェイ、もう一度やるぞ。\\n　私がヤツを引きつけている間に背後を取れ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -119,38 +120,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 9201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u308f\u304b\u308a\u307e\u3057\u305f\uff01\\n\u3000\u6b63\u76f4\u3069\u3053\u304c\u524d\u3067\u3069\u3053\u304c\u5f8c\u308d\u306a\u306e\u304b\\n\u3000\u308f\u304b\u3089\u306a\u304f\u306a\u308a\u305d\u3046\u3067\u3059\u304c\u3001\u3084\u3063\u3066\u307f\u307e\u3059\uff01\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「わかりました！\\n　正直どこが前でどこが後ろなのか\\n　わからなくなりそうですが、やってみます！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -164,34 +165,34 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 9201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
     "Name": "",
@@ -209,21 +210,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 2,
-    "Name": "\u30b9\u30fc\u30d1\u30fc\u30d3\u30c3\u30b0\u30de\u30c3\u30b7\u30e5",
-    "Phrase": "\u300c\u30de\u3001\u30de\u2026\u2026\u30de\u30c3\u30b7\u30e5\u300d",
+    "Name": "スーパービッグマッシュ",
+    "Phrase": "「マ、マ……マッシュ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -237,30 +239,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 4,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u3084\u3063\u305f\uff01\u3000\u4eca\u5ea6\u3053\u305d\u5012\u308c\u305f\uff01\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「やった！　今度こそ倒れた！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -274,30 +276,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u3055\u3042\u3001\u305d\u308c\u306f\u3069\u3046\u3067\u3057\u3087\u3046\uff1f\u300d",
+    "Name": "オハナ",
+    "Phrase": "「さあ、それはどうでしょう？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -311,30 +313,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u624b\u5fdc\u3048\u306f\u5341\u5206\u3042\u308a\u307e\u3057\u305f\u3002\\n\u3000\u3082\u3046\u7acb\u3061\u4e0a\u304c\u308c\u306a\u3044\u306f\u305a\u3067\u3059\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「手応えは十分ありました。\\n　もう立ち上がれないはずです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -348,38 +350,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 9201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30a3\u30f3\u30c1\u30ea\u30fc",
-    "Phrase": "\u300c\u3042\u3042\u3001\u3055\u3063\u304d\u3088\u308a\u3082\u4f53\u304c\u3057\u307c\u3093\u3067\u3044\u308b\u306a\u3002\\n\u3000\u30d5\u30cb\u30e3\u30d5\u30cb\u30e3\u306e\u30b7\u30ca\u30b7\u30ca\u3060\u3002\\n\u3000\u3055\u3059\u304c\u306b\u3082\u3046\u7acb\u3064\u3053\u3068\u306f\u306a\u3044\u3060\u308d\u3046\u300d",
+    "Name": "フィンチリー",
+    "Phrase": "「ああ、さっきよりも体がしぼんでいるな。\\n　フニャフニャのシナシナだ。\\n　さすがにもう立つことはないだろう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -393,38 +395,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 9201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u3067\u306f\u3001\u78ba\u304b\u3081\u3066\u307f\u307e\u3057\u3087\u3046\u304b\u266a\u300d",
+    "Name": "オハナ",
+    "Phrase": "「では、確かめてみましょうか♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -438,30 +440,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 8,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u305d\u308c\u306f\u3001\u7af9\u4e32\uff01\\n\u3000\u307e\u3055\u304b\u30aa\u30cf\u30ca\u3055\u3093\u3001\u305d\u306e\u5de8\u5927\u30ad\u30ce\u30b3\u3092\u98df\u3079\u308b\u3093\u3067\u3059\u304b\uff01\uff1f\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「それは、竹串！\\n　まさかオハナさん、その巨大キノコを食べるんですか！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -475,38 +477,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 9201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30a3\u30f3\u30c1\u30ea\u30fc",
-    "Phrase": "\u300c\u305d\u3046\u3058\u3083\u306a\u3044\u3060\u308d\u3046\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4\u3002\\n\u3000\u30aa\u30cf\u30ca\u3055\u3093\u306f\u6575\u304c\u5b8c\u5168\u306b\u6c88\u9ed9\u3057\u305f\u304b\u3069\u3046\u304b\u78ba\u304b\u3081\u308b\u3093\u3060\u3002\\n\u3000\u3042\u306e\u7af9\u4e32\u3067\u30c4\u30f3\u30c4\u30f3\u3057\u3066\u306a\u300d",
+    "Name": "フィンチリー",
+    "Phrase": "「そうじゃないだろうクインズウェイ。\\n　オハナさんは敵が完全に沈黙したかどうか確かめるんだ。\\n　あの竹串でツンツンしてな」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -520,38 +522,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 9201,
         "Position": 2,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u3042\u3042\u3001\u306a\u308b\u307b\u3069\u2026\u2026\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「ああ、なるほど……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -565,38 +567,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 9201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u3055\u3063\u304d\u306e\u6226\u95d8\u3067\u3053\u306e\u5b50\u306e\u654f\u611f\u306a\u3068\u3053\u308d\u304c\u308f\u304b\u308a\u307e\u3057\u305f\u3002\\n\u3000\u3069\u3046\u3084\u3089\u5148\u3063\u307d\u306e\u3068\u3053\u308d\u304c\u5f31\u70b9\u307f\u305f\u3044\u3067\u3059\u306d\u266a\u300d",
+    "Name": "オハナ",
+    "Phrase": "「さっきの戦闘でこの子の敏感なところがわかりました。\\n　どうやら先っぽのところが弱点みたいですね♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -610,30 +612,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u305d\u308c\u3001\u3064\u3093\u3064\u3093\u266a\u300d",
+    "Name": "オハナ",
+    "Phrase": "「それ、つんつん♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -647,30 +649,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 3,
         "Action": 7,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u30b9\u30fc\u30d1\u30fc\u30d3\u30c3\u30b0\u30de\u30c3\u30b7\u30e5",
-    "Phrase": "\u300c\u30de\u30fc\u30fc\u30fc\u30c3\u30b7\u30e5\uff01\uff1f\u300d",
+    "Name": "スーパービッグマッシュ",
+    "Phrase": "「マーーーッシュ！？」",
     "PhraseFontSize": 3,
     "PhraseSpeed": 4,
     "IsPhraseCenter": true,
@@ -684,30 +686,30 @@
     "Effect": 5,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 2
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u3046\u308f\u3063\uff01\uff1f\u3000\u8d77\u304d\u4e0a\u304c\u3063\u305f\uff01\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「うわっ！？　起き上がった！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -721,38 +723,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 9201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30a3\u30f3\u30c1\u30ea\u30fc",
-    "Phrase": "\u300c\u307e\u3060\u751f\u304d\u3066\u3044\u305f\u306e\u304b\u300d",
+    "Name": "フィンチリー",
+    "Phrase": "「まだ生きていたのか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -766,38 +768,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 9201,
         "Position": 2,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u4e8c\u4eba\u3068\u3082\u30c0\u30e1\u3058\u3083\u306a\u3044\u3067\u3059\u304b\u3002\\n\u3000\u3061\u3083\u3093\u3068\u30c8\u30c9\u30e1\u3092\u3055\u3055\u306a\u3044\u3068\u3001\u5f8c\u308d\u304b\u3089\u8972\u308f\u308c\u3061\u3083\u3044\u307e\u3059\u3088\uff1f\\n\u3000\u3053\u306e\u5de8\u5927\u30ad\u30ce\u30b3\u3055\u3093\u304c\u3082\u3046\u4e8c\u5ea6\u3068\u7acb\u3061\u4e0a\u304c\u308c\u306a\u3044\u3088\u3046\u306b\u3001\\n\u3000\u5fb9\u5e95\u7684\u306b\u30c0\u30e1\u30fc\u30b8\u3092\u4e0e\u3048\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u300d",
+    "Name": "オハナ",
+    "Phrase": "「二人ともダメじゃないですか。\\n　ちゃんとトドメをささないと、後ろから襲われちゃいますよ？\\n　この巨大キノコさんがもう二度と立ち上がれないように、\\n　徹底的にダメージを与える必要があります」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -811,30 +813,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 3,
         "Action": 8,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u3059\u308a\u3064\u3076\u3057\u305f\u308a\u3001\u306d\u3058\u5207\u3063\u305f\u308a\u2026\u2026\u300d",
+    "Name": "オハナ",
+    "Phrase": "「すりつぶしたり、ねじ切ったり……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -848,30 +850,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30a3\u30f3\u30c1\u30ea\u30fc",
-    "Phrase": "\u300c\u3059\u308a\u3064\u3076\u3057\u305f\u308a\u2026\u2026\u300d",
+    "Name": "フィンチリー",
+    "Phrase": "「すりつぶしたり……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -885,38 +887,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 9201,
         "Position": 2,
         "Action": 0,
         "Emotion": 2,
         "FacialExpression": 1,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u306d\u3058\u5207\u3063\u305f\u308a\u2026\u2026\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「ねじ切ったり……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -930,38 +932,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 9201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 10201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30b9\u30fc\u30d1\u30fc\u30d3\u30c3\u30b0\u30de\u30c3\u30b7\u30e5",
-    "Phrase": "\u300c\u30de\u3001\u30de\u30c3\u30b7\u30e5\u30b0\u2026\u2026\u300d",
+    "Name": "スーパービッグマッシュ",
+    "Phrase": "「マ、マッシュグ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -975,30 +977,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 2,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\u30b9\u30fc\u30d1\u30fc\u30d3\u30c3\u30b0\u30de\u30c3\u30b7\u30e5",
-    "Phrase": "\u300c\u9003\u3052\u30de\u30fc\u30fc\u30fc\u30fc\u30c3\u30b7\u30e5\uff01\u300d",
+    "Name": "スーパービッグマッシュ",
+    "Phrase": "「逃げマーーーーッシュ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1012,30 +1014,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30a3\u30f3\u30c1\u30ea\u30fc",
-    "Phrase": "\u300c\u307e\u3042\u3001\u305d\u308a\u3083\u9003\u3052\u305f\u304f\u306a\u308b\u3088\u306a\u300d",
+    "Name": "フィンチリー",
+    "Phrase": "「まあ、そりゃ逃げたくなるよな」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1049,30 +1051,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 9201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u305d\u3093\u306a\u3053\u3068\u8a00\u3063\u3066\u308b\u5834\u5408\u3067\u3059\u304b\uff1f\\n\u3000\u6d1e\u7a9f\u306e\u5916\u306b\u51fa\u3066\u3044\u3063\u3061\u3083\u3044\u307e\u3057\u305f\u3088\uff1f\\n\u3000\u65e9\u304f\u8ffd\u3044\u304b\u3051\u306a\u3044\u3068\u898b\u5931\u3063\u3066\u3057\u307e\u3044\u307e\u3059\u300d",
+    "Name": "オハナ",
+    "Phrase": "「そんなこと言ってる場合ですか？\\n　洞窟の外に出ていっちゃいましたよ？\\n　早く追いかけないと見失ってしまいます」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1086,38 +1088,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 9201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 6201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30a3\u30f3\u30c1\u30ea\u30fc",
-    "Phrase": "\u300c\u308a\u3087\u3001\u4e86\u89e3\u3057\u307e\u3057\u305f\uff01\\n\u3000\u307b\u3089\u3044\u304f\u305e\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4\uff01\u300d",
+    "Name": "フィンチリー",
+    "Phrase": "「りょ、了解しました！\\n　ほらいくぞクインズウェイ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1131,38 +1133,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 9201,
         "Position": 2,
         "Action": 1,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 6201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u307e\u3001\u5f85\u3063\u3066\u304f\u3060\u3055\u3044\u30d5\u30a3\u30f3\u30c1\u30ea\u30fc\u6559\u5b98\uff5e\uff01\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「ま、待ってくださいフィンチリー教官～！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1176,30 +1178,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u3046\u3075\u3075\u3001\u9752\u6625\u3067\u3059\u306d\uff5e\u266a\\n\u3000\u82e5\u3044\u9803\u3092\u601d\u3044\u51fa\u3057\u3066\u3057\u307e\u3044\u307e\u3059\u300d",
+    "Name": "オハナ",
+    "Phrase": "「うふふ、青春ですね～♪\\n　若い頃を思い出してしまいます」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1213,23 +1215,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]
