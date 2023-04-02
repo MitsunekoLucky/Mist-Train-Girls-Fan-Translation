@@ -16,9 +16,8 @@ def create_translated_json(story_type):
     for file in os.listdir(original_json_dir):
         file = Path(file)
 
-        #people put .bak files into the system for some reason, so ignore them
-        if file.suffix == ".bak":
-            #print("Ignoring .bak file")
+        #people put .bak/.zip files into the system for some reason, so ignore them
+        if file.suffix != ".json":
             continue
 
         story_id = file.stem

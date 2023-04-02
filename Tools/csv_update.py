@@ -14,9 +14,8 @@ def update_translation_csv(story_type):
     for file in os.listdir(directory):
         file = Path(file)
 
-        #people put .bak files into the system for some reason, so ignore them
-        if file.suffix == ".bak":
-            #print("Ignoring .bak file")
+        #people put .bak/.zip files into the system for some reason, so ignore them
+        if file.suffix != ".json":
             continue
 
         story_id = file.stem
