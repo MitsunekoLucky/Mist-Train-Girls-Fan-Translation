@@ -9,6 +9,11 @@ CSV_FIELDNAMES = ["StoryID","GroupOrder","ViewOrder","NameJP","PhraseJP","NameEN
 DIR_CHARACTER = Path("../Scenarios/DMM/Character Story/")
 DIR_EVENT = Path("../Scenarios/DMM/Event story/")
 DIR_MAIN = Path("../Scenarios/DMM/Main story/")
+
+DIR_JOHREN_CHARACTER = Path("../Scenarios/Johren/Character Story/")
+DIR_JOHREN_EVENT = Path("../Scenarios/Johren/Event story/")
+DIR_JOHREN_MAIN = Path("../Scenarios/Johren/Main story/")
+
 DIR_CSV_TL = Path("../Scenarios_CSV/")
 
 def get_dmm_json_dir(story_type):
@@ -20,14 +25,21 @@ def get_dmm_json_dir(story_type):
         case StoryType.Main:
             return DIR_MAIN
 
-def load_dmm_json(story_type, filename):
-    filepath = get_dmm_json_dir(story_type).joinpath(filename)
+def get_johren_json_dir(story_type):
+    match story_type:
+        case StoryType.Event:
+            return DIR_JOHREN_EVENT
+        case StoryType.Character:
+            return DIR_JOHREN_CHARACTER
+        case StoryType.Main:
+            return DIR_JOHREN_MAIN
 
-    with open(filepath, "r", encoding = "utf-8-sig") as json_file:
+def load_json(filename):
+    with open(filename, "r", encoding = "utf-8-sig") as json_file:
         try:
             data = json.load(json_file)
         except json.JSONDecodeError as e:
-            print(f"Error: {e} (in file: {filepath})")
+            print(f"Error: {e} (in file: {filename})")
             return
     
     if "MSceneDetailViewModel" in data:
@@ -107,6 +119,30 @@ class TranslationMap:
                 "NameEN": "",
                 "PhraseEN": "",
             })
+    
+    def insert_johren_json(self, story, data, overwrite=False):
+        story_id = str(story)
+        filename = story.csv_filename()
+
+        if filename not in self.map:
+            self.map[filename] = {}
+
+        for line in data:
+            group_order = line["GroupOrder"]
+            view_order = line["ViewOrder"]
+            name_en = line["Name"]
+            phrase_en = line["Phrase"]
+
+            translation_key = self.make_translation_key(story_id, group_order, view_order)
+            translated_data = self.map[filename].get(translation_key)
+
+            if translated_data is not None:
+                if translated_data.get("NameEN") == "" or overwrite:
+                    translated_data["NameEN"] = name_en.encode("unicode_escape").decode("utf-8")
+                if translated_data.get("PhraseEN") == "" or overwrite:
+                    translated_data["PhraseEN"] = phrase_en.encode("unicode_escape").decode("utf-8")
+
+                self.map[filename][translation_key] = translated_data
 
     def save_all_csv(self):
         for csv_file in self.map:
