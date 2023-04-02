@@ -1,1283 +1,1405 @@
-{
+﻿{
     "r": {
         "MSceneId": 1620101,
-        "MSceneDetailViewModel": [{
-            "GroupOrder": 7,
-            "ViewOrder": 1,
-            "Name": "Finchley",
-            "Phrase": "...Ah!",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 2,
-            "FrameImage": 0,
-            "VoiceFileName": "c_1620101_004",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 3,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 9201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 4,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
+        "MSceneDetailViewModel": [
+            {
+                "GroupOrder": 1,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "At the SSS garrison in St. Iris,\npreviously absent tensions were rising.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "109702",
+                "BGM": "adv_02",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 9201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 2,
+                "ViewOrder": 1,
+                "Name": "Ohana",
+                "Phrase": "Alright, I'm ready now.\nCome at me any time.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 8,
+                "FrameImage": 0,
+                "VoiceFileName": "c_1620101_001",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 2,
+                        "Action": 1,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 9201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 3,
+                "ViewOrder": 1,
+                "Name": "Finchley",
+                "Phrase": "Thank you.\nHere I go!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 2,
+                "FrameImage": 0,
+                "VoiceFileName": "c_1620101_002",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 9201,
+                        "Position": 4,
+                        "Action": 5,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 4,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "Finchley, who was facing Ohana, bowed.\nAs soon as she looked up, she took a powerful step forward.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 9201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 5,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "Finchley's sharp kick is somehow stopped by Ohana's one arm.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "highspeed",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 9201,
+                        "Position": 4,
+                        "Action": 5,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 6,
+                "ViewOrder": 1,
+                "Name": "Ohana",
+                "Phrase": "This won't catch me off guard.\nYou're too obvious, Finchley.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 8,
+                "FrameImage": 0,
+                "VoiceFileName": "c_1620101_003",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 2,
+                        "Action": 1,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 9201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 1,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 7,
+                "ViewOrder": 1,
+                "Name": "Finchley",
+                "Phrase": "...Ah!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 2,
+                "FrameImage": 0,
+                "VoiceFileName": "c_1620101_004",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 9201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 4,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 8,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "Leaping back into the distance,\nFinchley stared at Ohana, trying to assess her every move.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 9201,
+                        "Position": 5,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 9,
+                "ViewOrder": 1,
+                "Name": "Finchley",
+                "Phrase": "Thank you very much.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 2,
+                "FrameImage": 0,
+                "VoiceFileName": "c_1620101_005",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 7,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 9201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 7,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 10,
+                "ViewOrder": 1,
+                "Name": "Ohana",
+                "Phrase": "Hehe, thank you.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 8,
+                "FrameImage": 0,
+                "VoiceFileName": "c_1620101_006",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 2,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 9201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 11,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "Finchley was drenched in sweat, at the mercy of Ohana's technique, doing her best to get at least one move in. Ohana was sweating as well, but she was able to catch her breath quickly. There was a massive difference in skill between the two.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 9201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 12,
+                "ViewOrder": 1,
+                "Name": "Ohana",
+                "Phrase": "Conductor, Finchley can't beat me,\nbut she is improving quite a bit. She is stronger than most.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 8,
+                "FrameImage": 0,
+                "VoiceFileName": "c_1620101_007",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 2,
+                        "Action": 1,
+                        "Emotion": 0,
+                        "FacialExpression": 2,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 9201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 13,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "Finchley is indeed strong. That is a fact. Seeing the difference in strength between her and Ohana made my standards slip a bit.\nI didn't say it out loud, but it seems that Ohana had read my mind.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 2,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 9201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 14,
+                "ViewOrder": 1,
+                "Name": "Finchley",
+                "Phrase": "You don't have much of a poker face, Conductor. Most cadets or Train Knights may not be able to,\nbut all of us can.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 2,
+                "FrameImage": 0,
+                "VoiceFileName": "c_1620101_008",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 9201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 1,
+                        "FacialExpression": 2,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 15,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "The fiercest fighters of history were not to be underestimated.\nI had no choice but to raise my white flag.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 9201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 2,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 16,
+                "ViewOrder": 1,
+                "Name": "Finchley",
+                "Phrase": "But Ohana is so strong.\nI can't blame you for thinking so.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 2,
+                "FrameImage": 0,
+                "VoiceFileName": "c_1620101_009",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 9201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 7,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 17,
+                "ViewOrder": 1,
+                "Name": "Ohana",
+                "Phrase": "Hehe. Practicing like this really reminds me of the old days.\nYou used to be so cute back then too, Finchley!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 8,
+                "FrameImage": 0,
+                "VoiceFileName": "c_1620101_010",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 1,
+                        "FacialExpression": 2,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 9201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 18,
+                "ViewOrder": 1,
+                "Name": "Finchley",
+                "Phrase": "Housemo-...I mean, Ohana!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 2,
+                "FrameImage": 0,
+                "VoiceFileName": "c_1620101_011",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 2,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 9201,
+                        "Position": 4,
+                        "Action": 1,
+                        "Emotion": 0,
+                        "FacialExpression": 6,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 19,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "Only Ohana could call Finchley, also known as \"the demon instructor,\"\ncute like this.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 9201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 6,
+                        "FacialExpression": 6,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 20,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "As expected, Finchley thought she was being teased and raised her voice with red cheeks.\nOhana lets out a sweet smile.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 9201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 21,
+                "ViewOrder": 1,
+                "Name": "Finchley",
+                "Phrase": "Ahem...! Conductor, I shall be going now.\nOhana, I look forward to receiving your guidance again.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 2,
+                "FrameImage": 0,
+                "VoiceFileName": "c_1620101_012",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 9201,
+                        "Position": 4,
+                        "Action": 5,
+                        "Emotion": 0,
+                        "FacialExpression": 7,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 22,
+                "ViewOrder": 1,
+                "Name": "Ohana",
+                "Phrase": "Yes. Of course.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 8,
+                "FrameImage": 0,
+                "VoiceFileName": "c_1620101_013",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 2,
+                        "Action": 5,
+                        "Emotion": 0,
+                        "FacialExpression": 2,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 9201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 23,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "Finchley bowed and exited the training area.\nI was left alone with Ohana.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 24,
+                "ViewOrder": 1,
+                "Name": "Ohana",
+                "Phrase": "Conductor, what would you like to have for dinner the day after tomorrow?\nI still haven't ordered the ingredients, so I can take requests.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_1620101_014",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 2,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 25,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "I was puzzled by the sudden question. Is it alright for me to make such personal requests?\nIt felt like it would be an abuse of my authority.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 26,
+                "ViewOrder": 1,
+                "Name": "Ohana",
+                "Phrase": "I'm also taking requests from the students too, so don't worry about abusing your authority!\nFinchley is an instructor and she makes requests often as well.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_1620101_015",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 2,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 27,
+                "ViewOrder": 1,
+                "Name": "Ohana",
+                "Phrase": "If you're really that concerned about it,\nhow about an exchange of terms?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_1620101_016",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 7,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 28,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "Exchange of terms? I don't mind, but what exactly do you want me to do?\nBecome a sandbag for your training?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 29,
+                "ViewOrder": 1,
+                "Name": "Ohana",
+                "Phrase": "You'd die if you did such a thing.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_1620101_017",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 1,
+                        "FacialExpression": 2,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 30,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "...I probably would.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 31,
+                "ViewOrder": 1,
+                "Name": "Ohana",
+                "Phrase": "How about carrying my bags tomorrow?\nI want you to come shopping with me.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_1620101_018",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 2,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 32,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "Bag carrier. Of course, I'll be happy to go shopping with you as much as you want. Considering the fact that I'm being fed delicious food every day, I can't think of any reason not to,\neven if I'm not making any requests.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 33,
+                "ViewOrder": 1,
+                "Name": "Ohana",
+                "Phrase": "Well then, see you there♪",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_1620101_019",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 6201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 1,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
             }
-        }, {
-            "GroupOrder": 9,
-            "ViewOrder": 1,
-            "Name": "Finchley",
-            "Phrase": "Thank you very much.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 2,
-            "FrameImage": 0,
-            "VoiceFileName": "c_1620101_005",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 7,
-                "EnterAction": 1
-            }, {
-                "MCharacterId": 9201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 7,
-                "EnterAction": 1
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 10,
-            "ViewOrder": 1,
-            "Name": "Ohana",
-            "Phrase": "Hehe, thank you.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 8,
-            "FrameImage": 0,
-            "VoiceFileName": "c_1620101_006",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 2,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 9201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 11,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "Finchley was drenched in sweat, at the mercy of Ohana\u0027s technique, doing her best to get at least one move in. Ohana was sweating as well, but she was able to catch her breath quickly. There was a massive difference in skill between the two.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 9201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 16,
-            "ViewOrder": 1,
-            "Name": "Finchley",
-            "Phrase": "But Ohana is so strong.\nI can\u0027t blame you for thinking so.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 2,
-            "FrameImage": 0,
-            "VoiceFileName": "c_1620101_009",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 9201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 7,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 3,
-            "ViewOrder": 1,
-            "Name": "Finchley",
-            "Phrase": "Thank you.\nHere I go!",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 2,
-            "FrameImage": 0,
-            "VoiceFileName": "c_1620101_002",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 9201,
-                "Position": 4,
-                "Action": 5,
-                "Emotion": 0,
-                "FacialExpression": 3,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 23,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "Finchley bowed and exited the training area.\nI was left alone with Ohana.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 1
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 8,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "Leaping back into the distance,\nFinchley stared at Ohana, trying to assess her every move.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 3,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 9201,
-                "Position": 5,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 3,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 12,
-            "ViewOrder": 1,
-            "Name": "Ohana",
-            "Phrase": "Conductor, Finchley can\u0027t beat me,\nbut she is improving quite a bit. She is stronger than most.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 8,
-            "FrameImage": 0,
-            "VoiceFileName": "c_1620101_007",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 2,
-                "Action": 1,
-                "Emotion": 0,
-                "FacialExpression": 2,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 9201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 25,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "I was puzzled by the sudden question. Is it alright for me to make such personal requests?\nIt felt like it would be an abuse of my authority.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 26,
-            "ViewOrder": 1,
-            "Name": "Ohana",
-            "Phrase": "I\u0027m also taking requests from the students too, so don\u0027t worry about abusing your authority!\nFinchley is an instructor and she makes requests often as well.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_1620101_015",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 2,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 27,
-            "ViewOrder": 1,
-            "Name": "Ohana",
-            "Phrase": "If you\u0027re really that concerned about it,\nhow about an exchange of terms?",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_1620101_016",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 7,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 28,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "Exchange of terms? I don\u0027t mind, but what exactly do you want me to do?\nBecome a sandbag for your training?",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 29,
-            "ViewOrder": 1,
-            "Name": "Ohana",
-            "Phrase": "You\u0027d die if you did such a thing.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_1620101_017",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 1,
-                "FacialExpression": 2,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 30,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "...I probably would.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 33,
-            "ViewOrder": 1,
-            "Name": "Ohana",
-            "Phrase": "Well then, see you there\u266A",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_1620101_019",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 1,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 31,
-            "ViewOrder": 1,
-            "Name": "Ohana",
-            "Phrase": "How about carrying my bags tomorrow?\nI want you to come shopping with me.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_1620101_018",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 2,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 32,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "Bag carrier. Of course, I\u0027ll be happy to go shopping with you as much as you want. Considering the fact that I\u0027m being fed delicious food every day, I can\u0027t think of any reason not to,\neven if I\u0027m not making any requests.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 5,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "Finchley\u0027s sharp kick is somehow stopped by Ohana\u0027s one arm.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "highspeed",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 3,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 9201,
-                "Position": 4,
-                "Action": 5,
-                "Emotion": 0,
-                "FacialExpression": 3,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 4,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "Finchley, who was facing Ohana, bowed.\nAs soon as she looked up, she took a powerful step forward.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 3,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 9201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 3,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 21,
-            "ViewOrder": 1,
-            "Name": "Finchley",
-            "Phrase": "Ahem...! Conductor, I shall be going now.\nOhana, I look forward to receiving your guidance again.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 2,
-            "FrameImage": 0,
-            "VoiceFileName": "c_1620101_012",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 9201,
-                "Position": 4,
-                "Action": 5,
-                "Emotion": 0,
-                "FacialExpression": 7,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 13,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "Finchley is indeed strong. That is a fact. Seeing the difference in strength between her and Ohana made my standards slip a bit.\nI didn\u0027t say it out loud, but it seems that Ohana had read my mind.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 2,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 9201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 22,
-            "ViewOrder": 1,
-            "Name": "Ohana",
-            "Phrase": "Yes. Of course.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 8,
-            "FrameImage": 0,
-            "VoiceFileName": "c_1620101_013",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 2,
-                "Action": 5,
-                "Emotion": 0,
-                "FacialExpression": 2,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 9201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 24,
-            "ViewOrder": 1,
-            "Name": "Ohana",
-            "Phrase": "Conductor, what would you like to have for dinner the day after tomorrow?\nI still haven\u0027t ordered the ingredients, so I can take requests.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_1620101_014",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 2,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 2,
-            "ViewOrder": 1,
-            "Name": "Ohana",
-            "Phrase": "Alright, I\u0027m ready now.\nCome at me any time.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 8,
-            "FrameImage": 0,
-            "VoiceFileName": "c_1620101_001",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 2,
-                "Action": 1,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 9201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 14,
-            "ViewOrder": 1,
-            "Name": "Finchley",
-            "Phrase": "You don\u0027t have much of a poker face, Conductor. Most cadets or Train Knights may not be able to,\nbut all of us can.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 2,
-            "FrameImage": 0,
-            "VoiceFileName": "c_1620101_008",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 9201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 1,
-                "FacialExpression": 2,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 6,
-            "ViewOrder": 1,
-            "Name": "Ohana",
-            "Phrase": "This won\u0027t catch me off guard.\nYou\u0027re too obvious, Finchley.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 8,
-            "FrameImage": 0,
-            "VoiceFileName": "c_1620101_003",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 2,
-                "Action": 1,
-                "Emotion": 0,
-                "FacialExpression": 3,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 9201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 1,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 20,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "As expected, Finchley thought she was being teased and raised her voice with red cheeks.\nOhana lets out a sweet smile.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 9201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 19,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "Only Ohana could call Finchley, also known as \u0022the demon instructor,\u0022\ncute like this.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 9201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 6,
-                "FacialExpression": 6,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 18,
-            "ViewOrder": 1,
-            "Name": "Finchley",
-            "Phrase": "Housemo-...I mean, Ohana!",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 2,
-            "FrameImage": 0,
-            "VoiceFileName": "c_1620101_011",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 2,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 9201,
-                "Position": 4,
-                "Action": 1,
-                "Emotion": 0,
-                "FacialExpression": 6,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 17,
-            "ViewOrder": 1,
-            "Name": "Ohana",
-            "Phrase": "Hehe. Practicing like this really reminds me of the old days.\nYou used to be so cute back then too, Finchley!",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 8,
-            "FrameImage": 0,
-            "VoiceFileName": "c_1620101_010",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 1,
-                "FacialExpression": 2,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 9201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 15,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "The fiercest fighters of history were not to be underestimated.\nI had no choice but to raise my white flag.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 9201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 2,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 1,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "At the SSS garrison in St. Iris,\npreviously absent tensions were rising.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "109702",
-            "BGM": "adv_02",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 6201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 1
-            }, {
-                "MCharacterId": 9201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 1
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }],
+        ],
         "FirstViewRewords": {
             "Items": [],
             "GiftItems": [],

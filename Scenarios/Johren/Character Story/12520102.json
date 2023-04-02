@@ -1,823 +1,896 @@
-{
+﻿{
     "r": {
         "MSceneId": 12520102,
-        "MSceneDetailViewModel": [{
-            "GroupOrder": 11,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "Sniping can be seen as a battle of endurance. One shot is all it takes to kill your prey, but the majority of the battle is spent waiting for your chance.\nTo be able to do that, you need to have the patience to stay still while remaining prepared to kill any sign of life.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
+        "MSceneDetailViewModel": [
+            {
+                "GroupOrder": 1,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "As soon as I went to retrieve the deer,\nVolgo grabbed me lightly by the sleeve.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "106002",
+                "BGM": "adv_02",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 2,
+                "ViewOrder": 1,
+                "Name": "Volgo",
+                "Phrase": "Wait, there are wolves.\nApparently, we were after the same prey.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_12520102_002",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 7,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 3,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "As Volgo pointed her muzzle at them, I saw the wolves hiding in the bushes. They remained wary, but still didn't leave,\nprobably because they hadn't given up on their prey yet.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 4,
+                "ViewOrder": 1,
+                "Name": "Volgo",
+                "Phrase": "In the mountains in winter, there are few prey. Battles are common. And wolves are good hunters.\nI've been beaten by them many times.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_12520102_003",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 4,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 5,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "I can't imagine Volgo ever losing.\nThe wolves must be incredibly skilled at hunting.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 4,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 6,
+                "ViewOrder": 1,
+                "Name": "Volgo",
+                "Phrase": "Wolves are patient. They spend a lot of effort trying to figure out when to pounce on their prey. They understand that this is a battle of endurance.\nOnce they have decided on their prey, they will not give up until it is theirs.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_12520102_004",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 7,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 7,
+                "ViewOrder": 1,
+                "Name": "Volgo",
+                "Phrase": "On the other hand, humans often hesitate or get impatient when killing their prey, don't they?\nIf that happens, the wolf will win.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_12520102_005",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 8,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 8,
+                "ViewOrder": 1,
+                "Name": "Volgo",
+                "Phrase": "The timing of your shot earlier was good.\nIf you had fired a little later, the wolf would have taken the deer out. It was exquisite.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_12520102_006",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 1,
+                        "FacialExpression": 2,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 9,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "It's nice to be praised by you, but it's also the case that I couldn't finish it off.\nIf there's a next time, I want to kill it myself.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 10,
+                "ViewOrder": 1,
+                "Name": "Volgo",
+                "Phrase": "If that's the case, you should look into hunting wolves next time.\nThere's a lot you can learn about sniping.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_12520102_007",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 11,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "Sniping can be seen as a battle of endurance. One shot is all it takes to kill your prey, but the majority of the battle is spent waiting for your chance.\nTo be able to do that, you need to have the patience to stay still while remaining prepared to kill any sign of life.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 12,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "I see. If you put it that way, wolves and snipers are indeed similar.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 13,
+                "ViewOrder": 1,
+                "Name": "Volgo",
+                "Phrase": "The difference is that they're vindictive. A wolf will not hesitate to take its prey if it can. Snipers, on the other hand, don't need to be vindictive when it comes to hunting their prey... Or, to look at it in another way, if they miss their first shot, it means failure.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_12520102_008",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 7,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 14,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "The wolves still haven't moved, but does that mean they're still after the deer?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 15,
+                "ViewOrder": 1,
+                "Name": "Volgo",
+                "Phrase": "That's right. If I take my gaze off them even for a second, they'll take it. But, we don't have any obligation to wait for them to give up.\nShall I make them leave?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_12520102_009",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 16,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "When Volgo fired a warning shot at the wolves,\nthey quickly disappeared, blending into the snowy landscape.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 1,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 17,
+                "ViewOrder": 1,
+                "Name": "Volgo",
+                "Phrase": "They are our enemies in this business, but we should never kill them. We shouldn't kill more than we have to,\nand above all, we should respect them.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_12520102_010",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 18,
+                "ViewOrder": 1,
+                "Name": "Volgo",
+                "Phrase": "Those who underestimate wolves as simple animals cannot survive in the snowy mountains. People with intelligence and tools are often no match for them in a hunting match.\nWe must understand they are no different from us if we want to live in the mountains.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_12520102_011",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 19,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "Volgo went over to the deer and crouched down beside it. She then took out her knife and cut it apart with a practiced hand.\nShe carefully laid out the skin, organs and meat.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 20,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "As she gently placed the detached head on the ground,\nVolgo clasped her hands together and muttered a short prayer.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 1,
+                        "Emotion": 0,
+                        "FacialExpression": 7,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 21,
+                "ViewOrder": 1,
+                "Name": "Volgo",
+                "Phrase": "This is a ritual handed down by us Eisengrad hunters, called hunting purification.\nIn other countries, it is known as blood purification.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_12520102_012",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 22,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "The hunter gives thanks to the mountain.\nThey worship the gods of the mountain and pray for the success of their own hunting.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 23,
+                "ViewOrder": 1,
+                "Name": "Volgo",
+                "Phrase": "Now, it's about time to take our catch to the cabin.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_12520102_013",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 2,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 24,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "Volgo looked up at the summit.\nThe howling of wolves could be heard in the distance.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 25201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
             }
-        }, {
-            "GroupOrder": 13,
-            "ViewOrder": 1,
-            "Name": "Volgo",
-            "Phrase": "The difference is that they\u0027re vindictive. A wolf will not hesitate to take its prey if it can. Snipers, on the other hand, don\u0027t need to be vindictive when it comes to hunting their prey... Or, to look at it in another way, if they miss their first shot, it means failure.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_12520102_008",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 7,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 23,
-            "ViewOrder": 1,
-            "Name": "Volgo",
-            "Phrase": "Now, it\u0027s about time to take our catch to the cabin.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_12520102_013",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 2,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 17,
-            "ViewOrder": 1,
-            "Name": "Volgo",
-            "Phrase": "They are our enemies in this business, but we should never kill them. We shouldn\u0027t kill more than we have to,\nand above all, we should respect them.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_12520102_010",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 14,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "The wolves still haven\u0027t moved, but does that mean they\u0027re still after the deer?",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 22,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "The hunter gives thanks to the mountain.\nThey worship the gods of the mountain and pray for the success of their own hunting.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 21,
-            "ViewOrder": 1,
-            "Name": "Volgo",
-            "Phrase": "This is a ritual handed down by us Eisengrad hunters, called hunting purification.\nIn other countries, it is known as blood purification.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_12520102_012",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 20,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "As she gently placed the detached head on the ground,\nVolgo clasped her hands together and muttered a short prayer.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 1,
-                "Emotion": 0,
-                "FacialExpression": 7,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 19,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "Volgo went over to the deer and crouched down beside it. She then took out her knife and cut it apart with a practiced hand.\nShe carefully laid out the skin, organs and meat.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 24,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "Volgo looked up at the summit.\nThe howling of wolves could be heard in the distance.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 12,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "I see. If you put it that way, wolves and snipers are indeed similar.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 2,
-            "ViewOrder": 1,
-            "Name": "Volgo",
-            "Phrase": "Wait, there are wolves.\nApparently, we were after the same prey.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_12520102_002",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 7,
-                "Emotion": 0,
-                "FacialExpression": 3,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 18,
-            "ViewOrder": 1,
-            "Name": "Volgo",
-            "Phrase": "Those who underestimate wolves as simple animals cannot survive in the snowy mountains. People with intelligence and tools are often no match for them in a hunting match.\nWe must understand they are no different from us if we want to live in the mountains.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_12520102_011",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 16,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "When Volgo fired a warning shot at the wolves,\nthey quickly disappeared, blending into the snowy landscape.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 1,
-                "Emotion": 0,
-                "FacialExpression": 3,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 15,
-            "ViewOrder": 1,
-            "Name": "Volgo",
-            "Phrase": "That\u0027s right. If I take my gaze off them even for a second, they\u0027ll take it. But, we don\u0027t have any obligation to wait for them to give up.\nShall I make them leave?",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_12520102_009",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 9,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "It\u0027s nice to be praised by you, but it\u0027s also the case that I couldn\u0027t finish it off.\nIf there\u0027s a next time, I want to kill it myself.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 8,
-            "ViewOrder": 1,
-            "Name": "Volgo",
-            "Phrase": "The timing of your shot earlier was good.\nIf you had fired a little later, the wolf would have taken the deer out. It was exquisite.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_12520102_006",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 1,
-                "FacialExpression": 2,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 7,
-            "ViewOrder": 1,
-            "Name": "Volgo",
-            "Phrase": "On the other hand, humans often hesitate or get impatient when killing their prey, don\u0027t they?\nIf that happens, the wolf will win.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_12520102_005",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 8,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 6,
-            "ViewOrder": 1,
-            "Name": "Volgo",
-            "Phrase": "Wolves are patient. They spend a lot of effort trying to figure out when to pounce on their prey. They understand that this is a battle of endurance.\nOnce they have decided on their prey, they will not give up until it is theirs.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_12520102_004",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 7,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 5,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "I can\u0027t imagine Volgo ever losing.\nThe wolves must be incredibly skilled at hunting.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 4,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 4,
-            "ViewOrder": 1,
-            "Name": "Volgo",
-            "Phrase": "In the mountains in winter, there are few prey. Battles are common. And wolves are good hunters.\nI\u0027ve been beaten by them many times.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_12520102_003",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 4,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 3,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "As Volgo pointed her muzzle at them, I saw the wolves hiding in the bushes. They remained wary, but still didn\u0027t leave,\nprobably because they hadn\u0027t given up on their prey yet.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 3,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 1,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "As soon as I went to retrieve the deer,\nVolgo grabbed me lightly by the sleeve.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "106002",
-            "BGM": "adv_02",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 3,
-                "EnterAction": 1
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 10,
-            "ViewOrder": 1,
-            "Name": "Volgo",
-            "Phrase": "If that\u0027s the case, you should look into hunting wolves next time.\nThere\u0027s a lot you can learn about sniping.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_12520102_007",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 25201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }],
+        ],
         "FirstViewRewords": {
             "Items": [],
             "GiftItems": [],

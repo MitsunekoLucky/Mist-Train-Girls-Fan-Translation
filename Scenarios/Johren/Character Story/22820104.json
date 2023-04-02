@@ -1,701 +1,763 @@
-{
+﻿{
     "r": {
         "MSceneId": 22820104,
-        "MSceneDetailViewModel": [{
-            "GroupOrder": 1,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "Lately, we have been experiencing frequent shortages of supplies for our unit.\nNot just one or two times, but at least once or twice a week we\u0027re out of a dozen small supplies.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "103702",
-            "BGM": "adv_02",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
+        "MSceneDetailViewModel": [
+            {
+                "GroupOrder": 1,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "Lately, we have been experiencing frequent shortages of supplies for our unit.\nNot just one or two times, but at least once or twice a week we're out of a dozen small supplies.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "103702",
+                "BGM": "adv_02",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 2,
+                "ViewOrder": 1,
+                "Name": "Volklingen",
+                "Phrase": "What is it, Conductor? I'm busy.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_22820104_001",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 5201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 3,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "So I summoned Volklingen,\nbut my eyes were already swimming and I had already come to a terrible conclusion in my mind.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 5201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 4,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 4,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "She's probably selling it somewhere to make a few bucks. I'm just going to give her a stern warning, though,\nbecause they're just everyday items and not weapons...",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 5201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 5,
+                "ViewOrder": 1,
+                "Name": "Volklingen",
+                "Phrase": "Supplies? Now, now, what are you talking about?\nI'm sure there's something wrong with the way you're managing it.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_22820104_002",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 5201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 5,
+                        "FacialExpression": 8,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 6,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "It seems she has no intention of confessing. I wanted to get her to admit it and be done with it,\nsince I didn't want to waste time looking for evidence.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 5201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 8,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 7,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "Those shoes are new, aren't they? They look expensive.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 5201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 8,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 8,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "When I pointed this out, Volklingen became noticeably upset.\nI sense that there is a presence in the room. I turn around and there it is...",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 5201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 8,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 9,
+                "ViewOrder": 1,
+                "Name": "Murmansk",
+                "Phrase": "I saw it.\nI saw Volklingen make off with supplies from there.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_22820104_003",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 28201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 2
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 10,
+                "ViewOrder": 1,
+                "Name": "Volklingen",
+                "Phrase": "Ah! Hey, cut it out!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 8,
+                "FrameImage": 0,
+                "VoiceFileName": "c_22820104_004",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 5201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 4,
+                        "FacialExpression": 1,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 28201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 11,
+                "ViewOrder": 1,
+                "Name": "Murmansk",
+                "Phrase": "It was a bottle of poison.\nYou got money for it taking it, right?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 2,
+                "FrameImage": 0,
+                "VoiceFileName": "c_22820104_005",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 5201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 1,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 28201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 12,
+                "ViewOrder": 1,
+                "Name": "Volklingen",
+                "Phrase": "Ah, ahhhh, urgent business! I just remembered something urgent I have to attend to!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 8,
+                "FrameImage": 0,
+                "VoiceFileName": "c_22820104_006",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 5201,
+                        "Position": 2,
+                        "Action": 1,
+                        "Emotion": 5,
+                        "FacialExpression": 5,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 28201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 8,
+                        "FacialExpression": 1,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 13,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "Before I could say that I wasn't finished with her yet,\nVolklingen ran off as fast as her legs could carry her.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 28201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 1,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 14,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "Well, now that this kind of testimony has come out,\nI'm sure there will be some kind of response from her when the time is right.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 28201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 1,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 15,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "However...",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 28201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 1,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 16,
+                "ViewOrder": 1,
+                "Name": "Murmansk",
+                "Phrase": "I wonder if Volklingen is OK.\nIt would be bad if she didn't make it in time to attend to that urgent business.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_22820104_007",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 28201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 8,
+                        "FacialExpression": 4,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 17,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "She did me an excellent service, but I'm hesitant to give my full approval to Murmansk,\nwho doesn't even know what her testimony means.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 28201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 4,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 18,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "The reason is that she could use her ability to disappear to spy on others.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 28201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 4,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 19,
+                "ViewOrder": 1,
+                "Name": "Murmansk",
+                "Phrase": "I see...\nSpying on people while I'm invisible isn't very good of me.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_22820104_008",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 28201,
+                        "Position": 3,
+                        "Action": 3,
+                        "Emotion": 0,
+                        "FacialExpression": 4,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 20,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "Murmansk took my criticism in stride.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 28201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 4,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
             }
-        }, {
-            "GroupOrder": 13,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "Before I could say that I wasn\u0027t finished with her yet,\nVolklingen ran off as fast as her legs could carry her.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 28201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 1,
-                "EnterAction": 1
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 12,
-            "ViewOrder": 1,
-            "Name": "Volklingen",
-            "Phrase": "Ah, ahhhh, urgent business! I just remembered something urgent I have to attend to!",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 8,
-            "FrameImage": 0,
-            "VoiceFileName": "c_22820104_006",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 5201,
-                "Position": 2,
-                "Action": 1,
-                "Emotion": 5,
-                "FacialExpression": 5,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 28201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 8,
-                "FacialExpression": 1,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 8,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "When I pointed this out, Volklingen became noticeably upset.\nI sense that there is a presence in the room. I turn around and there it is...",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 5201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 8,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 7,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "Those shoes are new, aren\u0027t they? They look expensive.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 5201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 8,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 2,
-            "ViewOrder": 1,
-            "Name": "Volklingen",
-            "Phrase": "What is it, Conductor? I\u0027m busy.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_22820104_001",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 5201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 3,
-                "EnterAction": 1
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 6,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "It seems she has no intention of confessing. I wanted to get her to admit it and be done with it,\nsince I didn\u0027t want to waste time looking for evidence.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 5201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 8,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 3,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "So I summoned Volklingen,\nbut my eyes were already swimming and I had already come to a terrible conclusion in my mind.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 5201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 4,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 11,
-            "ViewOrder": 1,
-            "Name": "Murmansk",
-            "Phrase": "It was a bottle of poison.\nYou got money for it taking it, right?",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 2,
-            "FrameImage": 0,
-            "VoiceFileName": "c_22820104_005",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 5201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 1,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 28201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 17,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "She did me an excellent service, but I\u0027m hesitant to give my full approval to Murmansk,\nwho doesn\u0027t even know what her testimony means.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 28201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 4,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 10,
-            "ViewOrder": 1,
-            "Name": "Volklingen",
-            "Phrase": "Ah! Hey, cut it out!",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 8,
-            "FrameImage": 0,
-            "VoiceFileName": "c_22820104_004",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 5201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 4,
-                "FacialExpression": 1,
-                "EnterAction": 1
-            }, {
-                "MCharacterId": 28201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 1
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 14,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "Well, now that this kind of testimony has come out,\nI\u0027m sure there will be some kind of response from her when the time is right.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 28201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 1,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 4,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "She\u0027s probably selling it somewhere to make a few bucks. I\u0027m just going to give her a stern warning, though,\nbecause they\u0027re just everyday items and not weapons...",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 5201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 15,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "However...",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 28201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 1,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 5,
-            "ViewOrder": 1,
-            "Name": "Volklingen",
-            "Phrase": "Supplies? Now, now, what are you talking about?\nI\u0027m sure there\u0027s something wrong with the way you\u0027re managing it.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_22820104_002",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 5201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 5,
-                "FacialExpression": 8,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 20,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "Murmansk took my criticism in stride.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 28201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 4,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 18,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "The reason is that she could use her ability to disappear to spy on others.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 28201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 4,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 19,
-            "ViewOrder": 1,
-            "Name": "Murmansk",
-            "Phrase": "I see...\nSpying on people while I\u0027m invisible isn\u0027t very good of me.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_22820104_008",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 28201,
-                "Position": 3,
-                "Action": 3,
-                "Emotion": 0,
-                "FacialExpression": 4,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 9,
-            "ViewOrder": 1,
-            "Name": "Murmansk",
-            "Phrase": "I saw it.\nI saw Volklingen make off with supplies from there.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_22820104_003",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 28201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 2
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 16,
-            "ViewOrder": 1,
-            "Name": "Murmansk",
-            "Phrase": "I wonder if Volklingen is OK.\nIt would be bad if she didn\u0027t make it in time to attend to that urgent business.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_22820104_007",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 28201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 8,
-                "FacialExpression": 4,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }],
+        ],
         "FirstViewRewords": {
             "Items": [],
             "GiftItems": [],

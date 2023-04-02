@@ -1,483 +1,526 @@
-{
+﻿{
     "r": {
         "MSceneId": 21740106,
-        "MSceneDetailViewModel": [{
-            "GroupOrder": 14,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "Fussen\u0027s expression turned sad as she mumbled to herself.\nAs she began to explore the shelves, I hugged her from behind without thinking.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 17401,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 4,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
+        "MSceneDetailViewModel": [
+            {
+                "GroupOrder": 1,
+                "ViewOrder": 1,
+                "Name": "Fussen",
+                "Phrase": "Hmm. This takes me back. It was at one point all the rage in Eisengrad.\nNot that you would know.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_21740106_001",
+                "BackgroundImage": "104004",
+                "BGM": "adv_02",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 17401,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 2,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 2,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "In Eisengrad,\nwe had stopped by the castle where Fussen used to live.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 17401,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 2,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 3,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "To be precise, if the dormitory is a temporary residence, then this is still where she will go back to, so it may not be correct to say she used to live here.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 17401,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 4,
+                "ViewOrder": 1,
+                "Name": "Fussen",
+                "Phrase": "Oh, and there's this too. If you press here, this will pop out.\nWhat do you think? You find it trivial, right?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_21740106_002",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 17401,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 1,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 5,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "She wanted to pick up a few things she had left behind,\nso we dropped by after finishing our mission in Eisengrad.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 17401,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 6,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "Of course, Fussen said she wanted to come alone, but that was her usual way. I had heard various things about her situation\nand decided that it would be cruel to send her alone to an empty castle.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 17401,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 7,
+                "ViewOrder": 1,
+                "Name": "Fussen",
+                "Phrase": "Hmm? Yeah, I know. I was supposed to just pick up what I wanted to bring back.\nBut, when I'm sorting through my old belongings, I can't help but get nostalgic!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_21740106_003",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 17401,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 8,
+                        "FacialExpression": 1,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 8,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "Fussen was always alone in this castle. Her parents were very busy and rarely came home.\nI wonder what she spent her time thinking about in this quiet castle.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 17401,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 1,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 9,
+                "ViewOrder": 1,
+                "Name": "Fussen",
+                "Phrase": "Hmm, I'll just check the shelves in the parlor over there.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_21740106_004",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 17401,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 7,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 10,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "The next area we walked to contained sculptures lining the walls\nWhen I passed through it, I found myself in a parlor with magnificent paintings.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 17401,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 11,
+                "ViewOrder": 1,
+                "Name": "Fussen",
+                "Phrase": "What do you think? Brilliant, right? You're speechless, aren't you?\nA fool like you would usually never be able to see such treasures in your lifetime.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_21740106_005",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 17401,
+                        "Position": 3,
+                        "Action": 1,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 12,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "It's hard to believe that you've been living here almost entirely by yourself, Fussen. You've got so many things\nI had expected it, but I guess you really are not very good at organizing things.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 17401,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 13,
+                "ViewOrder": 1,
+                "Name": "Fussen",
+                "Phrase": "Well, it's not like anyone's going to scold me for causing a mess.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_21740106_006",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 17401,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 4,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 14,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "Fussen's expression turned sad as she mumbled to herself.\nAs she began to explore the shelves, I hugged her from behind without thinking.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 17401,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 4,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
             }
-        }, {
-            "GroupOrder": 12,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "It\u0027s hard to believe that you\u0027ve been living here almost entirely by yourself, Fussen. You\u0027ve got so many things\nI had expected it, but I guess you really are not very good at organizing things.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 17401,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 5,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "She wanted to pick up a few things she had left behind,\nso we dropped by after finishing our mission in Eisengrad.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 17401,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 4,
-            "ViewOrder": 1,
-            "Name": "Fussen",
-            "Phrase": "Oh, and there\u0027s this too. If you press here, this will pop out.\nWhat do you think? You find it trivial, right?",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_21740106_002",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 17401,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 1,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 9,
-            "ViewOrder": 1,
-            "Name": "Fussen",
-            "Phrase": "Hmm, I\u0027ll just check the shelves in the parlor over there.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_21740106_004",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 17401,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 7,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 13,
-            "ViewOrder": 1,
-            "Name": "Fussen",
-            "Phrase": "Well, it\u0027s not like anyone\u0027s going to scold me for causing a mess.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_21740106_006",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 17401,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 4,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 11,
-            "ViewOrder": 1,
-            "Name": "Fussen",
-            "Phrase": "What do you think? Brilliant, right? You\u0027re speechless, aren\u0027t you?\nA fool like you would usually never be able to see such treasures in your lifetime.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_21740106_005",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 17401,
-                "Position": 3,
-                "Action": 1,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 10,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "The next area we walked to contained sculptures lining the walls\nWhen I passed through it, I found myself in a parlor with magnificent paintings.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 17401,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 1,
-            "ViewOrder": 1,
-            "Name": "Fussen",
-            "Phrase": "Hmm. This takes me back. It was at one point all the rage in Eisengrad.\nNot that you would know.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_21740106_001",
-            "BackgroundImage": "104004",
-            "BGM": "adv_02",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 17401,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 2,
-                "EnterAction": 1
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 2,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "In Eisengrad,\nwe had stopped by the castle where Fussen used to live.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 17401,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 2,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 3,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "To be precise, if the dormitory is a temporary residence, then this is still where she will go back to, so it may not be correct to say she used to live here.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 17401,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 6,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "Of course, Fussen said she wanted to come alone, but that was her usual way. I had heard various things about her situation\nand decided that it would be cruel to send her alone to an empty castle.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 17401,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 8,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "Fussen was always alone in this castle. Her parents were very busy and rarely came home.\nI wonder what she spent her time thinking about in this quiet castle.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 17401,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 1,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 7,
-            "ViewOrder": 1,
-            "Name": "Fussen",
-            "Phrase": "Hmm? Yeah, I know. I was supposed to just pick up what I wanted to bring back.\nBut, when I\u0027m sorting through my old belongings, I can\u0027t help but get nostalgic!",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_21740106_003",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 17401,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 8,
-                "FacialExpression": 1,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }],
+        ],
         "FirstViewRewords": {
             "Items": [],
             "GiftItems": [],

@@ -1,804 +1,876 @@
-{
+﻿{
     "r": {
         "MSceneId": 21520104,
-        "MSceneDetailViewModel": [{
-            "GroupOrder": 11,
-            "ViewOrder": 1,
-            "Name": "Alexandra",
-            "Phrase": "Kyahahah!\u266A Paddington, you\u0027re no child. \nNo need to make such a fuss about something like that.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 2,
-            "FrameImage": 0,
-            "VoiceFileName": "c_21520104_007",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 0,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 6,
-                "FacialExpression": 6,
-                "EnterAction": 1
-            }, {
-                "MCharacterId": 15201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 1,
-                "FacialExpression": 8,
-                "EnterAction": 1
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
+        "MSceneDetailViewModel": [
+            {
+                "GroupOrder": 1,
+                "ViewOrder": 1,
+                "Name": "Alexandra",
+                "Phrase": "Aaaaaghhh! It's so hot. I seriously can't believe this! Isn't this train supposed to be the crown jewel of the Alliance!? We go out on a mission in the desert and get back to find the magical A/C not working!? I don't believe it!?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 1,
+                "VoiceFileName": "c_21520104_001",
+                "BackgroundImage": "105202",
+                "BGM": "adv_02",
+                "SE": "",
+                "Effect": 5,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 15201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 2
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 2,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "It's just a machine. There are days it doesn't break down at all. Then there are days when the soldiers get too big for their britches and easily break it. You say that as you wipe the sweat pouring down your face.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 15201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 3,
+                "ViewOrder": 1,
+                "Name": "Alexandra",
+                "Phrase": "Don't try and sugarcoat things! \nYou look like you've been through the pits of hell, you're sweating all over!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_21520104_002",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 15201,
+                        "Position": 3,
+                        "Action": 1,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 4,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "There's a difference between saying that no amount of complaining is going to help and saying that I no complaints about the heat. \nOnce we get back home you can bet I am treating the maintenance crew to at least a few rounds of ice cold beverages.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 15201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 5,
+                "ViewOrder": 1,
+                "Name": "Penang Hill",
+                "Phrase": "Nhyewww. \nIt's so damn hot.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_21520104_003",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 8201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 8,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 6,
+                "ViewOrder": 1,
+                "Name": "Alexandra",
+                "Phrase": "Lil' Penang looks like her soul has left her body.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 2,
+                "FrameImage": 0,
+                "VoiceFileName": "c_21520104_004",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 8201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 8,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 15201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 5,
+                        "FacialExpression": 1,
+                        "EnterAction": 4
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 7,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "I'll take my hat off for now then. I don't need my jacket either. \nWell wait, no one cares if I'm shirtless. Perk of being a guy.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 8201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 8,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 15201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 1,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 8,
+                "ViewOrder": 1,
+                "Name": "Alexandra",
+                "Phrase": "Wait a minute now!? Why're you stripping, sir!?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 2,
+                "FrameImage": 0,
+                "VoiceFileName": "c_21520104_005",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 8201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 7,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 15201,
+                        "Position": 4,
+                        "Action": 1,
+                        "Emotion": 4,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 9,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "Conductor, I have the inspection report for the A/C…Kyahhhh!?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_21520104_006",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 10,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "Paddington had stepped in for a status report only to have her eyes fixate on your shirtless torso.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 5,
+                        "FacialExpression": 1,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 11,
+                "ViewOrder": 1,
+                "Name": "Alexandra",
+                "Phrase": "Kyahahah!♪ Paddington, you're no child. \nNo need to make such a fuss about something like that.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 2,
+                "FrameImage": 0,
+                "VoiceFileName": "c_21520104_007",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 6,
+                        "FacialExpression": 6,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 15201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 1,
+                        "FacialExpression": 8,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 12,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "Seems that the A/C will not recover on its own. It will remain like this until we return to base. There are no other malfunctions, particularly in the engine.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 8,
+                "FrameImage": 0,
+                "VoiceFileName": "c_21520104_008",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 2,
+                        "Action": 1,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 15201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 8,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 13,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "The saving grace was being able to return to base with the mission fully completed. \nIf we had to do the mission as tired as we are now, we'd be in trouble.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 14,
+                "ViewOrder": 1,
+                "Name": "Alexandra",
+                "Phrase": "This is no joke! This means that we're gonna be boiling alive in here til we leave Flamarine! Does that make any sense to you!? Aw come on, this is torture!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 1,
+                "VoiceFileName": "c_21520104_009",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 15201,
+                        "Position": 3,
+                        "Action": 1,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 15,
+                "ViewOrder": 1,
+                "Name": "Penang Hill",
+                "Phrase": "Hmmm… \nWould you shut up already? All your complaining isn't gonna get us anywhere.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 8,
+                "FrameImage": 0,
+                "VoiceFileName": "c_21520104_010",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 8201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 8,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 15201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 16,
+                "ViewOrder": 1,
+                "Name": "Alexandra",
+                "Phrase": "Huhh? Of course you're fine, Penang. \nYou just sweat what you need, make everything smell all nice and sweet and seduce in the Conductor, don't you?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 2,
+                "FrameImage": 0,
+                "VoiceFileName": "c_21520104_011",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 8201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 8,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 15201,
+                        "Position": 4,
+                        "Action": 1,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 17,
+                "ViewOrder": 1,
+                "Name": "Penang Hill",
+                "Phrase": "…!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 8,
+                "FrameImage": 0,
+                "VoiceFileName": "c_21520104_012",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 8201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 4,
+                        "FacialExpression": 6,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 15201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 18,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "You're right that Penang Hill's special sweat could attract others. \nBut ridiculing others for their bodies isn't okay.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 8201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 7,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 15201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 4,
+                        "FacialExpression": 4,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 19,
+                "ViewOrder": 1,
+                "Name": "Penang Hill",
+                "Phrase": "It's fine, really.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_21520104_013",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 8201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 20,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "Penang Hill left the train as she said that.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 21,
+                "ViewOrder": 1,
+                "Name": "Alexandra",
+                "Phrase": "Hey, wait…",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "c_21520104_014",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 15201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 5,
+                        "FacialExpression": 4,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 22,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "Alexandra muttered something as she left the train as well. \nThat left Paddington to freak out on her own.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 15201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 4,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
             }
-        }, {
-            "GroupOrder": 13,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "The saving grace was being able to return to base with the mission fully completed. \nIf we had to do the mission as tired as we are now, we\u0027d be in trouble.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 9,
-            "ViewOrder": 1,
-            "Name": "Paddington",
-            "Phrase": "Conductor, I have the inspection report for the A/C\u2026Kyahhhh!?",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_21520104_006",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 0,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 1
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 12,
-            "ViewOrder": 1,
-            "Name": "Paddington",
-            "Phrase": "Seems that the A/C will not recover on its own. It will remain like this until we return to base. There are no other malfunctions, particularly in the engine.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 8,
-            "FrameImage": 0,
-            "VoiceFileName": "c_21520104_008",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 0,
-                "Position": 2,
-                "Action": 1,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 15201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 8,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 8,
-            "ViewOrder": 1,
-            "Name": "Alexandra",
-            "Phrase": "Wait a minute now!? Why\u0027re you stripping, sir!?",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 2,
-            "FrameImage": 0,
-            "VoiceFileName": "c_21520104_005",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 8201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 7,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 15201,
-                "Position": 4,
-                "Action": 1,
-                "Emotion": 4,
-                "FacialExpression": 3,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 10,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "Paddington had stepped in for a status report only to have her eyes fixate on your shirtless torso.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 0,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 5,
-                "FacialExpression": 1,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 14,
-            "ViewOrder": 1,
-            "Name": "Alexandra",
-            "Phrase": "This is no joke! This means that we\u0027re gonna be boiling alive in here til we leave Flamarine! Does that make any sense to you!? Aw come on, this is torture!",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 1,
-            "VoiceFileName": "c_21520104_009",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 15201,
-                "Position": 3,
-                "Action": 1,
-                "Emotion": 0,
-                "FacialExpression": 3,
-                "EnterAction": 1
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 7,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "I\u0027ll take my hat off for now then. I don\u0027t need my jacket either. \nWell wait, no one cares if I\u0027m shirtless. Perk of being a guy.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 8201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 8,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 15201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 1,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 22,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "Alexandra muttered something as she left the train as well. \nThat left Paddington to freak out on her own.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 15201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 4,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 16,
-            "ViewOrder": 1,
-            "Name": "Alexandra",
-            "Phrase": "Huhh? Of course you\u0027re fine, Penang. \nYou just sweat what you need, make everything smell all nice and sweet and seduce in the Conductor, don\u0027t you?",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 2,
-            "FrameImage": 0,
-            "VoiceFileName": "c_21520104_011",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 8201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 8,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 15201,
-                "Position": 4,
-                "Action": 1,
-                "Emotion": 0,
-                "FacialExpression": 3,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 17,
-            "ViewOrder": 1,
-            "Name": "Penang Hill",
-            "Phrase": "\u2026!",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 8,
-            "FrameImage": 0,
-            "VoiceFileName": "c_21520104_012",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 8201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 4,
-                "FacialExpression": 6,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 15201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 3,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 18,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "You\u0027re right that Penang Hill\u0027s special sweat could attract others. \nBut ridiculing others for their bodies isn\u0027t okay.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 8201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 7,
-                "EnterAction": 0
-            }, {
-                "MCharacterId": 15201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 4,
-                "FacialExpression": 4,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 20,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "Penang Hill left the train as she said that.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 21,
-            "ViewOrder": 1,
-            "Name": "Alexandra",
-            "Phrase": "Hey, wait\u2026",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_21520104_014",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 15201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 5,
-                "FacialExpression": 4,
-                "EnterAction": 1
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 3,
-            "ViewOrder": 1,
-            "Name": "Alexandra",
-            "Phrase": "Don\u0027t try and sugarcoat things! \nYou look like you\u0027ve been through the pits of hell, you\u0027re sweating all over!",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_21520104_002",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 15201,
-                "Position": 3,
-                "Action": 1,
-                "Emotion": 0,
-                "FacialExpression": 3,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 2,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "It\u0027s just a machine. There are days it doesn\u0027t break down at all. Then there are days when the soldiers get too big for their britches and easily break it. You say that as you wipe the sweat pouring down your face.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 15201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 3,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 1,
-            "ViewOrder": 1,
-            "Name": "Alexandra",
-            "Phrase": "Aaaaaghhh! It\u0027s so hot. I seriously can\u0027t believe this! Isn\u0027t this train supposed to be the crown jewel of the Alliance!? We go out on a mission in the desert and get back to find the magical A/C not working!? I don\u0027t believe it!?",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 1,
-            "VoiceFileName": "c_21520104_001",
-            "BackgroundImage": "105202",
-            "BGM": "adv_02",
-            "SE": "",
-            "Effect": 5,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 15201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 3,
-                "EnterAction": 2
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 4,
-            "ViewOrder": 1,
-            "Name": "",
-            "Phrase": "There\u0027s a difference between saying that no amount of complaining is going to help and saying that I no complaints about the heat. \nOnce we get back home you can bet I am treating the maintenance crew to at least a few rounds of ice cold beverages.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 0,
-            "FrameImage": 0,
-            "VoiceFileName": "",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 15201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 3,
-                "EnterAction": 0
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 5,
-            "ViewOrder": 1,
-            "Name": "Penang Hill",
-            "Phrase": "Nhyewww. \nIt\u0027s so damn hot.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_21520104_003",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 8201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 8,
-                "EnterAction": 1
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 15,
-            "ViewOrder": 1,
-            "Name": "Penang Hill",
-            "Phrase": "Hmmm\u2026 \nWould you shut up already? All your complaining isn\u0027t gonna get us anywhere.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 8,
-            "FrameImage": 0,
-            "VoiceFileName": "c_21520104_010",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 8201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 8,
-                "EnterAction": 1
-            }, {
-                "MCharacterId": 15201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 3,
-                "EnterAction": 1
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 19,
-            "ViewOrder": 1,
-            "Name": "Penang Hill",
-            "Phrase": "It\u0027s fine, really.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 4,
-            "FrameImage": 0,
-            "VoiceFileName": "c_21520104_013",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 8201,
-                "Position": 3,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 0,
-                "EnterAction": 1
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }, {
-            "GroupOrder": 6,
-            "ViewOrder": 1,
-            "Name": "Alexandra",
-            "Phrase": "Lil\u0027 Penang looks like her soul has left her body.",
-            "PhraseFontSize": 2,
-            "PhraseSpeed": 3,
-            "IsPhraseCenter": false,
-            "SpeechMCharacterId": null,
-            "IsSpeakingFlags": 2,
-            "FrameImage": 0,
-            "VoiceFileName": "c_21520104_004",
-            "BackgroundImage": "",
-            "BGM": "",
-            "SE": "",
-            "Effect": null,
-            "BackgroundEffectType": 0,
-            "StandCharacters": [{
-                "MCharacterId": 8201,
-                "Position": 2,
-                "Action": 0,
-                "Emotion": 0,
-                "FacialExpression": 8,
-                "EnterAction": 1
-            }, {
-                "MCharacterId": 15201,
-                "Position": 4,
-                "Action": 0,
-                "Emotion": 5,
-                "FacialExpression": 1,
-                "EnterAction": 4
-            }],
-            "StillDetail": {
-                "AnimationName": "",
-                "AnimationSpeed": null,
-                "CameraZoomRatio": null,
-                "CameraPositionX": null,
-                "CameraPositionY": null,
-                "CameraWorkDuration": null,
-                "CameraRotation": null
-            }
-        }],
+        ],
         "FirstViewRewords": {
             "Items": [],
             "GiftItems": [],
