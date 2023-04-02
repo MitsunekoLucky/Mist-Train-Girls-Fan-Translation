@@ -2,7 +2,7 @@ import json
 import os
 from pathlib import Path
 from json import JSONDecodeError
-from csv_lib import load_dmm_json, get_story_object, TranslationMap, get_dmm_json_dir
+from csv_lib import load_json, get_story_object, TranslationMap, get_dmm_json_dir
 from definitions import StoryType
 
 OUTPUT_DIR = Path("../Scenarios_TL/")
@@ -27,7 +27,7 @@ def create_translated_json(story_type):
         translation_map.load_csv(story_obj)
 
         #load the json file for this story ID
-        data = load_dmm_json(story_type, file)
+        data = load_json(original_json_dir.joinpath(file))
 
         if data is None:
             continue
@@ -45,7 +45,7 @@ def create_translated_json(story_type):
                 name = translated_data["NameEN"]
                 if phrase != "":
                     file_has_translations = True
-                    data[i]["Phrase"] = phrase
+                    data[i]["Phrase"] = phrase.replace("\\n", "\n")
                     data[i]["Name"] = name
         
         if file_has_translations:
