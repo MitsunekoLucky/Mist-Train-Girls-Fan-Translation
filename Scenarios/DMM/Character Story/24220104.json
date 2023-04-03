@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30c8\u30ec\u30a4\u30f3\u30ca\u30a4\u30c8\u305f\u3061\u306e\u8a13\u7df4\u306b\u81ea\u5206\u3082\u53c2\u52a0\u3057\u3001\u3072\u3068\u6c57\u6d41\u3057\u305f\u5f8c\u306e\u3053\u3068\u3002\\n\u3061\u3087\u3063\u3068\u753a\u3067\u3082\u3076\u3089\u3064\u3053\u3046\u304b\u3068\u5916\u3078\u51fa\u305f\u3068\u3053\u308d\u3001\u30c6\u30f3\u30b7\u30f3\u3068\u51fa\u304f\u308f\u3057\u305f\u3002",
+    "Phrase": "トレインナイトたちの訓練に自分も参加し、ひと汗流した後のこと。\\nちょっと町でもぶらつこうかと外へ出たところ、テンシンと出くわした。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30f3\u30b7\u30f3",
-    "Phrase": "\u300c\u3042\u2026\u2026\u8eca\u638c\u3055\u3093\uff01\u300d",
+    "Name": "テンシン",
+    "Phrase": "「あ……車掌さん！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,30 +46,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 42201,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 5,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3053\u3053\u306e\u3068\u3053\u308d\u3001\u30c6\u30f3\u30b7\u30f3\u306f\u8a13\u7df4\u304c\u7d42\u308f\u308b\u3068\u3059\u3050\u306b\u51fa\u304b\u3051\u3066\u3044\u305f\u306a\u3002\\n\u3069\u3053\u304b\u3078\u901a\u3063\u3066\u3044\u308b\u306e\u304b\uff1f",
+    "Phrase": "ここのところ、テンシンは訓練が終わるとすぐに出かけていたな。\\nどこかへ通っているのか？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -82,30 +83,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 42201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30f3\u30b7\u30f3",
-    "Phrase": "\u300c\u5b9f\u306f\u3001\u3061\u3087\u3063\u3068\u3057\u305f\u304a\u4ed5\u4e8b\u3092\u3057\u3066\u308b\u3093\u3067\u3059\u3002\\n\u3000\u3088\u304f\u884c\u304f\u9aa8\u8463\u54c1\u306e\u304a\u5e97\u306a\u3093\u3067\u3059\u304c\u3001\\n\u3000\u5009\u5eab\u3092\u8352\u3089\u3055\u308c\u308b\u3068\u76f8\u8ac7\u3055\u308c\u305f\u3093\u3067\u3059\u3088\u300d",
+    "Name": "テンシン",
+    "Phrase": "「実は、ちょっとしたお仕事をしてるんです。\\n　よく行く骨董品のお店なんですが、\\n　倉庫を荒らされると相談されたんですよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -119,30 +120,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 42201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u9aa8\u8463\u54c1\u5e97\u306a\u3089\u54c1\u306b\u3088\u3063\u3066\u306f\u9ad8\u304f\u58f2\u308c\u308b\u3053\u3068\u3082\u3042\u308b\u3060\u308d\u3046\u3002\\n\u305d\u308c\u306b\u76ee\u3092\u4ed8\u3051\u305f\u4e0d\u5c4a\u304d\u8005\u304c\u5009\u5eab\u3092\u8352\u3089\u3057\u3066\u3044\u308b\u3068\u3044\u3046\u308f\u3051\u304b\u3002",
+    "Phrase": "骨董品店なら品によっては高く売れることもあるだろう。\\nそれに目を付けた不届き者が倉庫を荒らしているというわけか。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -156,30 +157,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 42201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30f3\u30b7\u30f3",
-    "Phrase": "\u300c\u5e97\u4e3b\u306e\u304a\u3058\u3044\u3055\u3093\u306f\u3001\u5927\u5206\u304a\u5e74\u3092\u53ec\u3057\u3066\u3044\u308b\u306e\u3067\u3001\\n\u3000\u72af\u4eba\u3068\u51fa\u304f\u308f\u3057\u3066\u592a\u5200\u6253\u3061\u3067\u304d\u308b\u306f\u305a\u3082\u306a\u3044\u3067\u3059\u3057\u3001\u5fc3\u914d\u3067\u2026\u2026\u3002\\n\u3000\u305d\u308c\u3067\u5009\u5eab\u8b66\u5099\u3092\u3084\u3063\u3066\u3044\u308b\u3093\u3067\u3059\u300d",
+    "Name": "テンシン",
+    "Phrase": "「店主のおじいさんは、大分お年を召しているので、\\n　犯人と出くわして太刀打ちできるはずもないですし、心配で……。\\n　それで倉庫警備をやっているんです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -193,30 +194,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 42201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5999\u306a\u526f\u696d\u3092\u3057\u3066\u3044\u308b\u306e\u3067\u3042\u308c\u3070\u7acb\u5834\u4e0a\u3001\u770b\u904e\u3067\u304d\u306a\u3044\u306e\u3060\u304c\u3001\\n\u4e8b\u60c5\u3092\u805e\u304f\u9650\u308a\u306f\u3001\u81ea\u5206\u306e\u5fc3\u306e\u306a\u304b\u306b\u3057\u307e\u3063\u3066\u304a\u3044\u3066\u826f\u3044\u8a71\u3060\u308d\u3046\u3002",
+    "Phrase": "妙な副業をしているのであれば立場上、看過できないのだが、\\n事情を聞く限りは、自分の心のなかにしまっておいて良い話だろう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -230,30 +231,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 42201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3057\u304b\u3057\u3001\u305d\u308c\u306f\u305d\u308c\u3067\u5fc3\u914d\u3060\u3002\\n\u306a\u306b\u305b\u72af\u4eba\u304c\u5358\u72ec\u304b\u96c6\u56e3\u304b\u3001\u3069\u3093\u306a\u88c5\u5099\u3067\u6765\u308b\u304b\u3082\u308f\u304b\u3089\u306a\u3044\u3002\\n\u305d\u3093\u306a\u4e2d\u3001\u30c6\u30f3\u30b7\u30f3\u306f\u3072\u3068\u308a\u3067\u8fce\u3048\u6483\u305f\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u306e\u3060\u304b\u3089\u3002",
+    "Phrase": "しかし、それはそれで心配だ。\\nなにせ犯人が単独か集団か、どんな装備で来るかもわからない。\\nそんな中、テンシンはひとりで迎え撃たなければならないのだから。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -267,21 +268,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30f3\u30b7\u30f3",
-    "Phrase": "\u300c\u3059\u307f\u307e\u305b\u3093\u8eca\u638c\u3055\u3093\u3002\\n\u3000\u4ed8\u304d\u5408\u308f\u305b\u308b\u3053\u3068\u306b\u306a\u3063\u3066\u3057\u307e\u3063\u3066\u300d",
+    "Name": "テンシン",
+    "Phrase": "「すみません車掌さん。\\n　付き合わせることになってしまって」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -295,30 +297,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 42201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5009\u5eab\u3067\u30c6\u30f3\u30b7\u30f3\u3068\u3075\u305f\u308a\u3001\u307c\u3093\u3084\u308a\u3068\u5f85\u6a5f\u3059\u308b\u3002\\n\u3082\u3061\u308d\u3093\u72af\u7f6a\u88ab\u5bb3\u304c\u306a\u3044\u3053\u3068\u306f\u559c\u3070\u3057\u3044\u306e\u3060\u304c\u3001\\n\u7121\u4eba\u306e\u5009\u5eab\u306a\u3093\u3066\u9000\u5c48\u3067\u3057\u304b\u306a\u3044\u3002",
+    "Phrase": "倉庫でテンシンとふたり、ぼんやりと待機する。\\nもちろん犯罪被害がないことは喜ばしいのだが、\\n無人の倉庫なんて退屈でしかない。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -332,30 +334,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 42201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u4eca\u65e5\u306f\u81ea\u5206\u304c\u3044\u308b\u304c\u3001\u3044\u3064\u3082\u30c6\u30f3\u30b7\u30f3\u306f\u3072\u3068\u308a\u3067\u3069\u3046\u3057\u3066\u3044\u305f\u306e\u304b\u3002",
+    "Phrase": "今日は自分がいるが、いつもテンシンはひとりでどうしていたのか。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -369,30 +371,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 42201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30f3\u30b7\u30f3",
-    "Phrase": "\u300c\u3082\u3061\u308d\u3093\u8a13\u7df4\u3057\u3066\u307e\u3057\u305f\u3088\u3002\\n\u3000\u30a2\u30bf\u30c3\uff01\u3000\u30db\u30ef\u30c1\u30e3\u30a2\u30c3\uff01\u300d",
+    "Name": "テンシン",
+    "Phrase": "「もちろん訓練してましたよ。\\n　アタッ！　ホワチャアッ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -406,30 +408,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 42201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2026\u2026\u305d\u3046\u3060\u3088\u306a\u3002\\n\u611a\u554f\u3060\u3063\u305f\u3068\u81ea\u7701\u3057\u305f\u305d\u306e\u3068\u304d\u3002",
+    "Phrase": "……そうだよな。\\n愚問だったと自省したそのとき。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -443,30 +445,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 42201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30f3\u30b7\u30f3",
-    "Phrase": "\u300c\u2026\u2026\u3063\uff01\u300d",
+    "Name": "テンシン",
+    "Phrase": "「……っ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -480,30 +482,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 42201,
         "Position": 3,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30f3\u30b7\u30f3",
-    "Phrase": "\u300c\u2026\u2026\u8eca\u638c\u3055\u3093\u3001\u4e0b\u304c\u3063\u3066\u3044\u3066\u304f\u3060\u3055\u3044\u3002\\n\u3000\u4f55\u8005\u304b\u304c\u5916\u304b\u3089\u9375\u3092\u3053\u3058\u958b\u3051\u3088\u3046\u3068\u3057\u3066\u3044\u307e\u3059\u300d",
+    "Name": "テンシン",
+    "Phrase": "「……車掌さん、下がっていてください。\\n　何者かが外から鍵をこじ開けようとしています」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -517,30 +519,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 42201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u91d1\u5c5e\u97f3\u3068\u3068\u3082\u306b\u9375\u3092\u58ca\u3057\u3001\u4e2d\u306b\u5165\u3063\u3066\u304d\u305f\u306e\u306f\uff15\u4eba\u7d44\u306e\u7537\u305f\u3061\u3002\\n\u3055\u3059\u304c\u306b\uff15\u4eba\u76f8\u624b\u3067\u306f\u30c6\u30f3\u30b7\u30f3\u304c\u5371\u306a\u3044\u2015\u2015\u3068\u81ea\u5206\u304c\u8eab\u69cb\u3048\u305f\u3068\u304d\u306b\u306f\u3002",
+    "Phrase": "金属音とともに鍵を壊し、中に入ってきたのは５人組の男たち。\\nさすがに５人相手ではテンシンが危ない――と自分が身構えたときには。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -554,30 +556,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 42201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u72af\u4eba",
-    "Phrase": "\u300c\u3042\uff1f\u3000\u306a\u3093\u3060\u304a\u307e\u3048\u300d",
+    "Name": "犯人",
+    "Phrase": "「あ？　なんだおまえ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -591,30 +593,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 105,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30f3\u30b7\u30f3",
-    "Phrase": "\u300c\u30db\u30ef\u30bf\u30c3\uff01\u3000\u306f\u3042\u3042\u3041\u3041\u3041\u3063\u3001\u30a2\u30c1\u30e3\u30fc\u30c3\uff01\u300d",
+    "Name": "テンシン",
+    "Phrase": "「ホワタッ！　はああぁぁぁっ、アチャーッ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -628,30 +630,30 @@
     "Effect": 5,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 42201,
         "Position": 3,
         "Action": 7,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u77ac\u304f\u9593\u306b\u72af\u4eba\u306e\u3046\u3061\u306e\u3072\u3068\u308a\u304c\u660f\u5012\u3059\u308b\u3002\\n\u3053\u308c\u306f\u6642\u9593\u306e\u554f\u984c\u304b\u2026\u2026\u624b\u4f1d\u3044\u306a\u3069\u5fc5\u8981\u306a\u304b\u3063\u305f\u304b\u3082\u3057\u308c\u306a\u3044\u3002",
+    "Phrase": "瞬く間に犯人のうちのひとりが昏倒する。\\nこれは時間の問題か……手伝いなど必要なかったかもしれない。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -665,14 +667,14 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

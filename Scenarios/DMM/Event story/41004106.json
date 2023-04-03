@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u4e0d\u7a4f\u306a\u6c17\u914d\u3092\u5bdf\u77e5\u3057\u3066\u521d\u8a63\u306e\u30a4\u30d9\u30f3\u30c8\u304b\u3089\\n\u8131\u8d70\u3057\u305f\u4eba\u6c17\u4e73\u725b\u300e\u306f\u3063\u3074\u3043\u4e73\u725b\u30db\u30eb\u30b9\u305f\u3093\u300f\u3068\u3001\\n\u602a\u3057\u3044\u8a66\u7df4\u3092\u8ab2\u3057\u3066\u304f\u308b\u30e2\u30ce\u3092\u8ffd\u3063\u3066\u68ee\u306e\u5965\u307e\u3067\u3084\u3063\u3066\u304d\u305f\u3002",
+    "Phrase": "不穏な気配を察知して初詣のイベントから\\n脱走した人気乳牛『はっぴぃ乳牛ホルスたん』と、\\n怪しい試練を課してくるモノを追って森の奥までやってきた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30c8\u30ab\u30c1",
-    "Phrase": "\u300c\uff01\u300d",
+    "Name": "トカチ",
+    "Phrase": "「！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,30 +46,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 63201,
         "Position": 3,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30c8\u30ab\u30c1",
-    "Phrase": "\u300c\u3042\u308c\u306f\u3001\u30db\u30eb\u30b9\u305f\u3093\u304c\u5f15\u3044\u3066\u3044\u305f\u8377\u8eca\uff01\u300d",
+    "Name": "トカチ",
+    "Phrase": "「あれは、ホルスたんが引いていた荷車！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -82,30 +83,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 63201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3",
-    "Phrase": "\u300c\u3042\u3093\u306a\u306b\u305f\u304f\u3055\u3093\u7a4d\u3093\u3067\u3042\u3063\u305f\\n\u3000\u7279\u6fc3\u307f\u308b\u304f\u7518\u9152\u304c\u3072\u3068\u3064\u3082\u3042\u308a\u307e\u305b\u3093\uff01\u300d",
+    "Name": "パディントン",
+    "Phrase": "「あんなにたくさん積んであった\\n　特濃みるく甘酒がひとつもありません！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -119,38 +120,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 0,
         "Position": 2,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 21201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30b7\u30e2\u30a2\u30de\u30c5",
-    "Phrase": "\u300c\u3069\u3046\u3084\u3089\u3042\u306e\u30d8\u30f3\u30bf\u30a4\u3055\u3093\u306e\u8a00\u3063\u3066\u3044\u305f\u3053\u3068\u306f\u672c\u5f53\u3060\u3063\u305f\u3088\u306d\u3002\\n\u3000\u8377\u8eca\u304c\u3042\u308b\u3068\u3044\u3046\u3053\u3068\u306f\u3001\u30db\u30eb\u30b9\u305f\u3093\u3082\u3053\u306e\u8fd1\u304f\u306b\u3044\u308b\u306f\u305a\u3088\u300d",
+    "Name": "シモアマヅ",
+    "Phrase": "「どうやらあのヘンタイさんの言っていたことは本当だったよね。\\n　荷車があるということは、ホルスたんもこの近くにいるはずよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -164,38 +165,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 0,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 21201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30c8\u30ab\u30c1",
-    "Phrase": "\u300c\u3067\u3082\u3001\u3069\u3046\u3057\u3066\u8377\u8eca\u304c\u5916\u308c\u3066\u308b\u3093\u3060\u308d\u3049\uff1f\\n\u3000\u3076\u3064\u304b\u3063\u3066\u58ca\u308c\u305f\u3063\u3066\u3044\u3046\u308f\u3051\u3067\u3082\u306a\u3055\u305d\u3046\u3060\u3057\u3001\\n\u3000\u30db\u30eb\u30b9\u305f\u3093\u304c\u81ea\u5206\u3067\u5916\u305b\u308b\u3068\u3082\u601d\u3048\u306a\u3044\u3093\u3060\u3051\u3069\u306a\u3041\uff5e\u300d",
+    "Name": "トカチ",
+    "Phrase": "「でも、どうして荷車が外れてるんだろぉ？\\n　ぶつかって壊れたっていうわけでもなさそうだし、\\n　ホルスたんが自分で外せるとも思えないんだけどなぁ～」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -209,26 +210,26 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 63201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
     "Name": "",
@@ -246,21 +247,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 2,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u6211\u304c\u89e3\u653e\u3057\u305f\u306e\u3060\u3002\\n\u3000\u7d14\u7c8b\u306a\u4e73\u529b\u3092\u6301\u3064\u3082\u306e\u306f\u3001\\n\u3000\u6211\u306e\u305d\u3070\u306b\u3044\u308b\u3079\u304d\u3060\u3068\u300d",
+    "Name": "？？？",
+    "Phrase": "「我が解放したのだ。\\n　純粋な乳力を持つものは、\\n　我のそばにいるべきだと」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -274,30 +276,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30b7\u30e2\u30a2\u30de\u30c5",
-    "Phrase": "\u300c\u51fa\u305f\u308f\u306d\u3002\u304a\u3063\u3071\u3044\u8056\u4eba\u300d",
+    "Name": "シモアマヅ",
+    "Phrase": "「出たわね。おっぱい聖人」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -311,38 +313,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 22201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 21201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30de\u30ce\u30cf\u30b7\u30c0\u30c6",
-    "Phrase": "\u300c\u304a\u3063\u3071\u3044\u305b\u3044\u3058\uff5e\u3093\u3063\u266a\u300d",
+    "Name": "アマノハシダテ",
+    "Phrase": "「おっぱいせいじ～んっ♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -356,38 +358,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 22201,
         "Position": 2,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 21201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30c8\u30ab\u30c1",
-    "Phrase": "\u300c\u30ad\u30df\u3001\u3044\u3044\u52a0\u6e1b\u306b\u3057\u3066\u3088\u3002\\n\u3000\u30db\u30eb\u30b9\u305f\u3093\u3092\u8fd4\u3057\u3066\u304f\u308c\u308b\u306e\uff1f\\n\u3000\u8fd4\u3057\u3066\u304f\u308c\u306a\u3044\u306e\uff1f\u3000\u3069\u3063\u3061\u306a\u306e\uff1f\u300d",
+    "Name": "トカチ",
+    "Phrase": "「キミ、いい加減にしてよ。\\n　ホルスたんを返してくれるの？\\n　返してくれないの？　どっちなの？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -401,30 +403,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 63201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30c8\u30ab\u30c1",
-    "Phrase": "\u300c\u81ea\u5206\u306e\u3053\u3068\u3092\u795e\u3055\u307e\u3068\u304b\u8a00\u3063\u3066\u3001\\n\u3000\u3078\u3044\u304d\u3067\u30a6\u30bd\u3092\u3064\u3044\u3066\u3001\u307f\u3093\u306a\u304c\u697d\u3057\u307f\u306b\u3057\u3066\u3044\u305f\\n\u3000\u7518\u9152\u3082\u305c\u30fc\u3093\u3076\u4e00\u4eba\u3067\u98f2\u3093\u3058\u3083\u3063\u3066\u2026\u2026\u300d",
+    "Name": "トカチ",
+    "Phrase": "「自分のことを神さまとか言って、\\n　へいきでウソをついて、みんなが楽しみにしていた\\n　甘酒もぜーんぶ一人で飲んじゃって……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -438,30 +440,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 63201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
-    "Name": "\u30c8\u30ab\u30c1",
-    "Phrase": "\u300c\u305d\u3093\u306a\u81ea\u5206\u52dd\u624b\u306a\u3053\u3068\u3001\u307c\u304f\u306f\u3086\u308b\u3055\u306a\u3044\u3088\uff01\u300d",
+    "Name": "トカチ",
+    "Phrase": "「そんな自分勝手なこと、ぼくはゆるさないよ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -475,30 +477,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 63201,
         "Position": 3,
         "Action": 0,
         "Emotion": 3,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u53f1\u3089\u308c\u3066\u3057\u307e\u3063\u305f\u2026\u2026\u3060\u304c\u3001\u305d\u308c\u304c\u3088\u3044\u300d",
+    "Name": "？？？",
+    "Phrase": "「叱られてしまった……だが、それがよい」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -512,30 +514,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30c8\u30ab\u30c1",
-    "Phrase": "\u300c\uff1f\u300d",
+    "Name": "トカチ",
+    "Phrase": "「？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -549,38 +551,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 63201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 22201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30de\u30ce\u30cf\u30b7\u30c0\u30c6",
-    "Phrase": "\u300c\u3078\u3093\u305f\u3044\u3055\u3093\u3060\u3041\uff5e\uff01\u300d",
+    "Name": "アマノハシダテ",
+    "Phrase": "「へんたいさんだぁ～！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -594,38 +596,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 63201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 22201,
         "Position": 4,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u3082\u3063\u3068\u6211\u3092\u53f1\u3063\u3066\u304f\u308c\u3002\\n\u3000\u5f37\u3044\u611b\u3092\u3053\u3081\u3066\u3001\u3057\u308a\u3092\u53e9\u3044\u3066\u304f\u308c\u300d",
+    "Name": "？？？",
+    "Phrase": "「もっと我を叱ってくれ。\\n　強い愛をこめて、しりを叩いてくれ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -639,30 +641,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u305d\u306e\u3042\u3068\u6211\u3092\u7518\u3084\u304b\u3057\u3066\u304f\u308c\u3002\\n\u3000\u305d\u306a\u305f\u306e\u5927\u304d\u306a\u80f8\u3067\u5305\u307f\u8fbc\u307f\u3001\u6211\u306e\u6d99\u3068\u6ce3\u304d\u58f0\u3092\u3059\u3079\u3066\u53d7\u3051\u6b62\u3081\u3066\u304f\u308c\u300d",
+    "Name": "？？？",
+    "Phrase": "「そのあと我を甘やかしてくれ。\\n　そなたの大きな胸で包み込み、我の涙と泣き声をすべて受け止めてくれ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -676,30 +678,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130,
         "Position": 3,
         "Action": 0,
         "Emotion": 7,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u30b7\u30e2\u30a2\u30de\u30c5",
-    "Phrase": "\u300c\u306a\u3093\u3060\u304b\u3001\u3055\u3063\u304d\u307e\u3067\u3068\u69d8\u5b50\u304c\u9055\u3046\u308f\u306d\u2026\u2026\u300d",
+    "Name": "シモアマヅ",
+    "Phrase": "「なんだか、さっきまでと様子が違うわね……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -713,30 +715,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 21201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u7518\u3048\u305f\u3044\u2026\u2026\u300d",
+    "Name": "？？？",
+    "Phrase": "「甘えたい……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -750,30 +752,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u6211\u306f\u7518\u3048\u305f\u3044\u306e\u3060\u3002\\n\u3000\u8d64\u5b50\u306e\u3088\u3046\u306b\u3070\u3076\u3070\u3076\u3068\u3001\u6ce3\u3044\u3066\u53eb\u3093\u3067\u6bcd\u3092\u547c\u3073\u3001\\n\u3000\u305f\u308f\u308f\u306a\u80f8\u306b\u9854\u3092\u57cb\u3081\u3001\u4e73\u3092\u98f2\u307f\u305f\u3044\u300d",
+    "Name": "？？？",
+    "Phrase": "「我は甘えたいのだ。\\n　赤子のようにばぶばぶと、泣いて叫んで母を呼び、\\n　たわわな胸に顔を埋め、乳を飲みたい」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -787,30 +789,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u7518\u3048\u305f\u3044\u3001\u7518\u3048\u305f\u3044\u2026\u2026\u300d",
+    "Name": "？？？",
+    "Phrase": "「甘えたい、甘えたい……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -824,30 +826,30 @@
     "Effect": null,
     "BackgroundEffectType": 1,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 130,
         "Position": 3,
         "Action": 2,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30c8\u30ab\u30c1",
-    "Phrase": "\u300c\u3068\u3063\u3066\u3082\u30a4\u30e4\u306a\u611f\u3058\u2026\u2026\u3002\\n\u3000\u3053\u308c\u3001\u795e\u6bbf\u3067\u611f\u3058\u305f\u306e\u3068\u304a\u3093\u306a\u3058\u6c17\u914d\u3060\u300d",
+    "Name": "トカチ",
+    "Phrase": "「とってもイヤな感じ……。\\n　これ、神殿で感じたのとおんなじ気配だ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -861,38 +863,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 63201,
         "Position": 2,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 21201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30b7\u30e2\u30a2\u30de\u30c5",
-    "Phrase": "\u300c\u4eca\u56de\u306e\u9ed2\u5e55\u306f\u3001\u795e\u306e\u540d\u3092\u8a9e\u3063\u305f\u7518\u3048\u3093\u307c\u3046\u3002\\n\u3000\u30c8\u30ab\u30c1\u306b\u30a2\u30de\u30ce\u306b\u4e73\u725b\u3068\u3001\u304a\u3063\u3071\u3044\u306e\u5927\u304d\u306a\u5b50\u3092\u547c\u3073\u5bc4\u305b\u305f\u306e\u306d\u300d",
+    "Name": "シモアマヅ",
+    "Phrase": "「今回の黒幕は、神の名を語った甘えんぼう。\\n　トカチにアマノに乳牛と、おっぱいの大きな子を呼び寄せたのね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -906,38 +908,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 63201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 21201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30b7\u30e2\u30a2\u30de\u30c5",
-    "Phrase": "\u300c\u307e\u3063\u305f\u304f\u3001\u304a\u6b63\u6708\u304b\u3089\u3084\u3063\u3066\u304f\u308c\u308b\u308f\u3002\\n\u3000\u672c\u7269\u306e\u3061\u3061\u795e\u3055\u307e\u304c\u77e5\u3063\u305f\u3089\u5446\u308c\u3066\u3082\u306e\u3082\u8a00\u3048\u306a\u3044\u308f\u3088\u300d",
+    "Name": "シモアマヅ",
+    "Phrase": "「まったく、お正月からやってくれるわ。\\n　本物のちち神さまが知ったら呆れてものも言えないわよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -951,38 +953,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 63201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 21201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u3042\u307e\u3048\u305f\u3044\u2026\u2026\u300d",
+    "Name": "？？？",
+    "Phrase": "「あまえたい……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -996,34 +998,34 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 63201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 21201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
     "Name": "",
@@ -1041,21 +1043,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 2,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u307c\u304f\u3061\u3093\u306f\u3001\u7518\u3048\u305f\u3044\u306e\u3063\uff01\u300d",
+    "Name": "？？？",
+    "Phrase": "「ぼくちんは、甘えたいのっ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1069,30 +1072,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 10,
         "EnterAction": 2
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30de\u30ce\u30cf\u30b7\u30c0\u30c6",
-    "Phrase": "\u300c\u308f\uff5e\uff01\u3000\u6a5f\u68b0\u3067\u3067\u304d\u305f\u5c06\u8ecd\u3055\u307e\u3060\uff5e\uff01\\n\u3000\u3068\u3063\u3066\u3082\u56fa\u305d\u3046\u3060\u306d\u3047\u266a\u300d",
+    "Name": "アマノハシダテ",
+    "Phrase": "「わ～！　機械でできた将軍さまだ～！\\n　とっても固そうだねぇ♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1106,38 +1109,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 63201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 22201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
-    "Name": "\u30c8\u30ab\u30c1",
-    "Phrase": "\u300c\u3053\u3001\u3053\u308c\u304c\u3061\u3061\u795e\u3055\u307e\u306e\u6b63\u4f53\uff5e\uff1f\u300d",
+    "Name": "トカチ",
+    "Phrase": "「こ、これがちち神さまの正体～？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1151,38 +1154,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 63201,
         "Position": 2,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 22201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u3061\u3061\u795e\u306a\u3093\u304b\u3058\u3083\u306a\u3044\u3084\u3044\uff01\\n\u3000\u307c\u304f\u306f\u3001\u7518\u3048\u3093\u307c\u3046\u5c06\u8ecd\uff01\\n\u3000\u5973\u306e\u4eba\u306e\u80f8\u304c\u5927\u597d\u304d\u306a\u5c06\u8ecd\u3055\u307e\u3060\u305e\uff01\u300d",
+    "Name": "？？？",
+    "Phrase": "「ちち神なんかじゃないやい！\\n　ぼくは、甘えんぼう将軍！\\n　女の人の胸が大好きな将軍さまだぞ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1196,30 +1199,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 10,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
-    "Name": "\u7518\u3048\u3093\u307c\u3046\u5c06\u8ecd",
-    "Phrase": "\u300c\u3070\u3076\u3070\u3076\uff01\u3000\u7518\u3048\u305f\u3044\u306e\u3063\uff01\\n\u3000\u307c\u304f\u3061\u3093\u306f\u3001\u7518\u3048\u305f\u3044\u306e\u3063\uff01\\n\u3000\u304a\u6b63\u6708\u306a\u3093\u3060\u304b\u3089\u3001\u307f\u3093\u306a\u3082\u3063\u3068\u307c\u304f\u306e\u3053\u3068\u3092\u53ef\u611b\u304c\u3063\u3066\u3088\uff01\u300d",
+    "Name": "甘えんぼう将軍",
+    "Phrase": "「ばぶばぶ！　甘えたいのっ！\\n　ぼくちんは、甘えたいのっ！\\n　お正月なんだから、みんなもっとぼくのことを可愛がってよ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1233,30 +1236,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 10,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
-    "Name": "\u30b7\u30e2\u30a2\u30de\u30c5",
-    "Phrase": "\u300c\u3042\u3089\u3001\u3061\u3087\u3063\u3068\u53ef\u611b\u3044\u3058\u3083\u306a\u3044\u300d",
+    "Name": "シモアマヅ",
+    "Phrase": "「あら、ちょっと可愛いじゃない」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1270,30 +1273,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 21201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
-    "Name": "\u30c8\u30ab\u30c1",
-    "Phrase": "\u300c\u3048\u3048\uff5e\u300d",
+    "Name": "トカチ",
+    "Phrase": "「ええ～」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1307,38 +1310,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 63201,
         "Position": 2,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 21201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
-    "Name": "\u30b7\u30e2\u30a2\u30de\u30c5",
-    "Phrase": "\u300c\u5c11\u306a\u304f\u3068\u3082\u3055\u3063\u304d\u306e\u30a8\u30bb\u795e\u3055\u307e\u30ad\u30e3\u30e9\u3088\u308a\u306f\u3044\u3044\u308f\u3002\\n\u3000\u307b\u3089\u3001\u51fa\u6765\u306e\u60aa\u3044\u5b50\u307b\u3069\u304b\u308f\u3044\u304f\u601d\u3048\u308b\u3063\u3066\u3044\u3046\u3057\u300d",
+    "Name": "シモアマヅ",
+    "Phrase": "「少なくともさっきのエセ神さまキャラよりはいいわ。\\n　ほら、出来の悪い子ほどかわいく思えるっていうし」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1352,38 +1355,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 63201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 21201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
-    "Name": "\u7518\u3048\u3093\u307c\u3046\u5c06\u8ecd",
-    "Phrase": "\u300c\u307c\u304f\u306f\u5b8c\u74a7\u306a\u306e\u3063\uff01\\n\u3000\u51fa\u6765\u304c\u60aa\u3044\u3068\u304b\u8a00\u3046\u3093\u3058\u3083\u306a\u3044\u3063\uff01\u300d",
+    "Name": "甘えんぼう将軍",
+    "Phrase": "「ぼくは完璧なのっ！\\n　出来が悪いとか言うんじゃないっ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1397,30 +1400,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 0,
         "Emotion": 3,
         "FacialExpression": 10,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
-    "Name": "\u7518\u3048\u3093\u307c\u3046\u5c06\u8ecd",
-    "Phrase": "\u300c\u304a\u524d\u3089\u307c\u304f\u306e\u305f\u3081\u306b\u3054\u5949\u4ed5\u3057\u308d\u3063\uff01\\n\u3000\u307c\u304f\u306f\u306d\u3047\uff01\u3000\u305a\u3063\u3068\u305a\u3063\u3068\u3001\u7518\u3048\u3066\u66ae\u3089\u3057\u3066\u3044\u304f\u3093\u3060\u304b\u3089\u306d\u3047\uff01\u300d",
+    "Name": "甘えんぼう将軍",
+    "Phrase": "「お前らぼくのためにご奉仕しろっ！\\n　ぼくはねぇ！　ずっとずっと、甘えて暮らしていくんだからねぇ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1434,30 +1437,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 7,
         "Emotion": 0,
         "FacialExpression": 10,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 36,
     "ViewOrder": 1,
-    "Name": "\u30c8\u30ab\u30c1",
-    "Phrase": "\u300c\u305a\u3063\u3068\u7518\u3048\u3066\u306a\u3093\u304b\u3044\u3089\u308c\u306a\u3044\u3093\u3060\u3088\u3002\\n\u3000\u9762\u5012\u3092\u307f\u3066\u304f\u308c\u308b\u4eba\u304c\u3001\u3042\u308b\u65e5\u3068\u3064\u305c\u3093\u3044\u306a\u304f\u306a\u3063\u3061\u3083\u3046\u3002\\n\u3000\u305d\u3046\u3044\u3046\u3053\u3068\u3082\u3042\u308b\u3093\u3060\u304b\u3089\u300d",
+    "Name": "トカチ",
+    "Phrase": "「ずっと甘えてなんかいられないんだよ。\\n　面倒をみてくれる人が、ある日とつぜんいなくなっちゃう。\\n　そういうこともあるんだから」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1471,23 +1474,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 63201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

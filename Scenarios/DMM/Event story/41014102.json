@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30cf\u30ed\u30a6\u30a3\u30f3\u306e\u796d\u3092\u76ee\u524d\u306b\u63a7\u3048\u305f\u753a\u306f\u3001\\n\u5e7b\u9727\u306e\u305b\u3044\u3067\u9591\u6563\u3068\u3057\u305f\u6709\u69d8\u3060\u3063\u305f\u3002",
+    "Phrase": "ハロウィンの祭を目前に控えた町は、\\n幻霧のせいで閑散とした有様だった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3044\u3063\u305f\u3044\u767a\u751f\u6e90\u306f\u3069\u3053\u306a\u306e\u304b\u3002\\n\u307e\u305a\u306f\u30c9\u30fc\u30f4\u30a1\u30fc\u306e\u300e\u30ab\u30dc\u30c1\u30e3\u306e\u304a\u5316\u3051\u300f\u306e\u60c5\u5831\u3092\u3082\u3068\u306b\u3001\\n\u307f\u3093\u306a\u3067\u591c\u306e\u753a\u306e\u898b\u56de\u308a\u3092\u3059\u308b\u3053\u3068\u306b\u3057\u305f\u3002",
+    "Phrase": "いったい発生源はどこなのか。\\nまずはドーヴァーの『カボチャのお化け』の情報をもとに、\\nみんなで夜の町の見回りをすることにした。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,21 +46,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30b5\u30f3\u30c7\u30a3\u30a8\u30b4",
-    "Phrase": "\u300c\u3055\u3066\u3001\u30ab\u30dc\u30c1\u30e3\u306e\u304a\u5316\u3051\u306f\u3069\u3053\u306b\u3044\u308b\u306e\u3084\u3089\u300d",
+    "Name": "サンディエゴ",
+    "Phrase": "「さて、カボチャのお化けはどこにいるのやら」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -73,30 +75,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 99201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u5f85\u3066\u30b5\u30f3\u30c7\u30a3\u30a8\u30b4\u3001\u3072\u3068\u308a\u3067\u9032\u3080\u306a\u3063\u3066\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「待てサンディエゴ、ひとりで進むなって」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -110,38 +112,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 99201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 4
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u796d\u306e\u98fe\u308a\u4ed8\u3051\u3082\u3001\u591c\u3067\u4eba\u304c\u3044\u306a\u3044\u3068\u304b\u3048\u3063\u3066\u6016\u3044\u3088\u306d\u2026\u2026\u3002\\n\u3000\u30b5\u30f3\u30c7\u30a3\u30a8\u30b4\u3063\u3066\u3070\u5e73\u6c17\u307f\u305f\u3044\u3067\u3059\u3054\u3044\u306a\u3042\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「祭の飾り付けも、夜で人がいないとかえって怖いよね……。\\n　サンディエゴってば平気みたいですごいなあ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -155,30 +157,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u3044\u3084\u3001\u79c1\u3082\u304a\u59c9\u3055\u3093\u3060\u304b\u3089\u3001\\n\u3000\u305d\u306e\u304f\u3089\u3044\u3001\u3060\u3060\u3001\u5927\u4e08\u592b\u306a\u3093\u3060\u3051\u3069\u306d\uff1f\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「いや、私もお姉さんだから、\\n　そのくらい、だだ、大丈夫なんだけどね？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -192,30 +194,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u601d\u3044\u3063\u304d\u308a\u58f0\u304c\u9707\u3048\u3066\u3093\u305e\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「思いっきり声が震えてんぞ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -229,30 +231,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 43201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u9707\u3048\u3066\u306a\u3093\u304b\u306a\u3044\u3063\u3066\u3070\uff01\\n\u3000\u79c1\u306f\u5168\u3063\u7136\u3078\u30fc\u304d\uff01\u3000\u307b\u3089\u3001\u3053\u306e\u3068\u30fc\u308a\uff01\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「震えてなんかないってば！\\n　私は全っ然へーき！　ほら、このとーり！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -266,30 +268,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u304a\u5316\u3051\u3060\u308d\u3046\u304c\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\u3060\u308d\u3046\u304c\u3001\\n\u3000\u4f55\u3060\u3063\u3066\u3069\u3093\u3068\u6765\u3044\u3060\u3088\uff01\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「お化けだろうがミストモンスターだろうが、\\n　何だってどんと来いだよ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -303,30 +305,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30c9\u30fc\u30f4\u30a1\u30fc\u304c\u5148\u982d\u306b\u7acb\u3063\u3066\u305d\u3046\u30a2\u30d4\u30fc\u30eb\u3057\u305f\u77ac\u9593\u3002\\n\u7a81\u5982\u524d\u65b9\u306b\u3001\u30e9\u30f3\u30bf\u30f3\u306e\u660e\u304b\u308a\u304c\u73fe\u308c\u305f\u3002",
+    "Phrase": "ドーヴァーが先頭に立ってそうアピールした瞬間。\\n突如前方に、ランタンの明かりが現れた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -340,30 +342,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 17,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 10,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u3046\u3072\u3043\u3043\u3063\uff01\uff1f\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「うひぃぃっ！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -377,38 +379,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 43201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 31201,
         "Position": 4,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 8,
         "EnterAction": 4
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u8a00\u3063\u305f\u305d\u3070\u304b\u3089\u30a2\u30bf\u30b7\u306e\u5f8c\u308d\u306b\u96a0\u308c\u3093\u306a\u3088\u2026\u2026\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「言ったそばからアタシの後ろに隠れんなよ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -422,38 +424,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 43201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 31201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u3060\u3060\u3001\u3060\u3063\u3066\u3044\u304d\u306a\u308a\u3059\u304e\u3066\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「だだ、だっていきなりすぎて」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -467,38 +469,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 43201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 31201,
         "Position": 4,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30b5\u30f3\u30c7\u30a3\u30a8\u30b4",
-    "Phrase": "\u300c\u3042\u306e\u660e\u304b\u308a\u3001\u53f3\u306b\u5de6\u306b\u63fa\u308c\u3066\u4f55\u3060\u304b\u69d8\u5b50\u304c\u304a\u304b\u3057\u3044\u306d\u3002\\n\u3000\u4eba\u3058\u3083\u306a\u3044\u304b\u3082\u3057\u308c\u306a\u3044\u300d",
+    "Name": "サンディエゴ",
+    "Phrase": "「あの明かり、右に左に揺れて何だか様子がおかしいね。\\n　人じゃないかもしれない」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -512,30 +514,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 99201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u4eba\u304c\u6301\u3063\u3066\u3044\u308b\u3068\u3057\u305f\u3089\u3001\u3075\u3056\u3051\u3066\u3044\u308b\u304b\u9154\u3063\u6255\u3063\u3066\u3044\u308b\u304b\u3060\u304c\u3001\\n\u591c\u51fa\u6b69\u304f\u306e\u304c\u5371\u967a\u3068\u8a00\u308f\u308c\u3066\u3044\u308b\u72b6\u6cc1\u3067\u3001\\n\u305d\u3093\u306a\u4eba\u9593\u304c\u3044\u308b\u3068\u306f\u8003\u3048\u306b\u304f\u3044\u3002",
+    "Phrase": "人が持っているとしたら、ふざけているか酔っ払っているかだが、\\n夜出歩くのが危険と言われている状況で、\\nそんな人間がいるとは考えにくい。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -549,30 +551,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 17,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 10,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\u30b5\u30f3\u30c7\u30a3\u30a8\u30b4",
-    "Phrase": "\u300c\u3072\u3068\u307e\u305a\u96a0\u308c\u3066\u69d8\u5b50\u3092\u898b\u308b\u3079\u304d\u3060\u3068\u601d\u3046\u306d\u300d",
+    "Name": "サンディエゴ",
+    "Phrase": "「ひとまず隠れて様子を見るべきだと思うね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -586,30 +588,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 99201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u305d\u3046\u3060\u306a\u3002\\n\u3000\u3088\u3057\u3001\u305d\u3053\u306e\u5c4b\u53f0\u306e\u30ab\u30a6\u30f3\u30bf\u30fc\u306e\u4e0b\u306b\u96a0\u308c\u3088\u3046\u305c\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「そうだな。\\n　よし、そこの屋台のカウンターの下に隠れようぜ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -623,30 +625,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 43201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u796d\u306e\u305f\u3081\u306b\u7acb\u3061\u4e26\u3093\u3067\u3044\u308b\u5c4b\u53f0\u306e\u5185\u5074\u306b\u5168\u54e1\u3067\u5165\u308a\u3001\u3057\u3083\u304c\u307f\u8fbc\u3080\u3002\\n\u30ab\u30a6\u30f3\u30bf\u30fc\u306e\u4e0b\u306f\u72ed\u304f\u3001\uff14\u4eba\u3082\u5165\u308b\u3068\u304e\u3085\u3046\u304e\u3085\u3046\u8a70\u3081\u3067\u3042\u308b\u3002",
+    "Phrase": "祭のために立ち並んでいる屋台の内側に全員で入り、しゃがみ込む。\\nカウンターの下は狭く、４人も入るとぎゅうぎゅう詰めである。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -660,21 +662,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u30c0\u30e1\u3060\u8eca\u638c\u304c\u5165\u308a\u304d\u308c\u3066\u306d\u3048\u3001\\n\u3000\u30b5\u30f3\u30c7\u30a3\u30a8\u30b4\u3001\u3082\u3063\u3068\u3053\u3063\u3061\u306b\u8a70\u3081\u308b\u3093\u3060\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「ダメだ車掌が入りきれてねえ、\\n　サンディエゴ、もっとこっちに詰めるんだ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -688,21 +691,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
-    "Name": "\u30b5\u30f3\u30c7\u30a3\u30a8\u30b4",
-    "Phrase": "\u300c\u306f\u3044\u3088\u3002\\n\u3000\u8eca\u638c\u3001\u3053\u308c\u3067\u5165\u308c\u308b\uff1f\u300d",
+    "Name": "サンディエゴ",
+    "Phrase": "「はいよ。\\n　車掌、これで入れる？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -716,21 +720,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3059\u307e\u306a\u3044\u304c\u3001\u3082\u3046\u3061\u3087\u3063\u3068\u8a70\u3081\u3066\u304f\u308c\u308b\u3068\u52a9\u304b\u308b\u3002",
+    "Phrase": "すまないが、もうちょっと詰めてくれると助かる。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -744,21 +749,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u3061\u3087\u3063\u2026\u2026\u3061\u3087\u3063\u3068\u5f85\u3063\u3066\u30c7\u30c8\u30ed\u30a4\u30c8\u3001\u30b5\u30f3\u30c7\u30a3\u30a8\u30b4\u3002\\n\u3000\u79c1\u3001\uff12\u4eba\u306b\u631f\u307e\u308c\u3066\u2026\u2026\u308f\u3077\u3063\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「ちょっ……ちょっと待ってデトロイト、サンディエゴ。\\n　私、２人に挟まれて……わぷっ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -772,21 +778,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30b5\u30f3\u30c7\u30a3\u30a8\u30b4",
-    "Phrase": "\u300c\u3053\u308c\u306a\u3089\u3069\u3046\uff1f\u300d",
+    "Name": "サンディエゴ",
+    "Phrase": "「これならどう？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -800,21 +807,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3088\u3057\u3001\u4f55\u3068\u304b\u5165\u308c\u305f\u3002\\n\u3042\u308a\u304c\u3068\u3046\u30b5\u30f3\u30c7\u30a3\u30a8\u30b4\u3002",
+    "Phrase": "よし、何とか入れた。\\nありがとうサンディエゴ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -828,21 +836,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u307f\u3093\u306a\u3001\u9759\u304b\u306b\u3059\u308b\u3093\u3060\u3002\\n\u3000\u3082\u3046\u305d\u3053\u307e\u3067\u6765\u3066\u3084\u304c\u308b\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「みんな、静かにするんだ。\\n　もうそこまで来てやがる」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -856,21 +865,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
-    "Name": "\u30b5\u30f3\u30c7\u30a3\u30a8\u30b4",
-    "Phrase": "\u300c\u3042\u308c\u306f\u2026\u2026\u3084\u3063\u3071\u308a\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\u3060\u306d\u3002\\n\u3000\u96a0\u308c\u3066\u6b63\u89e3\u3060\u3063\u305f\u3088\u300d",
+    "Name": "サンディエゴ",
+    "Phrase": "「あれは……やっぱりミストモンスターだね。\\n　隠れて正解だったよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -884,21 +894,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u666e\u901a\u306e\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u306f\u8cea\u304c\u9055\u3046\u307f\u3066\u3048\u3060\u306a\u3002\\n\u3000\u8fba\u308a\u306e\u6c11\u5bb6\u306b\u8972\u6483\u304b\u3051\u308b\u3064\u3082\u308a\u3067\u3082\u306d\u3048\u3088\u3046\u3060\u3057\u2026\u2026\u3002\\n\u3000\u30e9\u30f3\u30bf\u30f3\u306e\u7167\u3089\u3057\u65b9\u7684\u306b\u3082\u3001\u307e\u308b\u3067\u4f55\u304b\u3092\u63a2\u3057\u3066\u308b\u307f\u305f\u3044\u3060\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「普通のミストモンスターとは質が違うみてえだな。\\n　辺りの民家に襲撃かけるつもりでもねえようだし……。\\n　ランタンの照らし方的にも、まるで何かを探してるみたいだ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -912,21 +923,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u3061\u3087\u3063\u2026\u2026\uff12\u4eba\u306e\u80f8\u3067\u606f\u304c\u3067\u304d\u306a\u2026\u2026\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「ちょっ……２人の胸で息ができな……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -940,21 +952,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u307e\u3055\u304b\u3053\u308c\u304c\u3001\\n\u3000\u30c9\u30fc\u30f4\u30a1\u30fc\u304c\u8a00\u3063\u3066\u305f\u300e\u30ab\u30dc\u30c1\u30e3\u306e\u304a\u5316\u3051\u300f\uff1f\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「まさかこれが、\\n　ドーヴァーが言ってた『カボチャのお化け』？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -968,21 +981,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
-    "Name": "\u30b5\u30f3\u30c7\u30a3\u30a8\u30b4",
-    "Phrase": "\u300c\u30ab\u30dc\u30c1\u30e3\u306e\u898b\u305f\u76ee\u3057\u3066\u306a\u3044\u3057\u3001\u9055\u3046\u3067\u3057\u3087\u3002\\n\u3000\u305f\u3060\u3001\u7e4b\u304c\u308a\u306f\u3042\u308b\u3060\u308d\u3046\u306d\u300d",
+    "Name": "サンディエゴ",
+    "Phrase": "「カボチャの見た目してないし、違うでしょ。\\n　ただ、繋がりはあるだろうね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -996,21 +1010,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u3058\u3083\u3042\u300e\u30ab\u30dc\u30c1\u30e3\u306e\u304a\u5316\u3051\u300f\u3092\u8ffd\u3046\u306e\u304c\u3001\\n\u3000\u30a2\u30bf\u30b7\u305f\u3061\u306e\u4efb\u52d9\u76ee\u6a19\u3063\u3066\u3053\u3068\u3067\u3044\u3044\u304b\uff1f\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「じゃあ『カボチャのお化け』を追うのが、\\n　アタシたちの任務目標ってことでいいか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1024,21 +1039,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3042\u3042\u3001\u3053\u306e\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u8abf\u3079\u3066\u3044\u3051\u3070\u3001\\n\u300e\u30ab\u30dc\u30c1\u30e3\u306e\u304a\u5316\u3051\u300f\u306b\u3082\u3001\\n\u5e7b\u9727\u306e\u767a\u751f\u6e90\u306b\u3082\u8fbf\u308a\u3064\u3051\u308b\u3060\u308d\u3046\u304b\u3089\u3001\u305d\u308c\u3067\u884c\u3053\u3046\u304b\u3002",
+    "Phrase": "ああ、このミストモンスターを調べていけば、\\n『カボチャのお化け』にも、\\n幻霧の発生源にも辿りつけるだろうから、それで行こうか。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1052,21 +1068,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u3050\u3001\u3050\u308b\u3058\u3044\u2026\u2026\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「ぐ、ぐるじい……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1080,21 +1097,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
-    "Name": "\u30b5\u30f3\u30c7\u30a3\u30a8\u30b4",
-    "Phrase": "\u300c\u3058\u3083\u3042\u3053\u3053\u306f\u3001\\n\u3000\u3042\u306e\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\u305f\u3061\u3092\u4e00\u65e6\u6cf3\u304c\u305b\u3066\u307f\u308b\u306e\u3082\u3044\u3044\u304b\u3082\u306d\u3002\\n\u3000\u3082\u3061\u308d\u3093\u753a\u306b\u88ab\u5bb3\u304c\u53ca\u3070\u306a\u3044\u7bc4\u56f2\u3067\u3060\u3051\u3069\u300d",
+    "Name": "サンディエゴ",
+    "Phrase": "「じゃあここは、\\n　あのミストモンスターたちを一旦泳がせてみるのもいいかもね。\\n　もちろん町に被害が及ばない範囲でだけど」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1108,21 +1126,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u3042\u3042\u3002\\n\u3000\u3082\u3057\u304b\u3057\u305f\u3089\u5e7b\u9727\u306e\u767a\u751f\u6e90\u306b\u8fbf\u308a\u3064\u3051\u308b\u304b\u3082\u3057\u308c\u306d\u3048\u3057\u306a\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「ああ。\\n　もしかしたら幻霧の発生源に辿りつけるかもしれねえしな」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1136,21 +1155,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 36,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u3088\u3057\u3001\u5974\u3089\u884c\u3063\u305f\u306a\u3002\\n\u3000\u3058\u3083\u3042\u3053\u306e\u307e\u307e\u5c3e\u884c\u3092\u2015\u2015\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「よし、奴ら行ったな。\\n　じゃあこのまま尾行を――」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1164,21 +1184,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 37,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u7a92\u606f\u3055\u305b\u308b\u6c17\u304b\u30fc\u30fc\u30fc\u30fc\u30fc\u3063\uff01\uff01\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「窒息させる気かーーーーーっ！！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1192,30 +1213,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 2
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 38,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u4eca\u307e\u3067\u9759\u304b\u3060\u3063\u305f\u30c9\u30fc\u30f4\u30a1\u30fc\u304c\u3001\\n\u7a81\u7136\u30c7\u30c8\u30ed\u30a4\u30c8\u3068\u30b5\u30f3\u30c7\u30a3\u30a8\u30b4\u3092\u62bc\u3057\u306e\u3051\u308b\u3088\u3046\u306b\u3057\u3066\u7acb\u3061\u4e0a\u304c\u3063\u305f\u3002",
+    "Phrase": "今まで静かだったドーヴァーが、\\n突然デトロイトとサンディエゴを押しのけるようにして立ち上がった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1229,30 +1250,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 39,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u304a\u308f\u3063\uff01\uff1f\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「おわっ！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1266,38 +1287,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 99201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 40,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u306a\u3001\u4f55\u306a\u3093\u3060\u3088\u30c9\u30fc\u30f4\u30a1\u30fc\u3001\\n\u3000\u3044\u304d\u306a\u308a\u30d3\u30c3\u30af\u30ea\u3055\u305b\u3093\u306a\u3088\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「な、何なんだよドーヴァー、\\n　いきなりビックリさせんなよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1311,38 +1332,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 99201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 41,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u3082\u3046\uff01\u3000\u3055\u3063\u304d\u304b\u3089\uff12\u4eba\u3057\u3066\u3001\\n\u3000\u79c1\u306e\u9854\u3092\u5de6\u53f3\u304b\u3089\u80f8\u3067\u304e\u3085\u3046\u304e\u3085\u3046\u3057\u3066\uff5e\uff5e\uff5e\uff01\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「もう！　さっきから２人して、\\n　私の顔を左右から胸でぎゅうぎゅうして～～～！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1356,30 +1377,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 42,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u606f\u304c\u3067\u304d\u306a\u304f\u3066\u6b7b\u306c\u304b\u3068\u601d\u3063\u305f\u3088\uff01\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「息ができなくて死ぬかと思ったよ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1393,30 +1414,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 43,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u305d\u3001\u305d\u3046\u3060\u3063\u305f\u306e\u304b\u3002\\n\u3000\u308f\u308a\u3043\u308f\u308a\u3043\u3001\u30c9\u30fc\u30f4\u30a1\u30fc\u304c\u5c0f\u305b\u3047\u3082\u3093\u3060\u304b\u3089\u3001\\n\u3000\u3082\u3046\u3061\u3087\u3063\u3068\u8a70\u3081\u3066\u3082\u5927\u4e08\u592b\u304b\u3068\u2026\u2026\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「そ、そうだったのか。\\n　わりぃわりぃ、ドーヴァーが小せぇもんだから、\\n　もうちょっと詰めても大丈夫かと……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1430,38 +1451,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 99201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 44,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u3061\u3061\u3063\u3001\u5c0f\u3055\u3044\uff01\uff1f\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「ちちっ、小さい！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1475,30 +1496,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 45,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30b7\u30e7\u30c3\u30af\u3067\u80f8\u3092\u62bc\u3055\u3048\u308b\u30c9\u30fc\u30f4\u30a1\u30fc\u3002\\n\u305d\u3063\u3061\u306e\u3053\u3068\u3092\u8a00\u3063\u305f\u306e\u3067\u306f\u306a\u3044\u3068\u601d\u3046\u304c\u2026\u2026\u3002",
+    "Phrase": "ショックで胸を押さえるドーヴァー。\\nそっちのことを言ったのではないと思うが……。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1512,30 +1533,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 46,
     "ViewOrder": 1,
-    "Name": "\u30b5\u30f3\u30c7\u30a3\u30a8\u30b4",
-    "Phrase": "\u300c\u3067\u3082\u78ba\u304b\u306b\u305d\u3063\u3061\u3082\u305d\u3063\u3061\u3067\u30b3\u30f3\u30d1\u30af\u30c8\u3060\u3088\u306d\u3002\\n\u3000\u306a\u3093\u3066\u3044\u3046\u304b\u3001\u5d16\u3063\u3066\u611f\u3058\u300d",
+    "Name": "サンディエゴ",
+    "Phrase": "「でも確かにそっちもそっちでコンパクトだよね。\\n　なんていうか、崖って感じ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1549,38 +1570,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 99201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 43201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 47,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u5d16\u3063\uff01\uff1f\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「崖っ！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1594,30 +1615,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 48,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u30b5\u30f3\u30c7\u30a3\u30a8\u30b4\u3001\\n\u3000\u3069\u3053\u3067\u300e\u767d\u3044\u5d16\u300f\u306e\u3053\u3068\u3092\u2026\u2026\uff01\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「サンディエゴ、\\n　どこで『白い崖』のことを……！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1631,30 +1652,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 2,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 49,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30c9\u30fc\u30f4\u30a1\u30fc\u306f\u6614\u3001\\n\u80f8\u304c\u5c0f\u3055\u3044\u3053\u3068\u3092\u300e\u30c9\u30fc\u30f4\u30a1\u30fc\u306e\u767d\u3044\u5d16\u300f\u3068\u304b\u3089\u304b\u308f\u308c\u3066\u3044\u305f\u3089\u3057\u3044\u3002\\n\u3068\u306f\u3044\u3048\u3001\u3055\u3059\u304c\u306b\u30b5\u30f3\u30c7\u30a3\u30a8\u30b4\u3082\u3001\\n\u77e5\u3063\u3066\u3066\u8a00\u3063\u305f\u308f\u3051\u3067\u306f\u306a\u3044\u3060\u308d\u3046\u3002",
+    "Phrase": "ドーヴァーは昔、\\n胸が小さいことを『ドーヴァーの白い崖』とからかわれていたらしい。\\nとはいえ、さすがにサンディエゴも、\\n知ってて言ったわけではないだろう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1668,30 +1689,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 50,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u3046\u3045\uff5e\uff5e\uff5e\u3063\u3001\\n\u3000\u79c1\u3060\u3063\u3066\u3001\u307e\u3060\u307e\u3060\u3053\u308c\u304b\u3089\u306a\u3093\u3060\u304b\u3089\uff5e\uff5e\uff5e\u3063\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「うぅ～～～っ、\\n　私だって、まだまだこれからなんだから～～～っ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1705,30 +1726,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 51,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u4ec7\u3068\u3070\u304b\u308a\u306b\u3001\\n\u30b5\u30f3\u30c7\u30a3\u30a8\u30b4\u3068\u30c7\u30c8\u30ed\u30a4\u30c8\u306e\u5de8\u4e73\u3092\u7768\u307f\u3064\u3051\u308b\u30c9\u30fc\u30f4\u30a1\u30fc\u3002",
+    "Phrase": "仇とばかりに、\\nサンディエゴとデトロイトの巨乳を睨みつけるドーヴァー。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1742,30 +1763,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 52,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u3059\u3050\u306b\u5927\u304d\u304f\u6210\u9577\u3057\u3066\u3001\\n\u3000\uff12\u4eba\u306e\u80f8\u306a\u3093\u3066\u3042\u3063\u3068\u3044\u3046\u9593\u306b\u8ffd\u3044\u629c\u3044\u3061\u3083\u3046\u3082\u3093\uff01\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「すぐに大きく成長して、\\n　２人の胸なんてあっという間に追い抜いちゃうもん！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1779,30 +1800,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 53,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u304a\u3044\u3001\u30c9\u30fc\u30f4\u30a1\u30fc\u3069\u3053\u884c\u304f\u3064\u3082\u308a\u3060\uff01\uff1f\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「おい、ドーヴァーどこ行くつもりだ！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1816,30 +1837,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 43201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 54,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u79c1\u3072\u3068\u308a\u3067\u5c3e\u884c\u3057\u3066\u304f\u308b\u3063\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「私ひとりで尾行してくるっ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1853,30 +1874,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 55,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u4f55\u8a00\u3063\u3066\u3093\u3060\u3001\u307f\u3093\u306a\u3067\u884c\u304f\u3079\u304d\u3060\u308d\u3002\\n\u3000\uff11\u4eba\u3067\u7a81\u3063\u8fbc\u3093\u3067\u3044\u3063\u305f\u3063\u3066\u5371\u967a\u304c\u5897\u3059\u3060\u3051\u2015\u2015\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「何言ってんだ、みんなで行くべきだろ。\\n　１人で突っ込んでいったって危険が増すだけ――」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1890,30 +1911,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 43201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 56,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u96d1\u8a8c\u3067\u8aad\u3093\u3060\u30aa\u30c8\u30ca\u306a\u30e2\u30c7\u30eb\u306e\u304a\u59c9\u3055\u3093\u306f\u307f\u3093\u306a\u80f8\u304c\u5927\u304d\u304b\u3063\u305f\uff01\\n\u3000\u3064\u307e\u308a\u305d\u3093\u306a\u300e\u30c7\u30ad\u308b\u30aa\u30c8\u30ca\u300f\u3076\u308a\u3092\u898b\u305b\u308c\u3070\u3001\\n\u3000\u80f8\u306e\u65b9\u304b\u3089\u79c1\u306b\u8ffd\u3044\u3064\u3044\u3066\u304f\u308b\u306f\u305a\uff01\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「雑誌で読んだオトナなモデルのお姉さんはみんな胸が大きかった！\\n　つまりそんな『デキるオトナ』ぶりを見せれば、\\n　胸の方から私に追いついてくるはず！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1927,30 +1948,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 57,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u623b\u3063\u3066\u304f\u308b\u9803\u306b\u306f\u898b\u9055\u3048\u308b\u30dc\u30c7\u30a3\u306b\u306a\u3063\u3066\u308b\u3093\u3060\u3041\uff5e\uff5e\uff5e\uff01\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「戻ってくる頃には見違えるボディになってるんだぁ～～～！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1964,30 +1985,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 58,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u305d\u3093\u306a\u3059\u3050\u306b\u30c7\u30ab\u304f\u306a\u308b\u308f\u3051\u306d\u3048\u3060\u308d\u2026\u2026\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「そんなすぐにデカくなるわけねえだろ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2001,30 +2022,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 43201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 59,
     "ViewOrder": 1,
-    "Name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
-    "Phrase": "\u300c\u304a\u3044\u30b5\u30f3\u30c7\u30a3\u30a8\u30b4\u3001\u8eca\u638c\u3002\\n\u3000\u30c9\u30fc\u30f4\u30a1\u30fc\u3092\u8ffd\u3044\u304b\u3051\u308b\u305e\u300d",
+    "Name": "デトロイト",
+    "Phrase": "「おいサンディエゴ、車掌。\\n　ドーヴァーを追いかけるぞ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2038,30 +2059,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 43201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 60,
     "ViewOrder": 1,
-    "Name": "\u30b5\u30f3\u30c7\u30a3\u30a8\u30b4",
-    "Phrase": "\u300c\u3069\u3046\u3084\u3089\u7533\u3057\u8a33\u306a\u3044\u3053\u3068\u8a00\u3063\u3061\u3083\u3063\u305f\u307f\u305f\u3044\u3060\u3057\u306d\u3002\\n\u3000\u8cac\u4efb\u6301\u3063\u3066\u8ffd\u3044\u304b\u3051\u308b\u3088\u300d",
+    "Name": "サンディエゴ",
+    "Phrase": "「どうやら申し訳ないこと言っちゃったみたいだしね。\\n　責任持って追いかけるよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2075,30 +2096,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 99201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 61,
     "ViewOrder": 1,
-    "Name": "\u30b5\u30f3\u30c7\u30a3\u30a8\u30b4",
-    "Phrase": "\u300c\u3084\u3063\u3071\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u306f\u96e3\u3057\u3044\u306d\u3002\\n\u3000\u8a00\u3063\u3061\u3083\u3044\u3051\u306a\u3044\u8a00\u8449\u3068\u304b\u3001\\n\u3000\u7d19\u306b\u66f8\u3044\u3066\u307f\u3093\u306a\u914d\u3063\u3066\u304f\u308c\u308c\u3070\u3044\u3044\u306e\u306b\u300d",
+    "Name": "サンディエゴ",
+    "Phrase": "「やっぱコミュニケーションは難しいね。\\n　言っちゃいけない言葉とか、\\n　紙に書いてみんな配ってくれればいいのに」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2112,30 +2133,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 99201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 62,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3076\u3064\u3076\u3064\u8a00\u3044\u306a\u304c\u3089\u3082\u3001\\n\u30b5\u30f3\u30c7\u30a3\u30a8\u30b4\u3082\u3059\u3050\u306b\u30c9\u30fc\u30f4\u30a1\u30fc\u3092\u8ffd\u3044\u304b\u3051\u59cb\u3081\u305f\u306e\u3060\u3063\u305f\u3002",
+    "Phrase": "ぶつぶつ言いながらも、\\nサンディエゴもすぐにドーヴァーを追いかけ始めたのだった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2149,14 +2170,14 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

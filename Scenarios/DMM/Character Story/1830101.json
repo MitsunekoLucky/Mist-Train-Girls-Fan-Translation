@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30d5\u30ec\u30a4\u30de\u30ea\u30f3\u306b\u7121\u6570\u306b\u5b58\u5728\u3059\u308b\u5730\u4e0b\u907a\u8de1\u306e\u3072\u3068\u3064\u3001\\n\u305d\u306e\u6700\u5965\u306b\u683c\u95d8\u8a66\u5408\u3092\u884c\u3046\u305f\u3081\u306e\u7279\u8a2d\u30ea\u30f3\u30b0\u304c\u3042\u3063\u305f\u3002\\n\u7570\u69d8\u306a\u71b1\u6c17\u304c\u6e80\u3061\u305f\u5bc6\u9589\u7a7a\u9593\u3067\u2015\u2015\u89b3\u8846\u306e\u6ce8\u76ee\u3092\u4e00\u8eab\u306b\u6d74\u3073\u306a\u304c\u3089\u3001\\n\u7279\u9244\u968a\u54e1\u306e\u30da\u30ca\u30f3\u30d2\u30eb\u304c\u8776\u306e\u3088\u3046\u306b\u821e\u3063\u3066\u3044\u308b\u3002",
+    "Phrase": "フレイマリンに無数に存在する地下遺跡のひとつ、\\nその最奥に格闘試合を行うための特設リングがあった。\\n異様な熱気が満ちた密閉空間で――観衆の注目を一身に浴びながら、\\n特鉄隊員のペナンヒルが蝶のように舞っている。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30da\u30ca\u30f3\u30d2\u30eb",
-    "Phrase": "\u300c\u3042\u3041\u2026\u2026\u3002\u3082\u3046\u3001\u8d85\u3081\u3093\u3069\u3044\u300d",
+    "Name": "ペナンヒル",
+    "Phrase": "「あぁ……。もう、超めんどい」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,30 +46,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 8301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u9b54\u7269",
-    "Phrase": "\u300c\u30ae\u30ea\u30ae\u30ea\u30ae\u30ea\u30ae\u30ea\uff01\u300d",
+    "Name": "魔物",
+    "Phrase": "「ギリギリギリギリ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -82,30 +83,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u6606\u866b\u3092\u7121\u7406\u3084\u308a\u4eba\u9593\u3089\u3057\u3044\u8f2a\u90ed\u306b\u3057\u3066\u4e8c\u8db3\u6b69\u884c\u3055\u305b\u305f\u3088\u3046\u306a\u9b54\u7269\u304c\u3001\\n\u8033\u969c\u308a\u306a\u97f3\u3092\u653e\u3061\u306a\u304c\u3089\u30da\u30ca\u30f3\u30d2\u30eb\u306b\u8972\u3044\u304b\u304b\u308b\u3002\\n\u4e8c\u5bfe\u56db\u672c\u306e\u7bc0\u8155\u3067\u3001\u3084\u305f\u3089\u3081\u3063\u305f\u3089\u62f3\u3092\u4e71\u6253\uff01",
+    "Phrase": "昆虫を無理やり人間らしい輪郭にして二足歩行させたような魔物が、\\n耳障りな音を放ちながらペナンヒルに襲いかかる。\\n二対四本の節腕で、やたらめったら拳を乱打！",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -119,30 +120,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30da\u30ca\u30f3\u30d2\u30eb",
-    "Phrase": "\u300c\u3044\u3063\u3061\u3087\u307e\u3048\u306b\u2015\u2015\\n\u3000\u866b\u306e\u5206\u969b\u3067\u3001\u305d\u308c\u3063\u307d\u3044\u52d5\u304d\u3092\u3059\u308b\u3058\u3083\u3093\u300d",
+    "Name": "ペナンヒル",
+    "Phrase": "「いっちょまえに――\\n　虫の分際で、それっぽい動きをするじゃん」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -156,30 +157,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 8301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u820c\u6253\u3061\u3057\u3001\u5df1\u306b\u8feb\u308b\u62f3\u3092\u3059\u3079\u3066\u7d19\u4e00\u91cd\u3067\u907f\u3051\u3001\\n\u30da\u30ca\u30f3\u30d2\u30eb\u304c\u77ac\u6642\u306b\u9b54\u7269\u306e\u80cc\u5f8c\u306b\u56de\u308b\u3002\\n\u305d\u3046\u3057\u3066\u6575\u306e\u6b7b\u89d2\u306b\u4f4d\u7f6e\u53d6\u308a\u3057\u3001\\n\u4e00\u65b9\u7684\u306b\u6bb4\u3063\u3066\u52dd\u8ca0\u3092\u7d42\u308f\u3089\u305b\u308b\u8179\u3065\u3082\u308a\u3060\u3063\u305f\u306e\u3060\u308d\u3046\u304c\u2015\u2015\u3002",
+    "Phrase": "舌打ちし、己に迫る拳をすべて紙一重で避け、\\nペナンヒルが瞬時に魔物の背後に回る。\\nそうして敵の死角に位置取りし、\\n一方的に殴って勝負を終わらせる腹づもりだったのだろうが――。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -193,30 +194,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 8301,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u9b54\u7269",
-    "Phrase": "\u300c\u30ae\u30ea\u30ae\u30ea\u30ae\u30ea\uff01\u300d",
+    "Name": "魔物",
+    "Phrase": "「ギリギリギリ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -230,30 +231,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u6575\u306f\u8907\u773c\u3092\u6301\u3064\u866b\u3081\u3044\u305f\u9b54\u7269\u3067\u3042\u308b\u3001\u5f8c\u65b9\u3059\u3089\u6b7b\u89d2\u3067\u306f\u306a\u3044\u306e\u3060\u3002\\n\u9b54\u7269\u306f\u632f\u308a\u5411\u304d\u3082\u305b\u305a\u306b\u30da\u30ca\u30f3\u30d2\u30eb\u306e\u653e\u3063\u305f\u62f3\u306b\u7684\u78ba\u306b\u53cd\u5fdc\u3057\u3001\\n\u5206\u539a\u3044\u7532\u6bbb\u3067\u5b88\u3089\u308c\u305f\u8155\u3067\u6253\u6483\u3092\u9632\u3050\u3002",
+    "Phrase": "敵は複眼を持つ虫めいた魔物である、後方すら死角ではないのだ。\\n魔物は振り向きもせずにペナンヒルの放った拳に的確に反応し、\\n分厚い甲殻で守られた腕で打撃を防ぐ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -267,30 +268,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30da\u30ca\u30f3\u30d2\u30eb",
-    "Phrase": "\u300c\u3044\u3063\u305f\u2026\u2026\u3002\\n\u3000\u30ca\u30c3\u30af\u30eb\u4ed8\u3051\u3066\u3066\u3053\u308c\u304b\u3001\u7d20\u624b\u3060\u3063\u305f\u3089\u9aa8\u6298\u308c\u3066\u305f\u3057\u300d",
+    "Name": "ペナンヒル",
+    "Phrase": "「いった……。\\n　ナックル付けててこれか、素手だったら骨折れてたし」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -304,30 +305,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 8301,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u9b54\u7269",
-    "Phrase": "\u300c\u30ae\u30ea\u30ae\u30ea\u30ae\u30ea\uff01\\n\u3000\u30ae\u30ea\u30ae\u30ea\u3001\u30ae\u30ea\u30ae\u30ea\u30ae\u30ea\uff01\u300d",
+    "Name": "魔物",
+    "Phrase": "「ギリギリギリ！\\n　ギリギリ、ギリギリギリ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -341,30 +342,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 8301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30da\u30ca\u30f3\u30d2\u30eb",
-    "Phrase": "\u300c\u30ae\u30ea\u30ae\u30ea\u3046\u3063\u3055\u3044\u306a\u3041\u3001\u3082\u3046\u2015\u2015\\n\u3000\u30de\u30b8\u4e0d\u6109\u5feb\u306a\u3093\u3060\u3051\u3069\u300d",
+    "Name": "ペナンヒル",
+    "Phrase": "「ギリギリうっさいなぁ、もう――\\n　マジ不愉快なんだけど」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -378,30 +379,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 8301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u7d20\u65e9\u304f\u53cd\u8ee2\u3057\u3001\\n\u307e\u305f\u3082\u8907\u8155\u3067\u731b\u653b\u3092\u4ed5\u639b\u3051\u3066\u304f\u308b\u6575\u304b\u3089\u30d0\u30c3\u30af\u30b9\u30c6\u30c3\u30d7\u3067\u8ddd\u96e2\u3092\u53d6\u308b\u3068\u2015\u2015\\n\u30da\u30ca\u30f3\u30d2\u30eb\u306f\u82db\u7acb\u305f\u3057\u3052\u306b\u3001\\n\u6d41\u308c\u59cb\u3081\u305f\u5df1\u306e\u6c57\u3092\u62ed\u3063\u3066\u771f\u4e0a\u306b\u8996\u7dda\u3092\u5411\u3051\u308b\u3002",
+    "Phrase": "素早く反転し、\\nまたも複腕で猛攻を仕掛けてくる敵からバックステップで距離を取ると――\\nペナンヒルは苛立たしげに、\\n流れ始めた己の汗を拭って真上に視線を向ける。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -415,30 +416,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 8301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30da\u30ca\u30f3\u30d2\u30eb",
-    "Phrase": "\u300c\u305c\u3093\u3076\u8eca\u638c\u306e\u305b\u3044\u3060\u304b\u3089\u306d\u3002\\n\u3000\u3053\u3093\u306a\u3001\u308f\u3051\u308f\u304b\u3093\u306a\u3044\u9023\u4e2d\u306b\u6355\u307e\u3063\u3061\u3083\u3063\u3066\u3055\u3002\\n\u3000\u898b\u6368\u3066\u3066\u3046\u3061\u3060\u3051\u5e30\u3063\u3061\u3083\u3044\u305f\u3044\u3068\u3053\u308d\u3060\u3051\u3069\u3001\u305d\u3046\u3082\u3044\u304b\u306a\u3044\u3057\u300d",
+    "Name": "ペナンヒル",
+    "Phrase": "「ぜんぶ車掌のせいだからね。\\n　こんな、わけわかんない連中に捕まっちゃってさ。\\n　見捨ててうちだけ帰っちゃいたいところだけど、そうもいかないし」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -452,30 +453,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 8301,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3046\u2026\u2026\u30da\u30ca\u30f3\u30d2\u30eb\u306e\u8996\u7dda\u306e\u5148\u3001\\n\u30ea\u30f3\u30b0\u306e\u771f\u4e0a\u306b\u306f\u9ce5\u7c60\u3092\u5de8\u5927\u306b\u3057\u305f\u3088\u3046\u306a\u4ee3\u7269\u304c\u3042\u308b\u3002\\n\u305d\u306e\u5185\u90e8\u306b\u3001\u5f7c\u5973\u304c\u5b88\u308b\u3079\u304d\u300e\u8eca\u638c\u300f\u304c\u6355\u3089\u3048\u3089\u308c\u3066\u3044\u308b\u306e\u3060\u3063\u305f\u3002",
+    "Phrase": "そう……ペナンヒルの視線の先、\\nリングの真上には鳥籠を巨大にしたような代物がある。\\nその内部に、彼女が守るべき『車掌』が捕らえられているのだった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -489,21 +490,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5f7c\u5973\u306b\u6587\u53e5\u3092\u8a00\u308f\u308c\u3066\u3082\u4ed5\u65b9\u304c\u306a\u3044\u3001\u81ea\u5206\u304c\u8fc2\u95ca\u3060\u3063\u305f\u2026\u2026\u3002\\n\u3053\u306e\u5730\u4e0b\u907a\u8de1\u306f\u5168\u4f53\u306e\u8abf\u67fb\u3084\u9b54\u7269\u306e\u6383\u8a0e\u3082\u6e08\u3093\u3067\u3001\\n\u305a\u3044\u3076\u3093\u524d\u306b\u5b89\u5168\u304c\u78ba\u4fdd\u3055\u308c\u3066\u3044\u305f\u306f\u305a\u306e\u5834\u6240\u306a\u306e\u3060\u304c\u3002",
+    "Phrase": "彼女に文句を言われても仕方がない、自分が迂闊だった……。\\nこの地下遺跡は全体の調査や魔物の掃討も済んで、\\nずいぶん前に安全が確保されていたはずの場所なのだが。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -517,21 +519,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3060\u304b\u3089\u3053\u305d\u8b77\u885b\u3082\u30da\u30ca\u30f3\u30d2\u30eb\u3072\u3068\u308a\u3060\u3051\u3060\u3063\u305f\u306e\u306b\u3001\\n\u4f55\u4e8b\u3082\u306a\u3044\u3060\u308d\u3046\u3068\u601d\u3063\u3066\u7121\u8b66\u6212\u306b\u8e0f\u307f\u3053\u3093\u3067\u3057\u307e\u3063\u305f\u306e\u3060\u304c\u2026\u2026\u3002\\n\u4f55\u4e8b\u3082\u306a\u3044\u3069\u3053\u308d\u304b\u3001\u5730\u4e0b\u306b\u306f\u602a\u3057\u3052\u306a\u30ea\u30f3\u30b0\u304c\u8a2d\u55b6\u3055\u308c\u3001\\n\u305d\u3053\u3067\u866b\u3081\u3044\u305f\u9b54\u7269\u305f\u3061\u304c\u683c\u95d8\u8a66\u5408\u3092\u884c\u3063\u3066\u3044\u305f\u306e\u3060\u3063\u305f\u3002",
+    "Phrase": "だからこそ護衛もペナンヒルひとりだけだったのに、\\n何事もないだろうと思って無警戒に踏みこんでしまったのだが……。\\n何事もないどころか、地下には怪しげなリングが設営され、\\nそこで虫めいた魔物たちが格闘試合を行っていたのだった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -545,21 +548,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3053\u306e\u907a\u8de1\u304b\u3089\u305f\u307e\u306b\u7570\u97f3\u304c\u805e\u3053\u3048\u3066\u304f\u308b\u3001\\n\u3068\u306e\u5730\u57df\u4f4f\u6c11\u306e\u8a3c\u8a00\u304c\u3042\u3063\u305f\u305f\u3081\u2026\u2026\u3002\\n\u305f\u307e\u305f\u307e\u8fd1\u5834\u3092\u5217\u8eca\u3067\u901a\u3063\u3066\u3044\u305f\u306e\u3082\u3042\u308a\u3001\\n\u69d8\u5b50\u898b\u3060\u3051\u3059\u308b\u3064\u3082\u308a\u3067\u7acb\u3061\u5bc4\u3063\u305f\u306e\u3060\u304c\u3002",
+    "Phrase": "この遺跡からたまに異音が聞こえてくる、\\nとの地域住民の証言があったため……。\\nたまたま近場を列車で通っていたのもあり、\\n様子見だけするつもりで立ち寄ったのだが。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -573,21 +577,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5224\u65ad\u30df\u30b9\u3060\u3063\u305f\u3002\\n\u3057\u3063\u304b\u308a\u6e96\u5099\u3092\u6574\u3048\u30c8\u30ec\u30a4\u30f3\u30ca\u30a4\u30c8\u305f\u3061\u3092\u53ec\u96c6\u3057\u3001\\n\u614e\u91cd\u306b\u8abf\u67fb\u3092\u3059\u308b\u3079\u304d\u3060\u3063\u305f\u306e\u3060\u2015\u2015\\n\u306a\u3069\u3068\u3001\u6094\u3084\u3093\u3067\u307f\u3066\u3082\u3082\u3046\u9045\u3044\u3002",
+    "Phrase": "判断ミスだった。\\nしっかり準備を整えトレインナイトたちを召集し、\\n慎重に調査をするべきだったのだ――\\nなどと、悔やんでみてももう遅い。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -601,21 +606,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u53cd\u7701\u306f\u5f8c\u56de\u3057\u306b\u3057\u3066\u3001\u4eca\u306f\u7aae\u5730\u3092\u8131\u3059\u308b\u3079\u304f\u5168\u529b\u3092\u5c3d\u304f\u3055\u306a\u304f\u3066\u306f\u3002\\n\u307e\u3041\u73fe\u72b6\u3001\u30ea\u30f3\u30b0\u3067\u6226\u3046\u30da\u30ca\u30f3\u30d2\u30eb\u306b\u58f0\u63f4\u3092\u9001\u308b\u3053\u3068\u3057\u304b\u3067\u304d\u306a\u3044\u306e\u3060\u304c\u3002",
+    "Phrase": "反省は後回しにして、今は窮地を脱するべく全力を尽くさなくては。\\nまぁ現状、リングで戦うペナンヒルに声援を送ることしかできないのだが。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -629,21 +635,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
-    "Name": "\u30da\u30ca\u30f3\u30d2\u30eb",
-    "Phrase": "\u300c\u3057\u3083\u3042\u306a\u3044\u2015\u2015\\n\u3000\u3042\u3093\u307e\u308a\u3001\u3053\u3046\u3044\u3046\u5c0f\u6280\u306f\u597d\u304d\u304f\u306a\u3044\u3051\u3069\u300d",
+    "Name": "ペナンヒル",
+    "Phrase": "「しゃあない――\\n　あんまり、こういう小技は好きくないけど」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -657,30 +664,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 8301,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u92ed\u304f\u606f\u3092\u5410\u304d\u3001\u30da\u30ca\u30f3\u30d2\u30eb\u304c\u8e0f\u307f\u3053\u3080\u3002\\n\u305d\u3057\u3066\u3001\u76ee\u306b\u3082\u7559\u307e\u3089\u306c\u901f\u5ea6\u3067\u62f3\u3092\u653e\u3063\u305f\u3002",
+    "Phrase": "鋭く息を吐き、ペナンヒルが踏みこむ。\\nそして、目にも留まらぬ速度で拳を放った。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -694,30 +701,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 8301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u9b54\u7269",
-    "Phrase": "\u300c\u30ae\u30ea\u30e3\u30a1\u30a2\u30a2\uff01\uff1f\u300d",
+    "Name": "魔物",
+    "Phrase": "「ギリャァアア！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -731,30 +738,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u9b54\u7269\u304c\u60b2\u9cf4\u3092\u3042\u3052\u3001\u305d\u306e\u5834\u306b\u8e72\u308b\u3002\\n\u305d\u306e\u56db\u672c\u3082\u306e\u8155\u306e\u3059\u3079\u3066\u304c\u3001\\n\u3044\u3064\u306e\u9593\u306b\u304b\u30b0\u30cb\u30e3\u30b0\u30cb\u30e3\u306b\u6298\u308c\u66f2\u304c\u3063\u3066\u3044\u305f\u3002",
+    "Phrase": "魔物が悲鳴をあげ、その場に蹲る。\\nその四本もの腕のすべてが、\\nいつの間にかグニャグニャに折れ曲がっていた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -768,30 +775,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30da\u30ca\u30f3\u30d2\u30eb",
-    "Phrase": "\u300c\u7bc0\u8db3\u52d5\u7269\u306b\u3082\u95a2\u7bc0\u306f\u3042\u308b\u3057\u3001\\n\u3000\u6bd4\u8f03\u7684\u3001\u8106\u3044\u305d\u306e\u90e8\u5206\u306b\u6253\u6483\u3092\u9023\u7d9a\u3067\u53e9\u304d\u3053\u3093\u3067\u30d8\u30b7\u6298\u3063\u305f\u3002\\n\u3000\u305d\u306e\u8155\u3058\u3083\u3082\u3046\u6226\u3048\u306a\u3044\u3063\u3057\u3087\u3001\u964d\u53c2\u3057\u3066\u8eca\u638c\u3092\u89e3\u653e\u3057\u3066\u300d",
+    "Name": "ペナンヒル",
+    "Phrase": "「節足動物にも関節はあるし、\\n　比較的、脆いその部分に打撃を連続で叩きこんでヘシ折った。\\n　その腕じゃもう戦えないっしょ、降参して車掌を解放して」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -805,30 +812,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 8301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\u9b54\u7269",
-    "Phrase": "\u300c\u30ae\u30ea\u30a3\u30a4\u30a4\u30a4\uff01\u300d",
+    "Name": "魔物",
+    "Phrase": "「ギリィイイイ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -842,30 +849,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 8301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
-    "Name": "\u30da\u30ca\u30f3\u30d2\u30eb",
-    "Phrase": "\u300c\u2026\u2026\u3042\u3041\u3082\u3046\u9b31\u9676\u3057\u3044\u306a\u3041\u3001\\n\u3000\u8a00\u8449\u304c\u901a\u3058\u3066\u306a\u3044\u611f\u3058\uff1f\u300d",
+    "Name": "ペナンヒル",
+    "Phrase": "「……あぁもう鬱陶しいなぁ、\\n　言葉が通じてない感じ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -879,30 +886,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 8301,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30b0\u30cb\u30e3\u30b0\u30cb\u30e3\u306b\u306a\u3063\u305f\u8155\u3092\u632f\u308a\u56de\u3057\u3001\\n\u7a81\u9032\u3057\u3066\u304f\u308b\u9b54\u7269\u3092\u83ef\u9e97\u306a\u30b9\u30c6\u30c3\u30d7\u3067\u907f\u3051\u3066\u2015\u2015\\n\u30da\u30ca\u30f3\u30d2\u30eb\u304c\u3001\u3044\u3064\u3082\u306e\u53f0\u8a5e\u3092\u53e3\u306b\u3057\u305f\u3002",
+    "Phrase": "グニャグニャになった腕を振り回し、\\n突進してくる魔物を華麗なステップで避けて――\\nペナンヒルが、いつもの台詞を口にした。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -916,30 +923,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 8301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
-    "Name": "\u30da\u30ca\u30f3\u30d2\u30eb",
-    "Phrase": "\u300c\u8776\u306e\u3088\u3046\u306b\u821e\u3044\u2015\u2015\u300d",
+    "Name": "ペナンヒル",
+    "Phrase": "「蝶のように舞い――」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -953,30 +960,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 8301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\u30da\u30ca\u30f3\u30d2\u30eb",
-    "Phrase": "\u300c\u8702\u306e\u3088\u3046\u306b\u3001\u523a\u3059\u300d",
+    "Name": "ペナンヒル",
+    "Phrase": "「蜂のように、刺す」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -990,30 +997,30 @@
     "Effect": 5,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 8301,
         "Position": 3,
         "Action": 7,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u653b\u6483\u3092\u907f\u3051\u3089\u308c\u30d0\u30e9\u30f3\u30b9\u3092\u5d29\u3057\u305f\u9b54\u7269\u306e\u8107\u8179\u306b\u3001\\n\u30da\u30ca\u30f3\u30d2\u30eb\u306e\u62f3\u304c\u7a81\u304d\u523a\u3055\u308b\u3002\\n\u4eba\u4f53\u306a\u3089\u3070\u809d\u81d3\u304c\u3042\u308b\u6025\u6240\u3060\u2015\u2015\\n\u771f\u3063\u9ec4\u8272\u306e\u4e0d\u6c17\u5473\u306a\u4f53\u6db2\u3092\u7532\u6bbb\u306e\u9699\u9593\u304b\u3089\u5782\u3089\u3057\u3001\u9b54\u7269\u304c\u7d76\u53eb\u3057\u305f\u3002",
+    "Phrase": "攻撃を避けられバランスを崩した魔物の脇腹に、\\nペナンヒルの拳が突き刺さる。\\n人体ならば肝臓がある急所だ――\\n真っ黄色の不気味な体液を甲殻の隙間から垂らし、魔物が絶叫した。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1027,30 +1034,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u7b2c\u4e8c\u8a71\u306b\u3064\u3065\u304f\u3002",
+    "Phrase": "第二話につづく。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1064,14 +1071,14 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3042\u308b\u65e5\u306e\u6df1\u591c\u3002\\n\u6fc0\u52d9\u3092\u7d42\u3048\u3066\u7279\u9244\u968a\u306e\u672c\u62e0\u5730\u305f\u308b\u5b66\u5712\u2015\u2015\u5df1\u306e\u5bdd\u5ba4\u306b\u5e30\u3063\u3066\u304f\u308b\u306a\u308a\u3001\\n\u7740\u66ff\u3048\u3082\u305b\u305a\u306b\u30d9\u30c3\u30c9\u306b\u5012\u308c\u3053\u3093\u3060\u3002\\n\u3078\u3068\u3078\u3068\u306b\u75b2\u308c\u3066\u3044\u3066\u3001\u4e00\u79d2\u3067\u3082\u65e9\u304f\u6ce5\u306e\u3088\u3046\u306b\u7720\u3063\u3066\u3057\u307e\u3044\u305f\u304b\u3063\u305f\u3002",
+    "Phrase": "ある日の深夜。\\n激務を終えて特鉄隊の本拠地たる学園――己の寝室に帰ってくるなり、\\n着替えもせずにベッドに倒れこんだ。\\nへとへとに疲れていて、一秒でも早く泥のように眠ってしまいたかった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5e78\u3044\u3001\u3059\u3050\u306b\u7761\u9b54\u304c\u8a2a\u308c\u3066\u2015\u2015\\n\u76ee\u84cb\u3092\u9589\u3058\u308b\u3068\u540c\u6642\u306b\u3001\u6df1\u3044\u7720\u308a\u306b\u843d\u3061\u308b\u3053\u3068\u304c\u3067\u304d\u305f\u304c\u3002\\n\u5b89\u3089\u304b\u306a\u7720\u308a\u306e\u306a\u304b\u3001\u3075\u3068\u9055\u548c\u611f\u3092\u304a\u307c\u3048\u3066\u3001\\n\u8a1d\u3057\u304f\u601d\u3044\u306a\u304c\u3089\u8584\u3089\u3068\u76ee\u3092\u958b\u3051\u305f\u3002",
+    "Phrase": "幸い、すぐに睡魔が訪れて――\\n目蓋を閉じると同時に、深い眠りに落ちることができたが。\\n安らかな眠りのなか、ふと違和感をおぼえて、\\n訝しく思いながら薄らと目を開けた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,21 +46,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30d0\u30b7\u30ea",
-    "Phrase": "\u300c\u3075\u3075\u3001\u3046\u3075\u3075\u3001\u3075\u3075\u3075\u2026\u2026\u3002\\n\u3000\u30c0\u30fc\u30ea\u30f3\u306e\u5bdd\u9854\u304b\u308f\u3044\u3044\u3001\\n\u3000\u4e00\u79d2\u3054\u3068\u306b\u30c0\u30fc\u30ea\u30f3\u3078\u306e\u611b\u304a\u3057\u3055\u304c\u5897\u3057\u3066\u3044\u304f\u2015\u2015\u300d",
+    "Name": "アバシリ",
+    "Phrase": "「ふふ、うふふ、ふふふ……。\\n　ダーリンの寝顔かわいい、\\n　一秒ごとにダーリンへの愛おしさが増していく――」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -73,30 +75,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 40201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30d0\u30b7\u30ea",
-    "Phrase": "\u300c\u3042\u3041\u3001\u308f\u305f\u3057\u58ca\u308c\u3061\u3083\u3063\u305f\u307f\u305f\u3044\u2026\u2026\u3002\\n\u3000\u30c0\u30fc\u30ea\u30f3\u3078\u306e\u611b\u304c\u3001\u308f\u305f\u3057\u3092\u5909\u306b\u3057\u3061\u3083\u3063\u305f\u306e\u2026\u2026\u266a\u300d",
+    "Name": "アバシリ",
+    "Phrase": "「あぁ、わたし壊れちゃったみたい……。\\n　ダーリンへの愛が、わたしを変にしちゃったの……♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -110,30 +112,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 40201,
         "Position": 3,
         "Action": 0,
         "Emotion": 7,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5bdd\u8ee2\u304c\u3063\u305f\u5df1\u306e\u771f\u4e0a\u3001\\n\u3076\u3064\u3076\u3064\u3068\u602a\u3057\u3044\u3053\u3068\u3092\u56c1\u304d\u306a\u304c\u3089\u30a2\u30d0\u30b7\u30ea\u304c\u5fae\u7b11\u3093\u3067\u3044\u305f\u3002\\n\u3055\u3059\u304c\u306b\u4ef0\u5929\u3057\u3001\u60b2\u9cf4\u3092\u3042\u3052\u304b\u3051\u305f\u304c\u2015\u2015\\n\u7d20\u65e9\u304f\u30a2\u30d0\u30b7\u30ea\u306e\u624b\u306b\u53e3\u3092\u585e\u304c\u308c\u308b\u3002",
+    "Phrase": "寝転がった己の真上、\\nぶつぶつと怪しいことを囁きながらアバシリが微笑んでいた。\\nさすがに仰天し、悲鳴をあげかけたが――\\n素早くアバシリの手に口を塞がれる。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -147,30 +149,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 40201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30d0\u30b7\u30ea",
-    "Phrase": "\u300c\u3057\u3043\uff5e\u2026\u2026\u9759\u304b\u306b\u306d\u3001\u3082\u3046\u771f\u591c\u4e2d\u3088\u2026\u2026\u3002\\n\u3000\u4ed6\u306e\u307f\u3093\u306a\u3092\u8d77\u3053\u3057\u3061\u3083\u3046\u2026\u2026\u300d",
+    "Name": "アバシリ",
+    "Phrase": "「しぃ～……静かにね、もう真夜中よ……。\\n　他のみんなを起こしちゃう……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -184,30 +186,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 40201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30d0\u30b7\u30ea",
-    "Phrase": "\u300c\u9a12\u304e\u306b\u306a\u308c\u3070\u8ab0\u304b\u304c\u69d8\u5b50\u3092\u898b\u306b\u6765\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u3057\u3001\\n\u3000\u3053\u3046\u3057\u3066\u540c\u887e\u3057\u3066\u308b\u3068\u3053\u308d\u3092\u898b\u3089\u308c\u305f\u3089\u2015\u2015\\n\u3000\u300e\u8eca\u638c\u300f\u3068\u3057\u3066\u306f\u554f\u984c\u304c\u3042\u308b\u3067\u3057\u3087\u2026\u2026\uff1f\u300d",
+    "Name": "アバシリ",
+    "Phrase": "「騒ぎになれば誰かが様子を見に来るかもしれないし、\\n　こうして同衾してるところを見られたら――\\n　『車掌』としては問題があるでしょ……？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -221,30 +223,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 40201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u307e\u3041\u300e\u9244\u5206\u6ce8\u5165\u300f\u3092\u3057\u3066\u3044\u305f\u3001\\n\u3068\u8a00\u3044\u5f35\u308c\u3070\u8ffd\u53ca\u3092\u304b\u308f\u305b\u308b\u3060\u308d\u3046\u304c\u3002\\n\u305d\u306e\u70b9\u4ee5\u5916\u306b\u306f\u554f\u984c\u3057\u304b\u306a\u3044\u306a\u2026\u2026\\n\u3053\u3093\u306a\u591c\u66f4\u3051\u306b\u4f55\u306e\u7528\u3060\u3001\u30a2\u30d0\u30b7\u30ea\uff1f",
+    "Phrase": "まぁ『鉄分注入』をしていた、\\nと言い張れば追及をかわせるだろうが。\\nその点以外には問題しかないな……\\nこんな夜更けに何の用だ、アバシリ？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -258,30 +260,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 40201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30d0\u30b7\u30ea",
-    "Phrase": "\u300c\u3084\u3093\u3001\u610f\u5730\u60aa\u2026\u2026\u3002\\n\u3000\u300e\u30a2\u30d0\u30b7\u30ea\u300f\u3058\u3083\u306a\u304f\u3066\u300e\u30cf\u30cb\u30fc\u300f\u3063\u3066\u547c\u3093\u3067\u2026\u2026\u3002\\n\u3000\u307b\u3093\u3068\u306b\u611b\u3057\u3066\u306a\u304f\u3066\u3082\u3044\u3044\u3057\u3001\u671f\u5f85\u306a\u3093\u304b\u3057\u3066\u306a\u3044\u3051\u3069\u3001\\n\u3000\u5618\u3067\u3082\u3044\u3044\u304b\u3089\u611b\u3057\u3066\u308b\u307f\u305f\u3044\u306b\u547c\u3093\u3067\u2026\u2026\u266a\u300d",
+    "Name": "アバシリ",
+    "Phrase": "「やん、意地悪……。\\n　『アバシリ』じゃなくて『ハニー』って呼んで……。\\n　ほんとに愛してなくてもいいし、期待なんかしてないけど、\\n　嘘でもいいから愛してるみたいに呼んで……♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -295,30 +297,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 40201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5168\u4f53\u7684\u306b\u3001\u610f\u5473\u304c\u308f\u304b\u3089\u306a\u3044\u3002\\n\u30a2\u30d0\u30b7\u30ea\u306f\u30cb\u30b7\u30ad\u5317\u65b9\u306b\u5b58\u5728\u3059\u308b\u4e16\u754c\u6700\u5927\u898f\u6a21\u306e\u5211\u52d9\u6240\u3092\u7ba1\u7406\u3059\u308b\u3001\\n\u5148\u7956\u4ee3\u3005\u3001\u7344\u5352\u3092\u52d9\u3081\u3066\u3044\u308b\u4e00\u65cf\u306b\u751f\u307e\u308c\u305f\u7b4b\u91d1\u5165\u308a\u306e\u5211\u52d9\u5b98\u3060\u3002\\n\u5730\u5143\u3067\u306f\u3001\u300e\u30a2\u30d0\u30b7\u30ea\u7344\u9577\u300f\u3068\u547c\u3070\u308c\u3066\u6050\u308c\u3089\u308c\u3066\u3044\u308b\u3089\u3057\u3044\u3002",
+    "Phrase": "全体的に、意味がわからない。\\nアバシリはニシキ北方に存在する世界最大規模の刑務所を管理する、\\n先祖代々、獄卒を務めている一族に生まれた筋金入りの刑務官だ。\\n地元では、『アバシリ獄長』と呼ばれて恐れられているらしい。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -332,30 +334,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 40201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u306e\u624b\u8155\u3092\u8cb7\u308f\u308c\u3001\u7279\u9244\u968a\u3068\u6575\u5bfe\u3059\u308b\u30ec\u30b8\u30b9\u30bf\u30f3\u30b9\u306a\u3069\u306e\u6355\u865c\u3084\u653f\u6cbb\u72af\u3001\\n\u7279\u9244\u968a\u5185\u90e8\u306e\u8ecd\u898f\u9055\u53cd\u8005\u3092\u53ce\u76e3\u3059\u308b\u305f\u3081\u306e\u65bd\u8a2d\u2015\u2015\\n\u901a\u79f0\u3001\u300e\u304a\u3057\u304a\u304d\u76e3\u7344\u300f\u306e\u7ba1\u7406\u30fb\u904b\u55b6\u3092\u4f9d\u983c\u3055\u308c\u305f\u3002\\n\u305d\u306e\u969b\u306b\u7279\u9244\u968a\u306e\u4e00\u54e1\u306b\u3082\u306a\u308a\u3001\u4eca\u3067\u306f\u4fe1\u983c\u3067\u304d\u308b\u4ef2\u9593\u306b\u306a\u3063\u3066\u3044\u308b\u3002",
+    "Phrase": "その手腕を買われ、特鉄隊と敵対するレジスタンスなどの捕虜や政治犯、\\n特鉄隊内部の軍規違反者を収監するための施設――\\n通称、『おしおき監獄』の管理・運営を依頼された。\\nその際に特鉄隊の一員にもなり、今では信頼できる仲間になっている。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -369,30 +371,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 40201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u9670\u3005\u6ec5\u3005\u3068\u3057\u305f\u6027\u683c\u3067\u3042\u307e\u308a\u8ab0\u3068\u3082\u6253\u3061\u89e3\u3051\u306a\u3044\u304c\u3001\\n\u554f\u984c\u884c\u52d5\u3092\u3059\u308b\u308f\u3051\u3067\u3082\u306a\u304f\u52e4\u52d9\u614b\u5ea6\u306f\u6975\u3081\u3066\u771f\u9762\u76ee\u3002\\n\u300e\u304a\u3057\u304a\u304d\u76e3\u7344\u300f\u306e\u7dad\u6301\u7ba1\u7406\u3082\u7279\u9244\u968a\u306e\u4efb\u52d9\u3082\u7cbe\u529b\u7684\u306b\u3053\u306a\u3057\u3001\\n\u3069\u3093\u3069\u3093\u6210\u679c\u3092\u3042\u3052\u3066\u3044\u308b\u671f\u5f85\u306e\u65b0\u4eba\u3067\u3042\u308b\u3002",
+    "Phrase": "陰々滅々とした性格であまり誰とも打ち解けないが、\\n問題行動をするわけでもなく勤務態度は極めて真面目。\\n『おしおき監獄』の維持管理も特鉄隊の任務も精力的にこなし、\\nどんどん成果をあげている期待の新人である。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -406,30 +408,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 40201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30d0\u30b7\u30ea",
-    "Phrase": "\u300c\u3075\u3075\u3001\u3046\u3075\u3075\u2026\u2026\u3002\\n\u3000\u3046\u3093\u3001\u30c0\u30fc\u30ea\u30f3\u306e\u305f\u3081\u306b\u304c\u3093\u3070\u3063\u3066\u308b\u306e\u2026\u2026\u3002\\n\u3000\u30c0\u30fc\u30ea\u30f3\u304c\u6b7b\u306d\u3068\u8a00\u3046\u306a\u3089\u6b7b\u306c\u3057\u3001\\n\u3000\u30c0\u30fc\u30ea\u30f3\u304c\u671b\u3080\u306a\u3089\u5bc6\u8f38\u3067\u3082\u4eba\u6bba\u3057\u3067\u3082\u4f55\u3067\u3082\u3084\u308b\u308f\u2026\u2026\u266a\u300d",
+    "Name": "アバシリ",
+    "Phrase": "「ふふ、うふふ……。\\n　うん、ダーリンのためにがんばってるの……。\\n　ダーリンが死ねと言うなら死ぬし、\\n　ダーリンが望むなら密輸でも人殺しでも何でもやるわ……♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -443,30 +445,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 40201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3060\u304c\u3001\u3053\u306e\u3088\u3046\u306b\u2015\u2015\\n\u306a\u305c\u304b\u3053\u3061\u3089\u306b\u7570\u5e38\u306a\u57f7\u7740\u5fc3\u3092\u793a\u3057\u3066\u3044\u308b\u306e\u304c\u4e0d\u53ef\u89e3\u3067\u3042\u308b\u3002\\n\u30a2\u30d0\u30b7\u30ea\u306b\u3053\u3093\u306a\u3075\u3046\u306b\u61d0\u304b\u308c\u308b\u3001\\n\u3068\u3044\u3046\u304b\u5947\u5999\u306a\u504f\u611b\u3092\u62b1\u304b\u308c\u308b\u3088\u3046\u306a\u771f\u4f3c\u3092\u3057\u305f\u899a\u3048\u306f\u4e00\u5207\u306a\u3044\u306e\u3060\u304c\u3002",
+    "Phrase": "だが、このように――\\nなぜかこちらに異常な執着心を示しているのが不可解である。\\nアバシリにこんなふうに懐かれる、\\nというか奇妙な偏愛を抱かれるような真似をした覚えは一切ないのだが。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -480,30 +482,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 40201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30d0\u30b7\u30ea",
-    "Phrase": "\u300c\u3075\u3075\u3001\u3075\u3075\u3075\u2026\u2026\u3002\\n\u3000\u3054\u3081\u3093\u306a\u3055\u3044\u30c0\u30fc\u30ea\u30f3\u3001\u6211\u6162\u3067\u304d\u306a\u304f\u3066\u2026\u2026\u6765\u3061\u3083\u3063\u305f\u266a\u300d",
+    "Name": "アバシリ",
+    "Phrase": "「ふふ、ふふふ……。\\n　ごめんなさいダーリン、我慢できなくて……来ちゃった♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -517,30 +519,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 40201,
         "Position": 3,
         "Action": 0,
         "Emotion": 7,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3044\u3084\u3001\u3060\u304b\u3089\u4f55\u306e\u7528\u304c\u3042\u3063\u3066\uff1f\\n\u6b63\u76f4\u306a\u3068\u3053\u308d\u65e5\u4e2d\u306b\u884c\u3063\u305f\u4efb\u52d9\u306e\u305b\u3044\u3067\u75b2\u308c\u679c\u3066\u3066\u3044\u308b\u304b\u3089\u3001\\n\u3086\u3063\u304f\u308a\u4f11\u307e\u305b\u3066\u307b\u3057\u3044\u3093\u3060\u304c\u2026\u2026\uff1f",
+    "Phrase": "いや、だから何の用があって？\\n正直なところ日中に行った任務のせいで疲れ果てているから、\\nゆっくり休ませてほしいんだが……？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -554,30 +556,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 40201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30d0\u30b7\u30ea",
-    "Phrase": "\u300c\u3093\u2026\u2026\u3002\\n\u3000\u308f\u304b\u3063\u3066\u308b\u308f\u3001\u308f\u305f\u3057\u306f\u30c0\u30fc\u30ea\u30f3\u306e\u3053\u3068\u306a\u3089\u4f55\u3067\u3082\u308f\u304b\u3063\u3061\u3083\u3046\u306e\u2026\u2026\u3002\\n\u3000\u306f\u3041\u3063\u3001\u30b9\u30c8\u30ec\u30b9\u306e\u305b\u3044\u3067\u4f53\u6db2\u306e\u5473\u304c\u5909\u308f\u3063\u3066\u308b\u3001\\n\u3000\u4e73\u9178\u306e\u305b\u3044\u3067\u7b4b\u8089\u306e\u611f\u89e6\u3082\u786c\u3041\u3044\u2026\u2026\u266a\u300d",
+    "Name": "アバシリ",
+    "Phrase": "「ん……。\\n　わかってるわ、わたしはダーリンのことなら何でもわかっちゃうの……。\\n　はぁっ、ストレスのせいで体液の味が変わってる、\\n　乳酸のせいで筋肉の感触も硬ぁい……♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -591,30 +593,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 40201,
         "Position": 3,
         "Action": 7,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u306a\u305c\u304b\u8208\u596e\u3057\u306a\u304c\u3089\u8210\u3081\u305f\u308a\u89e6\u3063\u305f\u308a\u3057\u3066\u304f\u308b\u306e\u3067\u3001\\n\u3055\u3059\u304c\u306b\u653e\u7f6e\u3067\u304d\u305a\u306b\u8d77\u304d\u4e0a\u304c\u3063\u305f\u3002\\n\u4f53\u91cd\u306e\u8efd\u3044\u30a2\u30d0\u30b7\u30ea\u306f\u3001\\n\u305d\u306e\u52e2\u3044\u306b\u8ca0\u3051\u3066\u300c\u304d\u3083\u3042\uff01\u300d\u3068\u60b2\u9cf4\u3092\u3042\u3052\u3066\u5f8c\u308d\u5411\u304d\u306b\u5f15\u3063\u7e70\u308a\u8fd4\u308b\u3002",
+    "Phrase": "なぜか興奮しながら舐めたり触ったりしてくるので、\\nさすがに放置できずに起き上がった。\\n体重の軽いアバシリは、\\nその勢いに負けて「きゃあ！」と悲鳴をあげて後ろ向きに引っ繰り返る。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -628,30 +630,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 40201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30d0\u30b7\u30ea",
-    "Phrase": "\u300c\u3082\u3046\u2026\u2026\u3002\\n\u3000\u30c0\u30fc\u30ea\u30f3\u3063\u305f\u3089\u610f\u5730\u60aa\u3060\u308f\u3001\u3061\u3087\u3063\u3068\u3057\u305f\u30b9\u30ad\u30f3\u30b7\u30c3\u30d7\u3058\u3083\u306a\u3044\u2026\u2026\u3002\\n\u3000\u7167\u308c\u5c4b\u3055\u3093\u306a\u306e\u306d\u3001\u304b\u308f\u3044\u3044\u2026\u2026\u266a\\n\u3000\u3067\u3082\u3001\u4eca\u306f\u4e8c\u4eba\u304d\u308a\u306a\u3093\u3060\u304b\u3089\u6065\u305a\u304b\u3057\u304c\u3089\u306a\u304f\u3066\u3082\u3044\u3044\u306e\u3088\u2026\u2026\uff1f\u300d",
+    "Name": "アバシリ",
+    "Phrase": "「もう……。\\n　ダーリンったら意地悪だわ、ちょっとしたスキンシップじゃない……。\\n　照れ屋さんなのね、かわいい……♪\\n　でも、今は二人きりなんだから恥ずかしがらなくてもいいのよ……？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -665,30 +667,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 40201,
         "Position": 3,
         "Action": 8,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5e8a\u3067\u4e38\u307e\u3063\u3066\u3001\u3069\u3093\u3088\u308a\u3057\u305f\u76ee\u3067\u3053\u3061\u3089\u3092\u898b\u306a\u304c\u3089\u2015\u2015\\n\u4e0d\u6c17\u5473\u306a\u7b11\u3044\u58f0\u3092\u3042\u3052\u308b\u30a2\u30d0\u30b7\u30ea\u306f\u6b63\u76f4\u3001\u6016\u3059\u304e\u308b\u3002\\n\u3060\u304c\u5f7c\u5973\u3082\u5927\u4e8b\u306a\u7279\u9244\u968a\u306e\u4ef2\u9593\u3060\u3001\\n\u6c17\u5473\u60aa\u304c\u3063\u3066\u9060\u3056\u3051\u305a\u306b\u7406\u89e3\u3057\u305f\u3044\u3068\u601d\u3063\u305f\u3002",
+    "Phrase": "床で丸まって、どんよりした目でこちらを見ながら――\\n不気味な笑い声をあげるアバシリは正直、怖すぎる。\\nだが彼女も大事な特鉄隊の仲間だ、\\n気味悪がって遠ざけずに理解したいと思った。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -702,30 +704,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 40201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30a2\u30d0\u30b7\u30ea\u3001\u3072\u3068\u3064\u8cea\u554f\u304c\u3042\u308b\u3002",
+    "Phrase": "アバシリ、ひとつ質問がある。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -739,30 +741,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 40201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30d0\u30b7\u30ea",
-    "Phrase": "\u300c\u4f55\u2026\u2026\uff1f\u3000\u826f\u3044\u306e\u3088\u3001\u4f55\u3067\u3082\u805e\u3044\u3066\u2026\u2026\uff1f\\n\u3000\u4f55\u3067\u3082\u6559\u3048\u3066\u3042\u3052\u308b\u308f\u3001\u308f\u305f\u3057\u306e\u3053\u3068\u3092\u30c0\u30fc\u30ea\u30f3\u306b\u77e5\u3063\u3066\u307b\u3057\u3044\u2026\u2026\u266a\u300d",
+    "Name": "アバシリ",
+    "Phrase": "「何……？　良いのよ、何でも聞いて……？\\n　何でも教えてあげるわ、わたしのことをダーリンに知ってほしい……♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -776,30 +778,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 40201,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u7b2c\u4e8c\u8a71\u3078\u3064\u3065\u304f\u3002",
+    "Phrase": "第二話へつづく。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -813,14 +815,14 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

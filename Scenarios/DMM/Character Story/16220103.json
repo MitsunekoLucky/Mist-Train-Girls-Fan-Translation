@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u7b2c\u4e8c\u8a71\u307e\u3067\u306e\u3042\u3089\u3059\u3058\u3002\\n\u305f\u307e\u305f\u307e\u59ff\u3092\u898b\u305b\u305f\u30a2\u30f3\u30c4\u30a3\u30aa\u306e\u306a\u304b\u306b\u3001\\n\u9752\u767d\u3044\u8b0e\u306e\u5e7d\u970a\uff08\uff1f\uff09\u304c\u6f5c\u308a\u3053\u3093\u3067\u3057\u307e\u3063\u305f\u3002",
+    "Phrase": "第二話までのあらすじ。\\nたまたま姿を見せたアンツィオのなかに、\\n青白い謎の幽霊（？）が潜りこんでしまった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30f3\u30c4\u30a3\u30aa\uff1f",
-    "Phrase": "\u300c\u3075\u3075\u3001\u3075\u3075\u3075\u3075\u3075\u300d",
+    "Name": "アンツィオ？",
+    "Phrase": "「ふふ、ふふふふふ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,30 +46,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 7,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30eb\u30bf\u30b4",
-    "Phrase": "\u300c\uff1f\u3000\u4f55\u304c\u9762\u767d\u304b\u3063\u305f\u306e\u3067\u3057\u3087\u3046\u3001\u30a2\u30f3\u30c4\u30a3\u30aa\u3055\u3093\uff1f\u300d",
+    "Name": "カルタゴ",
+    "Phrase": "「？　何が面白かったのでしょう、アンツィオさん？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -82,30 +83,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 62201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30f3\u30c4\u30a3\u30aa\uff1f",
-    "Phrase": "\u300c\u7b11\u6b62\u3063\u3001\u6211\u306f\u3082\u306f\u3084\u30a2\u30f3\u30c4\u30a3\u30aa\u3068\u3084\u3089\u3067\u306f\u306a\u3044\uff01\\n\u3000\u6c38\u304f\u970a\u9b42\u3068\u3057\u3066\u4e0d\u81ea\u7531\u3092\u5f37\u3044\u3089\u308c\u3066\u3044\u305f\u304c\u2015\u2015\\n\u3000\u3088\u3046\u3084\u304f\u6211\u306f\u8089\u4f53\u3092\u624b\u306b\u5165\u308c\u305f\u306e\u3060\uff01\\n\u3000\u3053\u308c\u3067\u5fa9\u8b90\u306e\u5203\u3092\u63e1\u308a\u3057\u3081\u3001\u6028\u6575\u3069\u3082\u3092\u62b9\u6bba\u3067\u304d\u308b\uff01\u300d",
+    "Name": "アンツィオ？",
+    "Phrase": "「笑止っ、我はもはやアンツィオとやらではない！\\n　永く霊魂として不自由を強いられていたが――\\n　ようやく我は肉体を手に入れたのだ！\\n　これで復讐の刃を握りしめ、怨敵どもを抹殺できる！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -119,38 +120,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 62201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30eb\u30bf\u30b4",
-    "Phrase": "\u300c\u306f\u3044\uff1f\u3000\u7406\u89e3\u304c\u96e3\u3057\u3044\u3067\u3059\u3001\\n\u3000\u3082\u3046\u3059\u3053\u3057\u8a73\u3057\u304f\u8aac\u660e\u3057\u3066\u3044\u305f\u3060\u3051\u307e\u3059\u304b\uff1f\u300d",
+    "Name": "カルタゴ",
+    "Phrase": "「はい？　理解が難しいです、\\n　もうすこし詳しく説明していただけますか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -164,38 +165,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 62201,
         "Position": 4,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30f3\u30c4\u30a3\u30aa\uff1f",
-    "Phrase": "\u300c\u3046\u308b\u3055\u3044\uff01\u3000\u3055\u3063\u304d\u304b\u3089\u4f55\u306a\u3093\u3060\u8cb4\u69d8\u3041\u3042\u3042\u3042\u3001\u7a7a\u6c17\u3092\u8aad\u3081\uff01\\n\u3000\u602f\u3048\u308d\u3063\u3001\u9707\u3048\u4e0a\u304c\u308c\uff01\\n\u3000\u305b\u3081\u3066\u6050\u6016\u3068\u6094\u6068\u306e\u6d99\u3092\u96f6\u3057\u3001\u4e0d\u69d8\u306b\u8a31\u3057\u3092\u8acb\u3046\u304c\u3044\u3044\uff01\u300d",
+    "Name": "アンツィオ？",
+    "Phrase": "「うるさい！　さっきから何なんだ貴様ぁあああ、空気を読め！\\n　怯えろっ、震え上がれ！\\n　せめて恐怖と悔恨の涙を零し、不様に許しを請うがいい！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -209,38 +210,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 2,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 62201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3069\u3046\u3084\u3089\u3001\u30a2\u30f3\u30c4\u30a3\u30aa\u306f\u5e7d\u970a\uff08\uff1f\uff09\u306b\u53d6\u308a\u6191\u304b\u308c\u305f\u3088\u3046\u3060\u306a\u3002",
+    "Phrase": "どうやら、アンツィオは幽霊（？）に取り憑かれたようだな。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -254,38 +255,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 62201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30eb\u30bf\u30b4",
-    "Phrase": "\u300c\u53d6\u308a\u6191\u304f\u3068\u306f\uff1f\u3000\u305d\u3046\u3044\u3048\u3070\u4ee5\u524d\u304b\u3089\u3001\\n\u3000\u5f7c\u5973\u306f\u300e\u60aa\u9b54\u306b\u53d6\u308a\u6191\u304b\u308c\u3066\u3044\u308b\u300f\u4e91\u3005\u3068\u8a00\u3063\u3066\u304a\u308a\u307e\u3057\u305f\u304c\u2026\u2026\u3002\\n\u3000\u6b63\u76f4\u3001\u307e\u3063\u305f\u304f\u610f\u5473\u304c\u308f\u304b\u308a\u307e\u305b\u3093\u3067\u3057\u305f\u300d",
+    "Name": "カルタゴ",
+    "Phrase": "「取り憑くとは？　そういえば以前から、\\n　彼女は『悪魔に取り憑かれている』云々と言っておりましたが……。\\n　正直、まったく意味がわかりませんでした」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -299,38 +300,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 62201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u5e7d\u970a\uff1f",
-    "Phrase": "\u300c\u307b\u307b\u3046\uff1f\u3000\u9053\u7406\u3067\u3001\u3053\u306e\u8eab\u4f53\u306f\u3088\u304f\u99b4\u67d3\u3080\uff01\\n\u3000\u305d\u306e\u60aa\u9b54\u3068\u3084\u3089\u304c\u3001\u6211\u306e\u3088\u3046\u306a\u5b58\u5728\u304c\u53d6\u308a\u6191\u304d\u64cd\u308a\u3084\u3059\u3044\u3088\u3046\u306b\u3001\\n\u3000\u6642\u9593\u3092\u304b\u3051\u3066\u3053\u306e\u5c0f\u5a18\u306e\u8089\u4f53\u3092\u6539\u9020\u3057\u3066\u3044\u305f\u3068\u307f\u3048\u308b\u308f\uff01\u300d",
+    "Name": "幽霊？",
+    "Phrase": "「ほほう？　道理で、この身体はよく馴染む！\\n　その悪魔とやらが、我のような存在が取り憑き操りやすいように、\\n　時間をかけてこの小娘の肉体を改造していたとみえるわ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -344,38 +345,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 62201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30eb\u30bf\u30b4",
-    "Phrase": "\u300c\u3075\u3080\uff1f\u3000\u305d\u306e\u60aa\u9b54\u3068\u3084\u3089\u3082\u3088\u304f\u308f\u304b\u308a\u307e\u305b\u3093\u3001\\n\u3000\u305d\u308c\u306f\u795e\u3084\u970a\u3068\u306f\u9055\u3046\u3082\u306e\u3067\u3059\u304b\uff1f\u300d",
+    "Name": "カルタゴ",
+    "Phrase": "「ふむ？　その悪魔とやらもよくわかりません、\\n　それは神や霊とは違うものですか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -389,38 +390,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 62201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u5e7d\u970a\uff1f",
-    "Phrase": "\u300c\u3060\u304b\u3089\u55a7\u3057\u3044\u308f\u3063\u3001\\n\u3000\u4eca\u306f\u305d\u3093\u306a\u5451\u6c17\u306a\u3053\u3068\u3092\u5c0b\u306d\u3066\u308b\u5834\u5408\u3058\u3083\u306a\u3044\u3060\u308d\u3046\u304c\u3041\u3042\uff01\\n\u3000\u3082\u3046\u6211\u6162\u3067\u304d\u3093\u3063\u3001\u8cb4\u69d8\u306e\u547d\u3092\u596a\u3063\u3066\u7121\u7406\u3084\u308a\u306b\u3067\u3082\u53e3\u3092\u585e\u3044\u3067\u3084\u308b\uff01\u300d",
+    "Name": "幽霊？",
+    "Phrase": "「だから喧しいわっ、\\n　今はそんな呑気なことを尋ねてる場合じゃないだろうがぁあ！\\n　もう我慢できんっ、貴様の命を奪って無理やりにでも口を塞いでやる！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -434,38 +435,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 2,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 62201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5b8c\u5168\u306b\u30a2\u30f3\u30c4\u30a3\u30aa\u3092\u64cd\u3063\u3066\u3044\u308b\u3089\u3057\u3044\u5e7d\u970a\uff08\uff1f\uff09\u304c\u3001\\n\u6012\u53f7\u3092\u653e\u3061\u306a\u304c\u3089\u8972\u3044\u304b\u304b\u3063\u3066\u304f\u308b\u3002\\n\u305d\u308c\u3092\u3001\u30ab\u30eb\u30bf\u30b4\u306f\u307c\u3093\u3084\u308a\u773a\u3081\u3066\u3044\u305f\u3002",
+    "Phrase": "完全にアンツィオを操っているらしい幽霊（？）が、\\n怒号を放ちながら襲いかかってくる。\\nそれを、カルタゴはぼんやり眺めていた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -479,38 +480,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 62201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30eb\u30bf\u30b4",
-    "Phrase": "\u300c\u547d\u3092\u596a\u308f\u308c\u308b\u306e\u306f\u3001\u56f0\u308a\u307e\u3059\u300d",
+    "Name": "カルタゴ",
+    "Phrase": "「命を奪われるのは、困ります」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -524,38 +525,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 62201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30eb\u30bf\u30b4",
-    "Phrase": "\u300c\u306a\u305c\u306a\u3089\u3001\u308f\u305f\u304f\u3057\u306f\u7559\u5b66\u751f\u306a\u306e\u3067\u3059\u3002\\n\u3000\u305d\u3057\u3066\u2015\u2015\u307e\u3060\u307e\u3060\u308f\u305f\u304f\u3057\u306f\u3001\\n\u3000\u5b66\u3076\u3079\u304d\u3053\u3068\u3092\u5b66\u3073\u7d42\u3048\u3066\u304a\u308a\u307e\u305b\u3093\u304b\u3089\u300d",
+    "Name": "カルタゴ",
+    "Phrase": "「なぜなら、わたくしは留学生なのです。\\n　そして――まだまだわたくしは、\\n　学ぶべきことを学び終えておりませんから」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -569,38 +570,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 62201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5909\u308f\u3089\u306c\u6de1\u3005\u3068\u3057\u305f\u53e3\u8abf\u3067\u305d\u3046\u8a00\u3063\u3066\u3001\\n\u30ab\u30eb\u30bf\u30b4\u306f\u624b\u306b\u3057\u305f\u65a7\u306e\u67c4\u3067\u8feb\u308a\u6765\u308b\u30a2\u30f3\u30c4\u30a3\u30aa\u306e\u9ce9\u5c3e\u3092\u6bb4\u3063\u305f\u3002",
+    "Phrase": "変わらぬ淡々とした口調でそう言って、\\nカルタゴは手にした斧の柄で迫り来るアンツィオの鳩尾を殴った。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -614,38 +615,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 62201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\u5e7d\u970a\uff1f",
-    "Phrase": "\u300c\u307b\u3093\u3050\u2026\u2026\uff01\uff1f\u3000\u306a\u3001\u306a\u305c\u8e8a\u8e87\u306a\u304f\u6bb4\u308c\u308b\u3063\uff1f\\n\u3000\u3053\u306e\u8089\u4f53\u306f\u8cb4\u69d8\u306e\u53cb\u4eba\u306e\u3082\u306e\u306a\u306e\u3060\u308d\u3046\u304c\u2015\u2015\\n\u3000\u502b\u7406\u306f\u3001\u9053\u5fb3\u306f\u3001\u5e38\u8b58\u306f\u306a\u3044\u306e\u304b\u8cb4\u69d8\u3041\u3042\u3042\u3042\uff01\uff1f\u300d",
+    "Name": "幽霊？",
+    "Phrase": "「ほんぐ……！？　な、なぜ躊躇なく殴れるっ？\\n　この肉体は貴様の友人のものなのだろうが――\\n　倫理は、道徳は、常識はないのか貴様ぁあああ！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -659,38 +660,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 2,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 62201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30eb\u30bf\u30b4",
-    "Phrase": "\u300c\u305d\u308c\u3089\u3082\u3001\u5f53\u7136\u3001\u5b66\u3093\u3067\u3044\u308b\u771f\u3063\u6700\u4e2d\u3067\u3059\u300d",
+    "Name": "カルタゴ",
+    "Phrase": "「それらも、当然、学んでいる真っ最中です」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -704,38 +705,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 62201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3046\u8a00\u3063\u3066\u3001\u30ab\u30eb\u30bf\u30b4\u306f\u52d5\u63fa\u3057\u3066\u3044\u308b\u5e7d\u970a\uff08\uff1f\uff09\u3092\u3001\\n\u305d\u308c\u304c\u53d6\u308a\u6191\u3044\u3066\u3044\u308b\u30a2\u30f3\u30c4\u30a3\u30aa\u306e\u9996\u3092\u7d5e\u3081\u308b\u3053\u3068\u3067\u9ed9\u3089\u305b\u305f\u3002",
+    "Phrase": "そう言って、カルタゴは動揺している幽霊（？）を、\\nそれが取り憑いているアンツィオの首を絞めることで黙らせた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -749,21 +750,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u306e\u5f8c\u2015\u2015\u3002\u53d6\u308a\u6191\u304b\u308c\u305f\u30a2\u30f3\u30c4\u30a3\u30aa\u3092\u62d8\u675f\u3057\u3001\\n\u30cb\u30b7\u30ad\u306e\u546a\u8853\u5e2b\u306a\u3069\u306b\u89e3\u6790\u3068\u6cbb\u7642\u3092\u4efb\u305b\u305f\u7d50\u679c\u3001\\n\u3053\u306e\u5e7d\u970a\uff08\uff1f\uff09\u306e\u6b63\u4f53\u306f\u5224\u660e\u3057\u305f\u3002",
+    "Phrase": "その後――。取り憑かれたアンツィオを拘束し、\\nニシキの呪術師などに解析と治療を任せた結果、\\nこの幽霊（？）の正体は判明した。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -777,21 +779,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3069\u3046\u3082\u5927\u6614\u306b\u3053\u306e\u5730\u306b\u66ae\u3089\u3057\u3066\u3044\u305f\u5148\u4f4f\u6c11\u304c\u3001\u571f\u5730\u3092\u8ffd\u308f\u308c\u3066\u6028\u307f\u3092\u62b1\u304d\u3001\\n\u3044\u3064\u304b\u8607\u3063\u3066\u5fa9\u8b90\u3059\u308b\u305f\u3081\u3001\u7279\u6b8a\u306a\u9b54\u5177\u306b\u5df1\u306e\u970a\u9b42\u3092\u5c01\u5165\u3057\u3066\u3044\u305f\u3089\u3057\u3044\u3002",
+    "Phrase": "どうも大昔にこの地に暮らしていた先住民が、土地を追われて怨みを抱き、\\nいつか蘇って復讐するため、特殊な魔具に己の霊魂を封入していたらしい。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -805,21 +808,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u308c\u304c\u4f55\u6545\u304b\u4eca\u3055\u3089\u76ee\u899a\u3081\u3066\u3001\u60aa\u3055\u3092\u3057\u3088\u3046\u3068\u3057\u3066\u3044\u305f\u3088\u3046\u3060\u3002\\n\u4e00\u5fdc\u3001\u5f53\u4e8b\u8005\u3067\u3042\u308b\u30ab\u30eb\u30bf\u30b4\u3068\u30a2\u30f3\u30c4\u30a3\u30aa\u306b\u3082\u305d\u308c\u3092\u4f1d\u3048\u3066\u307f\u305f\u304c\u2015\u2015\u3002",
+    "Phrase": "それが何故か今さら目覚めて、悪さをしようとしていたようだ。\\n一応、当事者であるカルタゴとアンツィオにもそれを伝えてみたが――。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -833,21 +837,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30eb\u30bf\u30b4",
-    "Phrase": "\u300c\u970a\u9b42\u3068\u306f\uff1f\u3000\u305d\u308c\u306f\u970a\u3068\u306f\u9055\u3046\u3082\u306e\u3067\u3059\u304b\uff1f\u3000\u533a\u5225\u304c\u3067\u304d\u307e\u305b\u3093\u3002\\n\u3000\u970a\u9b42\u306a\u308b\u3082\u306e\u3092\u5b9a\u7fa9\u3059\u308b\u305f\u3081\u306e\u3001\u516c\u5f0f\u3092\u6559\u3048\u3066\u3044\u305f\u3060\u3051\u307e\u3059\u304b\uff1f\\n\u3000\u30a2\u30f3\u30c4\u30a3\u30aa\u3055\u3093\u306f\u3054\u5b58\u77e5\u3067\u3059\u304b\uff1f\u300d",
+    "Name": "カルタゴ",
+    "Phrase": "「霊魂とは？　それは霊とは違うものですか？　区別ができません。\\n　霊魂なるものを定義するための、公式を教えていただけますか？\\n　アンツィオさんはご存知ですか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -861,30 +866,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 62201,
         "Position": 3,
         "Action": 7,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30f3\u30c4\u30a3\u30aa",
-    "Phrase": "\u300c\u3046\u3046\u3002\u3042\u307e\u308a\u558b\u3089\u305b\u306a\u3044\u3067\u307b\u3057\u3044\u3093\u3067\u3059\u3051\u3069\u3082\u3002\\n\u3000\u8ab0\u304b\u3055\u3093\u304c\u304a\u8179\u3092\u6bb4\u3063\u3066\u9996\u3092\u7d5e\u3081\u305f\u305b\u3044\u3067\u3001\\n\u3000\u558b\u308b\u3060\u3051\u3067\u3057\u3093\u3069\u3044\u3093\u3067\u3059\u304b\u3089\u300d",
+    "Name": "アンツィオ",
+    "Phrase": "「うう。あまり喋らせないでほしいんですけども。\\n　誰かさんがお腹を殴って首を絞めたせいで、\\n　喋るだけでしんどいんですから」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -898,30 +903,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 3,
         "Action": 3,
         "Emotion": 2,
         "FacialExpression": 4,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30f3\u30c4\u30a3\u30aa",
-    "Phrase": "\u300c\u4e00\u5fdc\u3001\u5c0f\u8056\u304c\u304a\u5316\u3051\u306b\u53d6\u308a\u6191\u304b\u308c\u3066\u60aa\u3055\u3092\u3059\u308b\u524d\u306b\u3001\\n\u3000\u6b62\u3081\u3066\u3044\u305f\u3060\u3051\u305f\u3053\u3068\u306b\u306f\u611f\u8b1d\u3057\u307e\u3059\u3051\u3069\u3082\u3002\\n\u3000\u3082\u3063\u3068\u3053\u3046\u3001\u7a4f\u5f53\u306a\u65b9\u6cd5\u3092\u7528\u3044\u3066\u307b\u3057\u304b\u3063\u305f\u3068\u7533\u3057\u307e\u3057\u3087\u3046\u304b\u300d",
+    "Name": "アンツィオ",
+    "Phrase": "「一応、小聖がお化けに取り憑かれて悪さをする前に、\\n　止めていただけたことには感謝しますけども。\\n　もっとこう、穏当な方法を用いてほしかったと申しましょうか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -935,30 +940,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30eb\u30bf\u30b4",
-    "Phrase": "\u300c\u306f\u3044\u3002\u3051\u308c\u3069\u3001\u308f\u305f\u304f\u3057\u306f\u6575\u5bfe\u8005\u3092\u6b62\u3081\u308b\u65b9\u6cd5\u3092\u4ed6\u306b\u77e5\u308a\u307e\u305b\u3093\u3002\\n\u3000\u305d\u308c\u306b\u3064\u3044\u3066\u3082\u52c9\u5f37\u3059\u308b\u5fc5\u8981\u6027\u3092\u611f\u3058\u3066\u3044\u307e\u3059\u3001\u3000\\n\u3000\u4f55\u306e\u6388\u696d\u3092\u53d7\u3051\u308c\u3070\u5b66\u3079\u308b\u306e\u3067\u3057\u3087\u3046\uff1f\u300d",
+    "Name": "カルタゴ",
+    "Phrase": "「はい。けれど、わたくしは敵対者を止める方法を他に知りません。\\n　それについても勉強する必要性を感じています、　\\n　何の授業を受ければ学べるのでしょう？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -972,38 +977,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 62201,
         "Position": 4,
         "Action": 8,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30f3\u30c4\u30a3\u30aa",
-    "Phrase": "\u300c\u3046\u3046\u3002\u3082\u3046\u3044\u3044\u3067\u3059\u2026\u2026\u3002\\n\u3000\u3042\u306a\u305f\u3068\u8a71\u3057\u3066\u3044\u3066\u3082\u3001\u5f92\u52b4\u611f\u304c\u52df\u308b\u3060\u3051\u3067\u3059\u304b\u3089\u300d",
+    "Name": "アンツィオ",
+    "Phrase": "「うう。もういいです……。\\n　あなたと話していても、徒労感が募るだけですから」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1017,38 +1022,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 2,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 62201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30f3\u30c4\u30a3\u30aa",
-    "Phrase": "\u300c\u3059\u3079\u3066\u306f\u795e\u306e\u304a\u5c0e\u304d\u3001\u3068\u3057\u3066\u53d7\u3051\u5165\u308c\u3066\u3001\\n\u3000\u3053\u306e\u8a71\u306f\u3082\u3046\u304a\u7d42\u3044\u306b\u3057\u305f\u3044\u3068\u3053\u308d\u3067\u3059\u3002\\n\u3000\u3042\u3041\u795e\u3088\u3001\u611f\u8b1d\u3057\u307e\u3059\u2015\u2015\u3042\u306a\u305f\u306e\u3054\u52a0\u8b77\u306e\u304a\u9670\u3067\u3001\\n\u3000\u5c0f\u8056\u306f\u60aa\u3057\u304d\u970a\u306b\u64cd\u3089\u308c\u308b\u307e\u307e\u86ee\u884c\u3092\u632f\u308b\u308f\u305a\u306b\u6e08\u307f\u307e\u3057\u305f\u3051\u3069\u3082\u300d",
+    "Name": "アンツィオ",
+    "Phrase": "「すべては神のお導き、として受け入れて、\\n　この話はもうお終いにしたいところです。\\n　あぁ神よ、感謝します――あなたのご加護のお陰で、\\n　小聖は悪しき霊に操られるまま蛮行を振るわずに済みましたけども」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1062,38 +1067,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 62201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30eb\u30bf\u30b4",
-    "Phrase": "\u300c\u3075\u3080\u3002\u3064\u307e\u308a\u3001\u30a2\u30f3\u30c4\u30a3\u30aa\u3055\u3093\u306e\u767a\u8a00\u3092\u7dcf\u5408\u3057\u3066\u8003\u3048\u308b\u306b\u2015\u2015\u300d",
+    "Name": "カルタゴ",
+    "Phrase": "「ふむ。つまり、アンツィオさんの発言を総合して考えるに――」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1107,38 +1112,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 62201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30eb\u30bf\u30b4",
-    "Phrase": "\u300c\u60aa\u3057\u304d\u970a\u3068\u3084\u3089\u3092\u6b62\u3081\u305f\u306e\u306f\u3001\u308f\u305f\u304f\u3057\u3067\u3059\u304b\u3089\u2026\u2026\u3002\\n\u3000\u3059\u306a\u308f\u3061\u3001\u795e\u3068\u306f\u3001\u308f\u305f\u304f\u3057\u306e\u3053\u3068\u3060\u3063\u305f\u306e\u3067\u3059\u306d\uff1f\u300d",
+    "Name": "カルタゴ",
+    "Phrase": "「悪しき霊とやらを止めたのは、わたくしですから……。\\n　すなわち、神とは、わたくしのことだったのですね？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1152,38 +1157,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 62201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30f3\u30c4\u30a3\u30aa",
-    "Phrase": "\u300c\uff01\uff1f\u3000\u3053\u3001\u3053\u308c\u4ee5\u4e0a\u306a\u3044\u3050\u3089\u3044\u306e\u5192\u6d9c\u2026\u2026\uff01\u300d",
+    "Name": "アンツィオ",
+    "Phrase": "「！？　こ、これ以上ないぐらいの冒涜……！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1197,38 +1202,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 2,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 62201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30eb\u30bf\u30b4",
-    "Phrase": "\u300c\u3075\u3075\u3002\u308f\u305f\u304f\u3057\u304c\u795e\u3067\u3059\u3002\\n\u3000\u5d07\u3081\u3066\u3082\u3044\u3044\u306e\u3067\u3059\u3088\u3001\u30a2\u30f3\u30c4\u30a3\u30aa\u3055\u3093\u3002\\n\u3000\u3064\u307e\u308a\u3001\u308f\u305f\u304f\u3057\u306b\u5bfe\u3057\u3066\u8b1d\u7f6a\u3057\u3066\u3044\u305f\u3060\u3044\u3066\u3082\u69cb\u3044\u307e\u305b\u3093\u300d",
+    "Name": "カルタゴ",
+    "Phrase": "「ふふ。わたくしが神です。\\n　崇めてもいいのですよ、アンツィオさん。\\n　つまり、わたくしに対して謝罪していただいても構いません」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1242,38 +1247,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 62201,
         "Position": 4,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 2,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30f3\u30c4\u30a3\u30aa",
-    "Phrase": "\u300c\u3082\u3001\u3082\u3046\u4f55\u304b\u3089\u8a00\u3063\u305f\u3082\u306e\u304b\u3063\uff1f\u3000\u3068\u308a\u3042\u3048\u305a\u8b1d\u308b\u3079\u304d\u306a\u306e\u306f\u3001\\n\u3000\u5c0f\u8056\u306b\u66b4\u884c\u3092\u52a0\u3048\u305f\u3042\u306a\u305f\u3067\u306f\u306a\u3044\u3067\u3057\u3087\u3046\u304b\uff5e\uff01\uff1f\u300d",
+    "Name": "アンツィオ",
+    "Phrase": "「も、もう何から言ったものかっ？　とりあえず謝るべきなのは、\\n　小聖に暴行を加えたあなたではないでしょうか～！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1287,38 +1292,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30201,
         "Position": 2,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 62201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u59e6\u3057\u304f\u9a12\u3044\u3067\u3044\u308b\u3001\u5c11\u5973\u305f\u3061\u3002\\n\u30a8\u30eb\u30d5\u3068\u30c0\u30fc\u30af\u30a8\u30eb\u30d5\u3001\\n\u71b1\u70c8\u306a\u4fe1\u4ef0\u8005\u3068\u672a\u3060\u795e\u3092\u77e5\u3089\u306c\u6697\u9ed2\u5927\u9678\u306e\u4f4f\u6c11\u2026\u2026\u3002\\n\u4e21\u6975\u7aef\u306a\u4e8c\u4eba\u306e\u4f1a\u8a71\u306f\u53ce\u62fe\u304c\u3064\u304b\u306a\u3044\u307e\u307e\u3001\u5ef6\u3005\u3068\u7d9a\u3044\u3066\u3044\u304f\u3002",
+    "Phrase": "姦しく騒いでいる、少女たち。\\nエルフとダークエルフ、\\n熱烈な信仰者と未だ神を知らぬ暗黒大陸の住民……。\\n両極端な二人の会話は収拾がつかないまま、延々と続いていく。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1332,21 +1337,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3053\u3046\u3082\u8cd1\u3084\u304b\u3067\u5e73\u548c\u306a\u96f0\u56f2\u6c17\u306a\u3089\u3070\u3001\\n\u307e\u305f\u5e7d\u970a\u304c\u51fa\u3066\u304f\u308b\u3053\u3068\u3082\u306a\u3055\u305d\u3046\u3060\u3002\u5834\u9055\u3044\u3059\u304e\u308b\u3002\\n\u304d\u3063\u3068\u5c11\u5973\u305f\u3061\u306e\u697d\u3057\u3052\u306a\u4f1a\u8a71\u306f\u3001\u9752\u6625\u306f\u2015\u2015\u3044\u3064\u307e\u3067\u3082\u7d9a\u3044\u3066\u3044\u304f\u3002",
+    "Phrase": "こうも賑やかで平和な雰囲気ならば、\\nまた幽霊が出てくることもなさそうだ。場違いすぎる。\\nきっと少女たちの楽しげな会話は、青春は――いつまでも続いていく。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1360,21 +1366,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5e7d\u970a\u3068\u3084\u3089\u304c\u4f55\u306a\u306e\u304b\u306f\u7d50\u5c40\u3088\u304f\u308f\u304b\u3089\u306a\u3044\u304c\u3001\\n\u305d\u308c\u304c\u30ab\u30eb\u30bf\u30b4\u4e26\u306b\u7a7a\u6c17\u304c\u8aad\u3081\u306a\u3044\u3053\u3068\u304c\u306a\u3044\u3088\u3046\u306b\u7948\u308b\u3002\\n\u3053\u306e\u300e\u7948\u308a\u300f\u306f\u3001\u6c7a\u3057\u3066\u300e\u8b1d\u7f6a\u306e\u7df4\u7fd2\u300f\u306a\u3069\u3067\u306f\u306a\u3044\u3002",
+    "Phrase": "幽霊とやらが何なのかは結局よくわからないが、\\nそれがカルタゴ並に空気が読めないことがないように祈る。\\nこの『祈り』は、決して『謝罪の練習』などではない。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1388,14 +1395,14 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

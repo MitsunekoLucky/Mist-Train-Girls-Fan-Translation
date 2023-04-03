@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5de8\u5927\u306a\u98df\u866b\u690d\u7269\u304c\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u306e\u9b54\u529b\u306b\u3088\u3063\u3066\\n\u6d88\u6ec5\u3059\u308b\u3068\u540c\u6642\u3001\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u306e\u7956\u6bcd\u304c\u4f5c\u3063\u305f\u3068\u3055\u308c\u308b\\n\u96a0\u3057\u66f8\u5eab\u304c\u3042\u3089\u308f\u308c\u305f\u3002",
+    "Phrase": "巨大な食虫植物がオステルリッツの魔力によって\\n消滅すると同時、オステルリッツの祖母が作ったとされる\\n隠し書庫があらわれた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u66f8\u5eab\u3068\u3044\u3046\u3088\u308a\u306f\u3001\u4f4f\u5c45\u3068\u3044\u3046\u611f\u3058\u3060\u3002\\n\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u306e\u7956\u6bcd\u306f\u66f8\u5eab\u3092\u5225\u8358\u306e\u3088\u3046\u306b\u4f7f\u3063\u3066\u3044\u305f\u306e\u3060\u308d\u3046\u3002",
+    "Phrase": "書庫というよりは、住居という感じだ。\\nオステルリッツの祖母は書庫を別荘のように使っていたのだろう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,21 +46,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u304a\u3070\u3042\u3055\u307e\u3002\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u304c\u6765\u307e\u3057\u305f\u3088\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「おばあさま。オステルリッツが来ましたよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -73,30 +75,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u6728\u88fd\u306e\u7384\u95a2\u6249\u306b\u306f\u30b3\u30b1\u304c\u751f\u3048\u3066\u3044\u308b\u3002\\n\u8efd\u304f\u62bc\u3059\u3068\u3001\u97f3\u3092\u7acb\u3066\u306a\u304c\u3089\u958b\u3044\u305f\u3002",
+    "Phrase": "木製の玄関扉にはコケが生えている。\\n軽く押すと、音を立てながら開いた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -110,30 +112,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u3044\u308b\u308f\u3051\u304c\u3042\u308a\u307e\u305b\u3093\u306d\u3002\\n\u3000\u304d\u3063\u3068\u4eca\u3054\u308d\u3001\u3053\u3053\u304b\u3089\u96e2\u308c\u305f\u5834\u6240\u306b\u3042\u308b\\n\u3000\u5225\u306e\u66f8\u5eab\u306b\u3044\u3089\u3063\u3057\u3083\u308b\u306e\u3067\u3057\u3087\u3046\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「いるわけがありませんね。\\n　きっと今ごろ、ここから離れた場所にある\\n　別の書庫にいらっしゃるのでしょう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -147,30 +149,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5bb6\u306e\u4e2d\u306b\u8db3\u3092\u8e0f\u307f\u5165\u308c\u3066\u3001\u3059\u3050\u306b\u5206\u304b\u3063\u305f\u3002\\n\u3053\u3053\u306b\u306f\u751f\u6d3b\u306e\u6c17\u914d\u304c\u306a\u3044\u3002\\n\u3082\u3046\u968f\u5206\u9577\u3044\u9593\u3001\u8ab0\u3082\u4f4f\u3093\u3067\u3044\u306a\u3044\u3088\u3046\u3060\u3002",
+    "Phrase": "家の中に足を踏み入れて、すぐに分かった。\\nここには生活の気配がない。\\nもう随分長い間、誰も住んでいないようだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -184,30 +186,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u2026\u2026\u3069\u3046\u3057\u3066\u8eca\u638c\u3055\u307e\u304c\u60b2\u3057\u3044\u9854\u3092\u3059\u308b\u306e\u3067\u3059\u304b\uff1f\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「……どうして車掌さまが悲しい顔をするのですか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -221,30 +223,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3059\u307e\u306a\u3044\u3002\u305d\u3093\u306a\u9854\u3092\u3057\u3066\u3044\u305f\u304b\u2026\u2026\u3002",
+    "Phrase": "すまない。そんな顔をしていたか……。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -258,30 +260,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u8b1d\u3089\u306a\u3044\u3067\u304f\u3060\u3055\u3044\u3002\\n\u3000\u8eca\u638c\u3055\u307e\u304c\u3069\u3093\u306a\u304a\u9854\u3092\u3057\u3066\u3044\u3066\u3082\u3001\\n\u3000\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u306f\u4e0d\u5feb\u306b\u601d\u3044\u307e\u305b\u3093\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「謝らないでください。\\n　車掌さまがどんなお顔をしていても、\\n　オステルリッツは不快に思いません」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -295,30 +297,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u308f\u305f\u304f\u3057\u306f\u3001\u60b2\u3057\u3044\u3068\u3082\u5bc2\u3057\u3044\u3068\u3082\u601d\u3044\u307e\u305b\u3093\u3088\u3002\\n\u3000\u304a\u3070\u3042\u3055\u307e\u304c\u3069\u3053\u304b\u3067\u5143\u6c17\u3067\u3044\u3066\u304f\u308c\u305f\u3089\u3001\u305d\u308c\u3067\u5145\u5206\u3067\u3059\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「わたくしは、悲しいとも寂しいとも思いませんよ。\\n　おばあさまがどこかで元気でいてくれたら、それで充分です」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -332,30 +334,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3046\u8a00\u3063\u3066\u3001\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u306f\u8ab0\u3082\u3044\u306a\u3044\u90e8\u5c4b\u3092\u898b\u6e21\u3057\u305f\u3002",
+    "Phrase": "そう言って、オステルリッツは誰もいない部屋を見渡した。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -369,21 +371,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u308c\u306b\u3057\u3066\u3082\u30b7\u30f3\u30d7\u30eb\u306a\u90e8\u5c4b\u3060\u3002\\n\u751f\u6d3b\u611f\u304c\u307e\u308b\u3067\u306a\u3044\u3068\u3044\u3046\u304b\u3001\u6bba\u98a8\u666f\u3068\u3044\u3046\u304b\u3002\\n\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u3068\u540c\u3058\u5b66\u8005\u3060\u3068\u3044\u3046\u304b\u3089\u3001\\n\u5206\u539a\u3044\u66f8\u7269\u304c\u3082\u3063\u3068\u305f\u304f\u3055\u3093\u5c71\u7a4d\u307f\u306b\u306a\u3063\u3066\u3044\u308b\u3082\u306e\u304b\u3068\u601d\u3063\u305f\u304c\u3002",
+    "Phrase": "それにしてもシンプルな部屋だ。\\n生活感がまるでないというか、殺風景というか。\\nオステルリッツと同じ学者だというから、\\n分厚い書物がもっとたくさん山積みになっているものかと思ったが。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -397,21 +400,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u826f\u3044\u3068\u3053\u308d\u306b\u6c17\u3065\u304d\u307e\u3057\u305f\u306d\u3002\\n\u3000\u305d\u3046\u306a\u306e\u3067\u3059\u3002\u66f8\u5eab\u3068\u3044\u3046\u306b\u306f\u3001\u672c\u304c\u5c11\u306a\u3059\u304e\u308b\u306e\u3067\u3059\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「良いところに気づきましたね。\\n　そうなのです。書庫というには、本が少なすぎるのです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -425,30 +429,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u5927\u91cf\u306e\u672c\u3092\u6301\u3061\u904b\u3076\u3053\u3068\u306f\u8003\u3048\u306b\u304f\u3044\u3067\u3059\u3057\u3001\\n\u3000\u3053\u306e\u5bb6\u306e\u3069\u3053\u304b\u306b\u96a0\u3057\u3066\u3042\u308b\u3068\u8003\u3048\u308b\u306e\u304c\u59a5\u5f53\u304b\u3068\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「大量の本を持ち運ぶことは考えにくいですし、\\n　この家のどこかに隠してあると考えるのが妥当かと」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -462,30 +466,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u3082\u3057\u3001\u3053\u306e\u5bb6\u306b\u672c\u3092\u96a0\u3059\u3068\u3057\u305f\u3089\u2026\u2026\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「もし、この家に本を隠すとしたら……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -499,30 +503,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u306f\u30af\u30ed\u30fc\u30bc\u30c3\u30c8\u306e\u6249\u3092\u958b\u3051\u305f\u3002\\n\u639b\u3051\u3066\u3042\u308b\u670d\u3092\u63bb\u304d\u5206\u3051\u3001\u5965\u306e\u58c1\u306b\u89e6\u308c\u308b\u3002",
+    "Phrase": "オステルリッツはクローゼットの扉を開けた。\\n掛けてある服を掻き分け、奥の壁に触れる。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -536,30 +540,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u3053\u3053\u306b\u53d6\u3063\u624b\u304c\u3002\\n\u3000\u2026\u2026\u5f15\u304d\u6238\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u306d\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「ここに取っ手が。\\n　……引き戸になっていますね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -573,30 +577,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u529b\u3092\u8fbc\u3081\u3066\u5f15\u304d\u6238\u3092\u6ed1\u3089\u305b\u308b\u3068\u3001\\n\u5965\u306b\u9a5a\u304f\u307b\u3069\u5e83\u3044\u7a7a\u9593\u304c\u73fe\u308c\u305f\u3002",
+    "Phrase": "力を込めて引き戸を滑らせると、\\n奥に驚くほど広い空間が現れた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -610,21 +614,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u672c\u304c\u58c1\u4e00\u9762\u306b\u2026\u2026\u3002\\n\u30001000\u518a\u2026\u2026\u3044\u3048\u30012000\u518a\u8fd1\u304f\u3042\u308b\u3067\u3057\u3087\u3046\u304b\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「本が壁一面に……。\\n　1000冊……いえ、2000冊近くあるでしょうか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -638,30 +643,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3059\u3054\u3044\u306a\u2026\u2026\u3002\\n\u3053\u3093\u306a\u4ed5\u639b\u3051\u3001\u3069\u3046\u3057\u3066\u5206\u304b\u3063\u305f\u3093\u3060\uff1f",
+    "Phrase": "すごいな……。\\nこんな仕掛け、どうして分かったんだ？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -675,30 +680,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u7956\u6bcd\u3068\u601d\u8003\u56de\u8def\u304c\u4f3c\u3066\u3044\u308b\u306e\u304b\u3082\u3057\u308c\u307e\u305b\u3093\u3002\\n\u3000\u308f\u305f\u304f\u3057\u306f\u305f\u3063\u305f1\u4eba\u306e\u5b6b\u3067\u3059\u304b\u3089\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「祖母と思考回路が似ているのかもしれません。\\n　わたくしはたった1人の孫ですから」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -712,30 +717,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u690d\u7269\u3084\u9b5a\u985e\u3001\u9ce5\u985e\u3001\u306f\u866b\u985e\u2026\u2026\u3002\\n\u3000\u751f\u7269\u306b\u95a2\u3059\u308b\u66f8\u7269\u304c\u591a\u3044\u3067\u3059\u306d\u3002\\n\u3000\u7956\u6bcd\u304c\u597d\u304d\u305d\u3046\u306a\u3082\u306e\u3070\u304b\u308a\u3067\u3059\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「植物や魚類、鳥類、は虫類……。\\n　生物に関する書物が多いですね。\\n　祖母が好きそうなものばかりです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -749,30 +754,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u5b9f\u306f\u3067\u3059\u306d\u3002\\n\u3000\u4eca\u56de\u3001\u3053\u306e\u66f8\u5eab\u306b\u6765\u305f\u7406\u7531\u304c\u3082\u3046\u4e00\u3064\u3042\u3063\u305f\u3093\u3067\u3059\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「実はですね。\\n　今回、この書庫に来た理由がもう一つあったんです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -786,30 +791,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u3082\u3057\u304b\u3057\u305f\u3089\u3001\u7956\u6bcd\u304c\u3053\u3053\u306b\u3044\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u3002\\n\u3000\u308f\u305f\u304f\u3057\u306b\u4f1a\u3044\u305f\u304c\u3063\u3066\u3044\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u3068\u3001\u305d\u3046\u601d\u3063\u3066\u3044\u305f\u306e\u3067\u3059\u3002\\n\u3000\u3067\u3082\u2026\u2026\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「もしかしたら、祖母がここにいるかもしれない。\\n　わたくしに会いたがっているかもしれないと、そう思っていたのです。\\n　でも……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -823,30 +828,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u3053\u306e\u672c\u68da\u3092\u898b\u3066\u3044\u305f\u3089\u3001\u8003\u3048\u304c\u5909\u308f\u308a\u307e\u3057\u305f\u3002\\n\u3000\u7956\u6bcd\u306f\u5927\u597d\u304d\u306a\u672c\u306b\u56f2\u307e\u308c\u306a\u304c\u3089\u3001\\n\u3000\u3044\u307e\u3082\u81ea\u7531\u306a\u66ae\u3089\u3057\u3092\u697d\u3057\u3093\u3067\u3044\u3089\u3063\u3057\u3083\u308b\u306e\u3067\u3057\u3087\u3046\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「この本棚を見ていたら、考えが変わりました。\\n　祖母は大好きな本に囲まれながら、\\n　いまも自由な暮らしを楽しんでいらっしゃるのでしょう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -860,30 +865,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u5bc2\u3057\u304c\u308b\u3069\u3053\u308d\u304b\u3001\\n\u3000\u308f\u305f\u304f\u3057\u306e\u3053\u3068\u3092\u601d\u3044\u51fa\u3059\u6687\u3055\u3048\u306a\u304b\u3063\u305f\u306e\u304b\u3082\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「寂しがるどころか、\\n　わたくしのことを思い出す暇さえなかったのかも」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -897,30 +902,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u53d6\u308a\u8d8a\u3057\u82e6\u52b4\u3067\u826f\u304b\u3063\u305f\u3067\u3059\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「取り越し苦労で良かったです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -934,30 +939,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u80cc\u8868\u7d19\u3092\u64ab\u3067\u306a\u304c\u3089\u3086\u3063\u304f\u308a\u3068\u79fb\u52d5\u3057\u3066\u3044\u305f\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u304c\u3001\\n\u3075\u3068\u8db3\u3092\u6b62\u3081\u305f\u3002",
+    "Phrase": "背表紙を撫でながらゆっくりと移動していたオステルリッツが、\\nふと足を止めた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -971,30 +976,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u306a\u3093\u3060\u304b\u5999\u3067\u3059\u306d\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「なんだか妙ですね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1008,30 +1013,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u7956\u6bcd\u306f\u3069\u3093\u306a\u306b\u5fd9\u3057\u3044\u6642\u3082\u6574\u7406\u6574\u9813\u3092\u5fc3\u304c\u3051\u3066\u3044\u308b\u4eba\u3067\u3057\u305f\u3002\\n\u3000\u3067\u3059\u304c\u3001\u3053\u306e\u66f8\u68da\u306f\u6574\u9813\u3055\u308c\u3066\u3044\u306a\u3044\u3002\u5206\u985e\u304c\u30d0\u30e9\u30d0\u30e9\u3067\u3059\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「祖母はどんなに忙しい時も整理整頓を心がけている人でした。\\n　ですが、この書棚は整頓されていない。分類がバラバラです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1045,30 +1050,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u306a\u305c\u2026\u2026\u4f55\u304b\u7406\u7531\u304c\uff1f\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「なぜ……何か理由が？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1082,30 +1087,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u66f8\u68da\u3092\u898b\u4e0a\u3052\u306a\u304c\u3089\u3001\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u304c\u5f8c\u9000\u3057\u3066\u3044\u304f\u3002",
+    "Phrase": "書棚を見上げながら、オステルリッツが後退していく。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1119,30 +1124,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u2026\u2026\u898b\u3064\u3051\u305f\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「……見つけた」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1156,30 +1161,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u306f\u898b\u3064\u3051\u307e\u3057\u305f\u3002\\n\u3000\u8eca\u638c\u3055\u307e\u3001\u5206\u304b\u308a\u307e\u3059\u304b\uff1f\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「オステルリッツは見つけました。\\n　車掌さま、分かりますか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1193,30 +1198,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u4e2d\u592e\u306e\u6bb5\u306b\u4e26\u3093\u3067\u3044\u308b\u672c\u306e\u30bf\u30a4\u30c8\u30eb\u3067\u3059\u3002\\n\u3000\u5de6\u304b\u3089\u9806\u756a\u306b\u3001\u982d\u6587\u5b57\u3092\u8aad\u3093\u3067\u307f\u3066\u304f\u3060\u3055\u3044\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「中央の段に並んでいる本のタイトルです。\\n　左から順番に、頭文字を読んでみてください」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1230,30 +1235,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 36,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u300e\u3053\u3053\u3001\u306b\u3001\u3042\u308b\u3001\u307b\u3093\u3001\u306f\u2026\u2026\u3059\u3079\u3066\u3001\u3042\u306a\u305f\u3001\u306e\u3001\u3082\u306e\u300f\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「『ここ、に、ある、ほん、は……すべて、あなた、の、もの』」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1267,30 +1272,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 37,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u300e\u3088\u305e\u3089\u3001\u306b\u3001\u307e\u3044\u3070\u3093\u3001\u3044\u306e\u3063\u3066\u3001\u3044\u305f\u300f\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「『よぞら、に、まいばん、いのって、いた』」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1304,30 +1309,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 38,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u300e\u3086\u3081\u3001\u3067\u3001\u3042\u306a\u305f\u306b\u3001\u3042\u3048\u308b\u3088\u3046\u300f\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「『ゆめ、で、あなたに、あえるよう』」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1341,30 +1346,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 39,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u4e00\u547c\u5438\u7f6e\u3044\u3066\u304b\u3089\u3001\\n\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u306f\u6700\u5f8c\u306e\u8a00\u8449\u3092\u8aad\u307f\u4e0a\u3052\u305f\u3002",
+    "Phrase": "一呼吸置いてから、\\nオステルリッツは最後の言葉を読み上げた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1378,30 +1383,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 40,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u300e\u308f\u305f\u3057\u3001\u306e\u3001\u3042\u3044\u3059\u308b\u3001\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u3001\u3078\u2026\u2026\u300f\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「『わたし、の、あいする、オステルリッツ、へ……』」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1415,30 +1420,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 41,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u660e\u308b\u3044\u6708\u660e\u304b\u308a\u306e\u4e0b\u3001\\n\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u306f\u7956\u6bcd\u304c\u4f5c\u3063\u305f\u3068\u601d\u308f\u308c\u308b\u30d6\u30e9\u30f3\u30b3\u306b\u5ea7\u308a\u3001\\n\u591c\u7a7a\u3092\u898b\u4e0a\u3052\u3066\u3044\u305f\u3002",
+    "Phrase": "明るい月明かりの下、\\nオステルリッツは祖母が作ったと思われるブランコに座り、\\n夜空を見上げていた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1452,21 +1457,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 42,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u7956\u6bcd\u306b\u306f\u5206\u304b\u3063\u3066\u3044\u305f\u306e\u3067\u3059\u306d\u3002\\n\u3000\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u304c\u3044\u3064\u304b\u3053\u306e\u5bb6\u3092\u5c0b\u306d\u3066\u304f\u308b\u3068\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「祖母には分かっていたのですね。\\n　オステルリッツがいつかこの家を尋ねてくると」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1480,30 +1486,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 43,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u7956\u6bcd\u306b\u4f1a\u3048\u306a\u304f\u3066\u5bc2\u3057\u304b\u3063\u305f\u306e\u306f\u3001\\n\u3000\u308f\u305f\u304f\u3057\u306e\u65b9\u3060\u3063\u305f\u306e\u304b\u3082\u3057\u308c\u307e\u305b\u3093\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「祖母に会えなくて寂しかったのは、\\n　わたくしの方だったのかもしれません」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1517,30 +1523,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 44,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u3075\u3075\u3002\u304a\u3070\u3042\u3055\u307e\u306f\u4f55\u3067\u3082\u304a\u898b\u901a\u3057\u3002\\n\u3000\u8003\u3048\u3066\u307f\u308c\u3070\u3001\u6614\u304b\u3089\u305d\u3046\u3067\u3057\u305f\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「ふふ。おばあさまは何でもお見通し。\\n　考えてみれば、昔からそうでした」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1554,30 +1560,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 45,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u5fc3\u914d\u3059\u308b\u5fc5\u8981\u306f\u307e\u3063\u305f\u304f\u306a\u3044\u3067\u3057\u3087\u3046\u3002\\n\u3000\u304d\u3063\u3068\u3001\u4eca\u3082\u3069\u3053\u304b\u3067\u5143\u6c17\u306b\u866b\u3092\u8ffd\u3063\u3066\u3044\u308b\u306f\u305a\u3067\u3059\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「心配する必要はまったくないでしょう。\\n　きっと、今もどこかで元気に虫を追っているはずです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1591,30 +1597,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 46,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u306f\u3072\u3089\u308a\u3068\u30d6\u30e9\u30f3\u30b3\u304b\u3089\u98db\u3073\u964d\u308a\u305f\u3002",
+    "Phrase": "オステルリッツはひらりとブランコから飛び降りた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1628,30 +1634,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 47,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u4eca\u591c\u306f\u3053\u3053\u306b\u6cca\u307e\u3063\u3066\u3001\u660e\u65e5\u306e\u65e9\u671d\u306b\u51fa\u767a\u3057\u307e\u3057\u3087\u3046\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「今夜はここに泊まって、明日の早朝に出発しましょう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1665,30 +1671,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 48,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u671d\u307e\u3067\u306b\u3053\u3053\u306b\u3042\u308b\u672c\u3092\u8aad\u7834\u3057\u3066\u3001\\n\u3000\u3067\u304d\u308b\u3060\u3051\u591a\u304f\u306e\u77e5\u8b58\u3092\u982d\u306b\u8a70\u3081\u8fbc\u307f\u305f\u3044\u3082\u306e\u3067\u3059\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「朝までにここにある本を読破して、\\n　できるだけ多くの知識を頭に詰め込みたいものです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1702,30 +1708,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 49,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3060\u304c\u3001\u3042\u306e\u518a\u6570\u3060\u305e\u3002\\n\u3055\u3059\u304c\u306b\u4e00\u6669\u3067\u8aad\u3080\u306e\u306f\u96e3\u3057\u3044\u3093\u3058\u3083\u306a\u3044\u304b\uff1f",
+    "Phrase": "だが、あの冊数だぞ。\\nさすがに一晩で読むのは難しいんじゃないか？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1739,30 +1745,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 50,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u306e\u3082\u3046\u4e00\u3064\u306e\u7279\u6280\u306f\u300e\u901f\u8aad\u300f\u3067\u3059\u3002\\n\u3000\u5168\u795e\u7d4c\u3092\u96c6\u4e2d\u3059\u308c\u3070\u3001\u4e0d\u53ef\u80fd\u3067\u306f\u306a\u3044\u304b\u3082\u3067\u3059\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「オステルリッツのもう一つの特技は『速読』です。\\n　全神経を集中すれば、不可能ではないかもです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1776,30 +1782,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 51,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u305f\u3060\u2026\u2026\u3002\\n\u3000\u5b8c\u5168\u8aad\u7834\u3092\u9054\u6210\u3059\u308b\u306b\u306f\u3001\u5fc5\u9808\u306e\u6761\u4ef6\u304c\u3042\u308b\u306e\u3067\u3059\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「ただ……。\\n　完全読破を達成するには、必須の条件があるのです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1813,30 +1819,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 52,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u306a\u3093\u3060\uff1f\u3000\u305d\u306e\u5fc5\u9808\u6761\u4ef6\u3068\u3044\u3046\u306e\u306f\u3002",
+    "Phrase": "なんだ？　その必須条件というのは。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1850,30 +1856,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 53,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u2015\u2015\u8ce2\u8005\u30e2\u30fc\u30c9\u3067\u3059\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「――賢者モードです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1887,30 +1893,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 54,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u8eca\u638c\u3055\u307e\u3082\u3088\u304f\u3054\u5b58\u3058\u306e\u3068\u304a\u308a\u3001\\n\u3000\u8ce2\u8005\u30bf\u30a4\u30e0\u306b\u7a81\u5165\u3057\u305f\u308f\u305f\u304f\u3057\u306f\u7121\u6575\u3067\u3059\u3002\\n\u3000\u30d6\u30fc\u30b9\u30c8\u72b6\u614b\u3067\u8aad\u66f8\u3092\u3059\u308c\u3070\u3001\\n\u3000\u9a5a\u304f\u3079\u304d\u52e2\u3044\u3067\u77e5\u8b58\u3092\u5438\u53ce\u3059\u308b\u3067\u3057\u3087\u3046\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「車掌さまもよくご存じのとおり、\\n　賢者タイムに突入したわたくしは無敵です。\\n　ブースト状態で読書をすれば、\\n　驚くべき勢いで知識を吸収するでしょう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1924,30 +1930,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 55,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u305d\u308c\u306b\u306f\u3001\u8eca\u638c\u3055\u307e\u306e\u5354\u529b\u304c\u5fc5\u8981\u3067\u3059\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「それには、車掌さまの協力が必要です」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1961,30 +1967,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 7,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 56,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u306f\u3053\u3061\u3089\u306e\u624b\u3092\u53d6\u308a\u3001\u304e\u3085\u3063\u3068\u63e1\u3063\u305f\u3002",
+    "Phrase": "オステルリッツはこちらの手を取り、ぎゅっと握った。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1998,30 +2004,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 57,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u8eca\u638c\u3055\u307e\u306e\u3053\u306e\u624b\u3067\u3001\\n\u3000\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u3092\u8ce2\u8005\u30e2\u30fc\u30c9\u306b\u5c0e\u3044\u3066\u6b32\u3057\u3044\u306e\u3067\u3059\uff01\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「車掌さまのこの手で、\\n　オステルリッツを賢者モードに導いて欲しいのです！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2035,30 +2041,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 58,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u4e00\u5ea6\u3060\u3051\u3067\u306f\u4e0d\u5341\u5206\u3067\u3059\u3002\\n\u3000\u8ce2\u8005\u30e2\u30fc\u30c9\u304c\u89e3\u3051\u308b\u305f\u3073\u3001\u7e70\u308a\u8fd4\u3057\u7e70\u308a\u8fd4\u3057\u3001\\n\u3000\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u306b\u9244\u5206\u3092\u6ce8\u5165\u3057\u3066\u3044\u305f\u3060\u304d\u305f\u3044\u306e\u3067\u3059\u3002\\n\u3000\u2015\u2015\u304a\u9858\u3044\u3067\u304d\u307e\u3059\u304b\uff1f\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「一度だけでは不十分です。\\n　賢者モードが解けるたび、繰り返し繰り返し、\\n　オステルリッツに鉄分を注入していただきたいのです。\\n　――お願いできますか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2072,30 +2078,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 59,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u76ee\u3092\u8f1d\u304b\u305b\u308b\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u306b\u8a70\u3081\u5bc4\u3089\u308c\u3001\\n\u601d\u308f\u305a\u5929\u3092\u4ef0\u3050\u3002",
+    "Phrase": "目を輝かせるオステルリッツに詰め寄られ、\\n思わず天を仰ぐ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2109,21 +2115,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 60,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2026\u2026\u98df\u866b\u690d\u7269\u306b\u5451\u307e\u308c\u305f\u65b9\u304c\u3001\\n\u307e\u3060\u751f\u5b58\u78ba\u7387\u304c\u9ad8\u304b\u3063\u305f\u304b\u3082\u3057\u308c\u306a\u3044\u3002",
+    "Phrase": "……食虫植物に呑まれた方が、\\nまだ生存確率が高かったかもしれない。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2137,21 +2144,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 61,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u306e\u624b\u306b\u304b\u304b\u3063\u305f\u3089\u3001\\n\u967d\u304c\u6607\u308b\u307e\u3067\u306b\u3059\u3079\u3066\u306e\u7cbe\u6c17\u3092\u5438\u3044\u3064\u304f\u3055\u308c\u3066\u3057\u307e\u3044\u305d\u3046\u3060\u3002",
+    "Phrase": "オステルリッツの手にかかったら、\\n陽が昇るまでにすべての精気を吸いつくされてしまいそうだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2165,14 +2173,14 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

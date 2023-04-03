@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u967d\u3082\u307e\u3060\u9ad8\u3044\u4f4d\u7f6e\u306b\u3042\u308b\u6642\u9593\u3002\\n\u8ab0\u3082\u898b\u3066\u3044\u306a\u3044\u3068\u601d\u3044\u3001\u5927\u304d\u306a\u6b20\u4f38\u3092\u3057\u3066\u3044\u308b\u3068\u3053\u308d\u3078\\n\u3061\u3087\u3046\u3069\u30ad\u30f3\u30b0\u30b9\u30af\u30ed\u30b9\u304c\u8a2a\u306d\u3066\u304d\u305f\u3002",
+    "Phrase": "陽もまだ高い位置にある時間。\\n誰も見ていないと思い、大きな欠伸をしているところへ\\nちょうどキングスクロスが訪ねてきた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30f3\u30b0\u30b9\u30af\u30ed\u30b9",
-    "Phrase": "\u300c\u3042\u3089\u3001\u968f\u5206\u3068\u304a\u75b2\u308c\u306e\u3088\u3046\u306d\u300d",
+    "Name": "キングスクロス",
+    "Phrase": "「あら、随分とお疲れのようね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,30 +46,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 60301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5fc3\u914d\u305d\u3046\u306b\u8a00\u3046\u30ad\u30f3\u30b0\u30b9\u30af\u30ed\u30b9\u306b\u3001\u80a9\u3092\u3059\u304f\u3081\u3066\u7b54\u3048\u308b\u3002\\n\u2015\u2015\u6700\u8fd1\u6fc0\u52d9\u7d9a\u304d\u3067\u3001\u75b2\u308c\u304c\u53d6\u308c\u306a\u304f\u3066\u306d\u3002",
+    "Phrase": "心配そうに言うキングスクロスに、肩をすくめて答える。\\n――最近激務続きで、疲れが取れなくてね。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -82,30 +83,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 60301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30f3\u30b0\u30b9\u30af\u30ed\u30b9",
-    "Phrase": "\u300c\u305d\u308c\u306a\u3089\u3057\u3063\u304b\u308a\u4f11\u307e\u306a\u3044\u3068\u3002\u5012\u308c\u3089\u308c\u3066\u3082\u56f0\u308b\u308f\u300d",
+    "Name": "キングスクロス",
+    "Phrase": "「それならしっかり休まないと。倒れられても困るわ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -119,30 +120,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 60301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2015\u2015\u305d\u3046\u3044\u3046\u308f\u3051\u306b\u3082\u3044\u304b\u306a\u3044\u3002\\n\u73fe\u306b\u30ad\u30f3\u30b0\u30b9\u30af\u30ed\u30b9\u3082\u3001\u4f55\u304b\u7528\u4e8b\u304c\u3042\u3063\u3066\u304d\u305f\u3093\u3060\u308d\u3046\uff1f",
+    "Phrase": "――そういうわけにもいかない。\\n現にキングスクロスも、何か用事があってきたんだろう？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -156,30 +157,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 60301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30f3\u30b0\u30b9\u30af\u30ed\u30b9",
-    "Phrase": "\u300c\u79c1\u306e\u7528\u4ef6\u306f\u5f8c\u3067\u3044\u3044\u304b\u3089\u2026\u2026\\n\u3000\u4eca\u306f\u3042\u306a\u305f\u306e\u8eab\u4f53\u3092\u4f11\u307e\u305b\u308b\u3053\u3068\u306b\u96c6\u4e2d\u3057\u307e\u3057\u3087\u3046\u300d",
+    "Name": "キングスクロス",
+    "Phrase": "「私の用件は後でいいから……\\n　今はあなたの身体を休ませることに集中しましょう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -193,30 +194,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 60301,
         "Position": 3,
         "Action": 2,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3046\u8a00\u3046\u30ad\u30f3\u30b0\u30b9\u30af\u30ed\u30b9\u306b\u624b\u3092\u53d6\u3089\u308c\u3001\u4e8c\u4eba\u3067\u5217\u8eca\u5185\u5bdd\u5ba4\u306b\u79fb\u52d5\u3059\u308b\u3002",
+    "Phrase": "そう言うキングスクロスに手を取られ、二人で列車内寝室に移動する。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -230,30 +231,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 60301,
         "Position": 3,
         "Action": 6,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30f3\u30b0\u30b9\u30af\u30ed\u30b9",
-    "Phrase": "\u300c\u3055\u3042\u8eca\u638c\u3001\u6a2a\u306b\u306a\u3063\u3066\u300d",
+    "Name": "キングスクロス",
+    "Phrase": "「さあ車掌、横になって」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -267,30 +268,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 60301,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u4f55\u3084\u3089\u3001\u305f\u3060\u5bdd\u304b\u3057\u3064\u3051\u308b\u3060\u3051\u306e\u96f0\u56f2\u6c17\u3067\u306f\u306a\u3044\u3088\u3046\u3060\u3002\\n\u4e00\u4f53\u3053\u308c\u304b\u3089\u4f55\u3092\u3055\u308c\u308b\u3068\u3044\u3046\u306e\u3060\u308d\u3046\u2026\u2026\u3002",
+    "Phrase": "何やら、ただ寝かしつけるだけの雰囲気ではないようだ。\\n一体これから何をされるというのだろう……。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -304,30 +305,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 60301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30f3\u30b0\u30b9\u30af\u30ed\u30b9",
-    "Phrase": "\u300c\u3054\u3081\u3093\u306a\u3055\u3044\u3001\u8a00\u3044\u65b9\u304c\u60aa\u304b\u3063\u305f\u308f\u306d\u3002\\n\u3000\u3046\u3064\u4f0f\u305b\u306b\u5bdd\u3066\u3082\u3089\u3048\u308b\u304b\u3057\u3089\uff1f\u300d",
+    "Name": "キングスクロス",
+    "Phrase": "「ごめんなさい、言い方が悪かったわね。\\n　うつ伏せに寝てもらえるかしら？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -341,30 +342,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 60301,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3055\u3089\u306b\u8a00\u3046\u901a\u308a\u306b\u3059\u308b\u3068\u3001\u80cc\u4e2d\u306b\u30ad\u30f3\u30b0\u30b9\u30af\u30ed\u30b9\u306e\u6307\u5148\u3092\u611f\u3058\u305f\u3002\\n\u7b4b\u8089\u306e\u30b3\u30ea\u3092\u307b\u3050\u3059\u3088\u3046\u306a\u3053\u306e\u52d5\u304d\u2026\u2026\u3002\\n\u3053\u3053\u306b\u304d\u3066\u3001\u3088\u3046\u3084\u304f\u81ea\u5206\u306f\u30de\u30c3\u30b5\u30fc\u30b8\u3092\u53d7\u3051\u3066\u3044\u308b\u306e\u3060\u3068\u6c17\u4ed8\u3044\u305f\u3002",
+    "Phrase": "さらに言う通りにすると、背中にキングスクロスの指先を感じた。\\n筋肉のコリをほぐすようなこの動き……。\\nここにきて、ようやく自分はマッサージを受けているのだと気付いた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -378,30 +379,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 60301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30f3\u30b0\u30b9\u30af\u30ed\u30b9",
-    "Phrase": "\u300c\u75b2\u52b4\u56de\u5fa9\u306b\u306f\u30de\u30c3\u30b5\u30fc\u30b8\u304c\u4e00\u756a\u3067\u3057\u3087\u3046\uff1f\u3000\u529b\u52a0\u6e1b\u306f\u3069\u3046\u304b\u3057\u3089\uff1f\u300d",
+    "Name": "キングスクロス",
+    "Phrase": "「疲労回復にはマッサージが一番でしょう？　力加減はどうかしら？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -415,30 +416,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 60301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u6c17\u6301\u3061\u3044\u3044\u3068\u306f\u601d\u3046\u306e\u3060\u304c\u3001\u5c11\u3057\u7269\u8db3\u308a\u306a\u3044\u6c17\u304c\u3059\u308b\u2026\u2026\u3002\\n\u8db3\u3067\u8e0f\u307f\u3064\u3051\u308b\u304f\u3089\u3044\u5f37\u3044\u65b9\u304c\u3001\u3044\u3044\u304b\u3082\u3057\u308c\u306a\u3044\u3002\\n\u305d\u3046\u4f1d\u3048\u308b\u3068\u3001\u8e8a\u8e87\u3044\u3064\u3064\u30ad\u30f3\u30b0\u30b9\u30af\u30ed\u30b9\u306f\u5e0c\u671b\u901a\u308a\u306b\u3057\u3066\u304f\u308c\u305f\u3002",
+    "Phrase": "気持ちいいとは思うのだが、少し物足りない気がする……。\\n足で踏みつけるくらい強い方が、いいかもしれない。\\nそう伝えると、躊躇いつつキングスクロスは希望通りにしてくれた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -452,30 +453,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 60301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2015\u2015\u78ba\u304b\u306b\u6c17\u6301\u3061\u3088\u304f\u3066\u75b2\u308c\u3082\u53d6\u308c\u3066\u3044\u304f\u6c17\u306f\u3059\u308b\u304c\u2026\u2026\u3002\\n\u3053\u3093\u306a\u3053\u3068\u3092\u3055\u305b\u3066\u3001\u7533\u3057\u8a33\u306a\u3044\u6c17\u6301\u3061\u306b\u306a\u308b\u3002",
+    "Phrase": "――確かに気持ちよくて疲れも取れていく気はするが……。\\nこんなことをさせて、申し訳ない気持ちになる。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -489,30 +490,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 60301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30f3\u30b0\u30b9\u30af\u30ed\u30b9",
-    "Phrase": "\u300c\u3044\u3044\u306e\u3088\u3002\u3080\u3057\u308d\u3001\u3082\u3063\u3068\u983c\u3063\u3066\u307b\u3057\u3044\u304f\u3089\u3044\u3060\u308f\u300d",
+    "Name": "キングスクロス",
+    "Phrase": "「いいのよ。むしろ、もっと頼ってほしいくらいだわ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -526,30 +527,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 60301,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3067\u3082\u3001\u30bb\u30f3\u30c8\u30a4\u30ea\u30b9\u306e\u8ecd\u4eba\u3068\u3057\u3066\u3001\u8eca\u638c\u3068\u3057\u3066\u2026\u2026\u3002\\n\u30ad\u30f3\u30b0\u30b9\u30af\u30ed\u30b9\u306e\u3088\u3046\u306b\u3001\u30c6\u30ad\u30d1\u30ad\u3068\u52d5\u3051\u308b\u3088\u3046\u306b\u306a\u308a\u305f\u3044\u3002\\n\u3061\u3087\u3063\u3068\u3084\u305d\u3063\u3068\u3058\u3083\u75b2\u308c\u306a\u3044\u3088\u3046\u3001\u3082\u3063\u3068\u9811\u5f35\u3089\u306a\u3044\u3068\u3002",
+    "Phrase": "でも、セントイリスの軍人として、車掌として……。\\nキングスクロスのように、テキパキと動けるようになりたい。\\nちょっとやそっとじゃ疲れないよう、もっと頑張らないと。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -563,30 +564,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 60301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30f3\u30b0\u30b9\u30af\u30ed\u30b9",
-    "Phrase": "\u300c\u79c1\u3060\u3063\u3066\u3001\u307e\u3060\u307e\u3060\u672a\u719f\u306a\u3068\u3053\u308d\u306f\u3042\u308b\u308f\u3002\\n\u3000\u3067\u3082\u3001\u305d\u3093\u306a\u3075\u3046\u306b\u601d\u3063\u3066\u3044\u3066\u304f\u308c\u3066\u3044\u305f\u306e\u306d\u3002\u3042\u308a\u304c\u3068\u3046\u300d",
+    "Name": "キングスクロス",
+    "Phrase": "「私だって、まだまだ未熟なところはあるわ。\\n　でも、そんなふうに思っていてくれていたのね。ありがとう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -600,30 +601,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 60301,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30f3\u30b0\u30b9\u30af\u30ed\u30b9",
-    "Phrase": "\u300c\u3042\u306a\u305f\u306f\u3082\u3046\u5341\u5206\u9811\u5f35\u3063\u3066\u308b\u308f\u3002\u3060\u304b\u3089\u7121\u7406\u306f\u3057\u3061\u3083\u30c0\u30e1\u3088\u3002\\n\u3000\u6b21\u306f\u3053\u3046\u306a\u308b\u524d\u306b\u3001\u3082\u3063\u3068\u65e9\u304f\u8a00\u3044\u306a\u3055\u3044\u306d\uff1f\u300d",
+    "Name": "キングスクロス",
+    "Phrase": "「あなたはもう十分頑張ってるわ。だから無理はしちゃダメよ。\\n　次はこうなる前に、もっと早く言いなさいね？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -637,30 +638,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 60301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u56f0\u3063\u305f\u3088\u3046\u306b\u5fae\u7b11\u3080\u30ad\u30f3\u30b0\u30b9\u30af\u30ed\u30b9\u306e\u512a\u3057\u3055\u3068\u6c17\u9063\u3044\u306b\u3088\u308a\u3001\\n\u8eab\u4f53\u306b\u6e9c\u307e\u3063\u3066\u3044\u305f\u75b2\u308c\u306f\u307b\u3050\u308c\u3066\u3044\u3063\u305f\u3002",
+    "Phrase": "困ったように微笑むキングスクロスの優しさと気遣いにより、\\n身体に溜まっていた疲れはほぐれていった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -674,30 +675,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 60301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3057\u304b\u3057\u3001\u4f53\u52e2\u3092\u5909\u3048\u308b\u969b\u306b\u30b9\u30ab\u30fc\u30c8\u306e\u4e2d\u304c\u898b\u3048\u305d\u3046\u306b\u306a\u308b\u3068\u3001\\n\u3044\u3064\u3082\u4ee5\u4e0a\u306b\u30c9\u30ad\u30c9\u30ad\u304c\u6b62\u307e\u3089\u305a\u3001\u5fc3\u306e\u4f11\u307e\u308b\u6687\u306f\u306a\u304b\u3063\u305f\u2026\u2026\u3002",
+    "Phrase": "しかし、体勢を変える際にスカートの中が見えそうになると、\\nいつも以上にドキドキが止まらず、心の休まる暇はなかった……。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -711,14 +712,14 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30f4\u30a7\u30eb\u30d5\u30a9\u30ec\u30c3\u30c8\u3067\u884c\u308f\u308c\u305f\u30af\u30ea\u30b9\u30de\u30b9\u30a4\u30d9\u30f3\u30c8\u306e\u6700\u4e2d\u306b\u3001\\n\u30d6\u30ed\u30bb\u30ea\u30a2\u30f3\u30c8\u306e\u68ee\u756a\u30ec\u30f3\u30cc\u304c\u68ee\u306e\u307b\u3046\u304b\u3089\u90aa\u60aa\u306a\u6c17\u914d\u3092\u5bdf\u77e5\u3057\u305f\u3002",
+    "Phrase": "ヴェルフォレットで行われたクリスマスイベントの最中に、\\nブロセリアントの森番レンヌが森のほうから邪悪な気配を察知した。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5373\u523b\u8abf\u67fb\u306b\u5411\u304b\u3063\u305f\u304c\u3001\u68ee\u306e\u5965\u3067\u8b0e\u306e\u5149\u3092\u898b\u3064\u3051\u305f\u3002\\n\u6697\u95c7\u3067\u306e\u5c0f\u3055\u306a\u5149\u306f\u8b66\u6212\u3059\u3079\u304d\u3001\u3068\u3044\u3046\u30ec\u30f3\u30cc\u306e\u52a9\u8a00\u3092\u53d7\u3051\u3001\\n\u6211\u3005\u306f\u30ec\u30f3\u30cc\u306e\u5148\u5c0e\u306b\u3057\u305f\u304c\u3063\u3066\u305d\u306e\u5149\u6e90\u3092\u8fc2\u56de\u3059\u308b\u3053\u3068\u306b\u3057\u305f\u3002",
+    "Phrase": "即刻調査に向かったが、森の奥で謎の光を見つけた。\\n暗闇での小さな光は警戒すべき、というレンヌの助言を受け、\\n我々はレンヌの先導にしたがってその光源を迂回することにした。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,21 +46,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u307f\u306a\u3055\u3093\u3001\u3053\u3053\u3067\u6b62\u307e\u3063\u3066\u304f\u3060\u3055\u3044\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「みなさん、ここで止まってください」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -73,30 +75,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5148\u982d\u3092\u884c\u304f\u30ec\u30f3\u30cc\u304c\u5168\u968a\u505c\u6b62\u3092\u5408\u56f3\u3092\u51fa\u3057\u305f\u3002\\n\u30d6\u30eb\u30fc\u30bc\u3082\u30d5\u30e9\u30a4\u30d6\u30eb\u30af\u3082\u901f\u3084\u304b\u306b\u6b69\u307f\u3092\u6b62\u3081\u3001\\n\u3059\u3050\u306b\u59ff\u52e2\u3092\u4f4e\u304f\u3057\u3066\u5168\u65b9\u4f4d\u3092\u8b66\u6212\u3059\u308b\u3002",
+    "Phrase": "先頭を行くレンヌが全隊停止を合図を出した。\\nブルーゼもフライブルクも速やかに歩みを止め、\\nすぐに姿勢を低くして全方位を警戒する。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -110,38 +112,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 32201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u3046\u30fc\u3093\u2026\u2026\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「うーん……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -155,30 +157,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u30d6\u30eb\u30fc\u30bc\u3001\u5ff5\u306e\u305f\u3081\u5f13\u3092\u5f15\u3044\u3066\u304a\u3044\u3066\u304f\u3060\u3055\u3044\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「ブルーゼ、念のため弓を引いておいてください」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -192,30 +194,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30fc\u30bc",
-    "Phrase": "\u300c\u308f\u304b\u308a\u307e\u3057\u305f\u3002\\n\u3000\u72d9\u3044\u306f\u3069\u3053\u306b\u4ed8\u3051\u307e\u3059\u304b\uff1f\u300d",
+    "Name": "ブルーゼ",
+    "Phrase": "「わかりました。\\n　狙いはどこに付けますか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -229,30 +231,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 32201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u3042\u306e\u5149\u3067\u3059\u3002\\n\u3000\u524d\u65b9\u304b\u3089\u306e\u5947\u8972\u306b\u5099\u3048\u3066\u304a\u304d\u307e\u3057\u3087\u3046\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「あの光です。\\n　前方からの奇襲に備えておきましょう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -266,30 +268,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u305d\u308c\u304b\u3089\u3001\u307f\u306a\u3055\u3093\u4eca\u3044\u308b\u5834\u6240\u304b\u3089\u7d76\u5bfe\u306b\u52d5\u304b\u306a\u3044\u3067\u304f\u3060\u3055\u3044\u3002\\n\u3000\u79c1\u304c\u3044\u3044\u3068\u8a00\u3046\u307e\u3067\u3001\u7d76\u5bfe\u306b\u3067\u3059\u3088\uff1f\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「それから、みなさん今いる場所から絶対に動かないでください。\\n　私がいいと言うまで、絶対にですよ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -303,30 +305,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e9\u30a4\u30d6\u30eb\u30af",
-    "Phrase": "\u300c\u308f\u304b\u3063\u305f\uff01\u3000\u7d76\u5bfe\u306b\u52d5\u304b\u306a\u3044\uff01\u300d",
+    "Name": "フライブルク",
+    "Phrase": "「わかった！　絶対に動かない！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -340,30 +342,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u3067\u306f\u3001\u3061\u3087\u3063\u3068\u5468\u308a\u306e\u72b6\u6cc1\u3092\u78ba\u8a8d\u3055\u305b\u3066\u304f\u3060\u3055\u3044\u3002\\n\u3000\u5f37\u3081\u306e\u706f\u308a\u3092\u4ed8\u3051\u308b\u306e\u3067\u3001\u3073\u3063\u304f\u308a\u3057\u306a\u3044\u3067\u304f\u3060\u3055\u3044\u306d\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「では、ちょっと周りの状況を確認させてください。\\n　強めの灯りを付けるので、びっくりしないでくださいね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -377,30 +379,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30ec\u30f3\u30cc\u306f\u7279\u6b8a\u306a\u30e9\u30f3\u30bf\u30f3\u3092\u53d6\u308a\u51fa\u3057\u3066\u3001\\n\u305d\u308c\u3092\u512a\u3057\u304f\u64ab\u3067\u306a\u304c\u3089\u3076\u3064\u3076\u3064\u3068\u546a\u6587\u3092\u5531\u3048\u59cb\u3081\u305f\u3002",
+    "Phrase": "レンヌは特殊なランタンを取り出して、\\nそれを優しく撫でながらぶつぶつと呪文を唱え始めた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -414,30 +416,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30e9\u30f3\u30bf\u30f3\u306f\u9014\u7aef\u306b\u5f37\u3044\u5149\u3092\u653e\u3061\u3001\\n\u6211\u3005\u304c\u7acb\u3061\u6b62\u307e\u3063\u3066\u3044\u308b\u8fba\u308a\u4e00\u5e2f\u3092\u660e\u308b\u304f\u7167\u3089\u3057\u51fa\u3057\u305f\u3002",
+    "Phrase": "ランタンは途端に強い光を放ち、\\n我々が立ち止まっている辺り一帯を明るく照らし出した。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -451,21 +453,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u3053\u308c\u306f\u30d6\u30ed\u30bb\u30ea\u30a2\u30f3\u30c8\u306e\u68ee\u756a\u304c\u6301\u3064\u7279\u6b8a\u306a\u30e9\u30f3\u30bf\u30f3\u3067\u3059\u3002\\n\u3000\u6301\u3061\u4e3b\u306e\u9b54\u529b\u306b\u53cd\u5fdc\u3057\u3066\u3001\u3082\u306e\u3059\u3054\u304f\u5f37\u3044\u5149\u3092\u653e\u3061\u307e\u3059\u3002\\n\u3000\u9b54\u7269\u3092\u5f15\u304d\u3088\u305b\u308b\u52b9\u679c\u3082\u3042\u308b\u306e\u3067\u7dca\u6025\u6642\u306b\u3057\u304b\u4f7f\u308f\u306a\u3044\u306e\u3067\u3059\u304c\u2026\u2026\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「これはブロセリアントの森番が持つ特殊なランタンです。\\n　持ち主の魔力に反応して、ものすごく強い光を放ちます。\\n　魔物を引きよせる効果もあるので緊急時にしか使わないのですが……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -479,30 +482,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u2026\u2026\u4eca\u306f\u7dca\u6025\u6642\u3060\u3068\u5224\u65ad\u3057\u307e\u3057\u305f\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「……今は緊急時だと判断しました」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -516,30 +519,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e9\u30a4\u30d6\u30eb\u30af",
-    "Phrase": "\u300c\u3059\u3054\u3044\u5149\uff01\\n\u3000\u3053\u308c\u3067\u8db3\u4e0b\u304c\u30cf\u30c3\u30ad\u30ea\u898b\u3048\u308b\u306d\u266a\u300d",
+    "Name": "フライブルク",
+    "Phrase": "「すごい光！\\n　これで足下がハッキリ見えるね♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -553,30 +556,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 3,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e9\u30a4\u30d6\u30eb\u30af",
-    "Phrase": "\u300c\u308f\u3001\u308f\u30fc\u3063\uff01\u300d",
+    "Name": "フライブルク",
+    "Phrase": "「わ、わーっ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -590,30 +593,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e9\u30a4\u30d6\u30eb\u30af",
-    "Phrase": "\u300c\u306a\u306b\u30b3\u30b3\uff01\uff1f\u3000\u3059\u3050\u4e0b\u306f\u5d16\u3058\u3083\u3093\uff01\u300d",
+    "Name": "フライブルク",
+    "Phrase": "「なにココ！？　すぐ下は崖じゃん！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -627,30 +630,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u6e13\u8c37\u3067\u3059\u306d\u3002\u304b\u306a\u308a\u6df1\u3044\u3067\u3059\u3088\u3002\\n\u3000\u4e0d\u610f\u306b\u843d\u3061\u305f\u3089\u5371\u306a\u304b\u3063\u305f\u304b\u3082\u3057\u308c\u307e\u305b\u3093\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「渓谷ですね。かなり深いですよ。\\n　不意に落ちたら危なかったかもしれません」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -664,38 +667,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 32201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30fc\u30bc",
-    "Phrase": "\u300c\u751f\u3044\u8302\u3063\u305f\u8349\u6728\u306e\u305b\u3044\u3067\u5168\u304f\u6c17\u3065\u304d\u307e\u305b\u3093\u3067\u3057\u305f\u306d\u3002\\n\u3000\u3042\u306e\u307e\u307e\u771f\u3063\u76f4\u3050\u6b69\u3044\u3066\u3044\u305f\u3089\u78ba\u5b9f\u306b\u843d\u3061\u3066\u3044\u307e\u3057\u305f\u300d",
+    "Name": "ブルーゼ",
+    "Phrase": "「生い茂った草木のせいで全く気づきませんでしたね。\\n　あのまま真っ直ぐ歩いていたら確実に落ちていました」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -709,38 +712,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 32201,
         "Position": 4,
         "Action": 0,
         "Emotion": 2,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e9\u30a4\u30d6\u30eb\u30af",
-    "Phrase": "\u300c\u307e\u3055\u306b\u5d16\u3063\u3077\u3061\u30ae\u30ea\u30ae\u30ea\u3001\u3060\u306d\u2026\u2026\u300d",
+    "Name": "フライブルク",
+    "Phrase": "「まさに崖っぷちギリギリ、だね……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -754,30 +757,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3068\u3001\u6700\u5f8c\u5c3e\u3092\u6b69\u3044\u3066\u3044\u305f\u30d5\u30e9\u30a4\u30d6\u30eb\u30af\u304c\\n\u8db3\u5834\u3092\u78ba\u8a8d\u3059\u308b\u305f\u3081\u306b\u4e0b\u3092\u5411\u3044\u305f\u305d\u306e\u6642\u2026\u2026\u3002",
+    "Phrase": "と、最後尾を歩いていたフライブルクが\\n足場を確認するために下を向いたその時……。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -791,30 +794,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30fc\u30bc",
-    "Phrase": "\u300c\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\uff01\u300d",
+    "Name": "ブルーゼ",
+    "Phrase": "「ミストモンスター！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -828,30 +831,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 2
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u3084\u306f\u308a\u6765\u307e\u3057\u305f\u304b\u3002\\n\u3000\u30d6\u30eb\u30fc\u30bc\u3001\u304a\u9858\u3044\u3057\u307e\u3059\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「やはり来ましたか。\\n　ブルーゼ、お願いします」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -865,38 +868,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 32201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30fc\u30bc",
-    "Phrase": "\u300c\u306f\u3044\u3002\u5148\u624b\u3092\u6253\u3061\u307e\u3059\u300d",
+    "Name": "ブルーゼ",
+    "Phrase": "「はい。先手を打ちます」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -910,38 +913,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 32201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
-    "Name": "\u9b54\u7269",
-    "Phrase": "\u300c\u30ad\u30e5\u30a5\u30a5\u30f3\u30c3\u2026\u2026\u300d",
+    "Name": "魔物",
+    "Phrase": "「キュゥゥンッ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -955,30 +958,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 4,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30fc\u30bc",
-    "Phrase": "\u300c\u547d\u4e2d\u3067\u3059\u3002\u606f\u306e\u6839\u3092\u6b62\u3081\u307e\u3057\u305f\u300d",
+    "Name": "ブルーゼ",
+    "Phrase": "「命中です。息の根を止めました」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -992,30 +995,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 32201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e9\u30a4\u30d6\u30eb\u30af",
-    "Phrase": "\u300c\u3046\u3001\u3046\u3057\u308d\u304b\u3089\u3082\u3063\u3068\u305f\u304f\u3055\u3093\u6765\u305f\u3088\uff01\u300d",
+    "Name": "フライブルク",
+    "Phrase": "「う、うしろからもっとたくさん来たよ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1029,30 +1032,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u5927\u4e08\u592b\u3067\u3059\u3002\u5f8c\u308d\u306e\u6575\u306f\u898b\u3048\u3066\u3044\u307e\u3057\u305f\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「大丈夫です。後ろの敵は見えていました」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1066,30 +1069,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e9\u30a4\u30d6\u30eb\u30af",
-    "Phrase": "\u300c\u3059\u3001\u3059\u3054\u3044\u3002\\n\u3000\u5d16\u306e\u4e0a\u306a\u306e\u306b\u3001\u3042\u3093\u306a\u306b\u901f\u304f\u52d5\u3051\u308b\u306a\u3093\u3066\u2026\u2026\u300d",
+    "Name": "フライブルク",
+    "Phrase": "「す、すごい。\\n　崖の上なのに、あんなに速く動けるなんて……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1103,30 +1106,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u307e\u3042\u3001\u3055\u3063\u304d\u3088\u308a\u306f\u5168\u7136\u660e\u308b\u3044\u3067\u3059\u304b\u3089\u306d\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「まあ、さっきよりは全然明るいですからね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1140,30 +1143,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 2
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e9\u30a4\u30d6\u30eb\u30af",
-    "Phrase": "\u300c\u307b\u3093\u3068\u3001\u3054\u3081\u3093\u306d\u3002\\n\u3000\u308f\u305f\u3057\u3070\u3063\u304b\u308a\u8db3\u3092\u5f15\u3063\u5f35\u3063\u3061\u3083\u3063\u3066\u300d",
+    "Name": "フライブルク",
+    "Phrase": "「ほんと、ごめんね。\\n　わたしばっかり足を引っ張っちゃって」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1177,30 +1180,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30fc\u30bc",
-    "Phrase": "\u300c\u305d\u3093\u306a\u3053\u3068\u306f\u306a\u3044\u3067\u3059\u3088\u3002\\n\u3000\u30d5\u30e9\u30a4\u30d6\u30eb\u30af\u3061\u3083\u3093\u304c\u3044\u308b\u304b\u3089\u3053\u305d\u3001\\n\u3000\u4eca\u306e\u968a\u5217\u304c\u6210\u7acb\u3059\u308b\u306e\u3067\u3059\u304b\u3089\u300d",
+    "Name": "ブルーゼ",
+    "Phrase": "「そんなことはないですよ。\\n　フライブルクちゃんがいるからこそ、\\n　今の隊列が成立するのですから」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1214,38 +1217,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 32201,
         "Position": 4,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e9\u30a4\u30d6\u30eb\u30af",
-    "Phrase": "\u300c\u305d\u3046\u8a00\u3063\u3066\u3082\u3089\u3048\u308b\u3068\u5b09\u3057\u3044\u304b\u306a\u300d",
+    "Name": "フライブルク",
+    "Phrase": "「そう言ってもらえると嬉しいかな」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1259,38 +1262,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 32201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e9\u30a4\u30d6\u30eb\u30af",
-    "Phrase": "\u300c\u308f\u305f\u3057\u3082\u304c\u3093\u3070\u3089\u306a\u304d\u3083\u306d\uff01\\n\u3000\u30ec\u30f3\u30cc\u3055\u3093\u305f\u3061\u3068\u540c\u3058\u30c8\u30ec\u30a4\u30f3\u30ca\u30a4\u30c8\u306a\u3093\u3060\u304b\u3089\uff01\u300d",
+    "Name": "フライブルク",
+    "Phrase": "「わたしもがんばらなきゃね！\\n　レンヌさんたちと同じトレインナイトなんだから！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1304,38 +1307,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 2,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 32201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 36,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30fc\u30bc",
-    "Phrase": "\u300c\u68ee\u3067\u306e\u6226\u95d8\u6280\u8853\u306b\u95a2\u3057\u3066\u3001\u30ec\u30f3\u30cc\u3068\u6bd4\u8f03\u3057\u306a\u3044\u307b\u3046\u304c\u3044\u3044\u3067\u3059\u3088\u3002\\n\u3000\u30ec\u30f3\u30cc\u306e\u529b\u306f\u61b2\u5175\u968a\u304b\u3089\u3082\u4e00\u76ee\u7f6e\u304b\u308c\u3066\u3044\u307e\u3059\u3002\\n\u3000\u30ec\u30f3\u30cc\u306f\u5f37\u3044\u3093\u3067\u3059\u3002\u5f37\u305d\u3046\u306b\u898b\u3048\u306a\u3044\u3060\u3051\u3067\u300d",
+    "Name": "ブルーゼ",
+    "Phrase": "「森での戦闘技術に関して、レンヌと比較しないほうがいいですよ。\\n　レンヌの力は憲兵隊からも一目置かれています。\\n　レンヌは強いんです。強そうに見えないだけで」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1349,38 +1352,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 32201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 37,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u8912\u3081\u3066\u3082\u3089\u3046\u306e\u306f\u5b09\u3057\u3044\u3053\u3068\u306a\u306e\u3067\u3059\u304c\u3001\\n\u3000\u4ef2\u826f\u304f\u304a\u3057\u3083\u3079\u308a\u3092\u3057\u3066\u3044\u308b\u6642\u9593\u306f\u3042\u308a\u307e\u305b\u3093\u3088\u3002\\n\u3000\u5148\u306b\u9032\u3093\u3067\u3001\u5e7b\u9727\u306e\u767a\u751f\u6e90\u3092\u53e9\u304d\u307e\u3057\u3087\u3046\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「褒めてもらうのは嬉しいことなのですが、\\n　仲良くおしゃべりをしている時間はありませんよ。\\n　先に進んで、幻霧の発生源を叩きましょう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1394,30 +1397,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 38,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e9\u30a4\u30d6\u30eb\u30af",
-    "Phrase": "\u300c\u3067\u3082\u3001\u3053\u306e\u5148\u306f\u3069\u3053\u3092\u76ee\u6307\u3057\u305f\u3089\u3044\u3044\u306e\u304b\u306a\uff1f\\n\u3000\u3053\u306e\u5f37\u3044\u5149\u3082\u3001\u9b54\u7269\u304c\u5bc4\u3063\u3066\u304d\u3061\u3083\u3046\u304b\u3089\\n\u3000\u3042\u307e\u308a\u9577\u3044\u6642\u9593\u306f\u4f7f\u3048\u306a\u3044\u3093\u3067\u3057\u3087\uff1f\u300d",
+    "Name": "フライブルク",
+    "Phrase": "「でも、この先はどこを目指したらいいのかな？\\n　この強い光も、魔物が寄ってきちゃうから\\n　あまり長い時間は使えないんでしょ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1431,38 +1434,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 39,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u3048\u3048\u3001\u4ef0\u308b\u901a\u308a\u3067\u3059\u3002\\n\u3000\u3067\u3059\u304c\u3001\u3082\u3046\u3053\u306e\u706f\u308a\u3092\u4f7f\u3046\u5fc5\u8981\u306f\u3042\u308a\u307e\u305b\u3093\u3002\\n\u3000\u79c1\u305f\u3061\u3092\u5c0e\u304f\u3082\u306e\u304c\u3001\u5225\u306b\u3042\u308b\u3088\u3046\u3067\u3059\u2026\u2026\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「ええ、仰る通りです。\\n　ですが、もうこの灯りを使う必要はありません。\\n　私たちを導くものが、別にあるようです……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1476,38 +1479,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 40,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u30d5\u30e9\u30a4\u30d6\u30eb\u30af\u3055\u3093\u3002\\n\u3000\u79c1\u304c\u706f\u308a\u3092\u6d88\u3057\u305f\u3089\u3001\u524d\u65b9\u3092\u3088\u304f\u898b\u3066\u304f\u3060\u3055\u3044\u3002\\n\u3000\u3044\u307e\u898b\u3048\u3066\u3044\u308b\u5c0f\u3055\u306a\u5149\u306e\u3001\u66f4\u306b\u3082\u3063\u3068\u5965\u3067\u3059\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「フライブルクさん。\\n　私が灯りを消したら、前方をよく見てください。\\n　いま見えている小さな光の、更にもっと奥です」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1521,38 +1524,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 41,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e9\u30a4\u30d6\u30eb\u30af",
-    "Phrase": "\u300c\u304a\u3063\u3051\u30fc\u3002\u3082\u3063\u3068\u5411\u3053\u3046\u3060\u306d\uff01\u300d",
+    "Name": "フライブルク",
+    "Phrase": "「おっけー。もっと向こうだね！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1566,38 +1569,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 2,
         "Action": 1,
         "Emotion": 1,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 42,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u3067\u306f\u3001\u706f\u308a\u3092\u6d88\u3057\u307e\u3059\u3088\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「では、灯りを消しますよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1611,21 +1614,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 43,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30ec\u30f3\u30cc\u304c\u30e9\u30f3\u30bf\u30f3\u306e\u706f\u308a\u3092\u6d88\u3059\u3068\u3001\\n\u3053\u306e\u6e13\u8c37\u306e\u5468\u308a\u306b\u518d\u3073\u6697\u95c7\u304c\u8a2a\u308c\u305f\u3002",
+    "Phrase": "レンヌがランタンの灯りを消すと、\\nこの渓谷の周りに再び暗闇が訪れた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1639,21 +1643,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 44,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3060\u304c\u3001\u6570\u79d2\u306e\u306e\u3061\u3001\u3053\u306e\u6697\u95c7\u306b\u76ee\u304c\u6163\u308c\u308b\u3068\u540c\u6642\u3001\\n\u30ec\u30f3\u30cc\u306e\u793a\u3057\u305f\u65b9\u5411\u306b\u3042\u308b\u7570\u5909\u304c\u8d77\u304d\u3066\u3044\u308b\u3053\u3068\u306b\u6c17\u3065\u3044\u305f\u3002",
+    "Phrase": "だが、数秒ののち、この暗闇に目が慣れると同時、\\nレンヌの示した方向にある異変が起きていることに気づいた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1667,21 +1672,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 45,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e9\u30a4\u30d6\u30eb\u30af",
-    "Phrase": "\u300c\u5c0f\u3055\u306a\u5149\u304c\u3001\u5897\u3048\u3066\u308b\u2026\u2026\u300d",
+    "Name": "フライブルク",
+    "Phrase": "「小さな光が、増えてる……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1695,30 +1701,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 46,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u591c\u306e\u68ee\u3092\u7167\u3089\u3059\u3042\u306e\u5c0f\u3055\u306a\u5149\u304c\u5897\u3048\u3066\u3044\u305f\u306e\u3060\u3002\\n\u9ed2\u3044\u68ee\u306b\u3001\u5c0f\u3055\u306a\u706f\u308a\u307d\u3064\u307d\u3064\u3068\u706f\u308b\u3002",
+    "Phrase": "夜の森を照らすあの小さな光が増えていたのだ。\\n黒い森に、小さな灯りぽつぽつと灯る。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1732,30 +1738,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 47,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e9\u30a4\u30d6\u30eb\u30af",
-    "Phrase": "\u300c\u66c7\u3063\u305f\u7a7a\u306b\u6d6e\u304b\u3076\u304a\u307b\u3057\u3055\u307e\u307f\u305f\u3044\u3060\u306d\u300d",
+    "Name": "フライブルク",
+    "Phrase": "「曇った空に浮かぶおほしさまみたいだね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1769,30 +1775,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 48,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u306a\u304b\u306a\u304b\u8a69\u7684\u306a\u3053\u3068\u3092\u8a00\u3044\u307e\u3059\u306d\u3002\\n\u3000\u305d\u306e\u307e\u307e\u7d75\u672c\u306e\u4e00\u6587\u306b\u4f7f\u3048\u305d\u3046\u306a\u3053\u3068\u3070\u3067\u3059\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「なかなか詩的なことを言いますね。\\n　そのまま絵本の一文に使えそうなことばです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1806,38 +1812,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 49,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e9\u30a4\u30d6\u30eb\u30af",
-    "Phrase": "\u300c\u305d\u3001\u305d\u3046\u304b\u306a\uff1f\\n\u3000\u305d\u3093\u306a\u3075\u3046\u306b\u8a00\u308f\u308c\u308b\u3068\u306a\u3093\u3060\u304b\u7167\u308c\u3061\u3083\u3046\u300d",
+    "Name": "フライブルク",
+    "Phrase": "「そ、そうかな？\\n　そんなふうに言われるとなんだか照れちゃう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1851,38 +1857,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 2,
         "Action": 0,
         "Emotion": 6,
         "FacialExpression": 6,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 50,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e9\u30a4\u30d6\u30eb\u30af",
-    "Phrase": "\u300c\u30ec\u30f3\u30cc\u3055\u3093\u306a\u3089\u3069\u3093\u306a\u8a00\u8449\u3067\u8a00\u3044\u8868\u3059\u306a\u3089\u306a\u3093\u3066\u8a00\u3046\u306e\uff1f\u300d",
+    "Name": "フライブルク",
+    "Phrase": "「レンヌさんならどんな言葉で言い表すならなんて言うの？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1896,38 +1902,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 2,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 55201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 51,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30fc\u30bc",
-    "Phrase": "\u300c\u30ca\u30a4\u30b9\u3080\u3061\u3083\u3076\u308a\u3067\u3059\u3002\u30d5\u30e9\u30a4\u30d6\u30eb\u30af\u3061\u3083\u3093\u3002\\n\u3000\u3055\u3042\u30ec\u30f3\u30cc\u3001\u8a69\u7684\u3067\u6587\u5b66\u7684\u306a\u3068\u3053\u308d\u3092\u898b\u305b\u3064\u3051\u3066\u304f\u3060\u3055\u3044\u300d",
+    "Name": "ブルーゼ",
+    "Phrase": "「ナイスむちゃぶりです。フライブルクちゃん。\\n　さあレンヌ、詩的で文学的なところを見せつけてください」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1941,30 +1947,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 32201,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 5,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 52,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u3069\u3045\u3075\u3075\u3001\u305d\u3046\u3067\u3059\u306d\u3047\u2026\u2026\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「どぅふふ、そうですねぇ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1978,30 +1984,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 53,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u300e\u602a\u3057\u3055\u5168\u958b\u3001\u8ff7\u3044\u306e\u5149\u300f\u3067\u3057\u3087\u3046\u304b\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「『怪しさ全開、迷いの光』でしょうか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2015,30 +2021,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 54,
     "ViewOrder": 1,
-    "Name": "\u30d5\u30e9\u30a4\u30d6\u30eb\u30af",
-    "Phrase": "\u300c\u308f\u3041\uff01\u300d",
+    "Name": "フライブルク",
+    "Phrase": "「わぁ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2052,38 +2058,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 2,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 32201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 55,
     "ViewOrder": 1,
-    "Name": "\u30d6\u30eb\u30fc\u30bc",
-    "Phrase": "\u300c\u3046\u308f\u3041\u2026\u2026\u300d",
+    "Name": "ブルーゼ",
+    "Phrase": "「うわぁ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2097,38 +2103,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 59201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 32201,
         "Position": 4,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 56,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u79c1\u306b\u6587\u5b66\u7684\u624d\u80fd\u304c\u306a\u3044\u3053\u3068\u304c\u308f\u304b\u3063\u305f\u3068\u3053\u308d\u3067\u3001\\n\u3000\u3072\u3068\u307e\u305a\u3001\u4e00\u756a\u6700\u521d\u306b\u898b\u3064\u3051\u305f\u5149\u6e90\u3092\\n\u3000\u8abf\u3079\u3066\u304b\u3089\u5148\u3078\u9032\u3080\u3068\u3057\u307e\u3057\u3087\u3046\u304b\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「私に文学的才能がないことがわかったところで、\\n　ひとまず、一番最初に見つけた光源を\\n　調べてから先へ進むとしましょうか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2142,30 +2148,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 57,
     "ViewOrder": 1,
-    "Name": "\u30ec\u30f3\u30cc",
-    "Phrase": "\u300c\u2026\u2026\u66c7\u308a\u7a7a\u306b\u8f1d\u304f\u304a\u307b\u3057\u3055\u307e\u3002\u3044\u3044\u3067\u3059\u306d\u3047\u300d",
+    "Name": "レンヌ",
+    "Phrase": "「……曇り空に輝くおほしさま。いいですねぇ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2179,23 +2185,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 55201,
         "Position": 3,
         "Action": 7,
         "Emotion": 0,
         "FacialExpression": 2,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

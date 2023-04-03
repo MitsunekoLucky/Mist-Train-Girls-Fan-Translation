@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3057\u3066\u3001\u30bb\u30f3\u30c8\u30a4\u30ea\u30b9\u9a0e\u58eb\u56e3\u306b\u3088\u308b\u5263\u821e\u62ab\u9732\u306e\u65e5\u304c\u3084\u3063\u3066\u304d\u305f\u3002\\n\u9a0e\u58eb\u56e3\u4e3b\u50ac\u306e\u30a4\u30d9\u30f3\u30c8\u3068\u3044\u3046\u3053\u3068\u3067\u5927\u52e2\u306e\u4eba\u304c\u96c6\u307e\u308a\u3001\\n\u51fa\u5e97\u3084\u305d\u306e\u307b\u304b\u306e\u51fa\u3057\u7269\u304c\u4e26\u3073\u8857\u306f\u5927\u8cd1\u308f\u3044\u3060\u3002",
+    "Phrase": "そして、セントイリス騎士団による剣舞披露の日がやってきた。\\n騎士団主催のイベントということで大勢の人が集まり、\\n出店やそのほかの出し物が並び街は大賑わいだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u306f\u3042\u30c3\uff01\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「はあッ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,30 +46,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u5263\u8853\u30d5\u30a1\u30f3",
-    "Phrase": "\u300c\u30b7\u30e3\u30ca\u65cf\u306e\u304a\u59c9\u3061\u3083\u3093\u3001\u898b\u4e8b\u306a\u5263\u6280\u3060\u3063\u305f\u305e\u30fc\uff01\u300d",
+    "Name": "剣術ファン",
+    "Phrase": "「シャナ族のお姉ちゃん、見事な剣技だったぞー！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -82,30 +83,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 105,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u9a0e\u58eb\u56e3\u30d5\u30a1\u30f3",
-    "Phrase": "\u300c\u3059\u3070\u3057\u3063\u3053\u304f\u3066\u304b\u3063\u3053\u3088\u304b\u3063\u305f\u30fc\uff01\u300d",
+    "Name": "騎士団ファン",
+    "Phrase": "「すばしっこくてかっこよかったー！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -119,30 +120,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 143,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u5c0f\u67c4\u306a\u5973\u6027\u304c\u597d\u304d\u306a\u3072\u3068",
-    "Phrase": "\u300c\u304a\u3046\u30c3\u3075\uff01\\n\u3000\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6\u305f\u3093\u306e\u30ad\u30e5\u30fc\u30c8\u306a\u5263\u6280\u3067\\n\u3000\u30b9\u30e9\u30c3\u30b7\u30e5\u30cf\u30e0\u306b\u3055\u308c\u305f\u3044\u3067\u3054\u3056\u308b\u30c7\u30e5\u30af\u30b7\uff01\u300d",
+    "Name": "小柄な女性が好きなひと",
+    "Phrase": "「おうッふ！\\n　ヴェルサイユたんのキュートな剣技で\\n　スラッシュハムにされたいでござるデュクシ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -156,30 +157,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110,
         "Position": 3,
         "Action": 0,
         "Emotion": 7,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u3088\u304b\u3063\u305f\u3002\u307f\u306a\u3055\u3093\u559c\u3093\u3067\u304f\u308c\u3066\u307e\u3059\u3002\\n\u3000\u30e1\u30c8\u30ed\u306e\u5263\u6280\u3082\u30a4\u30ea\u30b9\u30af\u30e9\u30a6\u30c9\u3067\u901a\u7528\u3059\u308b\u3093\u3067\u3059\u306d\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「よかった。みなさん喜んでくれてます。\\n　メトロの剣技もイリスクラウドで通用するんですね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -193,30 +194,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u304a\u75b2\u308c\u69d8\u3002\u7d20\u6674\u3089\u3057\u3044\u6f14\u6280\u3060\u3063\u305f\u305e\u3002",
+    "Phrase": "お疲れ様。素晴らしい演技だったぞ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -230,30 +231,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u8eca\u638c\u3055\u3093\uff01\u3000\u898b\u306b\u6765\u3066\u304f\u308c\u305f\u3093\u3067\u3059\u304b\uff01\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「車掌さん！　見に来てくれたんですか！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -267,30 +268,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5f53\u7136\u3060\u3002\u30aa\u30cf\u30ca\u306e\u61f2\u7f70\u306b\u3088\u3063\u3066\u53d7\u3051\u305f\u30c0\u30e1\u30fc\u30b8\u304c\\n\u307e\u3060\u56de\u5fa9\u3057\u3066\u3044\u306a\u3044\u306e\u3067\u7df4\u7fd2\u306b\u4ed8\u304d\u5408\u3046\u3053\u3068\u306f\u3067\u304d\u306a\u304b\u3063\u305f\u304c\u3001\\n\u3053\u3046\u3057\u3066\u6700\u524d\u5217\u3067\u304d\u307f\u306e\u7d20\u6674\u3089\u3057\u3044\u6f14\u6280\u3092\u898b\u305b\u3066\u3082\u3089\u3063\u305f\u3002",
+    "Phrase": "当然だ。オハナの懲罰によって受けたダメージが\\nまだ回復していないので練習に付き合うことはできなかったが、\\nこうして最前列できみの素晴らしい演技を見せてもらった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -304,30 +305,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u8eca\u638c\u3055\u3093\u3068\u7df4\u7fd2\u3057\u305f\u300e\u30e4\u30b0\u30e9\u30c0\u30c1\u300f\u306f\\n\u3000\u9a0e\u58eb\u56e3\u304b\u3089\u306e\uff2e\uff27\u304c\u51fa\u3066\u4f7f\u3048\u306a\u304f\u306a\u308a\u307e\u3057\u305f\u3051\u3069\u3001\\n\u3000\u305d\u306e\u3076\u3093\u30a4\u30ea\u30b9\u30e1\u30c8\u30ed\u306e\u5263\u8853\u3092\u591a\u304f\u53d6\u308a\u5165\u308c\u308b\u3053\u3068\u306b\u3057\u307e\u3057\u305f\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「車掌さんと練習した『ヤグラダチ』は\\n　騎士団からのＮＧが出て使えなくなりましたけど、\\n　そのぶんイリスメトロの剣術を多く取り入れることにしました」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -341,30 +342,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u6700\u521d\u306f\u3053\u3063\u3061\u306e\u4eba\u305f\u3061\u304c\u3069\u3093\u306a\u53cd\u5fdc\u3059\u308b\u304b\u4e0d\u5b89\u3067\u3057\u305f\u304c\u3001\\n\u3000\u6f14\u821e\u3092\u59cb\u3081\u3066\u3059\u3050\u306b\u305d\u3093\u306a\u4e0d\u5b89\u306f\u6d88\u3057\u98db\u3073\u307e\u3057\u305f\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「最初はこっちの人たちがどんな反応するか不安でしたが、\\n　演舞を始めてすぐにそんな不安は消し飛びました」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -378,30 +379,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6\u306e\u5263\u8853\u306f\u30b9\u30d4\u30fc\u30c9\u611f\u304c\u3042\u308b\u3082\u306e\u3070\u304b\u308a\u3060\u3002\\n\u305d\u308c\u3092\u89b3\u5287\u5411\u3051\u306b\u30a2\u30ec\u30f3\u30b8\u3059\u308c\u3070\\n\u5263\u306e\u9053\u306b\u304f\u308f\u3057\u304f\u306a\u3044\u3082\u306e\u306b\u3068\u3063\u3066\u3082\u898b\u5fdc\u3048\u306e\u3042\u308b\u3082\u306e\u306b\u306a\u308b\u3002",
+    "Phrase": "ヴェルサイユの剣術はスピード感があるものばかりだ。\\nそれを観劇向けにアレンジすれば\\n剣の道にくわしくないものにとっても見応えのあるものになる。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -415,30 +416,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u8eca\u638c\u3055\u3093\u306e\u30a2\u30c9\u30d0\u30a4\u30b9\u901a\u308a\u3067\u3057\u305f\u3002\\n\u3000\u7279\u306b\u79c1\u306f\u5c0f\u67c4\u3067\u3059\u304b\u3089\u3001\u5973\u6027\u3084\u5b50\u4f9b\u306b\u3082\u30a6\u30b1\u3066\u3044\u305f\u307f\u305f\u3044\u3067\u3059\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「車掌さんのアドバイス通りでした。\\n　特に私は小柄ですから、女性や子供にもウケていたみたいです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -452,30 +453,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u7d20\u65e9\u3044\u52d5\u304d\u3067\u98db\u3073\u56de\u3063\u3066\\n\u3000\u4f53\u306e\u5927\u304d\u306a\u9a0e\u58eb\u306b\u6280\u3092\u6c7a\u3081\u308b\u3068\u5b50\u4f9b\u305f\u3061\u304c\u6b53\u58f0\u3092\u3042\u3052\u308b\u3093\u3067\u3059\u3088\u3002\\n\u3000\u300e\u308f\u305f\u3057\u305f\u3061\u3082\u3042\u3093\u306a\u3075\u3046\u306b\u60aa\u3044\u3084\u3064\u3092\u5012\u3057\u305f\u3044\u300f\u3063\u3066\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「素早い動きで飛び回って\\n　体の大きな騎士に技を決めると子供たちが歓声をあげるんですよ。\\n　『わたしたちもあんなふうに悪いやつを倒したい』って」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -489,30 +490,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u3082\u3061\u308d\u3093\u5263\u306f\u4eba\u306b\u5411\u3051\u3066\u3044\u3044\u3082\u306e\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u304c\u3001\\n\u3000\u3042\u306e\u5b50\u305f\u3061\u304c\u5c06\u6765\u9a0e\u58eb\u306b\u306a\u3063\u3066\\n\u3000\u5263\u8853\u3092\u62ab\u9732\u3057\u3066\u304f\u308c\u305f\u3089\u5b09\u3057\u3044\u306a\u3041\u3068\u3082\u601d\u3063\u305f\u308a\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「もちろん剣は人に向けていいものではありませんが、\\n　あの子たちが将来騎士になって\\n　剣術を披露してくれたら嬉しいなぁとも思ったり」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -526,30 +527,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305a\u3044\u3076\u3093\u3068\u5b09\u3057\u305d\u3046\u3060\u306a\u3002\\n\u3068\u3066\u3082\u3044\u3044\u8868\u60c5\u3092\u3057\u3066\u3044\u308b\u305e\u3002",
+    "Phrase": "ずいぶんと嬉しそうだな。\\nとてもいい表情をしているぞ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -563,30 +564,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u6226\u95d8\u4e2d\u306e\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6\u3082\u51db\u3005\u3057\u304f\u3066\u7f8e\u3057\u3044\u304c\u3001\\n\u3053\u3046\u3057\u3066\u89b3\u8846\u306e\u524d\u3067\u300e\u898b\u305b\u308b\u5263\u6280\u300f\u3092\u62ab\u9732\u3057\u3066\u3044\u308b\u3068\u304d\u306e\\n\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6\u3082\u683c\u597d\u3088\u304f\u3066\u983c\u3082\u3057\u3044\u3002",
+    "Phrase": "戦闘中のヴェルサイユも凛々しくて美しいが、\\nこうして観衆の前で『見せる剣技』を披露しているときの\\nヴェルサイユも格好よくて頼もしい。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -600,30 +601,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u79c1\u306f\u9244\u9053\u9a0e\u58eb\u56e3\u306e\u5192\u967a\u8b5a\u306b\u61a7\u308c\u3066\u5263\u3092\u5b66\u3093\u3060\u8eab\u3067\u3059\u304b\u3089\u306d\u3002\\n\u3000\u5b50\u4f9b\u305f\u3061\u304c\u9a0e\u58eb\u306e\u5263\u6280\u306b\u61a7\u308c\u308b\u6c17\u6301\u3061\u306f\u3088\u304f\u308f\u304b\u308b\u3093\u3067\u3059\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「私は鉄道騎士団の冒険譚に憧れて剣を学んだ身ですからね。\\n　子供たちが騎士の剣技に憧れる気持ちはよくわかるんです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -637,30 +638,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u79c1\u306f\u30b7\u30e3\u30ca\u65cf\u3002\u305d\u308c\u3082\u65cf\u9577\u306e\u5a18\u3067\u3059\u3002\\n\u3000\u3044\u3064\u304b\u30b7\u30e3\u30ca\u65cf\u3092\u7387\u3044\u308b\u5b58\u5728\u3068\u3057\u3066\u3001\\n\u3000\u5263\u3088\u308a\u3082\u7b46\u3092\u57f7\u308c\u3068\u6559\u3048\u3089\u308c\u3066\u304d\u307e\u3057\u305f\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「私はシャナ族。それも族長の娘です。\\n　いつかシャナ族を率いる存在として、\\n　剣よりも筆を執れと教えられてきました」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -674,30 +675,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6\u306b\u9650\u3063\u305f\u8a71\u3067\u306f\u306a\u304f\u3001\\n\u30b7\u30e3\u30ca\u65cf\u3068\u3044\u3046\u306e\u306f\u3082\u3068\u3082\u3068\u6b66\u95d8\u6d3e\u3068\u306f\u7a0b\u9060\u3044\u4e00\u65cf\u3089\u3057\u3044\u306a\u3002\\n\u3053\u3061\u3089\u306e\u4e16\u754c\u300e\u68ee\u756a\u300f\u3092\u52d9\u3081\u3066\u3044\u308b\u30d6\u30eb\u30bf\u30fc\u30cb\u30e5\u306f\u4f8b\u5916\u3068\u3057\u3066\u3001\\n\u30e1\u30c8\u30ed\u306b\u3044\u308b\u30b7\u30e3\u30ca\u65cf\u306e\u591a\u304f\u304c\u5b66\u8005\u3084\u7814\u7a76\u8005\u3060\u3068\u3044\u3046\u3002",
+    "Phrase": "ヴェルサイユに限った話ではなく、\\nシャナ族というのはもともと武闘派とは程遠い一族らしいな。\\nこちらの世界『森番』を務めているブルターニュは例外として、\\nメトロにいるシャナ族の多くが学者や研究者だという。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -711,30 +712,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u5e7b\u9727\u304c\u767a\u751f\u3059\u308c\u3070\u9b54\u6cd5\u3084\u5f13\u3067\u6226\u3044\u307e\u3059\u304c\\n\u3000\uff2d\u30f4\u30a7\u30eb\u30d5\u30a9\u30ec\u30c3\u30c8\u306e\u9244\u9053\u61b2\u5175\u968a\u306b\u4efb\u305b\u308b\u3053\u3068\u304c\u307b\u3068\u3093\u3069\u3067\u3059\u304b\u3089\u306d\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「幻霧が発生すれば魔法や弓で戦いますが\\n　Ｍヴェルフォレットの鉄道憲兵隊に任せることがほとんどですからね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -748,30 +749,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u3067\u3082\u79c1\u306f\u9b54\u529b\u3092\u6271\u3046\u624d\u80fd\u304c\u306a\u304b\u3063\u305f\u306e\u3067\u3001\\n\u3000\u4e21\u89aa\u306f\u65e9\u3044\u6bb5\u968e\u3067\u79c1\u3092\u5b66\u8005\u306b\u3057\u3088\u3046\u3068\u6c7a\u3081\u305f\u3089\u3057\u3044\u3067\u3059\u3088\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「でも私は魔力を扱う才能がなかったので、\\n　両親は早い段階で私を学者にしようと決めたらしいですよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -785,30 +786,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3093\u306a\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6\u304c\u306a\u305c\u305d\u3053\u307e\u3067\u5263\u8853\u306b\u9577\u3051\u3066\u3044\u308b\u306e\u3060\uff1f\\n\u78ba\u304b\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6\u306f\u30e6\u30fc\u30b9\u30c8\u30f3\u3068\u51fa\u4f1a\u3063\u305f\u3068\u304d\\n\u3059\u3067\u306b\u3042\u308b\u7a0b\u5ea6\u306e\u5263\u8853\u3092\u899a\u3048\u3066\u3044\u305f\u305d\u3046\u3058\u3083\u306a\u3044\u304b\u3002",
+    "Phrase": "そんなヴェルサイユがなぜそこまで剣術に長けているのだ？\\n確かヴェルサイユはユーストンと出会ったとき\\nすでにある程度の剣術を覚えていたそうじゃないか。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -822,30 +823,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u30b7\u30e3\u30ca\u65cf\u304c\u66ae\u3089\u3059\u68ee\u306e\u8fd1\u304f\u306b\u3001\u5263\u306e\u5e2b\u5320\u304c\u3044\u305f\u3093\u3067\u3059\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「シャナ族が暮らす森の近くに、剣の師匠がいたんです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -859,30 +860,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5263\u306e\u5e2b\u5320\uff1f",
+    "Phrase": "剣の師匠？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -896,30 +897,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u306f\u3044\u3002\u3059\u3050\u308c\u305f\u5263\u58eb\u3067\u3057\u305f\u3002\\n\u3000\u304a\u305d\u3089\u304f\u4eca\u306e\u79c1\u304c\u6311\u3093\u3067\u3082\u5f7c\u5973\u306b\u52dd\u3064\u3053\u3068\u306f\u96e3\u3057\u3044\u3067\u3057\u3087\u3046\u3002\\n\u3000\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4\u3055\u3093\u306b\u3068\u3063\u3066\u306e\u30e1\u30a2\u30ea\u30fc\u3055\u3093\u307f\u305f\u3044\u306a\u3082\u306e\u3067\u3059\u306d\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「はい。すぐれた剣士でした。\\n　おそらく今の私が挑んでも彼女に勝つことは難しいでしょう。\\n　クインズウェイさんにとってのメアリーさんみたいなものですね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -933,30 +934,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u5143\u30fb\u9244\u9053\u9a0e\u58eb\u56e3\u306e\u6307\u5357\u5f79\u3060\u3063\u305f\u305d\u3046\u3067\u3059\u3002\\n\u3000\u305d\u308c\u306b\u3042\u306e\u65b9\u306f\u3001\u30e6\u30fc\u30b9\u30c8\u30f3\u9a0e\u58eb\u9577\u306e\u304a\u59c9\u3055\u307e\u306e\u3053\u3068\u3092\u77e5\u3063\u3066\u3044\u305f\u3002\\n\u3000\u304d\u3063\u3068\u4f55\u304b\u91cd\u5927\u306a\u79d8\u5bc6\u3092\u77e5\u3063\u3066\u3044\u308b\u3093\u3067\u3059\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「元・鉄道騎士団の指南役だったそうです。\\n　それにあの方は、ユーストン騎士長のお姉さまのことを知っていた。\\n　きっと何か重大な秘密を知っているんです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -970,30 +971,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u306e\u5263\u58eb\u306f\u3044\u307e\u3069\u3053\u306b\u3044\u308b\u3093\u3060\uff1f",
+    "Phrase": "その剣士はいまどこにいるんだ？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1007,30 +1008,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u308f\u304b\u308a\u307e\u305b\u3093\u3002\\n\u3000\u79c1\u3068\u30e6\u30fc\u30b9\u30c8\u30f3\u9a0e\u58eb\u9577\u304c\u77e5\u308a\u5408\u3063\u305f\u3068\u304d\u306e\u6226\u95d8\u3067\\n\u3000\u52a9\u592a\u5200\u306b\u5165\u3063\u3066\u304f\u308c\u307e\u3057\u305f\u304c\u3001\u305d\u308c\u3063\u304d\u308a\u3067\u3059\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「わかりません。\\n　私とユーストン騎士長が知り合ったときの戦闘で\\n　助太刀に入ってくれましたが、それっきりです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1044,30 +1045,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 2,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u3067\u3082\u3001\u304d\u3063\u3068\u3069\u3053\u304b\u3067\u5225\u306e\u5f1f\u5b50\u306b\u5263\u3092\u6559\u3048\u3066\u3044\u307e\u3059\u3088\u3002\\n\u3000\u306a\u3093\u3068\u306a\u304f\u3067\u3059\u3051\u3069\u3001\u305d\u3093\u306a\u6c17\u304c\u3059\u308b\u3093\u3067\u3059\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「でも、きっとどこかで別の弟子に剣を教えていますよ。\\n　なんとなくですけど、そんな気がするんです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1081,30 +1082,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30b7\u30e3\u30ca\u65cf\u306f\u6b66\u8853\u304c\u3042\u307e\u308a\u5f97\u610f\u3067\u306f\u306a\u3044\u3002\\n\u305d\u306e\u77e5\u80fd\u3084\u7279\u6b8a\u306a\u9b54\u529b\u3092\u99c6\u4f7f\u3057\u3066\\n\u53e4\u4ee3\u306e\u66f8\u7269\u3092\u89e3\u8aad\u3057\u305f\u308a\u3001\u907a\u8de1\u306e\u767a\u6398\u3092\u3057\u305f\u308a\u3068\u3044\u3063\u305f\u4ed5\u4e8b\u304c\u4e3b\u3067\u3042\u308b\u3002",
+    "Phrase": "シャナ族は武術があまり得意ではない。\\nその知能や特殊な魔力を駆使して\\n古代の書物を解読したり、遺跡の発掘をしたりといった仕事が主である。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1118,30 +1119,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3060\u304c\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6\u306f\u3001\uff2d\u30f4\u30a7\u30eb\u30d5\u30a9\u30ec\u30c3\u30c8\u3092\u51fa\u3066\\n\uff2d\u30bb\u30f3\u30c8\u30a4\u30ea\u30b9\u9244\u9053\u9a0e\u58eb\u56e3\u306e\u9a0e\u58eb\u3068\u3057\u3066\u7b2c\u4e00\u6226\u3067\u6d3b\u8e8d\u3057\u3066\u3044\u308b\u3002",
+    "Phrase": "だがヴェルサイユは、Ｍヴェルフォレットを出て\\nＭセントイリス鉄道騎士団の騎士として第一戦で活躍している。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1155,30 +1156,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u3059\u307f\u307e\u305b\u3093\u3002\u304a\u5ba2\u3055\u3093\u305f\u3061\u306b\u547c\u3070\u308c\u3066\u3044\u308b\u306e\u3067\\n\u3000\u3053\u306e\u3042\u305f\u308a\u3067\u5931\u793c\u3057\u307e\u3059\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「すみません。お客さんたちに呼ばれているので\\n　このあたりで失礼します」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1192,30 +1193,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u3044\u3064\u304b\u30a4\u30ea\u30b9\u30af\u30e9\u30a6\u30c9\u306e\u5192\u967a\u8b5a\u306b\\n\u3000\u300e\u30b7\u30e3\u30ca\u65cf\u306e\u9a0e\u58eb\u300f\u304c\u66f8\u304b\u308c\u308b\u65e5\u304c\u304d\u305f\u3089\u3044\u3044\u306a\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「いつかイリスクラウドの冒険譚に\\n　『シャナ族の騎士』が書かれる日がきたらいいな」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1229,30 +1230,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u306a\u3093\u3066\u3001\u304a\u3053\u304c\u307e\u3057\u3044\u3067\u3059\u3088\u306d\uff01\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「なんて、おこがましいですよね！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1266,30 +1267,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 36,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5263\u3092\u643a\u3048\u305f\u5c0f\u67c4\u306a\u9a0e\u58eb\u304c\u3001\u30a4\u30ea\u30b9\u30af\u30e9\u30a6\u30c9\u306e\u3001\\n\u30bb\u30f3\u30c8\u30a4\u30ea\u30b9\u306e\u6c11\u306e\u4e2d\u3078\u3068\u99c6\u3051\u3066\u3044\u304f\u3002",
+    "Phrase": "剣を携えた小柄な騎士が、イリスクラウドの、\\nセントイリスの民の中へと駆けていく。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1303,21 +1304,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 37,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2015\u2015\u96f7\u306b\u795d\u798f\u3055\u308c\u305f\u30b7\u30e3\u30ca\u65cf\u306e\u6226\u58eb\u306f\u3001\u81ea\u5206\u3088\u308a\u4f53\u306e\u5927\u304d\u306a\u3082\u306e\u306b\u602f\u307e\u306a\u3044\u3002",
+    "Phrase": "――雷に祝福されたシャナ族の戦士は、自分より体の大きなものに怯まない。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1331,14 +1333,14 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

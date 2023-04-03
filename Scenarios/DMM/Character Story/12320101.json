@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u767d\u307f\u59cb\u3081\u305f\u65e9\u671d\u306e\u7a7a\u306b\u306f\u3001\u672a\u3060\u305f\u304f\u3055\u3093\u306e\u661f\u304c\u8f1d\u3044\u3066\u3044\u308b\u3002\\n\u61d0\u4e2d\u6642\u8a08\u306b\u76ee\u3092\u8d70\u3089\u305b\u305f\u3061\u3087\u3046\u3069\u305d\u306e\u6642\u3001\\n\u99c6\u3051\u5bc4\u3063\u3066\u304f\u308b\u8db3\u97f3\u304c\u805e\u3053\u3048\u305f\u3002",
+    "Phrase": "白み始めた早朝の空には、未だたくさんの星が輝いている。\\n懐中時計に目を走らせたちょうどその時、\\n駆け寄ってくる足音が聞こえた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30eb\u30ec\u30a2\u30f3",
-    "Phrase": "\u300c\u304a\u5f85\u305f\u305b\u81f4\u3057\u307e\u3057\u305f\u3001\u8eca\u638c\u69d8\uff01\u300d",
+    "Name": "オルレアン",
+    "Phrase": "「お待たせ致しました、車掌様！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,30 +46,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 23201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 3
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3044\u3084\u3001\u6642\u9593\u901a\u308a\u3060\u3002\\n\u671d\u65e9\u304f\u304b\u3089\u547c\u3073\u51fa\u3057\u3066\u3059\u307e\u306a\u3044\u3002\\n\u4efb\u52d9\u306e\u5185\u5bb9\u306f\u4f1d\u308f\u3063\u3066\u3044\u308b\u304b\uff1f",
+    "Phrase": "いや、時間通りだ。\\n朝早くから呼び出してすまない。\\n任務の内容は伝わっているか？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -82,30 +83,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 23201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30eb\u30ec\u30a2\u30f3",
-    "Phrase": "\u300c\u3048\u3048\u3002\u73fe\u5834\u306e\u72b6\u6cc1\u628a\u63e1\u306e\u305f\u3081\u306e\u5148\u9063\u968a\u3068\u805e\u3044\u3066\u3044\u307e\u3059\u3002\\n\u3000\u907a\u8de1\u63a2\u7d22\u90e8\u968a\u304c\u3001\u4f55\u3089\u304b\u306e\u30c8\u30e9\u30d6\u30eb\u306b\u3088\u308a\\n\u3000\u907a\u8de1\u5185\u90e8\u3067\u8db3\u6b62\u3081\u3055\u308c\u3066\u3044\u308b\u53ef\u80fd\u6027\u304c\u3042\u308b\u3068\u300d",
+    "Name": "オルレアン",
+    "Phrase": "「ええ。現場の状況把握のための先遣隊と聞いています。\\n　遺跡探索部隊が、何らかのトラブルにより\\n　遺跡内部で足止めされている可能性があると」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -119,30 +120,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 23201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u306e\u901a\u308a\u3060\u3002\\n\u843d\u76e4\u4e8b\u6545\u3067\u9589\u3058\u8fbc\u3081\u3089\u308c\u3066\u3044\u308b\u3068\u3044\u3046\u306e\u304c\u5927\u65b9\u306e\u4e88\u60f3\u3060\u304c\u3001\\n\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u8972\u6483\u306b\u906d\u3063\u305f\u53ef\u80fd\u6027\u3082\u6368\u3066\u304d\u308c\u306a\u3044\u3002",
+    "Phrase": "その通りだ。\\n落盤事故で閉じ込められているというのが大方の予想だが、\\nミストモンスターの襲撃に遭った可能性も捨てきれない。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -156,30 +157,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 23201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30eb\u30ec\u30a2\u30f3",
-    "Phrase": "\u300c\u307e\u305a\u306f\u72b6\u6cc1\u306e\u78ba\u8a8d\u304c\u6700\u512a\u5148\u3067\u3059\u306d\u3002\\n\u3000\u91cd\u8981\u306a\u306e\u306f\u5148\u9063\u968a\u306e\u30b9\u30d4\u30fc\u30c9\u3068\u3001\u5897\u63f4\u90e8\u968a\u306e\u8cea\u2026\u2026\u300d",
+    "Name": "オルレアン",
+    "Phrase": "「まずは状況の確認が最優先ですね。\\n　重要なのは先遣隊のスピードと、増援部隊の質……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -193,30 +194,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 23201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30eb\u30ec\u30a2\u30f3",
-    "Phrase": "\u300c\u79c1\u305f\u3061\u306f\u4e00\u523b\u3082\u65e9\u304f\u73fe\u5834\u306b\u5411\u304b\u3044\u307e\u3057\u3087\u3046\u3002\\n\u3000\u3044\u3064\u3082\u884c\u52d5\u3092\u5171\u306b\u3057\u3066\u3044\u308b\u30aa\u30eb\u30ec\u30a2\u30f3\u90e8\u968a\u306b\u306f\u3001\\n\u3000\u5fc5\u8981\u306b\u5fdc\u3058\u5f8c\u7d9a\u306e\u5897\u63f4\u90e8\u968a\u306b\u52a0\u308f\u308b\u3088\u3046\u6307\u793a\u3057\u307e\u3057\u305f\u300d",
+    "Name": "オルレアン",
+    "Phrase": "「私たちは一刻も早く現場に向かいましょう。\\n　いつも行動を共にしているオルレアン部隊には、\\n　必要に応じ後続の増援部隊に加わるよう指示しました」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -230,30 +231,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 23201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3055\u3059\u304c\u30aa\u30eb\u30ec\u30a2\u30f3\u3060\u3002\\n\u65e9\u671d\u306e\u7dca\u6025\u62db\u96c6\u306b\u3082\u304b\u304b\u308f\u3089\u305a\u3001\\n\u3059\u3067\u306b\u4e8b\u614b\u3092\u5451\u307f\u8fbc\u307f\u3001\u81ea\u5206\u306e\u5f79\u5272\u3082\u7406\u89e3\u3057\u3066\u3044\u308b\u3002",
+    "Phrase": "さすがオルレアンだ。\\n早朝の緊急招集にもかかわらず、\\nすでに事態を呑み込み、自分の役割も理解している。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -267,30 +268,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 23201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30eb\u30ec\u30a2\u30f3",
-    "Phrase": "\u300c\u3054\u5b89\u5fc3\u304f\u3060\u3055\u3044\u3002\\n\u3000\u8eca\u638c\u69d8\u306e\u3053\u3068\u306f\u79c1\u304c\u5fc5\u305a\u304a\u5b88\u308a\u3057\u307e\u3059\u3002\\n\u3000\u2015\u2015\u9727\u306e\u8056\u5973\u306e\u540d\u306e\u3082\u3068\u306b\u300d",
+    "Name": "オルレアン",
+    "Phrase": "「ご安心ください。\\n　車掌様のことは私が必ずお守りします。\\n　――霧の聖女の名のもとに」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -304,30 +305,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 23201,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 2,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30eb\u30ec\u30a2\u30f3",
-    "Phrase": "\u300c\u305f\u3060\u2026\u2026\u5fc3\u914d\u306a\u306e\u306f\u968a\u54e1\u306e\u65b9\u305f\u3061\u306e\u5b89\u5426\u3067\u3059\u3002\\n\u3000\u305b\u3081\u3066\u3082\u3046\u5c11\u3057\u60c5\u5831\u304c\u3042\u308c\u3070\u2026\u2026\u300d",
+    "Name": "オルレアン",
+    "Phrase": "「ただ……心配なのは隊員の方たちの安否です。\\n　せめてもう少し情報があれば……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -341,30 +342,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 23201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300e\u2015\u2015\u304a\u6025\u304e\u306a\u3055\u3044\u3002\u7686\u304c\u6551\u51fa\u3092\u5f85\u3063\u3066\u3044\u307e\u3059\u300f",
+    "Name": "？？？",
+    "Phrase": "『――お急ぎなさい。皆が救出を待っています』",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -378,30 +379,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 23201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30eb\u30ec\u30a2\u30f3",
-    "Phrase": "\u300c\u30e9\u30d4\u30e5\u30bb\u30eb\u2026\u2026\uff1f\\n\u3000\u63a2\u7d22\u90e8\u968a\u306f\u2026\u2026\u7686\u69d8\u306f\u7121\u4e8b\u306a\u306e\u3067\u3059\u306d\uff1f\uff01\u300d",
+    "Name": "オルレアン",
+    "Phrase": "「ラピュセル……？\\n　探索部隊は……皆様は無事なのですね？！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -415,30 +416,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 23201,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30e9\u30d4\u30e5\u30bb\u30eb",
-    "Phrase": "\u300e\u3048\u3048\u3001\u4eca\u306e\u3068\u3053\u308d\u306f\u3002\u305f\u3060\u3057\u5371\u6a5f\u306f\u53bb\u3063\u3066\u3044\u307e\u305b\u3093\u3002\\n\u3000\u51fa\u3067\u7acb\u3061\u306a\u3055\u3044\u3002\u5730\u56f3\u306b\u306a\u3044\u65e9\u9053\u3092\u884c\u304f\u306e\u3067\u3059\u3002\\n\u3000\u3055\u3042\u3001\u4e00\u523b\u3082\u65e9\u304f\u300f",
+    "Name": "ラピュセル",
+    "Phrase": "『ええ、今のところは。ただし危機は去っていません。\\n　出で立ちなさい。地図にない早道を行くのです。\\n　さあ、一刻も早く』",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -452,30 +453,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 23201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30eb\u30ec\u30a2\u30f3",
-    "Phrase": "\u300c\u5206\u304b\u308a\u307e\u3057\u305f\u3002\u2015\u2015\u30e9\u30d4\u30e5\u30bb\u30eb\u3001\u3042\u306a\u305f\u306e\u5c0e\u304f\u307e\u307e\u306b\u300d",
+    "Name": "オルレアン",
+    "Phrase": "「分かりました。――ラピュセル、あなたの導くままに」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -489,30 +490,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 23201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u632f\u308a\u5411\u3044\u305f\u30aa\u30eb\u30ec\u30a2\u30f3\u304c\u3001\u3044\u304d\u306a\u308a\u3053\u3061\u3089\u306e\u624b\u3092\u53d6\u3063\u305f\u3002",
+    "Phrase": "振り向いたオルレアンが、いきなりこちらの手を取った。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -526,30 +527,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 23201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30eb\u30ec\u30a2\u30f3",
-    "Phrase": "\u300c\u4eca\u3001\u300e\u9727\u306e\u8056\u5973\u300f\u306e\u58f0\u3092\u805e\u304d\u307e\u3057\u305f\u3002\\n\u3000\u751f\u5b58\u8005\u305f\u3061\u304c\u4eca\u3082\u5371\u6a5f\u306b\u7015\u3057\u3001\u79c1\u305f\u3061\u306e\u6551\u52a9\u3092\u5f85\u3063\u3066\u3044\u307e\u3059\u3002\\n\u3000\u6025\u304e\u307e\u3057\u3087\u3046\uff01\u300d",
+    "Name": "オルレアン",
+    "Phrase": "「今、『霧の聖女』の声を聞きました。\\n　生存者たちが今も危機に瀕し、私たちの救助を待っています。\\n　急ぎましょう！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -563,30 +564,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 23201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2026\u2026\u308f\u3001\u5206\u304b\u3063\u305f\u3002\\n\u6c17\u5727\u3055\u308c\u306a\u304c\u3089\u3082\u9837\u304f\u3068\u3001\\n\u30aa\u30eb\u30ec\u30a2\u30f3\u306f\u6211\u306b\u8fd4\u308a\u3001\u614c\u3066\u3066\u624b\u3092\u653e\u3057\u305f\u3002",
+    "Phrase": "……わ、分かった。\\n気圧されながらも頷くと、\\nオルレアンは我に返り、慌てて手を放した。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -600,30 +601,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 23201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30eb\u30ec\u30a2\u30f3",
-    "Phrase": "\u300c\u3082\u3001\u7533\u3057\u8a33\u3042\u308a\u307e\u305b\u3093\u3063\u3001\u3064\u3044\u2026\u2026\u3002\\n\u3000\u79c1\u3068\u3057\u305f\u3053\u3068\u304c\u3001\u3053\u3093\u306a\u2026\u2026\u306f\u3057\u305f\u306a\u3044\u3053\u3068\u3092\u300d",
+    "Name": "オルレアン",
+    "Phrase": "「も、申し訳ありませんっ、つい……。\\n　私としたことが、こんな……はしたないことを」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -637,30 +638,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 23201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30eb\u30ec\u30a2\u30f3",
-    "Phrase": "\u300c\u30b3\u30db\u30f3\u3001\u2026\u2026\u5931\u793c\u3044\u305f\u3057\u307e\u3057\u305f\u3002\\n\u3000\u79c1\u304c\u5148\u5c0e\u3057\u307e\u3059\u3002\u3044\u3056\u3001\u53c2\u308a\u307e\u3057\u3087\u3046\uff01\u300d",
+    "Name": "オルレアン",
+    "Phrase": "「コホン、……失礼いたしました。\\n　私が先導します。いざ、参りましょう！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -674,30 +675,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 23201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30aa\u30eb\u30ec\u30a2\u30f3\u304c\u98af\u723d\u3068\u6b69\u304d\u51fa\u3059\u3002\\n\u884c\u304f\u624b\u306b\u5e83\u304c\u308b\u671d\u713c\u3051\u304c\u3001\u8996\u754c\u306e\u3059\u3079\u3066\u3092\u7d05\u304f\u67d3\u3081\u3066\u3044\u305f\u3002",
+    "Phrase": "オルレアンが颯爽と歩き出す。\\n行く手に広がる朝焼けが、視界のすべてを紅く染めていた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -711,23 +712,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 23201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]
