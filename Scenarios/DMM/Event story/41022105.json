@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u6b7b\u970a\u305f\u3061\u306b\u6355\u3089\u3048\u3089\u308c\u305f\u304b\u3068\u601d\u3063\u305f\u3089\u3001\\n\u4eca\u5ea6\u306f\u30aa\u30a2\u30cf\u30ab\u304c\u6b7b\u970a\u305f\u3061\u306e\u738b\u306b\u306a\u308b\u3088\u3046\u304a\u9858\u3044\u3055\u308c\u305f\u3002",
+    "Phrase": "死霊たちに捕らえられたかと思ったら、\\n今度はオアハカが死霊たちの王になるようお願いされた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5f53\u306e\u30aa\u30a2\u30cf\u30ab\u306f\u7121\u7406\u3060\u3068\u8a00\u3044\u5f35\u3063\u305f\u304c\u3001\\n\u30a6\u30a9\u30fc\u30bf\u30fc\u30eb\u30fc\u3092\u7b46\u982d\u306b\u30b9\u30b1\u30eb\u30c8\u30f3\u305f\u3061\u304c\u52dd\u624b\u306a\u76db\u308a\u4e0a\u304c\u308a\u3092\u898b\u305b\u3001\\n\u65ad\u308a\u5207\u308c\u306a\u304f\u306a\u3063\u3066\u3057\u307e\u3063\u305f\u3088\u3046\u3060\u3063\u305f\u3002",
+    "Phrase": "当のオアハカは無理だと言い張ったが、\\nウォータールーを筆頭にスケルトンたちが勝手な盛り上がりを見せ、\\n断り切れなくなってしまったようだった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,21 +46,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30a2\u30cf\u30ab",
-    "Phrase": "\u300c\u79c1\u304c\u738b\u69d8\u306e\u9078\u6319\u306b\u51fa\u308b\u306a\u3093\u3066\u2026\u2026\u300d",
+    "Name": "オアハカ",
+    "Phrase": "「私が王様の選挙に出るなんて……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -73,30 +75,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 136201,
         "Position": 3,
         "Action": 0,
         "Emotion": 2,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30a6\u30a9\u30fc\u30bf\u30fc\u30eb\u30fc",
-    "Phrase": "\u300c\u30eb\u30fc\u304c\u7d76\u5bfe\u306b\u30aa\u30a2\u30cf\u30ab\u3092\u52dd\u305f\u305b\u3066\u3042\u3052\u308b\u304b\u3089\u306d\u3002\\n\u3000\u56f0\u3063\u305f\u3053\u3068\u304c\u3042\u3063\u305f\u3089\u4f55\u3067\u3082\u8a00\u3063\u3066\u266a\u300d",
+    "Name": "ウォータールー",
+    "Phrase": "「ルーが絶対にオアハカを勝たせてあげるからね。\\n　困ったことがあったら何でも言って♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -110,38 +112,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 79201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 136201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30a2\u30cf\u30ab",
-    "Phrase": "\u300c\u3067\u306f\u65e9\u901f\u3067\u3059\u304c\u3001\u56f0\u308a\u3054\u3068\u304c\u3042\u308a\u307e\u3059\u300d",
+    "Name": "オアハカ",
+    "Phrase": "「では早速ですが、困りごとがあります」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -155,38 +157,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 79201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 136201,
         "Position": 4,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30a6\u30a9\u30fc\u30bf\u30fc\u30eb\u30fc",
-    "Phrase": "\u300c\u306a\u306b\u306a\u306b\uff5e\uff1f\u300d",
+    "Name": "ウォータールー",
+    "Phrase": "「なになに～？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -200,38 +202,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 79201,
         "Position": 2,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 136201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30a2\u30cf\u30ab",
-    "Phrase": "\u300c\u4f55\u6545\u304b\u6b7b\u970a\u306e\u738b\u69d8\u9078\u6319\u306b\u51fa\u308b\u3053\u3068\u306b\u306a\u3063\u305f\u3093\u3067\u3059\u304c\u3001\\n\u3000\u4eca\u304b\u3089\u8f9e\u3081\u308b\u306b\u306f\u3069\u3046\u3057\u305f\u3089\u3044\u3044\u3067\u3057\u3087\u3046\u304b\u300d",
+    "Name": "オアハカ",
+    "Phrase": "「何故か死霊の王様選挙に出ることになったんですが、\\n　今から辞めるにはどうしたらいいでしょうか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -245,38 +247,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 79201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 136201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30a6\u30a9\u30fc\u30bf\u30fc\u30eb\u30fc",
-    "Phrase": "\u300c\u3048\u3063\u3068\u306d\u3001\u30eb\u30fc\u96e3\u3057\u304f\u3066\u3088\u304f\u308f\u304b\u3093\u306a\u3044\u306a\u30fc\u300d",
+    "Name": "ウォータールー",
+    "Phrase": "「えっとね、ルー難しくてよくわかんないなー」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -290,38 +292,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 79201,
         "Position": 2,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 136201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30a2\u30cf\u30ab",
-    "Phrase": "\u300c\u3042\u3063\u3001\u30a6\u30a9\u30fc\u30bf\u30fc\u30eb\u30fc\u5f85\u3063\u3066\u4e0b\u3055\u3044\u2015\u2015\u3063\u3066\u3001\\n\u3000\u884c\u3063\u3066\u3057\u307e\u308f\u308c\u307e\u3057\u305f\u2026\u2026\u300d",
+    "Name": "オアハカ",
+    "Phrase": "「あっ、ウォータールー待って下さい――って、\\n　行ってしまわれました……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -335,38 +337,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 79201,
         "Position": 2,
         "Action": 6,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 136201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30a2\u30cf\u30ab",
-    "Phrase": "\u300c\u30e4\u30af\u30fc\u30c4\u30af\u3055\u3093\u3068\u30d9\u30b9\u30c1\u30e3\u3055\u3093\u306f\u3001\\n\u3000\u79c1\u306b\u306f\u8377\u304c\u91cd\u3044\u3063\u3066\u601d\u3044\u307e\u3059\u3088\u306d\uff1f\\n\u3000\u305d\u308c\u306b\u79c1\u305f\u3061\u306b\u306f\u5e7b\u9727\u3092\u6674\u3089\u3059\u4efb\u52d9\u304c\u3042\u308b\u308f\u3051\u3067\u3059\u304b\u3089\u3001\\n\u3000\u5f15\u304d\u53d7\u3051\u3089\u308c\u308b\u72b6\u6cc1\u3058\u3083\u306a\u3044\u3063\u3066\u601d\u3044\u307e\u3059\u3088\u306d\uff1f\u300d",
+    "Name": "オアハカ",
+    "Phrase": "「ヤクーツクさんとベスチャさんは、\\n　私には荷が重いって思いますよね？\\n　それに私たちには幻霧を晴らす任務があるわけですから、\\n　引き受けられる状況じゃないって思いますよね？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -380,30 +382,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 136201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u81ea\u4fe1\u3092\u6301\u3061\u306a\u3055\u3044\u3001\u30aa\u30a2\u30cf\u30ab\u306a\u3089\u3067\u304d\u308b\u308f\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「自信を持ちなさい、オアハカならできるわ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -417,38 +419,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u306f\u3044\u3002\u30aa\u30a2\u30cf\u30ab\u3055\u3093\u306a\u3089\u5fc5\u305a\u3084\u738b\u69d8\u306b\u306a\u308c\u307e\u3059\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「はい。オアハカさんなら必ずや王様になれます」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -462,38 +464,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30a2\u30cf\u30ab",
-    "Phrase": "\u300c\u3042\u308c\u3001\u4e88\u60f3\u5916\u306e\u53cd\u5fdc\u306a\u3093\u3067\u3059\u3051\u3069\uff01\uff1f\u300d",
+    "Name": "オアハカ",
+    "Phrase": "「あれ、予想外の反応なんですけど！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -507,30 +509,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 136201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30a2\u30cf\u30ab",
-    "Phrase": "\u300c\u307e\u307e\u307e\u3001\u5f85\u3063\u3066\u4e0b\u3055\u3044\u3002\\n\u3000\u3044\u3063\u305f\u3044\u3069\u3046\u3057\u3061\u3083\u3063\u305f\u3093\u3067\u3059\u304b\u3001\\n\u3000\u304a\u3075\u305f\u308a\u307e\u3067\u79c1\u3092\u6b7b\u970a\u306e\u738b\u69d8\u306b\u3057\u305f\u3044\u3093\u3067\u3059\u304b\u300d",
+    "Name": "オアハカ",
+    "Phrase": "「ままま、待って下さい。\\n　いったいどうしちゃったんですか、\\n　おふたりまで私を死霊の王様にしたいんですか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -544,30 +546,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 136201,
         "Position": 3,
         "Action": 1,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u3044\u3048\u3001\u30aa\u30a2\u30cf\u30ab\u3055\u3093\u304c\u7acb\u5019\u88dc\u3057\u3066\u304f\u308c\u308c\u3070\u3001\\n\u3000\u79c1\u305f\u3061\u3082\u3053\u306e\u7262\u5c4b\u304b\u3089\u51fa\u3089\u308c\u308b\u3068\u601d\u3044\u307e\u3057\u3066\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「いえ、オアハカさんが立候補してくれれば、\\n　私たちもこの牢屋から出られると思いまして」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -581,38 +583,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 2,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u305d\u3046\u305d\u3046\u3002\\n\u3000\u738b\u69d8\u306e\u7acb\u5019\u88dc\u8005\u306a\u3089\u5802\u3005\u3068\u6b69\u304d\u56de\u308c\u308b\u306f\u305a\u3088\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「そうそう。\\n　王様の立候補者なら堂々と歩き回れるはずよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -626,38 +628,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30a2\u30cf\u30ab",
-    "Phrase": "\u300c\u305f\u3001\u78ba\u304b\u306b\u8131\u51fa\u3059\u308b\u5343\u8f09\u4e00\u9047\u306e\u30c1\u30e3\u30f3\u30b9\u3067\u3059\u3051\u3069\u300d",
+    "Name": "オアハカ",
+    "Phrase": "「た、確かに脱出する千載一遇のチャンスですけど」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -671,30 +673,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 136201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u4f55\u3088\u30aa\u30a2\u30cf\u30ab\u3001\u3042\u3093\u305f\u6b7b\u970a\u5acc\u3044\u306a\u306e\uff1f\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「何よオアハカ、あんた死霊嫌いなの？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -708,38 +710,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 136201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30a2\u30cf\u30ab",
-    "Phrase": "\u300c\u305d\u3093\u306a\u3053\u3068\u306f\u3042\u308a\u307e\u305b\u3093\u3002\\n\u3000\u79c1\u306f\u6b7b\u8005\u306e\u970a\u306b\u6551\u308f\u308c\u3066\u3001\u7acb\u3061\u76f4\u308b\u3053\u3068\u304c\u3067\u304d\u305f\u8eab\u3067\u3059\u3002\\n\u3000\u5acc\u3044\u306b\u306a\u3093\u3066\u306a\u308b\u308f\u3051\u306a\u3044\u3058\u3083\u306a\u3044\u3067\u3059\u304b\u300d",
+    "Name": "オアハカ",
+    "Phrase": "「そんなことはありません。\\n　私は死者の霊に救われて、立ち直ることができた身です。\\n　嫌いになんてなるわけないじゃないですか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -753,38 +755,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 136201,
         "Position": 4,
         "Action": 2,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u3058\u3083\u3042\u3044\u3044\u3058\u3083\u306a\u3044\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「じゃあいいじゃない」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -798,38 +800,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 136201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30a2\u30cf\u30ab",
-    "Phrase": "\u300c\u3082\u3061\u308d\u3093\u3042\u306e\u512a\u3057\u3044\u6b7b\u970a\u305f\u3061\u3092\u52a9\u3051\u305f\u3044\u3067\u3059\u3088\uff1f\\n\u3000\u3067\u3082\u751f\u8005\u306b\u306f\u751f\u8005\u306e\u3001\u6b7b\u8005\u306b\u306f\u6b7b\u8005\u306e\u4f4f\u3080\u4e16\u754c\u304c\u3042\u308b\u3093\u3067\u3059\u3002\\n\u3000\u305d\u3053\u306f\u304d\u3063\u3061\u308a\u5206\u3051\u3066\u8003\u3048\u306a\u3044\u3068\u3001\\n\u3000\u7d50\u5c40\u3069\u3061\u3089\u3082\u4e0d\u5e78\u306b\u306a\u3063\u3066\u3057\u307e\u3046\u3093\u3067\u3059\u3088\u300d",
+    "Name": "オアハカ",
+    "Phrase": "「もちろんあの優しい死霊たちを助けたいですよ？\\n　でも生者には生者の、死者には死者の住む世界があるんです。\\n　そこはきっちり分けて考えないと、\\n　結局どちらも不幸になってしまうんですよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -843,38 +845,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 136201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30a2\u30cf\u30ab",
-    "Phrase": "\u300c\u305d\u308c\u306b\u3001\u79c1\u306b\u5f7c\u3089\u306e\u738b\u69d8\u306b\u306a\u308c\u308b\u5668\u306a\u3093\u3066\u3042\u308a\u307e\u305b\u3093\u3002\\n\u3000\u52a9\u3051\u3089\u308c\u3066\u308b\u306e\u306f\u3044\u3064\u3060\u3063\u3066\u79c1\u306a\u3093\u3067\u3059\u304b\u3089\u2026\u2026\u300d",
+    "Name": "オアハカ",
+    "Phrase": "「それに、私に彼らの王様になれる器なんてありません。\\n　助けられてるのはいつだって私なんですから……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -888,38 +890,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 136201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u3060\u304b\u3089\u3053\u305d\u3088\u3002\\n\u3000\u4eca\u56de\u304c\u6b7b\u8005\u306b\u6069\u8fd4\u3057\u3059\u308b\u30c1\u30e3\u30f3\u30b9\u3060\u3068\u601d\u3048\u3070\u3044\u3044\u306e\u3002\\n\u3000\u3042\u3093\u305f\u304c\u7acb\u5019\u88dc\u3059\u308c\u3070\u3001\u305f\u3068\u3048\u843d\u9078\u3057\u3066\u3082\u6b7b\u970a\u305f\u3061\u306f\u559c\u3076\u306f\u305a\u3088\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「だからこそよ。\\n　今回が死者に恩返しするチャンスだと思えばいいの。\\n　あんたが立候補すれば、たとえ落選しても死霊たちは喜ぶはずよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -933,38 +935,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 136201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30a2\u30cf\u30ab",
-    "Phrase": "\u300c\u4e07\u304c\u4e00\u306b\u3082\u79c1\u304c\u5f53\u9078\u3057\u3061\u3083\u3063\u305f\u3089\u3069\u3046\u3059\u308b\u3093\u3067\u3059\u304b\u300d",
+    "Name": "オアハカ",
+    "Phrase": "「万が一にも私が当選しちゃったらどうするんですか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -978,38 +980,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 136201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u4eca\u306e\u738b\u4ee5\u5916\u3067\u3001\\n\u3000\u3044\u3061\u3070\u3093\u30aa\u30a2\u30cf\u30ab\u3055\u3093\u304c\u4fe1\u983c\u3067\u304d\u308b\u6b7b\u970a\u306b\u738b\u4f4d\u3092\u8b72\u308c\u3070\u3044\u3044\u3093\u3067\u3059\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「今の王以外で、\\n　いちばんオアハカさんが信頼できる死霊に王位を譲ればいいんです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1023,30 +1025,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u305d\u3046\u3044\u3046\u3053\u3068\u266a\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「そういうこと♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1060,30 +1062,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30a2\u30cf\u30ab",
-    "Phrase": "\u300c\u306a\u3001\u306a\u308b\u307b\u3069\u3002\\n\u3000\u305d\u3046\u3059\u308c\u3070\u7c97\u66b4\u306a\u4eca\u306e\u738b\u304b\u3089\u306f\u89e3\u653e\u3055\u308c\u307e\u3059\u306d\u300d",
+    "Name": "オアハカ",
+    "Phrase": "「な、なるほど。\\n　そうすれば粗暴な今の王からは解放されますね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1097,30 +1099,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 136201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u3044\u3044\uff1f\u3000\u30ad\u30c4\u30a4\u3053\u3068\u8a00\u3046\u3051\u3069\u3001\\n\u3000\u30aa\u30a2\u30cf\u30ab\u304c\u7acb\u5019\u88dc\u3057\u306a\u3051\u308c\u3070\u79c1\u305f\u3061\u306f\u3053\u3053\u3067\u7d42\u308f\u308a\u306a\u306e\u3088\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「いい？　キツイこと言うけど、\\n　オアハカが立候補しなければ私たちはここで終わりなのよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1134,38 +1136,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u4f55\u306e\u305f\u3081\u306b\u79c1\u305f\u3061\u304c\u751f\u304b\u3055\u308c\u3066\u3044\u308b\u304b\u306f\u4e0d\u660e\u3067\u3059\u304c\u3001\\n\u3000\u3044\u3044\u3053\u3068\u3067\u306a\u3044\u306e\u306f\u78ba\u304b\u3067\u3059\u3002\\n\u3000\u8eab\u52dd\u624b\u304b\u3082\u3057\u308c\u307e\u305b\u3093\u304c\u3001\\n\u3000\u5168\u54e1\u3067\u52a9\u304b\u308b\u305f\u3081\u306b\u3069\u3046\u304b\u304a\u9858\u3044\u3044\u305f\u3057\u307e\u3059\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「何のために私たちが生かされているかは不明ですが、\\n　いいことでないのは確かです。\\n　身勝手かもしれませんが、\\n　全員で助かるためにどうかお願いいたします」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1179,38 +1181,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30e4\u30af\u30fc\u30c4\u30af\u3068\u30d9\u30b9\u30c1\u30e3\u304c\u307e\u3063\u3059\u3050\u306b\u30aa\u30a2\u30cf\u30ab\u3092\u898b\u3064\u3081\u308b\u3002",
+    "Phrase": "ヤクーツクとベスチャがまっすぐにオアハカを見つめる。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1224,38 +1226,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3093\u306a\uff12\u4eba\u3092\u898b\u3066\u30aa\u30a2\u30cf\u30ab\u306f\u56f0\u3063\u305f\u3088\u3046\u306a\u8868\u60c5\u3092\u6d6e\u304b\u3079\u3066\u3044\u305f\u304c\u3001\\n\u3084\u304c\u3066\u3001\u610f\u3092\u6c7a\u3057\u305f\u3088\u3046\u306b\u9784\u304b\u3089\u6c34\u6676\u306e\u30c9\u30af\u30ed\u3092\u53d6\u308a\u51fa\u3057\u305f\u3002",
+    "Phrase": "そんな２人を見てオアハカは困ったような表情を浮かべていたが、\\nやがて、意を決したように鞄から水晶のドクロを取り出した。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1269,30 +1271,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 136201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30a2\u30cf\u30ab",
-    "Phrase": "\u300c\u306d\u3048\u304a\u6bcd\u3055\u3093\u3001\u3069\u3046\u601d\u3046\uff1f\\n\u3000\u79c1\u3001\u3084\u308c\u308b\u304b\u306a\u3042\uff1f\u300d",
+    "Name": "オアハカ",
+    "Phrase": "「ねえお母さん、どう思う？\\n　私、やれるかなあ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1306,30 +1308,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 136201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30a2\u30cf\u30ab",
-    "Phrase": "\u300c\u300e\u30aa\u30a2\u30cf\u30ab\u3001\u3042\u306a\u305f\u306a\u3089\u5927\u4e08\u592b\u3002\\n\u3000\u304d\u3063\u3068\u6210\u3057\u9042\u3052\u3089\u308c\u308b\u306f\u305a\u3060\u308f\u300f\u300d",
+    "Name": "オアハカ",
+    "Phrase": "「『オアハカ、あなたなら大丈夫。\\n　きっと成し遂げられるはずだわ』」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1343,30 +1345,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 136201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30a2\u30cf\u30ab",
-    "Phrase": "\u300c\u305d\u3063\u304b\u2026\u2026\u3002\\n\u3000\u3042\u308a\u304c\u3068\u3001\u304a\u6bcd\u3055\u3093\u300d",
+    "Name": "オアハカ",
+    "Phrase": "「そっか……。\\n　ありがと、お母さん」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1380,30 +1382,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 136201,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u6c7a\u3057\u3066\u30c9\u30af\u30ed\u306b\u30aa\u30a2\u30cf\u30ab\u306e\u6bcd\u89aa\u306e\u970a\u304c\u5bbf\u3063\u3066\u3044\u308b\u308f\u3051\u3067\u306f\u306a\u3044\u3002\\n\u3053\u308c\u306f\u5f7c\u5973\u304c\u4ea1\u304d\u6bcd\u89aa\u3092\u6c42\u3081\u3066\u60f3\u50cf\u3092\u91cd\u306d\u305f\u7d50\u679c\u3001\\n\u751f\u307f\u51fa\u3055\u308c\u305f\u4e00\u4eba\u829d\u5c45\u306a\u306e\u3060\u3002",
+    "Phrase": "決してドクロにオアハカの母親の霊が宿っているわけではない。\\nこれは彼女が亡き母親を求めて想像を重ねた結果、\\n生み出された一人芝居なのだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1417,30 +1419,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 136201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 36,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305f\u3060\u3001\u305d\u308c\u304c\u5f7c\u5973\u306e\u5927\u304d\u306a\u652f\u3048\u306b\u306a\u3063\u3066\u3044\u308b\u306e\u306f\u4e8b\u5b9f\u3067\u3042\u308b\u3002",
+    "Phrase": "ただ、それが彼女の大きな支えになっているのは事実である。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1454,30 +1456,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 136201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 37,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30a2\u30cf\u30ab",
-    "Phrase": "\u300c\u5206\u304b\u308a\u307e\u3057\u305f\u3002\\n\u3000\u78ba\u304b\u306b\u79c1\u304c\u7acb\u5019\u88dc\u3057\u306a\u3051\u308c\u3070\u3001\\n\u3000\u79c1\u305f\u3061\u306f\u3053\u3053\u3092\u51fa\u3089\u308c\u307e\u305b\u3093\u3088\u306d\u300d",
+    "Name": "オアハカ",
+    "Phrase": "「分かりました。\\n　確かに私が立候補しなければ、\\n　私たちはここを出られませんよね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1491,30 +1493,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 136201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 38,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30a2\u30cf\u30ab",
-    "Phrase": "\u300c\u79c1\u306b\u3069\u3053\u307e\u3067\u3067\u304d\u308b\u304b\u306f\u5206\u304b\u308a\u307e\u305b\u3093\u304c\u3001\\n\u3000\u3084\u308b\u3060\u3051\u3084\u3063\u3066\u307f\u307e\u3059\u300d",
+    "Name": "オアハカ",
+    "Phrase": "「私にどこまでできるかは分かりませんが、\\n　やるだけやってみます」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1528,30 +1530,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 136201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 39,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u5927\u5909\u306a\u5f79\u76ee\u3092\u62bc\u3057\u4ed8\u3051\u3066\u3057\u307e\u3063\u3066\u3059\u307f\u307e\u305b\u3093\u3002\\n\u3000\u79c1\u305f\u3061\u3082\u5168\u529b\u3067\u30b5\u30dd\u30fc\u30c8\u3057\u307e\u3059\u304b\u3089\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「大変な役目を押し付けてしまってすみません。\\n　私たちも全力でサポートしますから」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1565,38 +1567,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 40,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u3048\u3048\u3002\u3042\u3093\u305f\u3060\u3051\u306b\u8eab\u4f53\u5f35\u3089\u305b\u308b\u306a\u3093\u3066\u3057\u306a\u3044\u304b\u3089\u5b89\u5fc3\u306a\u3055\u3044\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「ええ。あんただけに身体張らせるなんてしないから安心なさい」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1610,38 +1612,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 3,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 41,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30a2\u30cf\u30ab",
-    "Phrase": "\u300c\u983c\u308a\u306b\u3057\u3066\u307e\u3059\u304b\u3089\u306d\uff1f\u300d",
+    "Name": "オアハカ",
+    "Phrase": "「頼りにしてますからね？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1655,30 +1657,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 136201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 42,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30a2\u30cf\u30ab",
-    "Phrase": "\u300c\u3067\u306f\u79c1\u3001\u9811\u5f35\u308a\u307e\u3059\u3002\\n\u3000\u30a6\u30a9\u30fc\u30bf\u30fc\u30eb\u30fc\u3001\u7acb\u5019\u88dc\u3057\u307e\u3059\u306e\u3067\u305c\u3072\u624b\u4f1d\u3063\u3066\u4e0b\u3055\u3044\uff01\u300d",
+    "Name": "オアハカ",
+    "Phrase": "「では私、頑張ります。\\n　ウォータールー、立候補しますのでぜひ手伝って下さい！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1692,23 +1694,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 136201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3053\u306e\u6a4b\u3067\u7e4b\u304c\u3063\u3066\u3044\u308b\u96a3\u753a\u3078\u624b\u7d19\u3092\u5c4a\u3051\u306b\u3084\u3063\u3066\u6765\u305f\u304c\u3001\\n\u6a4b\u306f\u58ca\u308c\u3066\u3044\u305f\u4e0a\u306b\u3001\u73fe\u308c\u305f\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\u3068\u60f3\u5b9a\u5916\u306e\\n\u6226\u3044\u3092\u3059\u308b\u4e8b\u3068\u306a\u3063\u305f\u3002",
+    "Phrase": "この橋で繋がっている隣町へ手紙を届けにやって来たが、\\n橋は壊れていた上に、現れたミストモンスターと想定外の\\n戦いをする事となった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30ad\u30e5\u30e9\u30b9",
-    "Phrase": "\u300c\u3044\u3063\u3061\u3087\u3042\u304c\u308a\uff01\\n\u3000\u3042\u305f\u3057\u305f\u3061\u306b\u639b\u304b\u308c\u3070\u30df\u30b9\u30e2\u30f3\u306a\u3093\u3066\u3061\u3087\u308d\u3044\u3057\u3002\\n\u3000\u3067\u3082\u3001\u306a\u3093\u3067\u3053\u3093\u306a\u3068\u3053\u308d\u306b\u30df\u30b9\u30e2\u30f3\u304c\u51fa\u308b\u30ef\u30b1\uff1f\u300d",
+    "Name": "オキュラス",
+    "Phrase": "「いっちょあがり！\\n　あたしたちに掛かればミスモンなんてちょろいし。\\n　でも、なんでこんなところにミスモンが出るワケ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,38 +46,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 58201,
         "Position": 2,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 5,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 31201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u3060\u304b\u3089\u79c1\u306b\u805e\u304b\u308c\u3066\u3082\u7b54\u3048\u3089\u308c\u306a\u3044\u3088\uff1f\\n\u3000\u3055\u3059\u304c\u306b\u304a\u59c9\u3055\u3093\u3067\u3082\u5206\u304b\u3089\u306a\u3044\u3053\u3068\u306f\u3042\u308b\u3093\u3060\u3088\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「だから私に聞かれても答えられないよ？\\n　さすがにお姉さんでも分からないことはあるんだよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -90,38 +91,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 58201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 31201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30ad\u30e5\u30e9\u30b9",
-    "Phrase": "\u300c\u307e\u3042\u305d\u308a\u3083\u3042\u304a\u59c9\u3055\u3093\u95a2\u4fc2\u306a\u3044\u3051\u3069\u3055\u2026\u2026\u3002\\n\u3000\u3067\u3082\u3055\u3001\u9727\u306a\u3093\u304b\u3061\u3063\u3068\u3082\u306a\u3044\u306e\u306b\u5909\u3058\u3083\u306d\uff1f\u300d",
+    "Name": "オキュラス",
+    "Phrase": "「まあそりゃあお姉さん関係ないけどさ……。\\n　でもさ、霧なんかちっともないのに変じゃね？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -135,38 +136,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 58201,
         "Position": 2,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 31201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30e8\u30b7\u30ce",
-    "Phrase": "\u300c\u3042\u3063\u3061\u306b\u5012\u308c\u3066\u308b\u4eba\u304c\u3044\u308b\u306d\u3002\\n\u3000\u30e8\u30b7\u30ce\u3001\u3061\u3087\u3063\u3068\u304d\u3085\u3046\u3058\u3087\u3057\u3066\u304f\u308b\u300d",
+    "Name": "ヨシノ",
+    "Phrase": "「あっちに倒れてる人がいるね。\\n　ヨシノ、ちょっときゅうじょしてくる」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -180,30 +181,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u9003\u3052\u640d\u306d\u305f\u4eba\u304c\u3044\u305f\u3093\u3060\uff01\u3000\u52a9\u3051\u306a\u304d\u3083\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「逃げ損ねた人がいたんだ！　助けなきゃ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -217,30 +218,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30c9\u30fc\u30f4\u30a1\u30fc\u3068\u30aa\u30ad\u30e5\u30e9\u30b9\u3082\u30e8\u30b7\u30ce\u306e\u5f8c\u3092\u8d70\u308a\u51fa\u3059\u3002\\n\u6a4b\u306e\u4fee\u7406\u3092\u3057\u3066\u3044\u305f\u5de5\u4e8b\u4eba\u306e\u3072\u3068\u308a\u306a\u306e\u304b\u3001\\n\u6070\u5e45\u306e\u3088\u3044\u7537\u6027\u304c\u5012\u308c\u3066\u3044\u308b\u306e\u3092\u898b\u3064\u3051\u305f\u3002",
+    "Phrase": "ドーヴァーとオキュラスもヨシノの後を走り出す。\\n橋の修理をしていた工事人のひとりなのか、\\n恰幅のよい男性が倒れているのを見つけた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -254,21 +255,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30ad\u30e5\u30e9\u30b9",
-    "Phrase": "\u300c\u3061\u3087\u3001\u304a\u3063\u3061\u3083\u3093\u5927\u4e08\u592b\uff1f\\n\u3000\u751f\u304d\u3066\u308b\uff1f\u3000\u751f\u304d\u3066\u305f\u3089\u8fd4\u4e8b\u3059\u308b\u3057\uff01\u300d",
+    "Name": "オキュラス",
+    "Phrase": "「ちょ、おっちゃん大丈夫？\\n　生きてる？　生きてたら返事するし！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -282,30 +284,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 58201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30e8\u30b7\u30ce",
-    "Phrase": "\u300c\u30aa\u30ad\u30e5\u30e9\u30b9\u304c\u895f\u3092\u63b4\u3093\u3067\u304f\u3073\u3092\u3057\u3081\u3066\u308b\u304b\u3089\\n\u3000\u3057\u3083\u3079\u308c\u306a\u3044\u3093\u3060\u3088\u300d",
+    "Name": "ヨシノ",
+    "Phrase": "「オキュラスが襟を掴んでくびをしめてるから\\n　しゃべれないんだよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -319,38 +321,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 58201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30ad\u30e5\u30e9\u30b9",
-    "Phrase": "\u300c\u3054\u3001\u3054\u3081\u3093\u3054\u3081\u3093\uff01\\n\u3000\u3048\uff1f\u3000\u8170\u304c\u629c\u3051\u305f\u3060\u3051\u3060\u3063\u3066\uff1f\\n\u3000\u306a\u306b\u3088\u3001\u5fc3\u914d\u3055\u305b\u3093\u306a\u3057\uff01\u300d",
+    "Name": "オキュラス",
+    "Phrase": "「ご、ごめんごめん！\\n　え？　腰が抜けただけだって？\\n　なによ、心配させんなし！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -364,38 +366,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 58201,
         "Position": 4,
         "Action": 5,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u8a71\u3092\u805e\u3044\u305f\u3068\u3053\u308d\u3001\u30aa\u30ad\u30e5\u30e9\u30b9\u306b\u52a9\u3051\u8d77\u3053\u3055\u308c\u305f\u7537\u6027\u3053\u305d\u304c\u3001\\n\u5de5\u5834\u3067\u4f1a\u3048\u306a\u304b\u3063\u305f\u5de5\u5834\u9577\u305d\u306e\u4eba\u3060\u3063\u305f\u3002\u6a4b\u304c\u640d\u58ca\u3057\u305f\u5831\u544a\u3092\u53d7\u3051\u3066\u3001\\n\u4fee\u5fa9\u306e\u898b\u7a4d\u3082\u308a\u305f\u3081\u306b\u90e8\u4e0b\u3092\u3072\u3068\u308a\u9023\u308c\u3066\u898b\u306b\u6765\u305f\u3068\u8a00\u3046\u3002",
+    "Phrase": "話を聞いたところ、オキュラスに助け起こされた男性こそが、\\n工場で会えなかった工場長その人だった。橋が損壊した報告を受けて、\\n修復の見積もりために部下をひとり連れて見に来たと言う。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -409,21 +411,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3067\u3001\u6700\u4f4e\u9650\u4eba\u304c\u901a\u308c\u308b\u3088\u3046\u306b\u7c21\u6613\u306a\u4fee\u7406\u3092\u3059\u308b\u3064\u3082\u308a\u3060\u3063\u305f\u3068\u304b\u3002\\n\u3053\u306e\u6a4b\u304c\u4f7f\u3048\u306a\u3044\u3068\u96a3\u753a\u3068\u306e\u884c\u304d\u6765\u304c\u51fa\u6765\u305a\u3001\\n\u30cb\u30b7\u30ad\u306b\u901a\u3044\u3067\u50cd\u304f\u4eba\u305f\u3061\u304c\u56f0\u308b\u3068\u306e\u3053\u3068\u3060\u3002",
+    "Phrase": "で、最低限人が通れるように簡易な修理をするつもりだったとか。\\nこの橋が使えないと隣町との行き来が出来ず、\\nニシキに通いで働く人たちが困るとのことだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -437,21 +440,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30ad\u30e5\u30e9\u30b9",
-    "Phrase": "\u300c\u4ed6\u306b\u30b1\u30ac\u4eba\u306f\u3044\u306a\u3055\u305d\u3046\u3060\u3057\u3001\\n\u3000\u3068\u308a\u307e\u304a\u3063\u3061\u3083\u3093\u3092\u9023\u308c\u3066\u753a\u307e\u3067\u623b\u308d\u3046\u3088\u3002\\n\u3000\u3042\u30fc\u3001\u9003\u3052\u305f\u3055\u3063\u304d\u306e\u304a\u5144\u3061\u3083\u3093\u3068\u3082\u5408\u6d41\u3057\u306a\u304d\u3083\u300d",
+    "Name": "オキュラス",
+    "Phrase": "「他にケガ人はいなさそうだし、\\n　とりまおっちゃんを連れて町まで戻ろうよ。\\n　あー、逃げたさっきのお兄ちゃんとも合流しなきゃ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -465,30 +469,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 58201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5fc5\u6b7b\u3067\u9003\u3052\u305f\u306e\u3060\u308d\u3046\u3002\u6a4b\u3067\u3059\u308c\u9055\u3063\u305f\u9752\u5e74\u306e\u59ff\u306f\\n\u3053\u3053\u304b\u3089\u3067\u306f\u898b\u3048\u306a\u3044\u3002",
+    "Phrase": "必死で逃げたのだろう。橋ですれ違った青年の姿は\\nここからでは見えない。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -502,21 +506,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5de5\u5834\u9577\u306b\u80a9\u3092\u8cb8\u3057\u3001\u5143\u6765\u305f\u65b9\u5411\u3078\u623b\u3063\u3066\u3044\u304f\u3002\\n\u305d\u306e\u9014\u4e2d\u3001\u5730\u9762\u306b\u843d\u3061\u3066\u3044\u305f\u4f55\u304b\u306b\u6c17\u4ed8\u3044\u305f\u30c9\u30fc\u30f4\u30a1\u30fc\u304c\\n\u305d\u308c\u3092\u62fe\u3044\u4e0a\u3052\u305f\u3002",
+    "Phrase": "工場長に肩を貸し、元来た方向へ戻っていく。\\nその途中、地面に落ちていた何かに気付いたドーヴァーが\\nそれを拾い上げた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -530,21 +535,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u306a\u3093\u3060\u308d\u3001\u3053\u308c\uff1f\\n\u3000\u3059\u3063\u3054\u3044\u30ad\u30ec\u30a4\u306a\u7389\u304c\u843d\u3061\u3066\u305f\u3093\u3060\u3051\u3069\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「なんだろ、これ？\\n　すっごいキレイな玉が落ちてたんだけど」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -558,30 +564,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 5,
         "Emotion": 8,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30ad\u30e5\u30e9\u30b9",
-    "Phrase": "\u300c\u3093\u3001\u898b\u305b\u3066\u898b\u305b\u3066\u3002\u30ac\u30e9\u30b9\u3063\u307d\u3044\u611f\u3058\u3060\u306d\u3002\\n\u3000\u3046\u3063\u3059\u3089\u4e2d\u5fc3\u3067\u708e\u307f\u305f\u3044\u306a\u306e\u304c\u63fa\u308c\u3066\u308b\u2026\u2026\uff1f\\n\u3000\u3053\u3093\u306a\u306e\u898b\u305f\u30b3\u30c8\u306a\u3044\u306a\u300d",
+    "Name": "オキュラス",
+    "Phrase": "「ん、見せて見せて。ガラスっぽい感じだね。\\n　うっすら中心で炎みたいなのが揺れてる……？\\n　こんなの見たコトないな」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -595,38 +601,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 58201,
         "Position": 4,
         "Action": 7,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30ad\u30e5\u30e9\u30b9",
-    "Phrase": "\u300c\u30e8\u30b7\u30ce\u3063\u3061\u306f\u3053\u308c\u3001\u4f55\u304b\u77e5\u3063\u3066\u308b\uff1f\u300d",
+    "Name": "オキュラス",
+    "Phrase": "「ヨシノっちはこれ、何か知ってる？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -640,38 +646,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 58201,
         "Position": 4,
         "Action": 8,
         "Emotion": 8,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30e8\u30b7\u30ce",
-    "Phrase": "\u300c\u30e8\u30b7\u30ce\u306f\u3057\u3089\u306a\u3044\u3002\u3067\u3082\u304d\u308c\u3044\u2026\u2026\u300d",
+    "Name": "ヨシノ",
+    "Phrase": "「ヨシノはしらない。でもきれい……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -685,38 +691,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 2,
         "Action": 2,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 58201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u3053\u308c\u3001\u304d\u3063\u3068\u843d\u3068\u3057\u305f\u4eba\u304c\u63a2\u3057\u3066\u308b\u3088\u306d\u3002\\n\u3000\u843d\u3068\u3057\u7269\u3068\u3057\u3066\u5c4a\u3051\u306a\u304d\u3083\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「これ、きっと落とした人が探してるよね。\\n　落とし物として届けなきゃ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -730,30 +736,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u3063\u3066\u3001\u306a\u3041\u306b\u5de5\u5834\u9577\u3055\u3093\uff1f\u3000\u9752\u3044\u9854\u3057\u3066\u3053\u3063\u3061\u3092\u6307\u3055\u3057\u3066\u3002\\n\u3000\u3053\u306e\u7389\u306a\u3089\u3061\u3083\u3093\u3068\u843d\u3068\u3057\u4e3b\u306b\u2026\u2026\u3048\u3001\u5f8c\u308d\uff1f\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「って、なぁに工場長さん？　青い顔してこっちを指さして。\\n　この玉ならちゃんと落とし主に……え、後ろ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -767,30 +773,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5de5\u5834\u9577\u304c\u6307\u3055\u3057\u3066\u3044\u305f\u306e\u306f\u3001\u30c9\u30fc\u30f4\u30a1\u30fc\u304c\u6301\u3063\u3066\u3044\u305f\u7389\u3067\u306f\u306a\u304b\u3063\u305f\u3002\\n\u305d\u306e\u5411\u3053\u3046\u3001\u6211\u3005\u306e\u80cc\u5f8c\u306b\u73fe\u308c\u305f\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u6307\u3055\u3057\u3066\u3044\u305f\u306e\u3060\u3002",
+    "Phrase": "工場長が指さしていたのは、ドーヴァーが持っていた玉ではなかった。\\nその向こう、我々の背後に現れたミストモンスターを指さしていたのだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -804,30 +810,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u73fe\u308c\u305f\u77ac\u9593\u3001\u4f55\u3082\u306a\u304b\u3063\u305f\u6a4b\u306e\u4e0a\u306b\u3046\u3063\u3059\u3089\u3068\u9727\u304c\u305f\u306a\u3073\u3044\u305f\u6c17\u304c\u3057\u305f\u3002",
+    "Phrase": "現れた瞬間、何もなかった橋の上にうっすらと霧がたなびいた気がした。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -841,30 +847,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u3042\u30fc\uff01\u3000\u307e\u305f\u51fa\u305f\u306d\u3001\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\uff01\\n\u3000\u3082\u3046\u3069\u3063\u304b\u3089\u73fe\u308c\u308b\u306e\uff1f\u3000\u9727\u306a\u3093\u3066\u306a\u3044\u306e\u306b\uff5e\uff01\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「あー！　また出たね、ミストモンスター！\\n　もうどっから現れるの？　霧なんてないのに～！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -878,30 +884,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 31201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30c9\u30fc\u30f4\u30a1\u30fc\u306e\u8a00\u3046\u901a\u308a\u3001\u4eca\u306f\u9727\u306a\u3093\u3066\u3069\u3053\u306b\u3082\u898b\u3048\u306a\u3044\u3002\\n\u3042\u308c\u306f\u898b\u9593\u9055\u3044\u3060\u3063\u305f\u306e\u3060\u308d\u3046\u304b\u2026\u2026\uff1f",
+    "Phrase": "ドーヴァーの言う通り、今は霧なんてどこにも見えない。\\nあれは見間違いだったのだろうか……？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -915,30 +921,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u518d\u3073\u8170\u3092\u629c\u304b\u3057\u305f\u5de5\u5834\u9577\u3092\u5f15\u3063\u5f35\u3063\u3066\u5f8c\u65b9\u306b\u4e0b\u304c\u308b\u3002",
+    "Phrase": "再び腰を抜かした工場長を引っ張って後方に下がる。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -952,30 +958,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
-    "Name": "\u30e8\u30b7\u30ce",
-    "Phrase": "\u300c\u30c9\u30fc\u30f4\u30a1\u30fc\u306e\u65b9\u3070\u304b\u308a\u898b\u3066\u308b\u3051\u3069\u3001\\n\u3000\u3082\u3057\u304b\u3057\u3066\u3055\u3063\u304d\u62fe\u3063\u305f\u7389\u304c\u76ee\u5f53\u3066\uff1f\u300d",
+    "Name": "ヨシノ",
+    "Phrase": "「ドーヴァーの方ばかり見てるけど、\\n　もしかしてさっき拾った玉が目当て？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -989,38 +995,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 2,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 1,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 31201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
-    "Name": "\u30c9\u30fc\u30f4\u30a1\u30fc",
-    "Phrase": "\u300c\u7389\u3082\u6e21\u3055\u306a\u3044\u3057\u3001\u5de5\u4e8b\u306e\u4eba\u305f\u3061\u3092\u6016\u304c\u3089\u305b\u308b\u306e\u3082\u30c0\u30e1\u3060\u3082\u3093\uff01\\n\u3000\u305d\u3093\u306a\u60aa\u3044\u5b50\u306f\u3001\u304a\u59c9\u3055\u3093\u304c\u304a\u4ed5\u7f6e\u304d\u3057\u3061\u3083\u3046\u3093\u3060\u304b\u3089\uff01\u300d",
+    "Name": "ドーヴァー",
+    "Phrase": "「玉も渡さないし、工事の人たちを怖がらせるのもダメだもん！\\n　そんな悪い子は、お姉さんがお仕置きしちゃうんだから！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1034,31 +1040,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 31201,
         "Position": 4,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

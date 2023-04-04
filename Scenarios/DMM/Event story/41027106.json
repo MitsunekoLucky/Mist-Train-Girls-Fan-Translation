@@ -1,1 +1,2463 @@
-{"MSceneId": 41027106, "MSceneDetailViewModel": [{"GroupOrder": 1, "ViewOrder": 1, "Name": "", "Phrase": "\u30a2\u30af\u30b7\u30c7\u30f3\u30c8\u306b\u3088\u3063\u3066\u3001\u521d\u4ee3\u30b7\u30e2\u30a2\u30de\u30c5\u306e\u5ca9\u6238\u306b\u7a81\u5982\u51fa\u73fe\u3057\u305f\u7570\u7a7a\u9593\u3002\\n\u3053\u306e\u307e\u307e\u3067\u306f\u73fe\u5b9f\u3078\u306e\u88ab\u5bb3\u304c\u5371\u60e7\u3055\u308c\u305f\u304c\u3001\\n\u521d\u4ee3\u30b7\u30e2\u30a2\u30de\u30c5\u3044\u308f\u304f\u300e\u7a00\u306b\u983b\u7e41\u300f\u3060\u305d\u3046\u3067\u3001\\n\u51fa\u73fe\u3059\u308b\u305f\u3073\u306b\u5f7c\u5973\u304c\u51e6\u7406\u3057\u3066\u3044\u308b\u3089\u3057\u3044\u3002", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 0, "FrameImage": 0, "VoiceFileName": "", "BackgroundImage": "128400", "BGM": "adv_nishiki", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u30a2\u30af\u30b7\u30c7\u30f3\u30c8\u306b\u3088\u3063\u3066\u3001<ruby><rb>\u521d\u4ee3</rb><rt>\u3057\u3087\u3060\u3044</rt></ruby>\u30b7\u30e2\u30a2\u30de\u30c5\u306e<ruby><rb>\u5ca9\u6238</rb><rt>\u3044\u308f\u3068</rt></ruby>\u306b<ruby><rb>\u7a81\u5982</rb><rt>\u3068\u3064\u3058\u3087</rt></ruby><ruby><rb>\u51fa\u73fe</rb><rt>\u3057\u3085\u3064\u3052\u3093</rt></ruby>\u3057\u305f<ruby><rb>\u7570</rb><rt>\u3044</rt></ruby><ruby><rb>\u7a7a\u9593</rb><rt>\u304f\u3046\u304b\u3093</rt></ruby>\u3002\uff0a\u3053\u306e\u307e\u307e\u3067\u306f<ruby><rb>\u73fe\u5b9f</rb><rt>\u3052\u3093\u3058\u3064</rt></ruby>\u3078\u306e<ruby><rb>\u88ab\u5bb3</rb><rt>\u3072\u304c\u3044</rt></ruby>\u304c<ruby><rb>\u5371\u60e7</rb><rt>\u304d\u3050</rt></ruby>\u3055\u308c\u305f\u304c\u3001\uff0a<ruby><rb>\u521d\u4ee3</rb><rt>\u3057\u3087\u3060\u3044</rt></ruby>\u30b7\u30e2\u30a2\u30de\u30c5\u3044\u308f\u304f\u300e<ruby><rb>\u7a00</rb><rt>\u307e\u308c</rt></ruby>\u306b<ruby><rb>\u983b\u7e41</rb><rt>\u3072\u3093\u3071\u3093</rt></ruby>\u300f\u3060\u305d\u3046\u3067\u3001\uff0a<ruby><rb>\u51fa\u73fe</rb><rt>\u3057\u3085\u3064\u3052\u3093</rt></ruby>\u3059\u308b\u305f\u3073\u306b<ruby><rb>\u5f7c\u5973</rb><rt>\u304b\u306e\u3058\u3087</rt></ruby>\u304c<ruby><rb>\u51e6\u7406</rb><rt>\u3057\u3087\u308a</rt></ruby>\u3057\u3066\u3044\u308b\u3089\u3057\u3044\u3002</div></div>"}, {"GroupOrder": 2, "ViewOrder": 1, "Name": "", "Phrase": "\u3060\u304c\u4eca\u56de\u306f\u5f1f\u5b50\u306e\u30de\u30ad\u306e\u300e\u5e2b\u5320\u306e\u624b\u3092\u7169\u308f\u305b\u305f\u304f\u306a\u3044\u300f\u3068\u3044\u3046\u60f3\u3044\u304b\u3089\u3001\\n\u5f7c\u5973\u304c\u51e6\u7406\u3092\u3059\u308b\u3053\u3068\u306b\u306a\u3063\u305f\u3002\\n\u305d\u3053\u3067\u30e8\u30b7\u30ce\u3068\u30b7\u30e2\u30a2\u30de\u30c5\u3068\u3053\u3061\u3089\u3067\u4e00\u7dd2\u306b\u624b\u4f1d\u3046\u3053\u3068\u306b\u3057\u305f\u306e\u3060\u304c\u3001\\n\u5185\u90e8\u306f\u4e88\u60f3\u4ee5\u4e0a\u306b\u5371\u967a\u306a\u7a7a\u9593\u3060\u3063\u305f\u3002", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 0, "FrameImage": 0, "VoiceFileName": "", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u3060\u304c<ruby><rb>\u4eca\u56de</rb><rt>\u3053\u3093\u304b\u3044</rt></ruby>\u306f<ruby><rb>\u5f1f\u5b50</rb><rt>\u3067\u3057</rt></ruby>\u306e\u30de\u30ad\u306e\u300e<ruby><rb>\u5e2b\u5320</rb><rt>\u3057\u3057\u3087\u3046</rt></ruby>\u306e<ruby><rb>\u624b</rb><rt>\u3066</rt></ruby>\u3092<ruby><rb>\u7169</rb><rt>\u308f\u305a\u3089</rt></ruby>\u308f\u305b\u305f\u304f\u306a\u3044\u300f\u3068\u3044\u3046<ruby><rb>\u60f3</rb><rt>\u304a\u3082</rt></ruby>\u3044\u304b\u3089\u3001\uff0a<ruby><rb>\u5f7c\u5973</rb><rt>\u304b\u306e\u3058\u3087</rt></ruby>\u304c<ruby><rb>\u51e6\u7406</rb><rt>\u3057\u3087\u308a</rt></ruby>\u3092\u3059\u308b\u3053\u3068\u306b\u306a\u3063\u305f\u3002\uff0a\u305d\u3053\u3067\u30e8\u30b7\u30ce\u3068\u30b7\u30e2\u30a2\u30de\u30c5\u3068\u3053\u3061\u3089\u3067<ruby><rb>\u4e00\u7dd2</rb><rt>\u3044\u3063\u3057\u3087</rt></ruby>\u306b<ruby><rb>\u624b\u4f1d</rb><rt>\u3066\u3064\u3060</rt></ruby>\u3046\u3053\u3068\u306b\u3057\u305f\u306e\u3060\u304c\u3001\uff0a<ruby><rb>\u5185\u90e8</rb><rt>\u306a\u3044\u3076</rt></ruby>\u306f<ruby><rb>\u4e88\u60f3</rb><rt>\u3088\u305d\u3046</rt></ruby><ruby><rb>\u4ee5\u4e0a</rb><rt>\u3044\u3058\u3087\u3046</rt></ruby>\u306b<ruby><rb>\u5371\u967a</rb><rt>\u304d\u3051\u3093</rt></ruby>\u306a<ruby><rb>\u7a7a\u9593</rb><rt>\u304f\u3046\u304b\u3093</rt></ruby>\u3060\u3063\u305f\u3002</div></div>"}, {"GroupOrder": 3, "ViewOrder": 1, "Name": "", "Phrase": "\u305d\u308c\u3067\u3082\u307f\u3093\u306a\u3067\u4e0a\u624b\u304f\u9023\u643a\u3092\u53d6\u3063\u3066\u4f55\u3068\u304b\u5965\u306b\u9032\u3093\u3067\u304d\u305f\u3002\\n\u3057\u304b\u3057\u4f1a\u8a71\u3092\u805e\u3044\u3066\u3044\u305f\u3089\u3057\u3044\u7570\u7a7a\u9593\u306e\u4e3b\u304c\u3053\u3061\u3089\u3092\u6392\u9664\u3059\u3079\u304f\u3001\\n\u7570\u7a7a\u9593\u3092\u5ca9\u6238\u304b\u3089\u5225\u306e\u3082\u306e\u3078\u3068\u4e00\u5909\u3055\u305b\u305f\u306e\u3060\u3063\u305f\u3002", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 0, "FrameImage": 0, "VoiceFileName": "", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u305d\u308c\u3067\u3082\u307f\u3093\u306a\u3067<ruby><rb>\u4e0a\u624b</rb><rt>\u3046\u307e</rt></ruby>\u304f<ruby><rb>\u9023\u643a</rb><rt>\u308c\u3093\u3051\u3044</rt></ruby>\u3092<ruby><rb>\u53d6</rb><rt>\u3068</rt></ruby>\u3063\u3066<ruby><rb>\u4f55</rb><rt>\u306a\u3093</rt></ruby>\u3068\u304b<ruby><rb>\u5965</rb><rt>\u304a\u304f</rt></ruby>\u306b<ruby><rb>\u9032</rb><rt>\u3059\u3059</rt></ruby>\u3093\u3067\u304d\u305f\u3002\uff0a\u3057\u304b\u3057<ruby><rb>\u4f1a\u8a71</rb><rt>\u304b\u3044\u308f</rt></ruby>\u3092<ruby><rb>\u805e</rb><rt>\u304d</rt></ruby>\u3044\u3066\u3044\u305f\u3089\u3057\u3044<ruby><rb>\u7570</rb><rt>\u3044</rt></ruby><ruby><rb>\u7a7a\u9593</rb><rt>\u304f\u3046\u304b\u3093</rt></ruby>\u306e<ruby><rb>\u4e3b</rb><rt>\u3042\u308b\u3058</rt></ruby>\u304c\u3053\u3061\u3089\u3092<ruby><rb>\u6392\u9664</rb><rt>\u306f\u3044\u3058\u3087</rt></ruby>\u3059\u3079\u304f\u3001\uff0a<ruby><rb>\u7570</rb><rt>\u3044</rt></ruby><ruby><rb>\u7a7a\u9593</rb><rt>\u304f\u3046\u304b\u3093</rt></ruby>\u3092<ruby><rb>\u5ca9\u6238</rb><rt>\u3044\u308f\u3068</rt></ruby>\u304b\u3089<ruby><rb>\u5225</rb><rt>\u3079\u3064</rt></ruby>\u306e\u3082\u306e\u3078\u3068<ruby><rb>\u4e00\u5909</rb><rt>\u3044\u3063\u307a\u3093</rt></ruby>\u3055\u305b\u305f\u306e\u3060\u3063\u305f\u3002</div></div>"}, {"GroupOrder": 4, "ViewOrder": 1, "Name": "\u30e8\u30b7\u30ce", "Phrase": "\u300c\u4eca\u5ea6\u306e\u5834\u6240\u306f\u2026\u2026\\n\u3000\u4f55\u3084\u3089\u898b\u899a\u3048\u306e\u3042\u308b\u304a\u5c4b\u6577\u3060\u306d\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 8, "FrameImage": 0, "VoiceFileName": "e_41027106_001", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 24201, "Position": 2, "Action": 3, "Emotion": 0, "FacialExpression": 3, "EnterAction": 0}, {"MCharacterId": 159201, "Position": 4, "Action": 0, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c<ruby><rb>\u4eca\u5ea6</rb><rt>\u3053\u3093\u3069</rt></ruby>\u306e<ruby><rb>\u5834\u6240</rb><rt>\u3070\u3057\u3087</rt></ruby>\u306f\u2026\u2026\uff0a<ruby><rb>\u4f55</rb><rt>\u306a\u306b</rt></ruby>\u3084\u3089<ruby><rb>\u898b\u899a</rb><rt>\u307f\u304a\u307c</rt></ruby>\u3048\u306e\u3042\u308b\u304a<ruby><rb>\u5c4b\u6577</rb><rt>\u3084\u3057\u304d</rt></ruby>\u3060\u306d\u300d</div></div>"}, {"GroupOrder": 5, "ViewOrder": 1, "Name": "\u30de\u30ad", "Phrase": "\u300c\u9177\u4f3c\u3002\u30aa\u30aa\u30a8\u30ce\u30df\u30e4\u69d8\u306e\u5c4b\u6577\u3002\\n\u3000\u7a93\u306e\u5916\u304c\u304a\u304b\u3057\u3044\u3068\u3053\u308d\u4ee5\u5916\u306f\u9177\u4f3c\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 2, "FrameImage": 0, "VoiceFileName": "e_41027106_002", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 24201, "Position": 2, "Action": 0, "Emotion": 0, "FacialExpression": 3, "EnterAction": 0}, {"MCharacterId": 159201, "Position": 4, "Action": 5, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c<ruby><rb>\u9177\u4f3c</rb><rt>\u3053\u304f\u3058</rt></ruby>\u3002\u30aa\u30aa\u30a8\u30ce\u30df\u30e4<ruby><rb>\u69d8</rb><rt>\u3055\u307e</rt></ruby>\u306e<ruby><rb>\u5c4b\u6577</rb><rt>\u3084\u3057\u304d</rt></ruby>\u3002\uff0a<ruby><rb>\u7a93</rb><rt>\u307e\u3069</rt></ruby>\u306e<ruby><rb>\u5916</rb><rt>\u305d\u3068</rt></ruby>\u304c\u304a\u304b\u3057\u3044\u3068\u3053\u308d<ruby><rb>\u4ee5\u5916</rb><rt>\u3044\u304c\u3044</rt></ruby>\u306f<ruby><rb>\u9177\u4f3c</rb><rt>\u3053\u304f\u3058</rt></ruby>\u300d</div></div>"}, {"GroupOrder": 6, "ViewOrder": 1, "Name": "\u30e8\u30b7\u30ce", "Phrase": "\u300c\u8272\u3093\u306a\u5efa\u7269\u304c\u5b99\u3092\u6f02\u3063\u3066\u308b\u3002\\n\u3000\u307e\u3055\u306b\u7570\u7a7a\u9593\u3063\u3066\u304b\u3093\u3058\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 8, "FrameImage": 0, "VoiceFileName": "e_41027106_003", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 24201, "Position": 2, "Action": 0, "Emotion": 0, "FacialExpression": 4, "EnterAction": 0}, {"MCharacterId": 159201, "Position": 4, "Action": 0, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c<ruby><rb>\u8272</rb><rt>\u3044\u308d</rt></ruby>\u3093\u306a<ruby><rb>\u5efa\u7269</rb><rt>\u305f\u3066\u3082\u306e</rt></ruby>\u304c<ruby><rb>\u5b99</rb><rt>\u3061\u3085\u3046</rt></ruby>\u3092<ruby><rb>\u6f02</rb><rt>\u305f\u3060\u3088</rt></ruby>\u3063\u3066\u308b\u3002\uff0a\u307e\u3055\u306b<ruby><rb>\u7570</rb><rt>\u3044</rt></ruby><ruby><rb>\u7a7a\u9593</rb><rt>\u304f\u3046\u304b\u3093</rt></ruby>\u3063\u3066\u304b\u3093\u3058\u300d</div></div>"}, {"GroupOrder": 7, "ViewOrder": 1, "Name": "\u30b7\u30e2\u30a2\u30de\u30c5", "Phrase": "\u300c\u306a\u308b\u307b\u3069\u3001\\n\u3000\u79c1\u306e\u5e2b\u5320\u306e\u304a\u5c4b\u6577\u307e\u3067\u3057\u3063\u304b\u308a\u3068\u8997\u304d\u898b\u3066\u3044\u305f\u306e\u306d\u3002\\n\u3000\u3055\u3089\u306b\u8a31\u305b\u306a\u304f\u306a\u3063\u305f\u308f\u306d\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_004", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 21201, "Position": 3, "Action": 3, "Emotion": 0, "FacialExpression": 8, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u306a\u308b\u307b\u3069\u3001\uff0a<ruby><rb>\u79c1</rb><rt>\u308f\u305f\u3057</rt></ruby>\u306e<ruby><rb>\u5e2b\u5320</rb><rt>\u3057\u3057\u3087\u3046</rt></ruby>\u306e\u304a<ruby><rb>\u5c4b\u6577</rb><rt>\u3084\u3057\u304d</rt></ruby>\u307e\u3067\u3057\u3063\u304b\u308a\u3068<ruby><rb>\u8997</rb><rt>\u306e\u305e</rt></ruby>\u304d<ruby><rb>\u898b</rb><rt>\u307f</rt></ruby>\u3066\u3044\u305f\u306e\u306d\u3002\uff0a\u3055\u3089\u306b<ruby><rb>\u8a31</rb><rt>\u3086\u308b</rt></ruby>\u305b\u306a\u304f\u306a\u3063\u305f\u308f\u306d\u300d</div></div>"}, {"GroupOrder": 8, "ViewOrder": 1, "Name": "\u30b7\u30e2\u30a2\u30de\u30c5", "Phrase": "\u300c\u3068\u306f\u3044\u3048\u3001\u3053\u308c\u307e\u3067\u306e\u9032\u8ecd\u304c\u7121\u99c4\u306b\u306a\u3063\u305f\u611f\u306f\u5426\u3081\u306a\u3044\u308f\u3002\\n\u3000\u305b\u3063\u304b\u304f\u5143\u51f6\u304c\u3044\u308b\u4e88\u60f3\u30dd\u30a4\u30f3\u30c8\u307e\u3067\\n\u3000\u534a\u5206\u3068\u3044\u3046\u3068\u3053\u308d\u307e\u3067\u6765\u3066\u3044\u305f\u306e\u306b\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_005", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 21201, "Position": 3, "Action": 0, "Emotion": 0, "FacialExpression": 4, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u3068\u306f\u3044\u3048\u3001\u3053\u308c\u307e\u3067\u306e<ruby><rb>\u9032\u8ecd</rb><rt>\u3057\u3093\u3050\u3093</rt></ruby>\u304c<ruby><rb>\u7121\u99c4</rb><rt>\u3080\u3060</rt></ruby>\u306b\u306a\u3063\u305f<ruby><rb>\u611f</rb><rt>\u304b\u3093</rt></ruby>\u306f<ruby><rb>\u5426</rb><rt>\u3044\u306a</rt></ruby>\u3081\u306a\u3044\u308f\u3002\uff0a\u305b\u3063\u304b\u304f<ruby><rb>\u5143\u51f6</rb><rt>\u3052\u3093\u304d\u3087\u3046</rt></ruby>\u304c\u3044\u308b<ruby><rb>\u4e88\u60f3</rb><rt>\u3088\u305d\u3046</rt></ruby>\u30dd\u30a4\u30f3\u30c8\u307e\u3067\uff0a<ruby><rb>\u534a\u5206</rb><rt>\u306f\u3093\u3076\u3093</rt></ruby>\u3068\u3044\u3046\u3068\u3053\u308d\u307e\u3067<ruby><rb>\u6765</rb><rt>\u304d</rt></ruby>\u3066\u3044\u305f\u306e\u306b\u300d</div></div>"}, {"GroupOrder": 9, "ViewOrder": 1, "Name": "\u30e8\u30b7\u30ce", "Phrase": "\u300c\u3067\u3082\u3053\u3063\u3061\u306e\u65b9\u304c\u52d5\u304d\u3084\u3059\u3044\u3088\u3002\\n\u3000\u4f55\u3088\u308a\u30b7\u30e2\u30a2\u30de\u30c5\u304c\u3044\u3061\u3070\u3093\u8a73\u3057\u3044\u5834\u6240\u3060\u3088\u306d\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 8, "FrameImage": 0, "VoiceFileName": "e_41027106_006", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 24201, "Position": 2, "Action": 0, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}, {"MCharacterId": 21201, "Position": 4, "Action": 0, "Emotion": 0, "FacialExpression": 4, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u3067\u3082\u3053\u3063\u3061\u306e<ruby><rb>\u65b9</rb><rt>\u307b\u3046</rt></ruby>\u304c<ruby><rb>\u52d5</rb><rt>\u3046\u3054</rt></ruby>\u304d\u3084\u3059\u3044\u3088\u3002\uff0a<ruby><rb>\u4f55</rb><rt>\u306a\u306b</rt></ruby>\u3088\u308a\u30b7\u30e2\u30a2\u30de\u30c5\u304c\u3044\u3061\u3070\u3093<ruby><rb>\u8a73</rb><rt>\u304f\u308f</rt></ruby>\u3057\u3044<ruby><rb>\u5834\u6240</rb><rt>\u3070\u3057\u3087</rt></ruby>\u3060\u3088\u306d\u300d</div></div>"}, {"GroupOrder": 10, "ViewOrder": 1, "Name": "\u30b7\u30e2\u30a2\u30de\u30c5", "Phrase": "\u300c\u305d\u3046\u306d\u3002\u3053\u306e\u5c4b\u6577\u3067\u79c1\u306b\u5206\u304b\u3089\u306a\u3044\u3053\u3068\u306f\u306a\u3044\u308f\u3002\\n\u3000\u98f2\u307f\u3059\u304e\u3060\u3068\u53d6\u308a\u4e0a\u3052\u305f\u300e\u3042\u308b\u3042\u308b\u300f\u306e\u96a0\u3057\u5834\u6240\u306f\u3001\\n\u3000\u304d\u3063\u3068\u5e2b\u5320\u3067\u3082\u898b\u3064\u3051\u3089\u308c\u306a\u3044\u308f\u306d\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 2, "FrameImage": 0, "VoiceFileName": "e_41027106_007", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 24201, "Position": 2, "Action": 0, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}, {"MCharacterId": 21201, "Position": 4, "Action": 5, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u305d\u3046\u306d\u3002\u3053\u306e<ruby><rb>\u5c4b\u6577</rb><rt>\u3084\u3057\u304d</rt></ruby>\u3067<ruby><rb>\u79c1</rb><rt>\u308f\u305f\u3057</rt></ruby>\u306b<ruby><rb>\u5206</rb><rt>\u308f</rt></ruby>\u304b\u3089\u306a\u3044\u3053\u3068\u306f\u306a\u3044\u308f\u3002\uff0a<ruby><rb>\u98f2</rb><rt>\u306e</rt></ruby>\u307f\u3059\u304e\u3060\u3068<ruby><rb>\u53d6</rb><rt>\u3068</rt></ruby>\u308a<ruby><rb>\u4e0a</rb><rt>\u3042</rt></ruby>\u3052\u305f\u300e\u3042\u308b\u3042\u308b\u300f\u306e<ruby><rb>\u96a0</rb><rt>\u304b\u304f\u3057\u3070</rt></ruby>\u3057<ruby><rb>\u5834\u6240</rb><rt>\u3087</rt></ruby>\u306f\u3001\uff0a\u304d\u3063\u3068<ruby><rb>\u5e2b\u5320</rb><rt>\u3057\u3057\u3087\u3046</rt></ruby>\u3067\u3082<ruby><rb>\u898b</rb><rt>\u307f</rt></ruby>\u3064\u3051\u3089\u308c\u306a\u3044\u308f\u306d\u300d</div></div>"}, {"GroupOrder": 11, "ViewOrder": 1, "Name": "\u30e8\u30b7\u30ce", "Phrase": "\u300c\u304a\u304a\u30fc\u3001\u30aa\u30aa\u30a8\u30ce\u30df\u30e4\u306e\u5c4b\u6577\u306e\u9670\u306e\u9ed2\u5e55\u2026\u2026\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 8, "FrameImage": 0, "VoiceFileName": "e_41027106_008", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 24201, "Position": 2, "Action": 3, "Emotion": 0, "FacialExpression": 8, "EnterAction": 0}, {"MCharacterId": 21201, "Position": 4, "Action": 0, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u304a\u304a\u30fc\u3001\u30aa\u30aa\u30a8\u30ce\u30df\u30e4\u306e<ruby><rb>\u5c4b\u6577</rb><rt>\u3084\u3057\u304d</rt></ruby>\u306e<ruby><rb>\u9670</rb><rt>\u304b\u3052</rt></ruby>\u306e<ruby><rb>\u9ed2\u5e55</rb><rt>\u304f\u308d\u307e\u304f</rt></ruby>\u2026\u2026\u300d</div></div>"}, {"GroupOrder": 12, "ViewOrder": 1, "Name": "\u30b7\u30e2\u30a2\u30de\u30c5", "Phrase": "\u300c\u4eba\u805e\u304d\u306e\u60aa\u3044\u3053\u3068\u3092\u8a00\u308f\u306a\u3044\u3067\u9802\u6234\u3002\\n\u3000\u4ed6\u306e\u307f\u3093\u306a\u304c\u81ea\u5206\u306e\u751f\u6d3b\u570f\u4ee5\u5916\u306b\u3042\u307e\u308a\u8208\u5473\u3092\u6301\u305f\u306a\u3044\u3060\u3051\u3088\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 2, "FrameImage": 0, "VoiceFileName": "e_41027106_009", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 24201, "Position": 2, "Action": 0, "Emotion": 0, "FacialExpression": 8, "EnterAction": 0}, {"MCharacterId": 21201, "Position": 4, "Action": 0, "Emotion": 0, "FacialExpression": 4, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c<ruby><rb>\u4eba\u805e</rb><rt>\u3072\u3068\u304e</rt></ruby>\u304d\u306e<ruby><rb>\u60aa</rb><rt>\u308f\u308b</rt></ruby>\u3044\u3053\u3068\u3092<ruby><rb>\u8a00</rb><rt>\u3044</rt></ruby>\u308f\u306a\u3044\u3067<ruby><rb>\u9802\u6234</rb><rt>\u3061\u3087\u3046\u3060\u3044</rt></ruby>\u3002\uff0a<ruby><rb>\u4ed6</rb><rt>\u305f</rt></ruby>\u306e\u307f\u3093\u306a\u304c<ruby><rb>\u81ea\u5206</rb><rt>\u3058\u3076\u3093</rt></ruby>\u306e<ruby><rb>\u751f\u6d3b\u570f</rb><rt>\u305b\u3044\u304b\u3064\u3051\u3093</rt></ruby><ruby><rb>\u4ee5\u5916</rb><rt>\u3044\u304c\u3044</rt></ruby>\u306b\u3042\u307e\u308a<ruby><rb>\u8208\u5473</rb><rt>\u304d\u3087\u3046\u307f</rt></ruby>\u3092<ruby><rb>\u6301</rb><rt>\u3082</rt></ruby>\u305f\u306a\u3044\u3060\u3051\u3088\u300d</div></div>"}, {"GroupOrder": 13, "ViewOrder": 1, "Name": "\u30de\u30ad", "Phrase": "\u300c\u30a2\u30de\u30ce\u30cf\u30b7\u30c0\u30c6\u306f\u4f55\u306b\u3067\u3082\u8208\u5473\u3092\u6301\u3064\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_010", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 159201, "Position": 3, "Action": 0, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u30a2\u30de\u30ce\u30cf\u30b7\u30c0\u30c6\u306f<ruby><rb>\u4f55</rb><rt>\u306a\u306b</rt></ruby>\u306b\u3067\u3082<ruby><rb>\u8208\u5473</rb><rt>\u304d\u3087\u3046\u307f</rt></ruby>\u3092<ruby><rb>\u6301</rb><rt>\u3082</rt></ruby>\u3064\u300d</div></div>"}, {"GroupOrder": 14, "ViewOrder": 1, "Name": "\u30b7\u30e2\u30a2\u30de\u30c5", "Phrase": "\u300c\u78ba\u304b\u306b\u3002\u3042\u306e\u304a\u3063\u304d\u306a\u5b50\u306f\u3001\\n\u3000\u79c1\u306e\u6b21\u306b\u5c4b\u6577\u306b\u8a73\u3057\u3044\u306b\u9055\u3044\u306a\u3044\u308f\u306d\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_011", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 21201, "Position": 3, "Action": 3, "Emotion": 0, "FacialExpression": 7, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c<ruby><rb>\u78ba</rb><rt>\u305f\u3057</rt></ruby>\u304b\u306b\u3002\u3042\u306e\u304a\u3063\u304d\u306a<ruby><rb>\u5b50</rb><rt>\u3053</rt></ruby>\u306f\u3001\uff0a<ruby><rb>\u79c1</rb><rt>\u308f\u305f\u3057</rt></ruby>\u306e<ruby><rb>\u6b21</rb><rt>\u3064\u304e</rt></ruby>\u306b<ruby><rb>\u5c4b\u6577</rb><rt>\u3084\u3057\u304d</rt></ruby>\u306b<ruby><rb>\u8a73</rb><rt>\u304f\u308f</rt></ruby>\u3057\u3044\u306b<ruby><rb>\u9055</rb><rt>\u3061\u304c</rt></ruby>\u3044\u306a\u3044\u308f\u306d\u300d</div></div>"}, {"GroupOrder": 15, "ViewOrder": 1, "Name": "\u30b7\u30e2\u30a2\u30de\u30c5", "Phrase": "\u300c\u305d\u308c\u306b\u3057\u3066\u3082\u30de\u30ad\u3001\\n\u3000\u3042\u306a\u305f\u3082\u3088\u304f\u898b\u3066\u308b\u308f\u306d\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_012", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 21201, "Position": 3, "Action": 0, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u305d\u308c\u306b\u3057\u3066\u3082\u30de\u30ad\u3001\uff0a\u3042\u306a\u305f\u3082\u3088\u304f<ruby><rb>\u898b</rb><rt>\u307f</rt></ruby>\u3066\u308b\u308f\u306d\u300d</div></div>"}, {"GroupOrder": 16, "ViewOrder": 1, "Name": "\u30de\u30ad", "Phrase": "\u300c\u5e2b\u5320\u3082\u304b\u308f\u3044\u3044\u3051\u3069\u3001\u3057\u30fc\u3061\u3083\u3093\u3082\u304b\u308f\u3044\u3044\u3002\\n\u3000\u30de\u30ad\u306f\u4e00\u65e5\u4e00\u56de\u306f\u3057\u30fc\u3061\u3083\u3093\u3092\u89b3\u5bdf\u3057\u306b\u884c\u3063\u3066\u305f\u3002\\n\u3000\u3060\u304b\u3089\u8272\u3005\u3068\u8a73\u3057\u304f\u306a\u3063\u305f\u3002\u65e5\u3005\u306e\u7a4d\u307f\u91cd\u306d\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_013", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 159201, "Position": 3, "Action": 0, "Emotion": 7, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c<ruby><rb>\u5e2b\u5320</rb><rt>\u3057\u3057\u3087\u3046</rt></ruby>\u3082\u304b\u308f\u3044\u3044\u3051\u3069\u3001\u3057\u30fc\u3061\u3083\u3093\u3082\u304b\u308f\u3044\u3044\u3002\uff0a\u30de\u30ad\u306f<ruby><rb>\u4e00</rb><rt>\u3044\u3061</rt></ruby><ruby><rb>\u65e5</rb><rt>\u306b\u3061</rt></ruby><ruby><rb>\u4e00</rb><rt>\u3044\u3061</rt></ruby><ruby><rb>\u56de</rb><rt>\u304b\u3044</rt></ruby>\u306f\u3057\u30fc\u3061\u3083\u3093\u3092<ruby><rb>\u89b3\u5bdf</rb><rt>\u304b\u3093\u3055\u3064</rt></ruby>\u3057\u306b<ruby><rb>\u884c</rb><rt>\u304a\u3053\u306a</rt></ruby>\u3063\u3066\u305f\u3002\uff0a\u3060\u304b\u3089<ruby><rb>\u8272\u3005</rb><rt>\u3044\u308d\u3044\u308d</rt></ruby>\u3068<ruby><rb>\u8a73</rb><rt>\u304f\u308f</rt></ruby>\u3057\u304f\u306a\u3063\u305f\u3002<ruby><rb>\u65e5\u3005</rb><rt>\u3072\u3073</rt></ruby>\u306e<ruby><rb>\u7a4d</rb><rt>\u3064</rt></ruby>\u307f<ruby><rb>\u91cd</rb><rt>\u304b\u3055</rt></ruby>\u306d\u300d</div></div>"}, {"GroupOrder": 17, "ViewOrder": 1, "Name": "\u30e8\u30b7\u30ce", "Phrase": "\u300c\u672c\u4eba\u3092\u524d\u306b\u3060\u3044\u305f\u3093\u306a\u544a\u767d\u3002\\n\u3000\u4f55\u6545\u304b\u30e8\u30b7\u30ce\u307e\u3067\u30c9\u30ad\u30c9\u30ad\u3057\u3061\u3083\u3046\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_014", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 24201, "Position": 3, "Action": 0, "Emotion": 0, "FacialExpression": 6, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c<ruby><rb>\u672c\u4eba</rb><rt>\u307b\u3093\u306b\u3093</rt></ruby>\u3092<ruby><rb>\u524d</rb><rt>\u307e\u3048</rt></ruby>\u306b\u3060\u3044\u305f\u3093\u306a<ruby><rb>\u544a\u767d</rb><rt>\u3053\u304f\u306f\u304f</rt></ruby>\u3002\uff0a<ruby><rb>\u4f55\u6545</rb><rt>\u306a\u305c</rt></ruby>\u304b\u30e8\u30b7\u30ce\u307e\u3067<ruby><rb>\u30c9\u30ad\u30c9\u30ad</rb><rt>\u3069\u304d\u3069\u304d</rt></ruby>\u3057\u3061\u3083\u3046\u300d</div></div>"}, {"GroupOrder": 18, "ViewOrder": 1, "Name": "\u30b7\u30e2\u30a2\u30de\u30c5", "Phrase": "\u300c\u9593\u63a5\u7684\u306b\u79c1\u306e\u5fc3\u5883\u3092\u8868\u73fe\u3059\u308b\u306e\u306f\u3084\u3081\u3066\u9802\u6234\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_015", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 21201, "Position": 3, "Action": 5, "Emotion": 0, "FacialExpression": 6, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c<ruby><rb>\u9593\u63a5</rb><rt>\u304b\u3093\u305b\u3064</rt></ruby><ruby><rb>\u7684</rb><rt>\u3066\u304d</rt></ruby>\u306b<ruby><rb>\u79c1</rb><rt>\u308f\u305f\u3057</rt></ruby>\u306e<ruby><rb>\u5fc3\u5883</rb><rt>\u3057\u3093\u304d\u3087\u3046</rt></ruby>\u3092<ruby><rb>\u8868\u73fe</rb><rt>\u3072\u3087\u3046\u3052\u3093</rt></ruby>\u3059\u308b\u306e\u306f\u3084\u3081\u3066<ruby><rb>\u9802\u6234</rb><rt>\u3061\u3087\u3046\u3060\u3044</rt></ruby>\u300d</div></div>"}, {"GroupOrder": 19, "ViewOrder": 1, "Name": "\u30b7\u30e2\u30a2\u30de\u30c5", "Phrase": "\u300c\u30de\u30ad\u3001\u3042\u307e\u308a\u5c4b\u6577\u306b\u8fd1\u3065\u304b\u306a\u304b\u3063\u305f\u3042\u306a\u305f\u304c\\n\u3000\u305d\u3053\u307e\u3067\u89b3\u5bdf\u3057\u3066\u3044\u305f\u306e\u306a\u3089\u3001\\n\u3000\u6bcd\u304c\u5c4b\u6577\u3067\u66ae\u3089\u3057\u3066\u3044\u305f\u6642\u306b\u4f7f\u3063\u3066\u3044\u305f\u90e8\u5c4b\u3082\u5206\u304b\u308b\u308f\u306d\uff1f\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 2, "FrameImage": 0, "VoiceFileName": "e_41027106_016", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 159201, "Position": 2, "Action": 0, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}, {"MCharacterId": 21201, "Position": 4, "Action": 0, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u30de\u30ad\u3001\u3042\u307e\u308a<ruby><rb>\u5c4b\u6577</rb><rt>\u3084\u3057\u304d</rt></ruby>\u306b<ruby><rb>\u8fd1</rb><rt>\u3061\u304b</rt></ruby>\u3065\u304b\u306a\u304b\u3063\u305f\u3042\u306a\u305f\u304c\uff0a\u305d\u3053\u307e\u3067<ruby><rb>\u89b3\u5bdf</rb><rt>\u304b\u3093\u3055\u3064</rt></ruby>\u3057\u3066\u3044\u305f\u306e\u306a\u3089\u3001\uff0a<ruby><rb>\u6bcd</rb><rt>\u306f\u306f</rt></ruby>\u304c<ruby><rb>\u5c4b\u6577</rb><rt>\u3084\u3057\u304d</rt></ruby>\u3067<ruby><rb>\u66ae</rb><rt>\u304f</rt></ruby>\u3089\u3057\u3066\u3044\u305f<ruby><rb>\u6642</rb><rt>\u3068\u304d</rt></ruby>\u306b<ruby><rb>\u4f7f</rb><rt>\u3064\u304b</rt></ruby>\u3063\u3066\u3044\u305f<ruby><rb>\u90e8\u5c4b</rb><rt>\u3078\u3084</rt></ruby>\u3082<ruby><rb>\u5206</rb><rt>\u308f</rt></ruby>\u304b\u308b\u308f\u306d\uff1f\u300d</div></div>"}, {"GroupOrder": 20, "ViewOrder": 1, "Name": "\u30de\u30ad", "Phrase": "\u300c\u3082\u3061\u308d\u3093\u3002\u89b3\u5bdf\u3057\u3066\u3044\u305f\u6642\u306b\u30aa\u30aa\u30a8\u30ce\u30df\u30e4\u69d8\u304c\u6559\u3048\u3066\u304f\u308c\u305f\u3002\\n\u3000\u305d\u308c\u4ee5\u6765\u3001\u30de\u30ad\u304c\u305d\u306e\u90e8\u5c4b\u306e\u6383\u9664\u3092\u5b9a\u671f\u7684\u306b\u3055\u305b\u3066\u3082\u3089\u3063\u3066\u3044\u308b\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 8, "FrameImage": 0, "VoiceFileName": "e_41027106_017", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 159201, "Position": 2, "Action": 5, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}, {"MCharacterId": 21201, "Position": 4, "Action": 0, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u3082\u3061\u308d\u3093\u3002<ruby><rb>\u89b3\u5bdf</rb><rt>\u304b\u3093\u3055\u3064</rt></ruby>\u3057\u3066\u3044\u305f<ruby><rb>\u6642</rb><rt>\u3068\u304d</rt></ruby>\u306b\u30aa\u30aa\u30a8\u30ce\u30df\u30e4<ruby><rb>\u69d8</rb><rt>\u3055\u307e</rt></ruby>\u304c<ruby><rb>\u6559</rb><rt>\u304a\u3057</rt></ruby>\u3048\u3066\u304f\u308c\u305f\u3002\uff0a\u305d\u308c<ruby><rb>\u4ee5\u6765</rb><rt>\u3044\u3089\u3044</rt></ruby>\u3001\u30de\u30ad\u304c\u305d\u306e<ruby><rb>\u90e8\u5c4b</rb><rt>\u3078\u3084</rt></ruby>\u306e<ruby><rb>\u6383\u9664</rb><rt>\u305d\u3046\u3058</rt></ruby>\u3092<ruby><rb>\u5b9a\u671f</rb><rt>\u3066\u3044\u304d</rt></ruby><ruby><rb>\u7684</rb><rt>\u3066\u304d</rt></ruby>\u306b\u3055\u305b\u3066\u3082\u3089\u3063\u3066\u3044\u308b\u300d</div></div>"}, {"GroupOrder": 21, "ViewOrder": 1, "Name": "\u30de\u30ad", "Phrase": "\u300c\u3082\u3057\u304b\u3057\u3066\u305d\u3053\u304c\u3001\u7570\u7a7a\u9593\u306e\u4e3b\u306e\u5c45\u5834\u6240\uff1f\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 8, "FrameImage": 0, "VoiceFileName": "e_41027106_018", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 159201, "Position": 2, "Action": 0, "Emotion": 8, "FacialExpression": 0, "EnterAction": 0}, {"MCharacterId": 21201, "Position": 4, "Action": 0, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u3082\u3057\u304b\u3057\u3066\u305d\u3053\u304c\u3001<ruby><rb>\u7570</rb><rt>\u3044</rt></ruby><ruby><rb>\u7a7a\u9593</rb><rt>\u304f\u3046\u304b\u3093</rt></ruby>\u306e<ruby><rb>\u4e3b</rb><rt>\u3042\u308b\u3058</rt></ruby>\u306e<ruby><rb>\u5c45\u5834\u6240</rb><rt>\u3044\u3070\u3057\u3087</rt></ruby>\uff1f\u300d</div></div>"}, {"GroupOrder": 22, "ViewOrder": 1, "Name": "\u30b7\u30e2\u30a2\u30de\u30c5", "Phrase": "\u300c\u3053\u3046\u3044\u3063\u305f\u73fe\u5b9f\u306e\u7a7a\u9593\u306b\u4f3c\u305b\u3066\u304f\u308b\u8f29\u306f\u3001\\n\u3000\u73fe\u5b9f\u3067\u3082\u7279\u5225\u3068\u3055\u308c\u3066\u3044\u308b\u5834\u6240\u306b\u3044\u308b\u3053\u3068\u304c\u591a\u3044\u308f\u3002\\n\u3000\u6bcd\u306e\u90e8\u5c4b\u304c\u6700\u3082\u602a\u3057\u3044\u3002\u6b21\u306f\u79c1\u306e\u5e2b\u5320\u306e\u90e8\u5c4b\u306d\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 2, "FrameImage": 0, "VoiceFileName": "e_41027106_019", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 159201, "Position": 2, "Action": 0, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}, {"MCharacterId": 21201, "Position": 4, "Action": 0, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u3053\u3046\u3044\u3063\u305f<ruby><rb>\u73fe\u5b9f</rb><rt>\u3052\u3093\u3058\u3064</rt></ruby>\u306e<ruby><rb>\u7a7a\u9593</rb><rt>\u304f\u3046\u304b\u3093</rt></ruby>\u306b<ruby><rb>\u4f3c</rb><rt>\u306b</rt></ruby>\u305b\u3066\u304f\u308b<ruby><rb>\u8f29</rb><rt>\u3068\u3082\u304c\u3089</rt></ruby>\u306f\u3001\uff0a<ruby><rb>\u73fe\u5b9f</rb><rt>\u3052\u3093\u3058\u3064</rt></ruby>\u3067\u3082<ruby><rb>\u7279\u5225</rb><rt>\u3068\u304f\u3079\u3064</rt></ruby>\u3068\u3055\u308c\u3066\u3044\u308b<ruby><rb>\u5834\u6240</rb><rt>\u3070\u3057\u3087</rt></ruby>\u306b\u3044\u308b\u3053\u3068\u304c<ruby><rb>\u591a</rb><rt>\u304a\u304a</rt></ruby>\u3044\u308f\u3002\uff0a<ruby><rb>\u6bcd</rb><rt>\u306f\u306f</rt></ruby>\u306e<ruby><rb>\u90e8\u5c4b</rb><rt>\u3078\u3084</rt></ruby>\u304c<ruby><rb>\u6700</rb><rt>\u3082\u3063\u3068</rt></ruby>\u3082<ruby><rb>\u602a</rb><rt>\u3042\u3084</rt></ruby>\u3057\u3044\u3002<ruby><rb>\u6b21</rb><rt>\u3064\u304e</rt></ruby>\u306f<ruby><rb>\u79c1</rb><rt>\u308f\u305f\u3057</rt></ruby>\u306e<ruby><rb>\u5e2b\u5320</rb><rt>\u3057\u3057\u3087\u3046</rt></ruby>\u306e<ruby><rb>\u90e8\u5c4b</rb><rt>\u3078\u3084</rt></ruby>\u306d\u300d</div></div>"}, {"GroupOrder": 23, "ViewOrder": 1, "Name": "\u30b7\u30e2\u30a2\u30de\u30c5", "Phrase": "\u300c\u3060\u304b\u3089\u3082\u3057\u3082\u306f\u3050\u308c\u305f\u3089\u3001\\n\u3000\u6bcd\u306e\u90e8\u5c4b\u3092\u307e\u305a\u76ee\u6307\u3057\u306a\u3055\u3044\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 2, "FrameImage": 0, "VoiceFileName": "e_41027106_020", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 159201, "Position": 2, "Action": 0, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}, {"MCharacterId": 21201, "Position": 4, "Action": 5, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u3060\u304b\u3089\u3082\u3057\u3082\u306f\u3050\u308c\u305f\u3089\u3001\uff0a<ruby><rb>\u6bcd</rb><rt>\u306f\u306f</rt></ruby>\u306e<ruby><rb>\u90e8\u5c4b</rb><rt>\u3078\u3084</rt></ruby>\u3092\u307e\u305a<ruby><rb>\u76ee\u6307</rb><rt>\u3081\u3056</rt></ruby>\u3057\u306a\u3055\u3044\u300d</div></div>"}, {"GroupOrder": 24, "ViewOrder": 1, "Name": "\u30de\u30ad", "Phrase": "\u300c\u5e2b\u5320\u306e\u90e8\u5c4b\u306f\u3059\u3050\u305d\u3053\u3002\\n\u3000\u306f\u3050\u308c\u308b\u3053\u3068\u306a\u3093\u3066\u306a\u3044\u2015\u2015\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 8, "FrameImage": 0, "VoiceFileName": "e_41027106_021", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 159201, "Position": 2, "Action": 5, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}, {"MCharacterId": 21201, "Position": 4, "Action": 0, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c<ruby><rb>\u5e2b\u5320</rb><rt>\u3057\u3057\u3087\u3046</rt></ruby>\u306e<ruby><rb>\u90e8\u5c4b</rb><rt>\u3078\u3084</rt></ruby>\u306f\u3059\u3050\u305d\u3053\u3002\uff0a\u306f\u3050\u308c\u308b\u3053\u3068\u306a\u3093\u3066\u306a\u3044\u2015\u2015\u300d</div></div>"}, {"GroupOrder": 25, "ViewOrder": 1, "Name": "\u30de\u30ad", "Phrase": "\u300c\u8b66\u6212\u3002\u4e0a\u304b\u3089\u4f55\u304b\u6765\u308b\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_022", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 159201, "Position": 3, "Action": 0, "Emotion": 0, "FacialExpression": 1, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c<ruby><rb>\u8b66\u6212</rb><rt>\u3051\u3044\u304b\u3044</rt></ruby>\u3002<ruby><rb>\u4e0a</rb><rt>\u3046\u3048</rt></ruby>\u304b\u3089<ruby><rb>\u4f55</rb><rt>\u306a\u306b</rt></ruby>\u304b<ruby><rb>\u6765</rb><rt>\u304f</rt></ruby>\u308b\u300d</div></div>"}, {"GroupOrder": 26, "ViewOrder": 1, "Name": "\u521d\u4ee3\u30b7\u30e2\u30a2\u30de\u30c5", "Phrase": "\u300c\u304d\u3083\u3063\u3001\u304d\u3083\u3063\u3002\\n\u3000\u7686\u3001\u30b3\u30fc\u30b9\u697d\u3057\u3093\u3060\u3002\\n\u3000\u611f\u60f3\u3001\u6559\u3048\u3066\uff01\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_023", "BackgroundImage": "", "BGM": "a", "BattleBGM": "", "SE": "falling", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 18, "Position": 3, "Action": 0, "Emotion": 1, "FacialExpression": 5, "EnterAction": 1}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u304d\u3083\u3063\u3001\u304d\u3083\u3063\u3002\uff0a<ruby><rb>\u7686</rb><rt>\u307f\u306a</rt></ruby>\u3001\u30b3\u30fc\u30b9<ruby><rb>\u697d</rb><rt>\u305f\u306e</rt></ruby>\u3057\u3093\u3060\u3002\uff0a<ruby><rb>\u611f\u60f3</rb><rt>\u304b\u3093\u305d\u3046</rt></ruby>\u3001<ruby><rb>\u6559</rb><rt>\u304a\u3057</rt></ruby>\u3048\u3066\uff01\u300d</div></div>"}, {"GroupOrder": 27, "ViewOrder": 1, "Name": "\u30de\u30ad", "Phrase": "\u300c\u5e2b\u5320\uff01\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_024", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 159201, "Position": 3, "Action": 5, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c<ruby><rb>\u5e2b\u5320</rb><rt>\u3057\u3057\u3087\u3046</rt></ruby>\uff01\u300d</div></div>"}, {"GroupOrder": 28, "ViewOrder": 1, "Name": "\u30de\u30ad", "Phrase": "\u300c\u2026\u2026\u2026\u2026\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_025", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 159201, "Position": 3, "Action": 3, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u2026\u2026\u2026\u2026\u300d</div></div>"}, {"GroupOrder": 29, "ViewOrder": 1, "Name": "\u30de\u30ad", "Phrase": "\u300c\u9593\u9055\u3044\u3002\u5e2b\u5320\u3067\u306f\u306a\u3044\u3002\\n\u3000\u3053\u3053\u306f\u30b3\u30fc\u30b9\u3068\u306f\u9055\u3046\u3002\\n\u3000\u52a0\u3048\u3066\u5e2b\u5320\u306f\u30b3\u30fc\u30b9\u306e\u9014\u4e2d\u3067\u305d\u306e\u3088\u3046\u306a\u3053\u3068\u805e\u3044\u3066\u3053\u306a\u3044\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_026", "BackgroundImage": "", "BGM": "adv_01", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 159201, "Position": 3, "Action": 2, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c<ruby><rb>\u9593\u9055</rb><rt>\u307e\u3061\u304c</rt></ruby>\u3044\u3002<ruby><rb>\u5e2b\u5320</rb><rt>\u3057\u3057\u3087\u3046</rt></ruby>\u3067\u306f\u306a\u3044\u3002\uff0a\u3053\u3053\u306f\u30b3\u30fc\u30b9\u3068\u306f<ruby><rb>\u9055</rb><rt>\u3061\u304c</rt></ruby>\u3046\u3002\uff0a<ruby><rb>\u52a0</rb><rt>\u304f\u308f</rt></ruby>\u3048\u3066<ruby><rb>\u5e2b\u5320</rb><rt>\u3057\u3057\u3087\u3046</rt></ruby>\u306f\u30b3\u30fc\u30b9\u306e<ruby><rb>\u9014\u4e2d</rb><rt>\u3068\u3061\u3085\u3046</rt></ruby>\u3067\u305d\u306e\u3088\u3046\u306a\u3053\u3068<ruby><rb>\u805e</rb><rt>\u304d</rt></ruby>\u3044\u3066\u3053\u306a\u3044\u300d</div></div>"}, {"GroupOrder": 30, "ViewOrder": 1, "Name": "\u30e8\u30b7\u30ce", "Phrase": "\u300c\u305d\u3046\u3060\u306d\u3002\u3053\u308c\u304c\u30c9\u30c3\u30ad\u30ea\u3060\u3068\u3057\u305f\u3089\u3001\\n\u3000\u6bcd\u30a2\u30de\u30c5\u306f\u3082\u3063\u3068\u9762\u767d\u3044\u3068\u3053\u308d\u3067\u4e71\u5165\u3057\u3066\u304f\u308b\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 8, "FrameImage": 0, "VoiceFileName": "e_41027106_027", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 24201, "Position": 2, "Action": 3, "Emotion": 0, "FacialExpression": 3, "EnterAction": 0}, {"MCharacterId": 21201, "Position": 4, "Action": 0, "Emotion": 0, "FacialExpression": 3, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u305d\u3046\u3060\u306d\u3002\u3053\u308c\u304c\u30c9\u30c3\u30ad\u30ea\u3060\u3068\u3057\u305f\u3089\u3001\uff0a<ruby><rb>\u6bcd</rb><rt>\u306f\u306f</rt></ruby>\u30a2\u30de\u30c5\u306f\u3082\u3063\u3068<ruby><rb>\u9762\u767d</rb><rt>\u304a\u3082\u3057\u308d</rt></ruby>\u3044\u3068\u3053\u308d\u3067<ruby><rb>\u4e71\u5165</rb><rt>\u3089\u3093\u306b\u3085\u3046</rt></ruby>\u3057\u3066\u304f\u308b\u300d</div></div>"}, {"GroupOrder": 31, "ViewOrder": 1, "Name": "\u30b7\u30e2\u30a2\u30de\u30c5", "Phrase": "\u300c\u5a18\u3068\u3057\u3066\u3001\u4e8c\u4ee3\u76ee\u30b7\u30e2\u30a2\u30de\u30c5\u3068\u3057\u3066\\n\u3000\u6bcd\u3092\u898b\u9593\u9055\u3048\u308b\u306f\u305a\u306a\u3044\u3067\u3057\u3087\u3046\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 2, "FrameImage": 0, "VoiceFileName": "e_41027106_028", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 24201, "Position": 2, "Action": 0, "Emotion": 0, "FacialExpression": 3, "EnterAction": 0}, {"MCharacterId": 21201, "Position": 4, "Action": 5, "Emotion": 0, "FacialExpression": 3, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c<ruby><rb>\u5a18</rb><rt>\u3080\u3059\u3081</rt></ruby>\u3068\u3057\u3066\u3001<ruby><rb>\u4e8c</rb><rt>\u306b</rt></ruby><ruby><rb>\u4ee3\u76ee</rb><rt>\u3060\u3044\u3081</rt></ruby>\u30b7\u30e2\u30a2\u30de\u30c5\u3068\u3057\u3066\uff0a<ruby><rb>\u6bcd</rb><rt>\u306f\u306f</rt></ruby>\u3092<ruby><rb>\u898b</rb><rt>\u307f</rt></ruby><ruby><rb>\u9593\u9055</rb><rt>\u307e\u3061\u304c</rt></ruby>\u3048\u308b\u306f\u305a\u306a\u3044\u3067\u3057\u3087\u3046\u300d</div></div>"}, {"GroupOrder": 32, "ViewOrder": 1, "Name": "\u521d\u4ee3\u30b7\u30e2\u30a2\u30de\u30c5\uff1f", "Phrase": "\u300c\u2026\u2026\u2026\u2026\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_029", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 18, "Position": 3, "Action": 3, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u2026\u2026\u2026\u2026\u300d</div></div>"}, {"GroupOrder": 33, "ViewOrder": 1, "Name": "\u521d\u4ee3\u30b7\u30e2\u30a2\u30de\u30c5\uff1f", "Phrase": "\u300c\u304d\u3083\u3063\u3001\u304d\u3083\u3063\u266a\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_030", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 18, "Position": 3, "Action": 1, "Emotion": 0, "FacialExpression": 5, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u304d\u3083\u3063\u3001\u304d\u3083\u3063\u266a\u300d</div></div>"}, {"GroupOrder": 34, "ViewOrder": 1, "Name": "\u30de\u30ad", "Phrase": "\u300c\u507d\u7269\u3001\u5f85\u3064\u306e\u3060\uff01\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_031", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 159201, "Position": 3, "Action": 5, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c<ruby><rb>\u507d\u7269</rb><rt>\u306b\u305b\u3082\u306e</rt></ruby>\u3001<ruby><rb>\u5f85</rb><rt>\u307e</rt></ruby>\u3064\u306e\u3060\uff01\u300d</div></div>"}, {"GroupOrder": 35, "ViewOrder": 1, "Name": "", "Phrase": "\u30de\u30ad\u306e\u5236\u6b62\u306e\u58f0\u306b\u3082\u8033\u3092\u8cb8\u3055\u305a\u3001\\n\u507d\u7269\u3068\u601d\u308f\u308c\u308b\u521d\u4ee3\u30b7\u30e2\u30a2\u30de\u30c5\u304c\u9003\u8d70\u3059\u308b\u3002\\n\u305d\u306e\u901f\u5ea6\u306f\u901f\u304f\u3001\u7d20\u4eba\u76ee\u306b\u306f\u672c\u7269\u3068\u5909\u308f\u3089\u306a\u3044\u3088\u3046\u306b\u898b\u3048\u308b\u3002", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 0, "FrameImage": 0, "VoiceFileName": "", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 18, "Position": 3, "Action": 6, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u30de\u30ad\u306e<ruby><rb>\u5236\u6b62</rb><rt>\u305b\u3044\u3057</rt></ruby>\u306e<ruby><rb>\u58f0</rb><rt>\u3053\u3048</rt></ruby>\u306b\u3082<ruby><rb>\u8033</rb><rt>\u307f\u307f</rt></ruby>\u3092<ruby><rb>\u8cb8</rb><rt>\u304b</rt></ruby>\u3055\u305a\u3001\uff0a<ruby><rb>\u507d\u7269</rb><rt>\u306b\u305b\u3082\u306e</rt></ruby>\u3068<ruby><rb>\u601d</rb><rt>\u304a\u3082</rt></ruby>\u308f\u308c\u308b<ruby><rb>\u521d\u4ee3</rb><rt>\u3057\u3087\u3060\u3044</rt></ruby>\u30b7\u30e2\u30a2\u30de\u30c5\u304c<ruby><rb>\u9003\u8d70</rb><rt>\u3068\u3046\u305d\u3046</rt></ruby>\u3059\u308b\u3002\uff0a\u305d\u306e<ruby><rb>\u901f\u5ea6</rb><rt>\u305d\u304f\u3069</rt></ruby>\u306f<ruby><rb>\u901f</rb><rt>\u306f\u3084</rt></ruby>\u304f\u3001<ruby><rb>\u7d20\u4eba\u76ee</rb><rt>\u3057\u308d\u3046\u3068\u3081</rt></ruby>\u306b\u306f<ruby><rb>\u672c\u7269</rb><rt>\u307b\u3093\u3082\u306e</rt></ruby>\u3068<ruby><rb>\u5909</rb><rt>\u304b</rt></ruby>\u308f\u3089\u306a\u3044\u3088\u3046\u306b<ruby><rb>\u898b</rb><rt>\u307f</rt></ruby>\u3048\u308b\u3002</div></div>"}, {"GroupOrder": 36, "ViewOrder": 1, "Name": "", "Phrase": "\u305d\u3057\u3066\u507d\u7269\u3068\u601d\u308f\u308c\u308b\u521d\u4ee3\u30b7\u30e2\u30a2\u30de\u30c5\u306f\u9003\u8d70\u306e\u9014\u4e2d\u3067\u3075\u3063\u3068\u6d88\u3048\u308b\u3068\u3001\\n\u4eca\u5ea6\u306f\u3053\u3061\u3089\u306e\u3059\u3050\u6a2a\u306b\u51fa\u73fe\u3057\u305f\u3002", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 0, "FrameImage": 0, "VoiceFileName": "", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 18, "Position": 3, "Action": 0, "Emotion": 0, "FacialExpression": 0, "EnterAction": 1}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u305d\u3057\u3066<ruby><rb>\u507d\u7269</rb><rt>\u306b\u305b\u3082\u306e</rt></ruby>\u3068<ruby><rb>\u601d</rb><rt>\u304a\u3082</rt></ruby>\u308f\u308c\u308b<ruby><rb>\u521d\u4ee3</rb><rt>\u3057\u3087\u3060\u3044</rt></ruby>\u30b7\u30e2\u30a2\u30de\u30c5\u306f<ruby><rb>\u9003\u8d70</rb><rt>\u3068\u3046\u305d\u3046</rt></ruby>\u306e<ruby><rb>\u9014\u4e2d</rb><rt>\u3068\u3061\u3085\u3046</rt></ruby>\u3067\u3075\u3063\u3068<ruby><rb>\u6d88</rb><rt>\u304d</rt></ruby>\u3048\u308b\u3068\u3001\uff0a<ruby><rb>\u4eca\u5ea6</rb><rt>\u3053\u3093\u3069</rt></ruby>\u306f\u3053\u3061\u3089\u306e\u3059\u3050<ruby><rb>\u6a2a</rb><rt>\u3088\u3053</rt></ruby>\u306b<ruby><rb>\u51fa\u73fe</rb><rt>\u3057\u3085\u3064\u3052\u3093</rt></ruby>\u3057\u305f\u3002</div></div>"}, {"GroupOrder": 37, "ViewOrder": 1, "Name": "\u521d\u4ee3\u30b7\u30e2\u30a2\u30de\u30c5\uff1f", "Phrase": "\u300c\u3057\u30fc\u3061\u3083\u3093\u3001\u4fe1\u3058\u3066\u3002\\n\u3000\u6bcd\u306f\u672c\u7269\u3002\u62b1\u304d\u3057\u3081\u3055\u305b\u3066\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_032", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 18, "Position": 3, "Action": 0, "Emotion": 0, "FacialExpression": 5, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u3057\u30fc\u3061\u3083\u3093\u3001<ruby><rb>\u4fe1</rb><rt>\u3057\u3093</rt></ruby>\u3058\u3066\u3002\uff0a<ruby><rb>\u6bcd</rb><rt>\u306f\u306f</rt></ruby>\u306f<ruby><rb>\u672c\u7269</rb><rt>\u307b\u3093\u3082\u306e</rt></ruby>\u3002<ruby><rb>\u62b1</rb><rt>\u3060</rt></ruby>\u304d\u3057\u3081\u3055\u305b\u3066\u300d</div></div>"}, {"GroupOrder": 38, "ViewOrder": 1, "Name": "\u30b7\u30e2\u30a2\u30de\u30c5", "Phrase": "\u300c\u3044\u3044\u3048\u3042\u306a\u305f\u306f\u507d\u7269\u3088\u3002\\n\u3000\u6bcd\u306f\u3044\u3061\u3044\u3061\u79c1\u306b\u62b1\u304d\u3057\u3081\u3066\u3044\u3044\u304b\u8a31\u53ef\u3092\u6c42\u3081\u305f\u308a\u3057\u306a\u3044\u3082\u306e\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_033", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 21201, "Position": 3, "Action": 2, "Emotion": 0, "FacialExpression": 3, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u3044\u3044\u3048\u3042\u306a\u305f\u306f<ruby><rb>\u507d\u7269</rb><rt>\u306b\u305b\u3082\u306e</rt></ruby>\u3088\u3002\uff0a<ruby><rb>\u6bcd</rb><rt>\u306f\u306f</rt></ruby>\u306f\u3044\u3061\u3044\u3061<ruby><rb>\u79c1</rb><rt>\u308f\u305f\u3057</rt></ruby>\u306b<ruby><rb>\u62b1</rb><rt>\u3060</rt></ruby>\u304d\u3057\u3081\u3066\u3044\u3044\u304b<ruby><rb>\u8a31\u53ef</rb><rt>\u304d\u3087\u304b</rt></ruby>\u3092<ruby><rb>\u6c42</rb><rt>\u3082\u3068</rt></ruby>\u3081\u305f\u308a\u3057\u306a\u3044\u3082\u306e\u300d</div></div>"}, {"GroupOrder": 39, "ViewOrder": 1, "Name": "", "Phrase": "\u30b7\u30e2\u30a2\u30de\u30c5\u304c\u51b7\u305f\u304f\u8a00\u3044\u653e\u3064\u3002\\n\u3059\u308b\u3068\u507d\u7269\u3068\u601d\u308f\u308c\u308b\u521d\u4ee3\u30b7\u30e2\u30a2\u30de\u30c5\u306f\u307e\u305f\u3057\u3066\u3082\u9003\u8d70\u3057\u3001\\n\u89d2\u3092\u66f2\u304c\u3063\u3066\u6d88\u3048\u305f\u304b\u3068\u601d\u3046\u3068\u3053\u3061\u3089\u306e\u305d\u3070\u306b\u73fe\u308c\u305f\u3002", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 0, "FrameImage": 0, "VoiceFileName": "", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 18, "Position": 3, "Action": 0, "Emotion": 0, "FacialExpression": 3, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u30b7\u30e2\u30a2\u30de\u30c5\u304c<ruby><rb>\u51b7</rb><rt>\u3064\u3081</rt></ruby>\u305f\u304f<ruby><rb>\u8a00</rb><rt></rt></ruby>\u3044<ruby><rb>\u653e</rb><rt>\u3044\u306f\u306a</rt></ruby>\u3064\u3002\uff0a\u3059\u308b\u3068<ruby><rb>\u507d\u7269</rb><rt>\u306b\u305b\u3082\u306e</rt></ruby>\u3068<ruby><rb>\u601d</rb><rt>\u304a\u3082</rt></ruby>\u308f\u308c\u308b<ruby><rb>\u521d\u4ee3</rb><rt>\u3057\u3087\u3060\u3044</rt></ruby>\u30b7\u30e2\u30a2\u30de\u30c5\u306f\u307e\u305f\u3057\u3066\u3082<ruby><rb>\u9003\u8d70</rb><rt>\u3068\u3046\u305d\u3046</rt></ruby>\u3057\u3001\uff0a<ruby><rb>\u89d2</rb><rt>\u304b\u304f</rt></ruby>\u3092<ruby><rb>\u66f2</rb><rt>\u307e</rt></ruby>\u304c\u3063\u3066<ruby><rb>\u6d88</rb><rt>\u304d</rt></ruby>\u3048\u305f\u304b\u3068<ruby><rb>\u601d</rb><rt>\u304a\u3082</rt></ruby>\u3046\u3068\u3053\u3061\u3089\u306e\u305d\u3070\u306b<ruby><rb>\u73fe</rb><rt>\u3042\u3089\u308f</rt></ruby>\u308c\u305f\u3002</div></div>"}, {"GroupOrder": 40, "ViewOrder": 1, "Name": "", "Phrase": "\u3057\u304b\u3057\u305d\u306e\u5ea6\u306b\u3001\\n\uff13\u4eba\u304c\u9593\u9aea\u5165\u308c\u305a\u306b\u507d\u7269\u3067\u3042\u308b\u3053\u3068\u3092\u898b\u629c\u3044\u3066\u3044\u304f\u3002", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 0, "FrameImage": 0, "VoiceFileName": "", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u3057\u304b\u3057\u305d\u306e<ruby><rb>\u5ea6</rb><rt>\u305f\u3073</rt></ruby>\u306b\u3001\uff0a<ruby><rb>\uff13</rb><rt>\u3055\u3093</rt></ruby><ruby><rb>\u4eba</rb><rt>\u306b\u3093</rt></ruby>\u304c<ruby><rb>\u9593\u9aea</rb><rt>\u304b\u3093\u3071\u3064</rt></ruby><ruby><rb>\u5165</rb><rt>\u3044</rt></ruby>\u308c\u305a\u306b<ruby><rb>\u507d\u7269</rb><rt>\u306b\u305b\u3082\u306e</rt></ruby>\u3067\u3042\u308b\u3053\u3068\u3092<ruby><rb>\u898b\u629c</rb><rt>\u307f\u306c</rt></ruby>\u3044\u3066\u3044\u304f\u3002</div></div>"}, {"GroupOrder": 41, "ViewOrder": 1, "Name": "\u521d\u4ee3\u30b7\u30e2\u30a2\u30de\u30c5\uff1f", "Phrase": "\u300c\u7686\u3001\u3053\u308c\u306f\u672c\u5f53\u306b\u4f59\u8208\u3002\u3053\u308c\u3067\u7d42\u308f\u308a\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 8, "FrameImage": 0, "VoiceFileName": "e_41027106_034", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 18, "Position": 2, "Action": 0, "Emotion": 0, "FacialExpression": 3, "EnterAction": 1}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c<ruby><rb>\u7686</rb><rt>\u307f\u306a</rt></ruby>\u3001\u3053\u308c\u306f<ruby><rb>\u672c\u5f53</rb><rt>\u307b\u3093\u3068\u3046</rt></ruby>\u306b<ruby><rb>\u4f59\u8208</rb><rt>\u3088\u304d\u3087\u3046</rt></ruby>\u3002\u3053\u308c\u3067<ruby><rb>\u7d42</rb><rt>\u304a</rt></ruby>\u308f\u308a\u300d</div></div>"}, {"GroupOrder": 42, "ViewOrder": 1, "Name": "\u521d\u4ee3\u30b7\u30e2\u30a2\u30de\u30c5\uff1f", "Phrase": "\u300c\u5143\u51f6\u3001\u5411\u3053\u3046\u3067\u898b\u305f\u3002\u767a\u898b\uff01\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 2, "FrameImage": 0, "VoiceFileName": "e_41027106_035", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 18, "Position": 4, "Action": 0, "Emotion": 0, "FacialExpression": 3, "EnterAction": 1}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c<ruby><rb>\u5143\u51f6</rb><rt>\u3052\u3093\u304d\u3087\u3046</rt></ruby>\u3001<ruby><rb>\u5411</rb><rt>\u3080</rt></ruby>\u3053\u3046\u3067<ruby><rb>\u898b</rb><rt>\u307f</rt></ruby>\u305f\u3002<ruby><rb>\u767a\u898b</rb><rt>\u306f\u3063\u3051\u3093</rt></ruby>\uff01\u300d</div></div>"}, {"GroupOrder": 43, "ViewOrder": 1, "Name": "\u521d\u4ee3\u30b7\u30e2\u30a2\u30de\u30c5\uff1f", "Phrase": "\u300c\u4fe1\u3058\u3066\u304f\u308c\u306a\u3044\u3068\u6bcd\u3001\u60b2\u3057\u3044\u3002\u60b2\u54c0\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 16, "FrameImage": 0, "VoiceFileName": "e_41027106_036", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 18, "Position": 1, "Action": 0, "Emotion": 2, "FacialExpression": 4, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c<ruby><rb>\u4fe1</rb><rt>\u3057\u3093</rt></ruby>\u3058\u3066\u304f\u308c\u306a\u3044\u3068<ruby><rb>\u6bcd</rb><rt>\u306f\u306f</rt></ruby>\u3001<ruby><rb>\u60b2</rb><rt>\u304b\u306a</rt></ruby>\u3057\u3044\u3002<ruby><rb>\u60b2\u54c0</rb><rt>\u3072\u3042\u3044</rt></ruby>\u300d</div></div>"}, {"GroupOrder": 44, "ViewOrder": 1, "Name": "\u521d\u4ee3\u30b7\u30e2\u30a2\u30de\u30c5", "Phrase": "\u300c\u9762\u767d\u305d\u3046\uff01\u3000\u6bcd\u3082\u6df7\u3056\u308b\uff01\\n\u3000\u672c\u7269\u306f\u3069\u30fc\u308c\u3060\uff01\u3000\u304d\u3083\u3063\u304d\u3083\u3063\u266a\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_037", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 18, "Position": 3, "Action": 0, "Emotion": 1, "FacialExpression": 5, "EnterAction": 2}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c<ruby><rb>\u9762\u767d</rb><rt>\u304a\u3082\u3057\u308d</rt></ruby>\u305d\u3046\uff01<ruby><rb>\u6bcd</rb><rt>\u306f\u306f</rt></ruby>\u3082<ruby><rb>\u6df7</rb><rt>\u307e</rt></ruby>\u3056\u308b\uff01\uff0a<ruby><rb>\u672c\u7269</rb><rt>\u307b\u3093\u3082\u306e</rt></ruby>\u306f\u3069\u30fc\u308c\u3060\uff01\u304d\u3083\u3063\u304d\u3083\u3063\u266a\u300d</div></div>"}, {"GroupOrder": 45, "ViewOrder": 1, "Name": "\u521d\u4ee3\u30b7\u30e2\u30a2\u30de\u30c5\uff1f", "Phrase": "\u300c\u73fe\u5b9f\u3067\u5ca9\u6238\u304c\u5d29\u58ca\u3002\u65e9\u304f\u8131\u51fa\uff01\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 1, "FrameImage": 0, "VoiceFileName": "e_41027106_038", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 18, "Position": 5, "Action": 1, "Emotion": 0, "FacialExpression": 3, "EnterAction": 1}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c<ruby><rb>\u73fe\u5b9f</rb><rt>\u3052\u3093\u3058\u3064</rt></ruby>\u3067<ruby><rb>\u5ca9\u6238</rb><rt>\u3044\u308f\u3068</rt></ruby>\u304c<ruby><rb>\u5d29\u58ca</rb><rt>\u307b\u3046\u304b\u3044</rt></ruby>\u3002<ruby><rb>\u65e9</rb><rt>\u306f\u3084</rt></ruby>\u304f<ruby><rb>\u8131\u51fa</rb><rt>\u3060\u3063\u3057\u3085\u3064</rt></ruby>\uff01\u300d</div></div>"}, {"GroupOrder": 46, "ViewOrder": 1, "Name": "\u30de\u30ad", "Phrase": "\u300c\u7acb\u8179\u306e\u6975\u307f\u3002\\n\u3000\u30de\u30ad\u306f\u3082\u3046\u8a31\u3055\u306a\u3044\u3002\u6b21\u306f\u4ed5\u7559\u3081\u308b\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_039", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 159201, "Position": 3, "Action": 0, "Emotion": 3, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c<ruby><rb>\u7acb\u8179</rb><rt>\u308a\u3063\u3077\u304f</rt></ruby>\u306e<ruby><rb>\u6975</rb><rt>\u304d\u308f</rt></ruby>\u307f\u3002\uff0a\u30de\u30ad\u306f\u3082\u3046<ruby><rb>\u8a31</rb><rt>\u3086\u308b</rt></ruby>\u3055\u306a\u3044\u3002<ruby><rb>\u6b21</rb><rt>\u3064\u304e</rt></ruby>\u306f<ruby><rb>\u4ed5\u7559</rb><rt>\u3057\u3068</rt></ruby>\u3081\u308b\u300d</div></div>"}, {"GroupOrder": 47, "ViewOrder": 1, "Name": "\u30de\u30ad", "Phrase": "\u300c\u899a\u609f\uff01\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_040", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 159201, "Position": 3, "Action": 5, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c<ruby><rb>\u899a\u609f</rb><rt>\u304b\u304f\u3054</rt></ruby>\uff01\u300d</div></div>"}, {"GroupOrder": 48, "ViewOrder": 1, "Name": "\u521d\u4ee3\u30b7\u30e2\u30a2\u30de\u30c5\uff1f", "Phrase": "\u300c\u304a\u304a\u3063\u3068\uff01\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_041", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "swing_ono", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 159201, "Position": 2, "Action": 0, "Emotion": 0, "FacialExpression": 0, "EnterAction": 3}, {"MCharacterId": 18, "Position": 3, "Action": 0, "Emotion": 0, "FacialExpression": 1, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u304a\u304a\u3063\u3068\uff01\u300d</div></div>"}, {"GroupOrder": 49, "ViewOrder": 1, "Name": "", "Phrase": "\u30de\u30ad\u304c\u7e70\u308a\u51fa\u3057\u305f\u653b\u6483\u3092\u3001\\n\u9593\u4e00\u9aea\u306e\u3068\u3053\u308d\u3067\u304b\u308f\u3059\u507d\u7269\u3002", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 0, "FrameImage": 0, "VoiceFileName": "", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 159201, "Position": 2, "Action": 0, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}, {"MCharacterId": 18, "Position": 3, "Action": 2, "Emotion": 0, "FacialExpression": 1, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u30de\u30ad\u304c<ruby><rb>\u7e70</rb><rt>\u304f</rt></ruby>\u308a<ruby><rb>\u51fa</rb><rt>\u3060</rt></ruby>\u3057\u305f<ruby><rb>\u653b\u6483</rb><rt>\u3053\u3046\u3052\u304d</rt></ruby>\u3092\u3001\uff0a<ruby><rb>\u9593\u4e00\u9aea</rb><rt>\u304b\u3093\u3044\u3063\u3071\u3064</rt></ruby>\u306e\u3068\u3053\u308d\u3067\u304b\u308f\u3059<ruby><rb>\u507d\u7269</rb><rt>\u306b\u305b\u3082\u306e</rt></ruby>\u3002</div></div>"}, {"GroupOrder": 50, "ViewOrder": 1, "Name": "", "Phrase": "\u3055\u3059\u304c\u306b\u4eca\u306e\u3092\u898b\u308c\u3070\u3001\u6226\u3044\u306b\u304a\u3044\u3066\u306f\u7d20\u4eba\u306e\u3053\u3061\u3089\u3067\u3082\u5206\u304b\u308b\u3002\\n\u521d\u4ee3\u30b7\u30e2\u30a2\u30de\u30c5\u306a\u3089\u3001\u7c21\u5358\u306b\u907f\u3051\u3066\u3044\u305f\u3002\\n\u4f55\u3088\u308a\u53e3\u8abf\u304c\u3082\u3046\u521d\u4ee3\u30b7\u30e2\u30a2\u30de\u30c5\u306e\u305d\u308c\u3067\u306f\u306a\u3044\u3002", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 0, "FrameImage": 0, "VoiceFileName": "", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u3055\u3059\u304c\u306b<ruby><rb>\u4eca</rb><rt>\u3044\u307e</rt></ruby>\u306e\u3092<ruby><rb>\u898b</rb><rt>\u307f</rt></ruby>\u308c\u3070\u3001<ruby><rb>\u6226</rb><rt>\u305f\u305f\u304b</rt></ruby>\u3044\u306b\u304a\u3044\u3066\u306f<ruby><rb>\u7d20\u4eba</rb><rt>\u3057\u308d\u3046\u3068</rt></ruby>\u306e\u3053\u3061\u3089\u3067\u3082<ruby><rb>\u5206</rb><rt>\u308f</rt></ruby>\u304b\u308b\u3002\uff0a<ruby><rb>\u521d\u4ee3</rb><rt>\u3057\u3087\u3060\u3044</rt></ruby>\u30b7\u30e2\u30a2\u30de\u30c5\u306a\u3089\u3001<ruby><rb>\u7c21\u5358</rb><rt>\u304b\u3093\u305f\u3093</rt></ruby>\u306b<ruby><rb>\u907f</rb><rt>\u3055</rt></ruby>\u3051\u3066\u3044\u305f\u3002\uff0a<ruby><rb>\u4f55</rb><rt>\u306a\u306b</rt></ruby>\u3088\u308a<ruby><rb>\u53e3\u8abf</rb><rt>\u304f\u3061\u3087\u3046</rt></ruby>\u304c\u3082\u3046<ruby><rb>\u521d\u4ee3</rb><rt>\u3057\u3087\u3060\u3044</rt></ruby>\u30b7\u30e2\u30a2\u30de\u30c5\u306e\u305d\u308c\u3067\u306f\u306a\u3044\u3002</div></div>"}, {"GroupOrder": 51, "ViewOrder": 1, "Name": "", "Phrase": "\u5909\u8eab\u304c\u89e3\u304b\u308c\u3001\u7570\u7a7a\u9593\u306e\u4e3b\u304c\u59ff\u3092\u73fe\u3059\u3002\\n\u306a\u3093\u3068\u8888\u88df\u3092\u7740\u305f\u5996\u602a\u3060\u3063\u305f\u3002", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 0, "FrameImage": 0, "VoiceFileName": "", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 18, "Position": 3, "Action": 6, "Emotion": 0, "FacialExpression": 10, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div><ruby><rb>\u5909\u8eab</rb><rt>\u3078\u3093\u3057\u3093</rt></ruby>\u304c<ruby><rb>\u89e3</rb><rt>\u3068</rt></ruby>\u304b\u308c\u3001<ruby><rb>\u7570</rb><rt>\u3044</rt></ruby><ruby><rb>\u7a7a\u9593</rb><rt>\u304f\u3046\u304b\u3093</rt></ruby>\u306e<ruby><rb>\u4e3b</rb><rt>\u3057\u3085</rt></ruby>\u304c<ruby><rb>\u59ff</rb><rt>\u3059\u304c\u305f</rt></ruby>\u3092<ruby><rb>\u73fe</rb><rt>\u3042\u3089\u308f</rt></ruby>\u3059\u3002\uff0a\u306a\u3093\u3068<ruby><rb>\u8888\u88df</rb><rt>\u3051\u3055</rt></ruby>\u3092<ruby><rb>\u7740</rb><rt>\u304d</rt></ruby>\u305f<ruby><rb>\u5996\u602a</rb><rt>\u3088\u3046\u304b\u3044</rt></ruby>\u3060\u3063\u305f\u3002</div></div>"}, {"GroupOrder": 52, "ViewOrder": 1, "Name": "\u7570\u754c\u5996\u602a\u30fb\u906d\u96e3\u6212", "Phrase": "\u300c\u304f\u3063\u2026\u2026\u3053\u306e\u906d\u96e3\u6212\u306e\u5909\u8eab\u306f\u5b8c\u74a7\u3060\u3063\u305f\u306f\u305a\u3002\\n\u3000\u90aa\u9b54\u8005\u306a\u3069\u3053\u308c\u3067\u6392\u9664\u3067\u304d\u308b\u3068\u5b66\u3093\u3060\u306f\u305a\u3060\u3063\u305f\u306e\u306b\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 50, "Position": 3, "Action": 3, "Emotion": 0, "FacialExpression": 0, "EnterAction": 2}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u304f\u3063\u2026\u2026\u3053\u306e<ruby><rb>\u906d\u96e3</rb><rt>\u305d\u3046\u306a\u3093</rt></ruby>\u6212\u306e<ruby><rb>\u5909\u8eab</rb><rt>\u3078\u3093\u3057\u3093</rt></ruby>\u306f<ruby><rb>\u5b8c\u74a7</rb><rt>\u304b\u3093\u307a\u304d</rt></ruby>\u3060\u3063\u305f\u306f\u305a\u3002\uff0a<ruby><rb>\u90aa\u9b54\u8005</rb><rt>\u3058\u3083\u307e\u3082\u306e</rt></ruby>\u306a\u3069\u3053\u308c\u3067<ruby><rb>\u6392\u9664</rb><rt>\u306f\u3044\u3058\u3087</rt></ruby>\u3067\u304d\u308b\u3068<ruby><rb>\u5b66</rb><rt>\u307e\u306a</rt></ruby>\u3093\u3060\u306f\u305a\u3060\u3063\u305f\u306e\u306b\u300d</div></div>"}, {"GroupOrder": 53, "ViewOrder": 1, "Name": "\u30de\u30ad", "Phrase": "\u300c\u5b8c\u74a7\u3058\u3083\u306a\u3044\u3002\\n\u3000\u307e\u3063\u305f\u304f\u4f3c\u3066\u3044\u306a\u304b\u3063\u305f\u3002\u3069\u308c\u3082\u507d\u7269\u3002\\n\u3000\u3055\u3042\u3001\u899a\u609f\uff01\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_042", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 159201, "Position": 3, "Action": 2, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c<ruby><rb>\u5b8c\u74a7</rb><rt>\u304b\u3093\u307a\u304d</rt></ruby>\u3058\u3083\u306a\u3044\u3002\uff0a\u307e\u3063\u305f\u304f<ruby><rb>\u4f3c</rb><rt>\u306b</rt></ruby>\u3066\u3044\u306a\u304b\u3063\u305f\u3002\u3069\u308c\u3082<ruby><rb>\u507d\u7269</rb><rt>\u306b\u305b\u3082\u306e</rt></ruby>\u3002\uff0a\u3055\u3042\u3001<ruby><rb>\u899a\u609f</rb><rt>\u304b\u304f\u3054</rt></ruby>\uff01\u300d</div></div>"}, {"GroupOrder": 54, "ViewOrder": 1, "Name": "\u30b7\u30e2\u30a2\u30de\u30c5", "Phrase": "\u300c\u304b\u3063\u3053\u3088\u304f\u6c7a\u3081\u305f\u3068\u3053\u308d\u60aa\u3044\u306e\u3060\u3051\u3069\u3001\\n\u3000\u3055\u3063\u304d\u306e\u507d\u7269\u306e\u4e2d\u306b\u3072\u3068\u3064\u3060\u3051\u672c\u7269\u306e\u6bcd\u304c\u3044\u305f\u308f\u3088\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_043", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 21201, "Position": 3, "Action": 0, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u304b\u3063\u3053\u3088\u304f<ruby><rb>\u6c7a</rb><rt>\u304d</rt></ruby>\u3081\u305f\u3068\u3053\u308d<ruby><rb>\u60aa</rb><rt>\u308f\u308b</rt></ruby>\u3044\u306e\u3060\u3051\u3069\u3001\uff0a\u3055\u3063\u304d\u306e<ruby><rb>\u507d\u7269</rb><rt>\u306b\u305b\u3082\u306e</rt></ruby>\u306e<ruby><rb>\u4e2d</rb><rt>\u306a\u304b</rt></ruby>\u306b\u3072\u3068\u3064\u3060\u3051<ruby><rb>\u672c\u7269</rb><rt>\u307b\u3093\u3082\u306e</rt></ruby>\u306e<ruby><rb>\u6bcd</rb><rt>\u306f\u306f</rt></ruby>\u304c\u3044\u305f\u308f\u3088\u300d</div></div>"}, {"GroupOrder": 55, "ViewOrder": 1, "Name": "\u30de\u30ad", "Phrase": "\u300c\u3057\u30fc\u3061\u3083\u3093\u3001\u672c\u5f53\u304b\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 8, "FrameImage": 0, "VoiceFileName": "e_41027106_044", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 159201, "Position": 2, "Action": 0, "Emotion": 0, "FacialExpression": 1, "EnterAction": 0}, {"MCharacterId": 21201, "Position": 4, "Action": 0, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u3057\u30fc\u3061\u3083\u3093\u3001<ruby><rb>\u672c</rb><rt>\u307b\u3093</rt></ruby><ruby><rb>\u5f53</rb><rt>\u3068\u3046</rt></ruby>\u304b\u300d</div></div>"}, {"GroupOrder": 56, "ViewOrder": 1, "Name": "\u30b7\u30e2\u30a2\u30de\u30c5", "Phrase": "\u300c\u3048\u3048\u3002\u552f\u4e00\u9762\u767d\u304c\u3063\u3066\u3044\u305f\u306e\u304c\u6bcd\u306d\u3002\\n\u3000\u304a\u305d\u3089\u304f\u546a\u8853\u3067\u601d\u5ff5\u4f53\u3060\u3051\u98db\u3070\u3057\u305f\u3093\u3067\u3057\u3087\u3046\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 2, "FrameImage": 0, "VoiceFileName": "e_41027106_045", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 159201, "Position": 2, "Action": 0, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}, {"MCharacterId": 21201, "Position": 4, "Action": 5, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u3048\u3048\u3002<ruby><rb>\u552f\u4e00</rb><rt>\u3086\u3044\u3044\u3064</rt></ruby><ruby><rb>\u9762\u767d</rb><rt>\u304a\u3082\u3057\u308d</rt></ruby>\u304c\u3063\u3066\u3044\u305f\u306e\u304c<ruby><rb>\u6bcd</rb><rt>\u306f\u306f</rt></ruby>\u306d\u3002\uff0a\u304a\u305d\u3089\u304f<ruby><rb>\u546a\u8853</rb><rt>\u3058\u3085\u3058\u3085\u3064</rt></ruby>\u3067<ruby><rb>\u601d\u5ff5</rb><rt>\u3057\u306d\u3093</rt></ruby><ruby><rb>\u4f53</rb><rt>\u305f\u3044</rt></ruby>\u3060\u3051<ruby><rb>\u98db</rb><rt>\u3068</rt></ruby>\u3070\u3057\u305f\u3093\u3067\u3057\u3087\u3046\u300d</div></div>"}, {"GroupOrder": 57, "ViewOrder": 1, "Name": "\u30e8\u30b7\u30ce", "Phrase": "\u300c\u3069\u3093\u307e\u3044\u3001\u30de\u30ad\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_046", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 24201, "Position": 3, "Action": 5, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u3069\u3093\u307e\u3044\u3001\u30de\u30ad\u300d</div></div>"}, {"GroupOrder": 58, "ViewOrder": 1, "Name": "\u30de\u30ad", "Phrase": "\u300c\u3057\u3001\u5e2b\u5320\u306f\u30de\u30ad\u306e\u60f3\u50cf\u306a\u3069\u9065\u304b\u306b\u53ca\u3070\u306c\u5b58\u5728\u3002\\n\u3000\u672a\u719f\u306a\u5f1f\u5b50\u306b\u306f\u307e\u3060\u898b\u629c\u3051\u306c\u3082\u306e\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_047", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 159201, "Position": 3, "Action": 0, "Emotion": 5, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u3057\u3001<ruby><rb>\u5e2b\u5320</rb><rt>\u3057\u3057\u3087\u3046</rt></ruby>\u306f\u30de\u30ad\u306e<ruby><rb>\u60f3\u50cf</rb><rt>\u305d\u3046\u305e\u3046</rt></ruby>\u306a\u3069<ruby><rb>\u9065</rb><rt>\u306f\u308b</rt></ruby>\u304b\u306b<ruby><rb>\u53ca</rb><rt>\u304a\u3088</rt></ruby>\u3070\u306c<ruby><rb>\u5b58\u5728</rb><rt>\u305d\u3093\u3056\u3044</rt></ruby>\u3002\uff0a<ruby><rb>\u672a\u719f</rb><rt>\u307f\u3058\u3085\u304f</rt></ruby>\u306a<ruby><rb>\u5f1f\u5b50</rb><rt>\u3067\u3057</rt></ruby>\u306b\u306f\u307e\u3060<ruby><rb>\u898b\u629c</rb><rt>\u307f\u306c</rt></ruby>\u3051\u306c\u3082\u306e\u300d</div></div>"}, {"GroupOrder": 59, "ViewOrder": 1, "Name": "", "Phrase": "\u601d\u3044\u3063\u304d\u308a\u3042\u305f\u3075\u305f\u3057\u306a\u304c\u3089\u3001\\n\u305c\u3093\u3076\u507d\u7269\u3068\u53e3\u306b\u3057\u3066\u3057\u307e\u3063\u305f\u3053\u3068\u3092\u53d6\u308a\u7e55\u3046\u30de\u30ad\u3002\\n\u3055\u3059\u304c\u521d\u4ee3\u30b7\u30e2\u30a2\u30de\u30c5\u3001\u3053\u3093\u306a\u6642\u3067\u3082\u3044\u305f\u305a\u3089\u3092\u6b20\u304b\u3055\u306a\u3044\u3068\u306f\u2026\u2026\u3002", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 0, "FrameImage": 0, "VoiceFileName": "", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 159201, "Position": 3, "Action": 0, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div><ruby><rb>\u601d</rb><rt>\u304a\u3082</rt></ruby>\u3044\u3063\u304d\u308a\u3042\u305f\u3075\u305f\u3057\u306a\u304c\u3089\u3001\uff0a\u305c\u3093\u3076<ruby><rb>\u507d\u7269</rb><rt>\u306b\u305b\u3082\u306e</rt></ruby>\u3068<ruby><rb>\u53e3</rb><rt>\u3050\u3061</rt></ruby>\u306b\u3057\u3066\u3057\u307e\u3063\u305f\u3053\u3068\u3092<ruby><rb>\u53d6</rb><rt>\u3068</rt></ruby>\u308a<ruby><rb>\u7e55</rb><rt>\u3064\u304f\u308d</rt></ruby>\u3046\u30de\u30ad\u3002\uff0a\u3055\u3059\u304c<ruby><rb>\u521d\u4ee3</rb><rt>\u3057\u3087\u3060\u3044</rt></ruby>\u30b7\u30e2\u30a2\u30de\u30c5\u3001\u3053\u3093\u306a<ruby><rb>\u6642</rb><rt>\u3068\u304d</rt></ruby>\u3067\u3082\u3044\u305f\u305a\u3089\u3092<ruby><rb>\u6b20</rb><rt>\u304b</rt></ruby>\u304b\u3055\u306a\u3044\u3068\u306f\u2026\u2026\u3002</div></div>"}, {"GroupOrder": 60, "ViewOrder": 1, "Name": "\u30de\u30ad", "Phrase": "\u300c\u3068\u3001\u3068\u306b\u304b\u304f\u507d\u7269\u306f\u66b4\u304b\u308c\u305f\u3002\\n\u3000\u906d\u96e3\u6212\u3068\u8a00\u3063\u305f\u306a\u3002\u5e2b\u5320\u3092\u4fae\u8fb1\u3057\u305f\u3053\u3068\u3001\u8a31\u3055\u306a\u3044\u3002\\n\u3000\u4eca\u5ea6\u3053\u305d\u899a\u609f\uff01\u300d", "PhraseFontSize": 2, "PhraseSpeed": 3, "IsPhraseCenter": false, "SpeechMCharacterId": null, "IsSpeakingFlags": 4, "FrameImage": 0, "VoiceFileName": "e_41027106_048", "BackgroundImage": "", "BGM": "", "BattleBGM": "", "SE": "", "Effect": null, "BackgroundEffectType": 0, "StandCharacters": [{"MCharacterId": 159201, "Position": 3, "Action": 1, "Emotion": 0, "FacialExpression": 0, "EnterAction": 0}], "StillDetail": {"AnimationName": "", "AnimationSpeed": null, "CameraZoomRatio": null, "CameraPositionX": null, "CameraPositionY": null, "CameraWorkDuration": null, "CameraRotation": null}, "Ruby": "<div><div>\u300c\u3068\u3001\u3068\u306b\u304b\u304f<ruby><rb>\u507d\u7269</rb><rt>\u306b\u305b\u3082\u306e</rt></ruby>\u306f<ruby><rb>\u66b4</rb><rt>\u3042\u3070</rt></ruby>\u304b\u308c\u305f\u3002\uff0a<ruby><rb>\u906d\u96e3</rb><rt>\u305d\u3046\u306a\u3093</rt></ruby>\u6212\u3068<ruby><rb>\u8a00</rb><rt>\u3044</rt></ruby>\u3063\u305f\u306a\u3002<ruby><rb>\u5e2b\u5320</rb><rt>\u3057\u3057\u3087\u3046</rt></ruby>\u3092<ruby><rb>\u4fae\u8fb1</rb><rt>\u3076\u3058\u3087\u304f</rt></ruby>\u3057\u305f\u3053\u3068\u3001<ruby><rb>\u8a31</rb><rt>\u3086\u308b</rt></ruby>\u3055\u306a\u3044\u3002\uff0a<ruby><rb>\u4eca\u5ea6</rb><rt>\u3053\u3093\u3069</rt></ruby>\u3053\u305d<ruby><rb>\u899a\u609f</rb><rt>\u304b\u304f\u3054</rt></ruby>\uff01\u300d</div></div>"}], "FirstViewRewords": {"Items": [], "GiftItems": [], "DeletedItemIds": []}, "Title": "<div><div><ruby><rb>\u7570</rb><rt>\u3044</rt></ruby><ruby><rb>\u7a7a\u9593</rb><rt>\u304f\u3046\u304b\u3093</rt></ruby>\u306e<ruby><rb>\u4e3b</rb><rt>\u3042\u308b\u3058</rt></ruby></div></div>"}
+{
+    "MSceneId": 41027106,
+    "MSceneDetailViewModel": [
+    {
+        "GroupOrder": 1,
+        "ViewOrder": 1,
+        "Name": "",
+        "Phrase": "アクシデントによって、初代シモアマヅの岩戸に突如出現した異空間。\\nこのままでは現実への被害が危惧されたが、\\n初代シモアマヅいわく『稀に頻繁』だそうで、\\n出現するたびに彼女が処理しているらしい。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 0,
+        "FrameImage": 0,
+        "VoiceFileName": "",
+        "BackgroundImage": "128400",
+        "BGM": "adv_nishiki",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>アクシデントによって、<ruby><rb>初代</rb><rt>しょだい</rt></ruby>シモアマヅの<ruby><rb>岩戸</rb><rt>いわと</rt></ruby>に<ruby><rb>突如</rb><rt>とつじょ</rt></ruby><ruby><rb>出現</rb><rt>しゅつげん</rt></ruby>した<ruby><rb>異</rb><rt>い</rt></ruby><ruby><rb>空間</rb><rt>くうかん</rt></ruby>。＊このままでは<ruby><rb>現実</rb><rt>げんじつ</rt></ruby>への<ruby><rb>被害</rb><rt>ひがい</rt></ruby>が<ruby><rb>危惧</rb><rt>きぐ</rt></ruby>されたが、＊<ruby><rb>初代</rb><rt>しょだい</rt></ruby>シモアマヅいわく『<ruby><rb>稀</rb><rt>まれ</rt></ruby>に<ruby><rb>頻繁</rb><rt>ひんぱん</rt></ruby>』だそうで、＊<ruby><rb>出現</rb><rt>しゅつげん</rt></ruby>するたびに<ruby><rb>彼女</rb><rt>かのじょ</rt></ruby>が<ruby><rb>処理</rb><rt>しょり</rt></ruby>しているらしい。</div></div>"
+    },
+    {
+        "GroupOrder": 2,
+        "ViewOrder": 1,
+        "Name": "",
+        "Phrase": "だが今回は弟子のマキの『師匠の手を煩わせたくない』という想いから、\\n彼女が処理をすることになった。\\nそこでヨシノとシモアマヅとこちらで一緒に手伝うことにしたのだが、\\n内部は予想以上に危険な空間だった。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 0,
+        "FrameImage": 0,
+        "VoiceFileName": "",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>だが<ruby><rb>今回</rb><rt>こんかい</rt></ruby>は<ruby><rb>弟子</rb><rt>でし</rt></ruby>のマキの『<ruby><rb>師匠</rb><rt>ししょう</rt></ruby>の<ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>煩</rb><rt>わずら</rt></ruby>わせたくない』という<ruby><rb>想</rb><rt>おも</rt></ruby>いから、＊<ruby><rb>彼女</rb><rt>かのじょ</rt></ruby>が<ruby><rb>処理</rb><rt>しょり</rt></ruby>をすることになった。＊そこでヨシノとシモアマヅとこちらで<ruby><rb>一緒</rb><rt>いっしょ</rt></ruby>に<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>うことにしたのだが、＊<ruby><rb>内部</rb><rt>ないぶ</rt></ruby>は<ruby><rb>予想</rb><rt>よそう</rt></ruby><ruby><rb>以上</rb><rt>いじょう</rt></ruby>に<ruby><rb>危険</rb><rt>きけん</rt></ruby>な<ruby><rb>空間</rb><rt>くうかん</rt></ruby>だった。</div></div>"
+    },
+    {
+        "GroupOrder": 3,
+        "ViewOrder": 1,
+        "Name": "",
+        "Phrase": "それでもみんなで上手く連携を取って何とか奥に進んできた。\\nしかし会話を聞いていたらしい異空間の主がこちらを排除すべく、\\n異空間を岩戸から別のものへと一変させたのだった。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 0,
+        "FrameImage": 0,
+        "VoiceFileName": "",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>それでもみんなで<ruby><rb>上手</rb><rt>うま</rt></ruby>く<ruby><rb>連携</rb><rt>れんけい</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>って<ruby><rb>何</rb><rt>なん</rt></ruby>とか<ruby><rb>奥</rb><rt>おく</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>んできた。＊しかし<ruby><rb>会話</rb><rt>かいわ</rt></ruby>を<ruby><rb>聞</rb><rt>き</rt></ruby>いていたらしい<ruby><rb>異</rb><rt>い</rt></ruby><ruby><rb>空間</rb><rt>くうかん</rt></ruby>の<ruby><rb>主</rb><rt>あるじ</rt></ruby>がこちらを<ruby><rb>排除</rb><rt>はいじょ</rt></ruby>すべく、＊<ruby><rb>異</rb><rt>い</rt></ruby><ruby><rb>空間</rb><rt>くうかん</rt></ruby>を<ruby><rb>岩戸</rb><rt>いわと</rt></ruby>から<ruby><rb>別</rb><rt>べつ</rt></ruby>のものへと<ruby><rb>一変</rb><rt>いっぺん</rt></ruby>させたのだった。</div></div>"
+    },
+    {
+        "GroupOrder": 4,
+        "ViewOrder": 1,
+        "Name": "ヨシノ",
+        "Phrase": "「今度の場所は……\\n　何やら見覚えのあるお屋敷だね」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 8,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_001",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 24201,
+            "Position": 2,
+            "Action": 3,
+            "Emotion": 0,
+            "FacialExpression": 3,
+            "EnterAction": 0
+        },
+        {
+            "MCharacterId": 159201,
+            "Position": 4,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「<ruby><rb>今度</rb><rt>こんど</rt></ruby>の<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>は……＊<ruby><rb>何</rb><rt>なに</rt></ruby>やら<ruby><rb>見覚</rb><rt>みおぼ</rt></ruby>えのあるお<ruby><rb>屋敷</rb><rt>やしき</rt></ruby>だね」</div></div>"
+    },
+    {
+        "GroupOrder": 5,
+        "ViewOrder": 1,
+        "Name": "マキ",
+        "Phrase": "「酷似。オオエノミヤ様の屋敷。\\n　窓の外がおかしいところ以外は酷似」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 2,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_002",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 24201,
+            "Position": 2,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 3,
+            "EnterAction": 0
+        },
+        {
+            "MCharacterId": 159201,
+            "Position": 4,
+            "Action": 5,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「<ruby><rb>酷似</rb><rt>こくじ</rt></ruby>。オオエノミヤ<ruby><rb>様</rb><rt>さま</rt></ruby>の<ruby><rb>屋敷</rb><rt>やしき</rt></ruby>。＊<ruby><rb>窓</rb><rt>まど</rt></ruby>の<ruby><rb>外</rb><rt>そと</rt></ruby>がおかしいところ<ruby><rb>以外</rb><rt>いがい</rt></ruby>は<ruby><rb>酷似</rb><rt>こくじ</rt></ruby>」</div></div>"
+    },
+    {
+        "GroupOrder": 6,
+        "ViewOrder": 1,
+        "Name": "ヨシノ",
+        "Phrase": "「色んな建物が宙を漂ってる。\\n　まさに異空間ってかんじ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 8,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_003",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 24201,
+            "Position": 2,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 4,
+            "EnterAction": 0
+        },
+        {
+            "MCharacterId": 159201,
+            "Position": 4,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「<ruby><rb>色</rb><rt>いろ</rt></ruby>んな<ruby><rb>建物</rb><rt>たてもの</rt></ruby>が<ruby><rb>宙</rb><rt>ちゅう</rt></ruby>を<ruby><rb>漂</rb><rt>ただよ</rt></ruby>ってる。＊まさに<ruby><rb>異</rb><rt>い</rt></ruby><ruby><rb>空間</rb><rt>くうかん</rt></ruby>ってかんじ」</div></div>"
+    },
+    {
+        "GroupOrder": 7,
+        "ViewOrder": 1,
+        "Name": "シモアマヅ",
+        "Phrase": "「なるほど、\\n　私の師匠のお屋敷までしっかりと覗き見ていたのね。\\n　さらに許せなくなったわね」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_004",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 21201,
+            "Position": 3,
+            "Action": 3,
+            "Emotion": 0,
+            "FacialExpression": 8,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「なるほど、＊<ruby><rb>私</rb><rt>わたし</rt></ruby>の<ruby><rb>師匠</rb><rt>ししょう</rt></ruby>のお<ruby><rb>屋敷</rb><rt>やしき</rt></ruby>までしっかりと<ruby><rb>覗</rb><rt>のぞ</rt></ruby>き<ruby><rb>見</rb><rt>み</rt></ruby>ていたのね。＊さらに<ruby><rb>許</rb><rt>ゆる</rt></ruby>せなくなったわね」</div></div>"
+    },
+    {
+        "GroupOrder": 8,
+        "ViewOrder": 1,
+        "Name": "シモアマヅ",
+        "Phrase": "「とはいえ、これまでの進軍が無駄になった感は否めないわ。\\n　せっかく元凶がいる予想ポイントまで\\n　半分というところまで来ていたのに」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_005",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 21201,
+            "Position": 3,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 4,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「とはいえ、これまでの<ruby><rb>進軍</rb><rt>しんぐん</rt></ruby>が<ruby><rb>無駄</rb><rt>むだ</rt></ruby>になった<ruby><rb>感</rb><rt>かん</rt></ruby>は<ruby><rb>否</rb><rt>いな</rt></ruby>めないわ。＊せっかく<ruby><rb>元凶</rb><rt>げんきょう</rt></ruby>がいる<ruby><rb>予想</rb><rt>よそう</rt></ruby>ポイントまで＊<ruby><rb>半分</rb><rt>はんぶん</rt></ruby>というところまで<ruby><rb>来</rb><rt>き</rt></ruby>ていたのに」</div></div>"
+    },
+    {
+        "GroupOrder": 9,
+        "ViewOrder": 1,
+        "Name": "ヨシノ",
+        "Phrase": "「でもこっちの方が動きやすいよ。\\n　何よりシモアマヅがいちばん詳しい場所だよね」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 8,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_006",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 24201,
+            "Position": 2,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        },
+        {
+            "MCharacterId": 21201,
+            "Position": 4,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 4,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「でもこっちの<ruby><rb>方</rb><rt>ほう</rt></ruby>が<ruby><rb>動</rb><rt>うご</rt></ruby>きやすいよ。＊<ruby><rb>何</rb><rt>なに</rt></ruby>よりシモアマヅがいちばん<ruby><rb>詳</rb><rt>くわ</rt></ruby>しい<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>だよね」</div></div>"
+    },
+    {
+        "GroupOrder": 10,
+        "ViewOrder": 1,
+        "Name": "シモアマヅ",
+        "Phrase": "「そうね。この屋敷で私に分からないことはないわ。\\n　飲みすぎだと取り上げた『あるある』の隠し場所は、\\n　きっと師匠でも見つけられないわね」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 2,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_007",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 24201,
+            "Position": 2,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        },
+        {
+            "MCharacterId": 21201,
+            "Position": 4,
+            "Action": 5,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「そうね。この<ruby><rb>屋敷</rb><rt>やしき</rt></ruby>で<ruby><rb>私</rb><rt>わたし</rt></ruby>に<ruby><rb>分</rb><rt>わ</rt></ruby>からないことはないわ。＊<ruby><rb>飲</rb><rt>の</rt></ruby>みすぎだと<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>げた『あるある』の<ruby><rb>隠</rb><rt>かくしば</rt></ruby>し<ruby><rb>場所</rb><rt>ょ</rt></ruby>は、＊きっと<ruby><rb>師匠</rb><rt>ししょう</rt></ruby>でも<ruby><rb>見</rb><rt>み</rt></ruby>つけられないわね」</div></div>"
+    },
+    {
+        "GroupOrder": 11,
+        "ViewOrder": 1,
+        "Name": "ヨシノ",
+        "Phrase": "「おおー、オオエノミヤの屋敷の陰の黒幕……」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 8,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_008",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 24201,
+            "Position": 2,
+            "Action": 3,
+            "Emotion": 0,
+            "FacialExpression": 8,
+            "EnterAction": 0
+        },
+        {
+            "MCharacterId": 21201,
+            "Position": 4,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「おおー、オオエノミヤの<ruby><rb>屋敷</rb><rt>やしき</rt></ruby>の<ruby><rb>陰</rb><rt>かげ</rt></ruby>の<ruby><rb>黒幕</rb><rt>くろまく</rt></ruby>……」</div></div>"
+    },
+    {
+        "GroupOrder": 12,
+        "ViewOrder": 1,
+        "Name": "シモアマヅ",
+        "Phrase": "「人聞きの悪いことを言わないで頂戴。\\n　他のみんなが自分の生活圏以外にあまり興味を持たないだけよ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 2,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_009",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 24201,
+            "Position": 2,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 8,
+            "EnterAction": 0
+        },
+        {
+            "MCharacterId": 21201,
+            "Position": 4,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 4,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「<ruby><rb>人聞</rb><rt>ひとぎ</rt></ruby>きの<ruby><rb>悪</rb><rt>わる</rt></ruby>いことを<ruby><rb>言</rb><rt>い</rt></ruby>わないで<ruby><rb>頂戴</rb><rt>ちょうだい</rt></ruby>。＊<ruby><rb>他</rb><rt>た</rt></ruby>のみんなが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>生活圏</rb><rt>せいかつけん</rt></ruby><ruby><rb>以外</rb><rt>いがい</rt></ruby>にあまり<ruby><rb>興味</rb><rt>きょうみ</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>たないだけよ」</div></div>"
+    },
+    {
+        "GroupOrder": 13,
+        "ViewOrder": 1,
+        "Name": "マキ",
+        "Phrase": "「アマノハシダテは何にでも興味を持つ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_010",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 159201,
+            "Position": 3,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「アマノハシダテは<ruby><rb>何</rb><rt>なに</rt></ruby>にでも<ruby><rb>興味</rb><rt>きょうみ</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ」</div></div>"
+    },
+    {
+        "GroupOrder": 14,
+        "ViewOrder": 1,
+        "Name": "シモアマヅ",
+        "Phrase": "「確かに。あのおっきな子は、\\n　私の次に屋敷に詳しいに違いないわね」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_011",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 21201,
+            "Position": 3,
+            "Action": 3,
+            "Emotion": 0,
+            "FacialExpression": 7,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「<ruby><rb>確</rb><rt>たし</rt></ruby>かに。あのおっきな<ruby><rb>子</rb><rt>こ</rt></ruby>は、＊<ruby><rb>私</rb><rt>わたし</rt></ruby>の<ruby><rb>次</rb><rt>つぎ</rt></ruby>に<ruby><rb>屋敷</rb><rt>やしき</rt></ruby>に<ruby><rb>詳</rb><rt>くわ</rt></ruby>しいに<ruby><rb>違</rb><rt>ちが</rt></ruby>いないわね」</div></div>"
+    },
+    {
+        "GroupOrder": 15,
+        "ViewOrder": 1,
+        "Name": "シモアマヅ",
+        "Phrase": "「それにしてもマキ、\\n　あなたもよく見てるわね」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_012",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 21201,
+            "Position": 3,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「それにしてもマキ、＊あなたもよく<ruby><rb>見</rb><rt>み</rt></ruby>てるわね」</div></div>"
+    },
+    {
+        "GroupOrder": 16,
+        "ViewOrder": 1,
+        "Name": "マキ",
+        "Phrase": "「師匠もかわいいけど、しーちゃんもかわいい。\\n　マキは一日一回はしーちゃんを観察しに行ってた。\\n　だから色々と詳しくなった。日々の積み重ね」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_013",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 159201,
+            "Position": 3,
+            "Action": 0,
+            "Emotion": 7,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「<ruby><rb>師匠</rb><rt>ししょう</rt></ruby>もかわいいけど、しーちゃんもかわいい。＊マキは<ruby><rb>一</rb><rt>いち</rt></ruby><ruby><rb>日</rb><rt>にち</rt></ruby><ruby><rb>一</rb><rt>いち</rt></ruby><ruby><rb>回</rb><rt>かい</rt></ruby>はしーちゃんを<ruby><rb>観察</rb><rt>かんさつ</rt></ruby>しに<ruby><rb>行</rb><rt>おこな</rt></ruby>ってた。＊だから<ruby><rb>色々</rb><rt>いろいろ</rt></ruby>と<ruby><rb>詳</rb><rt>くわ</rt></ruby>しくなった。<ruby><rb>日々</rb><rt>ひび</rt></ruby>の<ruby><rb>積</rb><rt>つ</rt></ruby>み<ruby><rb>重</rb><rt>かさ</rt></ruby>ね」</div></div>"
+    },
+    {
+        "GroupOrder": 17,
+        "ViewOrder": 1,
+        "Name": "ヨシノ",
+        "Phrase": "「本人を前にだいたんな告白。\\n　何故かヨシノまでドキドキしちゃう」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_014",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 24201,
+            "Position": 3,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 6,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「<ruby><rb>本人</rb><rt>ほんにん</rt></ruby>を<ruby><rb>前</rb><rt>まえ</rt></ruby>にだいたんな<ruby><rb>告白</rb><rt>こくはく</rt></ruby>。＊<ruby><rb>何故</rb><rt>なぜ</rt></ruby>かヨシノまで<ruby><rb>ドキドキ</rb><rt>どきどき</rt></ruby>しちゃう」</div></div>"
+    },
+    {
+        "GroupOrder": 18,
+        "ViewOrder": 1,
+        "Name": "シモアマヅ",
+        "Phrase": "「間接的に私の心境を表現するのはやめて頂戴」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_015",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 21201,
+            "Position": 3,
+            "Action": 5,
+            "Emotion": 0,
+            "FacialExpression": 6,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「<ruby><rb>間接</rb><rt>かんせつ</rt></ruby><ruby><rb>的</rb><rt>てき</rt></ruby>に<ruby><rb>私</rb><rt>わたし</rt></ruby>の<ruby><rb>心境</rb><rt>しんきょう</rt></ruby>を<ruby><rb>表現</rb><rt>ひょうげん</rt></ruby>するのはやめて<ruby><rb>頂戴</rb><rt>ちょうだい</rt></ruby>」</div></div>"
+    },
+    {
+        "GroupOrder": 19,
+        "ViewOrder": 1,
+        "Name": "シモアマヅ",
+        "Phrase": "「マキ、あまり屋敷に近づかなかったあなたが\\n　そこまで観察していたのなら、\\n　母が屋敷で暮らしていた時に使っていた部屋も分かるわね？」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 2,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_016",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 159201,
+            "Position": 2,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        },
+        {
+            "MCharacterId": 21201,
+            "Position": 4,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「マキ、あまり<ruby><rb>屋敷</rb><rt>やしき</rt></ruby>に<ruby><rb>近</rb><rt>ちか</rt></ruby>づかなかったあなたが＊そこまで<ruby><rb>観察</rb><rt>かんさつ</rt></ruby>していたのなら、＊<ruby><rb>母</rb><rt>はは</rt></ruby>が<ruby><rb>屋敷</rb><rt>やしき</rt></ruby>で<ruby><rb>暮</rb><rt>く</rt></ruby>らしていた<ruby><rb>時</rb><rt>とき</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>っていた<ruby><rb>部屋</rb><rt>へや</rt></ruby>も<ruby><rb>分</rb><rt>わ</rt></ruby>かるわね？」</div></div>"
+    },
+    {
+        "GroupOrder": 20,
+        "ViewOrder": 1,
+        "Name": "マキ",
+        "Phrase": "「もちろん。観察していた時にオオエノミヤ様が教えてくれた。\\n　それ以来、マキがその部屋の掃除を定期的にさせてもらっている」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 8,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_017",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 159201,
+            "Position": 2,
+            "Action": 5,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        },
+        {
+            "MCharacterId": 21201,
+            "Position": 4,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「もちろん。<ruby><rb>観察</rb><rt>かんさつ</rt></ruby>していた<ruby><rb>時</rb><rt>とき</rt></ruby>にオオエノミヤ<ruby><rb>様</rb><rt>さま</rt></ruby>が<ruby><rb>教</rb><rt>おし</rt></ruby>えてくれた。＊それ<ruby><rb>以来</rb><rt>いらい</rt></ruby>、マキがその<ruby><rb>部屋</rb><rt>へや</rt></ruby>の<ruby><rb>掃除</rb><rt>そうじ</rt></ruby>を<ruby><rb>定期</rb><rt>ていき</rt></ruby><ruby><rb>的</rb><rt>てき</rt></ruby>にさせてもらっている」</div></div>"
+    },
+    {
+        "GroupOrder": 21,
+        "ViewOrder": 1,
+        "Name": "マキ",
+        "Phrase": "「もしかしてそこが、異空間の主の居場所？」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 8,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_018",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 159201,
+            "Position": 2,
+            "Action": 0,
+            "Emotion": 8,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        },
+        {
+            "MCharacterId": 21201,
+            "Position": 4,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「もしかしてそこが、<ruby><rb>異</rb><rt>い</rt></ruby><ruby><rb>空間</rb><rt>くうかん</rt></ruby>の<ruby><rb>主</rb><rt>あるじ</rt></ruby>の<ruby><rb>居場所</rb><rt>いばしょ</rt></ruby>？」</div></div>"
+    },
+    {
+        "GroupOrder": 22,
+        "ViewOrder": 1,
+        "Name": "シモアマヅ",
+        "Phrase": "「こういった現実の空間に似せてくる輩は、\\n　現実でも特別とされている場所にいることが多いわ。\\n　母の部屋が最も怪しい。次は私の師匠の部屋ね」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 2,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_019",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 159201,
+            "Position": 2,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        },
+        {
+            "MCharacterId": 21201,
+            "Position": 4,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「こういった<ruby><rb>現実</rb><rt>げんじつ</rt></ruby>の<ruby><rb>空間</rb><rt>くうかん</rt></ruby>に<ruby><rb>似</rb><rt>に</rt></ruby>せてくる<ruby><rb>輩</rb><rt>ともがら</rt></ruby>は、＊<ruby><rb>現実</rb><rt>げんじつ</rt></ruby>でも<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>とされている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>にいることが<ruby><rb>多</rb><rt>おお</rt></ruby>いわ。＊<ruby><rb>母</rb><rt>はは</rt></ruby>の<ruby><rb>部屋</rb><rt>へや</rt></ruby>が<ruby><rb>最</rb><rt>もっと</rt></ruby>も<ruby><rb>怪</rb><rt>あや</rt></ruby>しい。<ruby><rb>次</rb><rt>つぎ</rt></ruby>は<ruby><rb>私</rb><rt>わたし</rt></ruby>の<ruby><rb>師匠</rb><rt>ししょう</rt></ruby>の<ruby><rb>部屋</rb><rt>へや</rt></ruby>ね」</div></div>"
+    },
+    {
+        "GroupOrder": 23,
+        "ViewOrder": 1,
+        "Name": "シモアマヅ",
+        "Phrase": "「だからもしもはぐれたら、\\n　母の部屋をまず目指しなさい」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 2,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_020",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 159201,
+            "Position": 2,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        },
+        {
+            "MCharacterId": 21201,
+            "Position": 4,
+            "Action": 5,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「だからもしもはぐれたら、＊<ruby><rb>母</rb><rt>はは</rt></ruby>の<ruby><rb>部屋</rb><rt>へや</rt></ruby>をまず<ruby><rb>目指</rb><rt>めざ</rt></ruby>しなさい」</div></div>"
+    },
+    {
+        "GroupOrder": 24,
+        "ViewOrder": 1,
+        "Name": "マキ",
+        "Phrase": "「師匠の部屋はすぐそこ。\\n　はぐれることなんてない――」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 8,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_021",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 159201,
+            "Position": 2,
+            "Action": 5,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        },
+        {
+            "MCharacterId": 21201,
+            "Position": 4,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「<ruby><rb>師匠</rb><rt>ししょう</rt></ruby>の<ruby><rb>部屋</rb><rt>へや</rt></ruby>はすぐそこ。＊はぐれることなんてない――」</div></div>"
+    },
+    {
+        "GroupOrder": 25,
+        "ViewOrder": 1,
+        "Name": "マキ",
+        "Phrase": "「警戒。上から何か来る」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_022",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 159201,
+            "Position": 3,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 1,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「<ruby><rb>警戒</rb><rt>けいかい</rt></ruby>。<ruby><rb>上</rb><rt>うえ</rt></ruby>から<ruby><rb>何</rb><rt>なに</rt></ruby>か<ruby><rb>来</rb><rt>く</rt></ruby>る」</div></div>"
+    },
+    {
+        "GroupOrder": 26,
+        "ViewOrder": 1,
+        "Name": "初代シモアマヅ",
+        "Phrase": "「きゃっ、きゃっ。\\n　皆、コース楽しんだ。\\n　感想、教えて！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_023",
+        "BackgroundImage": "",
+        "BGM": "a",
+        "BattleBGM": "",
+        "SE": "falling",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 18,
+            "Position": 3,
+            "Action": 0,
+            "Emotion": 1,
+            "FacialExpression": 5,
+            "EnterAction": 1
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「きゃっ、きゃっ。＊<ruby><rb>皆</rb><rt>みな</rt></ruby>、コース<ruby><rb>楽</rb><rt>たの</rt></ruby>しんだ。＊<ruby><rb>感想</rb><rt>かんそう</rt></ruby>、<ruby><rb>教</rb><rt>おし</rt></ruby>えて！」</div></div>"
+    },
+    {
+        "GroupOrder": 27,
+        "ViewOrder": 1,
+        "Name": "マキ",
+        "Phrase": "「師匠！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_024",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 159201,
+            "Position": 3,
+            "Action": 5,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「<ruby><rb>師匠</rb><rt>ししょう</rt></ruby>！」</div></div>"
+    },
+    {
+        "GroupOrder": 28,
+        "ViewOrder": 1,
+        "Name": "マキ",
+        "Phrase": "「…………」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_025",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 159201,
+            "Position": 3,
+            "Action": 3,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「…………」</div></div>"
+    },
+    {
+        "GroupOrder": 29,
+        "ViewOrder": 1,
+        "Name": "マキ",
+        "Phrase": "「間違い。師匠ではない。\\n　ここはコースとは違う。\\n　加えて師匠はコースの途中でそのようなこと聞いてこない」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_026",
+        "BackgroundImage": "",
+        "BGM": "adv_01",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 159201,
+            "Position": 3,
+            "Action": 2,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「<ruby><rb>間違</rb><rt>まちが</rt></ruby>い。<ruby><rb>師匠</rb><rt>ししょう</rt></ruby>ではない。＊ここはコースとは<ruby><rb>違</rb><rt>ちが</rt></ruby>う。＊<ruby><rb>加</rb><rt>くわ</rt></ruby>えて<ruby><rb>師匠</rb><rt>ししょう</rt></ruby>はコースの<ruby><rb>途中</rb><rt>とちゅう</rt></ruby>でそのようなこと<ruby><rb>聞</rb><rt>き</rt></ruby>いてこない」</div></div>"
+    },
+    {
+        "GroupOrder": 30,
+        "ViewOrder": 1,
+        "Name": "ヨシノ",
+        "Phrase": "「そうだね。これがドッキリだとしたら、\\n　母アマヅはもっと面白いところで乱入してくる」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 8,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_027",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 24201,
+            "Position": 2,
+            "Action": 3,
+            "Emotion": 0,
+            "FacialExpression": 3,
+            "EnterAction": 0
+        },
+        {
+            "MCharacterId": 21201,
+            "Position": 4,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 3,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「そうだね。これがドッキリだとしたら、＊<ruby><rb>母</rb><rt>はは</rt></ruby>アマヅはもっと<ruby><rb>面白</rb><rt>おもしろ</rt></ruby>いところで<ruby><rb>乱入</rb><rt>らんにゅう</rt></ruby>してくる」</div></div>"
+    },
+    {
+        "GroupOrder": 31,
+        "ViewOrder": 1,
+        "Name": "シモアマヅ",
+        "Phrase": "「娘として、二代目シモアマヅとして\\n　母を見間違えるはずないでしょう」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 2,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_028",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 24201,
+            "Position": 2,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 3,
+            "EnterAction": 0
+        },
+        {
+            "MCharacterId": 21201,
+            "Position": 4,
+            "Action": 5,
+            "Emotion": 0,
+            "FacialExpression": 3,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「<ruby><rb>娘</rb><rt>むすめ</rt></ruby>として、<ruby><rb>二</rb><rt>に</rt></ruby><ruby><rb>代目</rb><rt>だいめ</rt></ruby>シモアマヅとして＊<ruby><rb>母</rb><rt>はは</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby><ruby><rb>間違</rb><rt>まちが</rt></ruby>えるはずないでしょう」</div></div>"
+    },
+    {
+        "GroupOrder": 32,
+        "ViewOrder": 1,
+        "Name": "初代シモアマヅ？",
+        "Phrase": "「…………」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_029",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 18,
+            "Position": 3,
+            "Action": 3,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「…………」</div></div>"
+    },
+    {
+        "GroupOrder": 33,
+        "ViewOrder": 1,
+        "Name": "初代シモアマヅ？",
+        "Phrase": "「きゃっ、きゃっ♪」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_030",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 18,
+            "Position": 3,
+            "Action": 1,
+            "Emotion": 0,
+            "FacialExpression": 5,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「きゃっ、きゃっ♪」</div></div>"
+    },
+    {
+        "GroupOrder": 34,
+        "ViewOrder": 1,
+        "Name": "マキ",
+        "Phrase": "「偽物、待つのだ！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_031",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 159201,
+            "Position": 3,
+            "Action": 5,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「<ruby><rb>偽物</rb><rt>にせもの</rt></ruby>、<ruby><rb>待</rb><rt>ま</rt></ruby>つのだ！」</div></div>"
+    },
+    {
+        "GroupOrder": 35,
+        "ViewOrder": 1,
+        "Name": "",
+        "Phrase": "マキの制止の声にも耳を貸さず、\\n偽物と思われる初代シモアマヅが逃走する。\\nその速度は速く、素人目には本物と変わらないように見える。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 0,
+        "FrameImage": 0,
+        "VoiceFileName": "",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 18,
+            "Position": 3,
+            "Action": 6,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>マキの<ruby><rb>制止</rb><rt>せいし</rt></ruby>の<ruby><rb>声</rb><rt>こえ</rt></ruby>にも<ruby><rb>耳</rb><rt>みみ</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>さず、＊<ruby><rb>偽物</rb><rt>にせもの</rt></ruby>と<ruby><rb>思</rb><rt>おも</rt></ruby>われる<ruby><rb>初代</rb><rt>しょだい</rt></ruby>シモアマヅが<ruby><rb>逃走</rb><rt>とうそう</rt></ruby>する。＊その<ruby><rb>速度</rb><rt>そくど</rt></ruby>は<ruby><rb>速</rb><rt>はや</rt></ruby>く、<ruby><rb>素人目</rb><rt>しろうとめ</rt></ruby>には<ruby><rb>本物</rb><rt>ほんもの</rt></ruby>と<ruby><rb>変</rb><rt>か</rt></ruby>わらないように<ruby><rb>見</rb><rt>み</rt></ruby>える。</div></div>"
+    },
+    {
+        "GroupOrder": 36,
+        "ViewOrder": 1,
+        "Name": "",
+        "Phrase": "そして偽物と思われる初代シモアマヅは逃走の途中でふっと消えると、\\n今度はこちらのすぐ横に出現した。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 0,
+        "FrameImage": 0,
+        "VoiceFileName": "",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 18,
+            "Position": 3,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 1
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>そして<ruby><rb>偽物</rb><rt>にせもの</rt></ruby>と<ruby><rb>思</rb><rt>おも</rt></ruby>われる<ruby><rb>初代</rb><rt>しょだい</rt></ruby>シモアマヅは<ruby><rb>逃走</rb><rt>とうそう</rt></ruby>の<ruby><rb>途中</rb><rt>とちゅう</rt></ruby>でふっと<ruby><rb>消</rb><rt>き</rt></ruby>えると、＊<ruby><rb>今度</rb><rt>こんど</rt></ruby>はこちらのすぐ<ruby><rb>横</rb><rt>よこ</rt></ruby>に<ruby><rb>出現</rb><rt>しゅつげん</rt></ruby>した。</div></div>"
+    },
+    {
+        "GroupOrder": 37,
+        "ViewOrder": 1,
+        "Name": "初代シモアマヅ？",
+        "Phrase": "「しーちゃん、信じて。\\n　母は本物。抱きしめさせて」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_032",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 18,
+            "Position": 3,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 5,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「しーちゃん、<ruby><rb>信</rb><rt>しん</rt></ruby>じて。＊<ruby><rb>母</rb><rt>はは</rt></ruby>は<ruby><rb>本物</rb><rt>ほんもの</rt></ruby>。<ruby><rb>抱</rb><rt>だ</rt></ruby>きしめさせて」</div></div>"
+    },
+    {
+        "GroupOrder": 38,
+        "ViewOrder": 1,
+        "Name": "シモアマヅ",
+        "Phrase": "「いいえあなたは偽物よ。\\n　母はいちいち私に抱きしめていいか許可を求めたりしないもの」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_033",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 21201,
+            "Position": 3,
+            "Action": 2,
+            "Emotion": 0,
+            "FacialExpression": 3,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「いいえあなたは<ruby><rb>偽物</rb><rt>にせもの</rt></ruby>よ。＊<ruby><rb>母</rb><rt>はは</rt></ruby>はいちいち<ruby><rb>私</rb><rt>わたし</rt></ruby>に<ruby><rb>抱</rb><rt>だ</rt></ruby>きしめていいか<ruby><rb>許可</rb><rt>きょか</rt></ruby>を<ruby><rb>求</rb><rt>もと</rt></ruby>めたりしないもの」</div></div>"
+    },
+    {
+        "GroupOrder": 39,
+        "ViewOrder": 1,
+        "Name": "",
+        "Phrase": "シモアマヅが冷たく言い放つ。\\nすると偽物と思われる初代シモアマヅはまたしても逃走し、\\n角を曲がって消えたかと思うとこちらのそばに現れた。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 0,
+        "FrameImage": 0,
+        "VoiceFileName": "",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 18,
+            "Position": 3,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 3,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>シモアマヅが<ruby><rb>冷</rb><rt>つめ</rt></ruby>たく<ruby><rb>言</rb><rt></rt></ruby>い<ruby><rb>放</rb><rt>いはな</rt></ruby>つ。＊すると<ruby><rb>偽物</rb><rt>にせもの</rt></ruby>と<ruby><rb>思</rb><rt>おも</rt></ruby>われる<ruby><rb>初代</rb><rt>しょだい</rt></ruby>シモアマヅはまたしても<ruby><rb>逃走</rb><rt>とうそう</rt></ruby>し、＊<ruby><rb>角</rb><rt>かく</rt></ruby>を<ruby><rb>曲</rb><rt>ま</rt></ruby>がって<ruby><rb>消</rb><rt>き</rt></ruby>えたかと<ruby><rb>思</rb><rt>おも</rt></ruby>うとこちらのそばに<ruby><rb>現</rb><rt>あらわ</rt></ruby>れた。</div></div>"
+    },
+    {
+        "GroupOrder": 40,
+        "ViewOrder": 1,
+        "Name": "",
+        "Phrase": "しかしその度に、\\n３人が間髪入れずに偽物であることを見抜いていく。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 0,
+        "FrameImage": 0,
+        "VoiceFileName": "",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>しかしその<ruby><rb>度</rb><rt>たび</rt></ruby>に、＊<ruby><rb>３</rb><rt>さん</rt></ruby><ruby><rb>人</rb><rt>にん</rt></ruby>が<ruby><rb>間髪</rb><rt>かんぱつ</rt></ruby><ruby><rb>入</rb><rt>い</rt></ruby>れずに<ruby><rb>偽物</rb><rt>にせもの</rt></ruby>であることを<ruby><rb>見抜</rb><rt>みぬ</rt></ruby>いていく。</div></div>"
+    },
+    {
+        "GroupOrder": 41,
+        "ViewOrder": 1,
+        "Name": "初代シモアマヅ？",
+        "Phrase": "「皆、これは本当に余興。これで終わり」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 8,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_034",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 18,
+            "Position": 2,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 3,
+            "EnterAction": 1
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「<ruby><rb>皆</rb><rt>みな</rt></ruby>、これは<ruby><rb>本当</rb><rt>ほんとう</rt></ruby>に<ruby><rb>余興</rb><rt>よきょう</rt></ruby>。これで<ruby><rb>終</rb><rt>お</rt></ruby>わり」</div></div>"
+    },
+    {
+        "GroupOrder": 42,
+        "ViewOrder": 1,
+        "Name": "初代シモアマヅ？",
+        "Phrase": "「元凶、向こうで見た。発見！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 2,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_035",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 18,
+            "Position": 4,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 3,
+            "EnterAction": 1
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「<ruby><rb>元凶</rb><rt>げんきょう</rt></ruby>、<ruby><rb>向</rb><rt>む</rt></ruby>こうで<ruby><rb>見</rb><rt>み</rt></ruby>た。<ruby><rb>発見</rb><rt>はっけん</rt></ruby>！」</div></div>"
+    },
+    {
+        "GroupOrder": 43,
+        "ViewOrder": 1,
+        "Name": "初代シモアマヅ？",
+        "Phrase": "「信じてくれないと母、悲しい。悲哀」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 16,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_036",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 18,
+            "Position": 1,
+            "Action": 0,
+            "Emotion": 2,
+            "FacialExpression": 4,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「<ruby><rb>信</rb><rt>しん</rt></ruby>じてくれないと<ruby><rb>母</rb><rt>はは</rt></ruby>、<ruby><rb>悲</rb><rt>かな</rt></ruby>しい。<ruby><rb>悲哀</rb><rt>ひあい</rt></ruby>」</div></div>"
+    },
+    {
+        "GroupOrder": 44,
+        "ViewOrder": 1,
+        "Name": "初代シモアマヅ",
+        "Phrase": "「面白そう！　母も混ざる！\\n　本物はどーれだ！　きゃっきゃっ♪」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_037",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 18,
+            "Position": 3,
+            "Action": 0,
+            "Emotion": 1,
+            "FacialExpression": 5,
+            "EnterAction": 2
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「<ruby><rb>面白</rb><rt>おもしろ</rt></ruby>そう！<ruby><rb>母</rb><rt>はは</rt></ruby>も<ruby><rb>混</rb><rt>ま</rt></ruby>ざる！＊<ruby><rb>本物</rb><rt>ほんもの</rt></ruby>はどーれだ！きゃっきゃっ♪」</div></div>"
+    },
+    {
+        "GroupOrder": 45,
+        "ViewOrder": 1,
+        "Name": "初代シモアマヅ？",
+        "Phrase": "「現実で岩戸が崩壊。早く脱出！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 1,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_038",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 18,
+            "Position": 5,
+            "Action": 1,
+            "Emotion": 0,
+            "FacialExpression": 3,
+            "EnterAction": 1
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「<ruby><rb>現実</rb><rt>げんじつ</rt></ruby>で<ruby><rb>岩戸</rb><rt>いわと</rt></ruby>が<ruby><rb>崩壊</rb><rt>ほうかい</rt></ruby>。<ruby><rb>早</rb><rt>はや</rt></ruby>く<ruby><rb>脱出</rb><rt>だっしゅつ</rt></ruby>！」</div></div>"
+    },
+    {
+        "GroupOrder": 46,
+        "ViewOrder": 1,
+        "Name": "マキ",
+        "Phrase": "「立腹の極み。\\n　マキはもう許さない。次は仕留める」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_039",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 159201,
+            "Position": 3,
+            "Action": 0,
+            "Emotion": 3,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「<ruby><rb>立腹</rb><rt>りっぷく</rt></ruby>の<ruby><rb>極</rb><rt>きわ</rt></ruby>み。＊マキはもう<ruby><rb>許</rb><rt>ゆる</rt></ruby>さない。<ruby><rb>次</rb><rt>つぎ</rt></ruby>は<ruby><rb>仕留</rb><rt>しと</rt></ruby>める」</div></div>"
+    },
+    {
+        "GroupOrder": 47,
+        "ViewOrder": 1,
+        "Name": "マキ",
+        "Phrase": "「覚悟！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_040",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 159201,
+            "Position": 3,
+            "Action": 5,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「<ruby><rb>覚悟</rb><rt>かくご</rt></ruby>！」</div></div>"
+    },
+    {
+        "GroupOrder": 48,
+        "ViewOrder": 1,
+        "Name": "初代シモアマヅ？",
+        "Phrase": "「おおっと！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_041",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "swing_ono",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 159201,
+            "Position": 2,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 3
+        },
+        {
+            "MCharacterId": 18,
+            "Position": 3,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 1,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「おおっと！」</div></div>"
+    },
+    {
+        "GroupOrder": 49,
+        "ViewOrder": 1,
+        "Name": "",
+        "Phrase": "マキが繰り出した攻撃を、\\n間一髪のところでかわす偽物。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 0,
+        "FrameImage": 0,
+        "VoiceFileName": "",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 159201,
+            "Position": 2,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        },
+        {
+            "MCharacterId": 18,
+            "Position": 3,
+            "Action": 2,
+            "Emotion": 0,
+            "FacialExpression": 1,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>マキが<ruby><rb>繰</rb><rt>く</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>した<ruby><rb>攻撃</rb><rt>こうげき</rt></ruby>を、＊<ruby><rb>間一髪</rb><rt>かんいっぱつ</rt></ruby>のところでかわす<ruby><rb>偽物</rb><rt>にせもの</rt></ruby>。</div></div>"
+    },
+    {
+        "GroupOrder": 50,
+        "ViewOrder": 1,
+        "Name": "",
+        "Phrase": "さすがに今のを見れば、戦いにおいては素人のこちらでも分かる。\\n初代シモアマヅなら、簡単に避けていた。\\n何より口調がもう初代シモアマヅのそれではない。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 0,
+        "FrameImage": 0,
+        "VoiceFileName": "",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>さすがに<ruby><rb>今</rb><rt>いま</rt></ruby>のを<ruby><rb>見</rb><rt>み</rt></ruby>れば、<ruby><rb>戦</rb><rt>たたか</rt></ruby>いにおいては<ruby><rb>素人</rb><rt>しろうと</rt></ruby>のこちらでも<ruby><rb>分</rb><rt>わ</rt></ruby>かる。＊<ruby><rb>初代</rb><rt>しょだい</rt></ruby>シモアマヅなら、<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>に<ruby><rb>避</rb><rt>さ</rt></ruby>けていた。＊<ruby><rb>何</rb><rt>なに</rt></ruby>より<ruby><rb>口調</rb><rt>くちょう</rt></ruby>がもう<ruby><rb>初代</rb><rt>しょだい</rt></ruby>シモアマヅのそれではない。</div></div>"
+    },
+    {
+        "GroupOrder": 51,
+        "ViewOrder": 1,
+        "Name": "",
+        "Phrase": "変身が解かれ、異空間の主が姿を現す。\\nなんと袈裟を着た妖怪だった。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 0,
+        "FrameImage": 0,
+        "VoiceFileName": "",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 18,
+            "Position": 3,
+            "Action": 6,
+            "Emotion": 0,
+            "FacialExpression": 10,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div><ruby><rb>変身</rb><rt>へんしん</rt></ruby>が<ruby><rb>解</rb><rt>と</rt></ruby>かれ、<ruby><rb>異</rb><rt>い</rt></ruby><ruby><rb>空間</rb><rt>くうかん</rt></ruby>の<ruby><rb>主</rb><rt>しゅ</rt></ruby>が<ruby><rb>姿</rb><rt>すがた</rt></ruby>を<ruby><rb>現</rb><rt>あらわ</rt></ruby>す。＊なんと<ruby><rb>袈裟</rb><rt>けさ</rt></ruby>を<ruby><rb>着</rb><rt>き</rt></ruby>た<ruby><rb>妖怪</rb><rt>ようかい</rt></ruby>だった。</div></div>"
+    },
+    {
+        "GroupOrder": 52,
+        "ViewOrder": 1,
+        "Name": "異界妖怪・遭難戒",
+        "Phrase": "「くっ……この遭難戒の変身は完璧だったはず。\\n　邪魔者などこれで排除できると学んだはずだったのに」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 50,
+            "Position": 3,
+            "Action": 3,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 2
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「くっ……この<ruby><rb>遭難</rb><rt>そうなん</rt></ruby>戒の<ruby><rb>変身</rb><rt>へんしん</rt></ruby>は<ruby><rb>完璧</rb><rt>かんぺき</rt></ruby>だったはず。＊<ruby><rb>邪魔者</rb><rt>じゃまもの</rt></ruby>などこれで<ruby><rb>排除</rb><rt>はいじょ</rt></ruby>できると<ruby><rb>学</rb><rt>まな</rt></ruby>んだはずだったのに」</div></div>"
+    },
+    {
+        "GroupOrder": 53,
+        "ViewOrder": 1,
+        "Name": "マキ",
+        "Phrase": "「完璧じゃない。\\n　まったく似ていなかった。どれも偽物。\\n　さあ、覚悟！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_042",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 159201,
+            "Position": 3,
+            "Action": 2,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「<ruby><rb>完璧</rb><rt>かんぺき</rt></ruby>じゃない。＊まったく<ruby><rb>似</rb><rt>に</rt></ruby>ていなかった。どれも<ruby><rb>偽物</rb><rt>にせもの</rt></ruby>。＊さあ、<ruby><rb>覚悟</rb><rt>かくご</rt></ruby>！」</div></div>"
+    },
+    {
+        "GroupOrder": 54,
+        "ViewOrder": 1,
+        "Name": "シモアマヅ",
+        "Phrase": "「かっこよく決めたところ悪いのだけど、\\n　さっきの偽物の中にひとつだけ本物の母がいたわよ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_043",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 21201,
+            "Position": 3,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「かっこよく<ruby><rb>決</rb><rt>き</rt></ruby>めたところ<ruby><rb>悪</rb><rt>わる</rt></ruby>いのだけど、＊さっきの<ruby><rb>偽物</rb><rt>にせもの</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にひとつだけ<ruby><rb>本物</rb><rt>ほんもの</rt></ruby>の<ruby><rb>母</rb><rt>はは</rt></ruby>がいたわよ」</div></div>"
+    },
+    {
+        "GroupOrder": 55,
+        "ViewOrder": 1,
+        "Name": "マキ",
+        "Phrase": "「しーちゃん、本当か」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 8,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_044",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 159201,
+            "Position": 2,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 1,
+            "EnterAction": 0
+        },
+        {
+            "MCharacterId": 21201,
+            "Position": 4,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「しーちゃん、<ruby><rb>本</rb><rt>ほん</rt></ruby><ruby><rb>当</rb><rt>とう</rt></ruby>か」</div></div>"
+    },
+    {
+        "GroupOrder": 56,
+        "ViewOrder": 1,
+        "Name": "シモアマヅ",
+        "Phrase": "「ええ。唯一面白がっていたのが母ね。\\n　おそらく呪術で思念体だけ飛ばしたんでしょう」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 2,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_045",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 159201,
+            "Position": 2,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        },
+        {
+            "MCharacterId": 21201,
+            "Position": 4,
+            "Action": 5,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「ええ。<ruby><rb>唯一</rb><rt>ゆいいつ</rt></ruby><ruby><rb>面白</rb><rt>おもしろ</rt></ruby>がっていたのが<ruby><rb>母</rb><rt>はは</rt></ruby>ね。＊おそらく<ruby><rb>呪術</rb><rt>じゅじゅつ</rt></ruby>で<ruby><rb>思念</rb><rt>しねん</rt></ruby><ruby><rb>体</rb><rt>たい</rt></ruby>だけ<ruby><rb>飛</rb><rt>と</rt></ruby>ばしたんでしょう」</div></div>"
+    },
+    {
+        "GroupOrder": 57,
+        "ViewOrder": 1,
+        "Name": "ヨシノ",
+        "Phrase": "「どんまい、マキ」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_046",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 24201,
+            "Position": 3,
+            "Action": 5,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「どんまい、マキ」</div></div>"
+    },
+    {
+        "GroupOrder": 58,
+        "ViewOrder": 1,
+        "Name": "マキ",
+        "Phrase": "「し、師匠はマキの想像など遥かに及ばぬ存在。\\n　未熟な弟子にはまだ見抜けぬもの」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_047",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 159201,
+            "Position": 3,
+            "Action": 0,
+            "Emotion": 5,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「し、<ruby><rb>師匠</rb><rt>ししょう</rt></ruby>はマキの<ruby><rb>想像</rb><rt>そうぞう</rt></ruby>など<ruby><rb>遥</rb><rt>はる</rt></ruby>かに<ruby><rb>及</rb><rt>およ</rt></ruby>ばぬ<ruby><rb>存在</rb><rt>そんざい</rt></ruby>。＊<ruby><rb>未熟</rb><rt>みじゅく</rt></ruby>な<ruby><rb>弟子</rb><rt>でし</rt></ruby>にはまだ<ruby><rb>見抜</rb><rt>みぬ</rt></ruby>けぬもの」</div></div>"
+    },
+    {
+        "GroupOrder": 59,
+        "ViewOrder": 1,
+        "Name": "",
+        "Phrase": "思いっきりあたふたしながら、\\nぜんぶ偽物と口にしてしまったことを取り繕うマキ。\\nさすが初代シモアマヅ、こんな時でもいたずらを欠かさないとは……。",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 0,
+        "FrameImage": 0,
+        "VoiceFileName": "",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 159201,
+            "Position": 3,
+            "Action": 0,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div><ruby><rb>思</rb><rt>おも</rt></ruby>いっきりあたふたしながら、＊ぜんぶ<ruby><rb>偽物</rb><rt>にせもの</rt></ruby>と<ruby><rb>口</rb><rt>ぐち</rt></ruby>にしてしまったことを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>繕</rb><rt>つくろ</rt></ruby>うマキ。＊さすが<ruby><rb>初代</rb><rt>しょだい</rt></ruby>シモアマヅ、こんな<ruby><rb>時</rb><rt>とき</rt></ruby>でもいたずらを<ruby><rb>欠</rb><rt>か</rt></ruby>かさないとは……。</div></div>"
+    },
+    {
+        "GroupOrder": 60,
+        "ViewOrder": 1,
+        "Name": "マキ",
+        "Phrase": "「と、とにかく偽物は暴かれた。\\n　遭難戒と言ったな。師匠を侮辱したこと、許さない。\\n　今度こそ覚悟！」",
+        "PhraseFontSize": 2,
+        "PhraseSpeed": 3,
+        "IsPhraseCenter": false,
+        "SpeechMCharacterId": null,
+        "IsSpeakingFlags": 4,
+        "FrameImage": 0,
+        "VoiceFileName": "e_41027106_048",
+        "BackgroundImage": "",
+        "BGM": "",
+        "BattleBGM": "",
+        "SE": "",
+        "Effect": null,
+        "BackgroundEffectType": 0,
+        "StandCharacters": [
+        {
+            "MCharacterId": 159201,
+            "Position": 3,
+            "Action": 1,
+            "Emotion": 0,
+            "FacialExpression": 0,
+            "EnterAction": 0
+        }],
+        "StillDetail":
+        {
+            "AnimationName": "",
+            "AnimationSpeed": null,
+            "CameraZoomRatio": null,
+            "CameraPositionX": null,
+            "CameraPositionY": null,
+            "CameraWorkDuration": null,
+            "CameraRotation": null
+        },
+        "Ruby": "<div><div>「と、とにかく<ruby><rb>偽物</rb><rt>にせもの</rt></ruby>は<ruby><rb>暴</rb><rt>あば</rt></ruby>かれた。＊<ruby><rb>遭難</rb><rt>そうなん</rt></ruby>戒と<ruby><rb>言</rb><rt>い</rt></ruby>ったな。<ruby><rb>師匠</rb><rt>ししょう</rt></ruby>を<ruby><rb>侮辱</rb><rt>ぶじょく</rt></ruby>したこと、<ruby><rb>許</rb><rt>ゆる</rt></ruby>さない。＊<ruby><rb>今度</rb><rt>こんど</rt></ruby>こそ<ruby><rb>覚悟</rb><rt>かくご</rt></ruby>！」</div></div>"
+    }],
+    "FirstViewRewords":
+    {
+        "Items": [],
+        "GiftItems": [],
+        "DeletedItemIds": []
+    },
+    "Title": "<div><div><ruby><rb>異</rb><rt>い</rt></ruby><ruby><rb>空間</rb><rt>くうかん</rt></ruby>の<ruby><rb>主</rb><rt>あるじ</rt></ruby></div></div>"
+}

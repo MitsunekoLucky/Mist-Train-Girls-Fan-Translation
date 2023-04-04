@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u6211\u3005\u7279\u9244\u968a\u306f\u73fe\u5728\u3001\u5e7b\u9727\u306b\u5305\u307e\u308c\u305f\u8857\u306e\u89e3\u653e\u6226\u306e\u771f\u3063\u6700\u4e2d\u3060\u3002\\n\u4f4f\u6c11\u306e\u9000\u907f\u306f\u3059\u3067\u306b\u5b8c\u4e86\u3057\u3066\u304a\u308a\u3001\u4f5c\u6226\u306f\u9806\u8abf\u306b\u9032\u3093\u3067\u3044\u308b\u3002",
+    "Phrase": "我々特鉄隊は現在、幻霧に包まれた街の解放戦の真っ最中だ。\\n住民の退避はすでに完了しており、作戦は順調に進んでいる。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30ad\u30e5\u30e9\u30b9",
-    "Phrase": "\u300c\u307b\u3089\u307b\u3089\uff01\u3000\u7279\u9244\u968a\u306e\u304a\u901a\u308a\u3060\u3057\uff01\\n\u3000\u3042\u305f\u3057\u305f\u3061\u306e\u90aa\u9b54\u3092\u3059\u308b\u306a\u3089\u6b7b\u306c\u6c17\u3067\u304d\u306a\uff1f\\n\u3000\u306a\u30fc\u3093\u3064\u3063\u3066\u306d\uff01\u300d",
+    "Name": "オキュラス",
+    "Phrase": "「ほらほら！　特鉄隊のお通りだし！\\n　あたしたちの邪魔をするなら死ぬ気できな？\\n　なーんつってね！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,30 +46,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 58201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3046\u8a00\u3044\u306a\u304c\u3089\u30aa\u30ad\u30e5\u30e9\u30b9\u304c\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\u306b\u5411\u304b\u3063\u3066\\n\u6756\u3092\u632f\u308a\u4e0b\u308d\u3059\u3002",
+    "Phrase": "そう言いながらオキュラスがミストモンスターに向かって\\n杖を振り下ろす。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -82,30 +83,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 58201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2015\u2015\u30b0\u30a7\u30a7\u30a7\u30a7\u30a8\u30a8\uff01",
+    "Phrase": "――グェェェェエエ！",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -119,30 +120,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30aa\u30ad\u30e5\u30e9\u30b9\u304c\u653b\u6483\u9b54\u6cd5\u3092\u653e\u3064\u3001\u3068\u601d\u3044\u304d\u3084\u632f\u308a\u4e0b\u308d\u3057\u305f\u6756\u306e\u5148\u7aef\u304c\\n\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\u306e\u8133\u5929\u306b\u3081\u308a\u8fbc\u307f\u3001\u6575\u306f\u5730\u9762\u306b\u5012\u308c\u4f0f\u3057\u305f\u3002",
+    "Phrase": "オキュラスが攻撃魔法を放つ、と思いきや振り下ろした杖の先端が\\nミストモンスターの脳天にめり込み、敵は地面に倒れ伏した。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -156,30 +157,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 3,
         "Action": 4,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30ad\u30e5\u30e9\u30b9",
-    "Phrase": "\u300c\u3053\u3093\u306a\u30b6\u30b3\u76f8\u624b\u306b\u9b54\u6cd5\u306a\u3093\u3066\u3082\u3063\u305f\u3044\u3063\u3057\u3087\u3002\\n\u3000\u4eca\u306e\u30aa\u30ad\u30e5\u30e9\u30b9\u3061\u3083\u3093\u306f\u30c6\u30f3\u30b7\u30e7\u30f3\u30de\u30c3\u30af\u30b9\u3060\u3057\uff01\\n\u3000\u7121\u6575\u30e2\u30fc\u30c9\u3063\u3066\u30e4\u30c4\uff1f\u300d",
+    "Name": "オキュラス",
+    "Phrase": "「こんなザコ相手に魔法なんてもったいっしょ。\\n　今のオキュラスちゃんはテンションマックスだし！\\n　無敵モードってヤツ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -193,30 +194,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 58201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u672c\u4eba\u304c\u8a00\u3046\u901a\u308a\u3001\u30aa\u30ad\u30e5\u30e9\u30b9\u306f\u7834\u7af9\u306e\u52e2\u3044\u3067\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5012\u3057\u3066\u3044\u304f\u3002",
+    "Phrase": "本人が言う通り、オキュラスは破竹の勢いでミストモンスターを倒していく。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -230,30 +231,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 58201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30ad\u30e5\u30e9\u30b9",
-    "Phrase": "\u300c\u3075\u3075\u3093\u266a\u3000\u4eca\u65e5\u306e\u3042\u305f\u3057\u3063\u3066\u3070\u3001\u30d0\u30ea\u51b4\u3048\u3066\u308b\u304b\u3082\uff01\\n\u3000\u4eca\u3001\u4e00\u76f4\u7dda\u306b\u5e7b\u9727\u306e\u767a\u751f\u6e90\u306b\u5411\u304b\u3063\u3066\u308b\u3063\u3066\u611f\u3058\u308b\u3057\uff01\\n\u3000\u76ee\u6a19\u306f\u3042\u3063\u3061\u3060\u3088\uff01\u300d",
+    "Name": "オキュラス",
+    "Phrase": "「ふふん♪　今日のあたしってば、バリ冴えてるかも！\\n　今、一直線に幻霧の発生源に向かってるって感じるし！\\n　目標はあっちだよ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -267,30 +268,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 58201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30aa\u30ad\u30e5\u30e9\u30b9\u304c\u6756\u3067\u884c\u304d\u5148\u3092\u6307\u3057\u793a\u3059\u3002\\n\u7814\u304e\u6f84\u307e\u3055\u308c\u305f\u611f\u899a\u306f\u3001\u305d\u3053\u307e\u3067\u6349\u3048\u3089\u308c\u308b\u3082\u306e\u306a\u306e\u304b\u3002\\n\u3088\u3057\u3001\u65e9\u304f\u5e7b\u9727\u306e\u767a\u751f\u6e90\u3092\u3064\u3076\u3057\u3066\u3057\u307e\u304a\u3046\u3002",
+    "Phrase": "オキュラスが杖で行き先を指し示す。\\n研ぎ澄まされた感覚は、そこまで捉えられるものなのか。\\nよし、早く幻霧の発生源をつぶしてしまおう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -304,30 +305,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 58201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30ad\u30e5\u30e9\u30b9",
-    "Phrase": "\u300c\u304a\u3063\u3051\u307e\u30fc\u308b\uff01\\n\u3000\u3063\u3066\u3001\u8ab0\u304b\u6765\u305f\u3051\u3069\u300d",
+    "Name": "オキュラス",
+    "Phrase": "「おっけまーる！\\n　って、誰か来たけど」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -341,30 +342,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 58201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u99c6\u3051\u5bc4\u3063\u3066\u304d\u305f\u306e\u306f\u4f5c\u6226\u306e\u9032\u884c\u72b6\u6cc1\u3092\u4f1d\u3048\u308b\u4f1d\u4ee4\u3060\u3063\u305f\u3002\\n\u805e\u3051\u3070\u3001\u305f\u3063\u305f\u4eca\u3001\u753a\u306e\u53cd\u5bfe\u5074\u306e\u533a\u57df\u306b\u3066\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4\u304c\\n\u5e7b\u9727\u306e\u767a\u751f\u6e90\u3092\u7834\u58ca\u3057\u305f\u3068\u3044\u3046\u3053\u3068\u3060\u3002",
+    "Phrase": "駆け寄ってきたのは作戦の進行状況を伝える伝令だった。\\n聞けば、たった今、町の反対側の区域にてクインズウェイが\\n幻霧の発生源を破壊したということだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -378,30 +379,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 58201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30ad\u30e5\u30e9\u30b9",
-    "Phrase": "\u300c\u304a\u30fc\u3001\u3084\u308b\u3058\u3083\u3093\uff01\\n\u3000\u3055\u3059\u304c\u306f\u30af\u30a4\u3063\u3061\uff01\u300d",
+    "Name": "オキュラス",
+    "Phrase": "「おー、やるじゃん！\\n　さすがはクイっち！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -415,30 +416,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 58201,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30af\u30a4\u3063\u3061\u3068\u3044\u3046\u306e\u306f\u3001\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4\u306e\u3053\u3068\u304b\u3002\\n\u305d\u308c\u306f\u3061\u3087\u3063\u3068\u7565\u3057\u3059\u304e\u3060\u3068\u601d\u3046\u304c\u3001\u3069\u3046\u3060\u308d\u3046\u3002",
+    "Phrase": "クイっちというのは、クインズウェイのことか。\\nそれはちょっと略しすぎだと思うが、どうだろう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -452,30 +453,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 58201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30ad\u30e5\u30e9\u30b9",
-    "Phrase": "\u300c\u305d\u308c\u3001\u672c\u4eba\u306b\u3082\u8a00\u308f\u308c\u305f\u3057\u3002\\n\u3000\u53ef\u611b\u3044\u3068\u601d\u3046\u3093\u3060\u3051\u3069\u306a\u30fc\u3001\u30af\u30a4\u3063\u3061\u300d",
+    "Name": "オキュラス",
+    "Phrase": "「それ、本人にも言われたし。\\n　可愛いと思うんだけどなー、クイっち」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -489,30 +490,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 58201,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u308c\u306f\u305d\u3046\u3068\u30aa\u30ad\u30e5\u30e9\u30b9\u3002\\n\u5e7b\u9727\u306e\u767a\u751f\u6e90\u306f\u3042\u3063\u3061\u3060\u3068\u8a00\u3063\u3066\u3044\u305f\u306a\uff1f\\n\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4\u306e\u6301\u3061\u5834\u3068\u307e\u308b\u3067\u9006\u3058\u3083\u306a\u3044\u304b\u3002",
+    "Phrase": "それはそうとオキュラス。\\n幻霧の発生源はあっちだと言っていたな？\\nクインズウェイの持ち場とまるで逆じゃないか。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -526,30 +527,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 58201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30ad\u30e5\u30e9\u30b9",
-    "Phrase": "\u300c\u3048\u30fc\u3063\u3068\u3001\u306a\u3093\u3064\u30fc\u306e\uff1f\\n\u3000\u305d\u3063\u3061\u306b\u767a\u751f\u6e90\u304c\u3042\u308b\u3093\u3058\u3083\u306a\u3044\u304b\u306a\u3001\u3042\u308b\u3068\u3044\u3044\u306a\u3063\u3066\u2026\u2026\u3002\\n\u3000\u30b4\u30e1\u30f3\u8eca\u638c\u3063\u3061\uff01\u3000\u30c6\u30ad\u30c8\u30fc\u8a00\u3063\u305f\u3057\uff01\u3000\u8a31\u3057\u3066\uff01\u300d",
+    "Name": "オキュラス",
+    "Phrase": "「えーっと、なんつーの？\\n　そっちに発生源があるんじゃないかな、あるといいなって……。\\n　ゴメン車掌っち！　テキトー言ったし！　許して！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -563,30 +564,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 58201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3093\u306a\u3053\u3068\u3067\u6012\u308a\u306f\u3057\u306a\u3044\u3002\\n\u4eca\u56de\u306e\u4efb\u52d9\u306b\u304a\u3044\u3066\u30aa\u30ad\u30e5\u30e9\u30b9\u306e\u50cd\u304d\u306f\u5927\u304d\u304b\u3063\u305f\u3068\u8a00\u3048\u308b\u3002\\n\u5f7c\u5973\u4e00\u4eba\u3067\u4f55\u4f53\u306e\u6575\u3092\u5012\u3057\u305f\u304b\u3001\u6570\u3048\u5207\u308c\u306a\u3044\u307b\u3069\u3060\u3002",
+    "Phrase": "そんなことで怒りはしない。\\n今回の任務においてオキュラスの働きは大きかったと言える。\\n彼女一人で何体の敵を倒したか、数え切れないほどだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -600,30 +601,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 58201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30ad\u30e5\u30e9\u30b9",
-    "Phrase": "\u300c\u3042\u308c\u3063\u3001\u6012\u3089\u306a\u3044\u306e\uff1f\\n\u3000\u8eca\u638c\u3063\u3061\u3001\u3082\u3057\u304b\u3057\u3066\u3042\u305f\u3057\u306b\u6c17\u304c\u3042\u308b\u3093\u3058\u3083\u2026\u2026\u300d",
+    "Name": "オキュラス",
+    "Phrase": "「あれっ、怒らないの？\\n　車掌っち、もしかしてあたしに気があるんじゃ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -637,30 +638,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 58201,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5197\u8ac7\u306f\u614e\u3081\u3002\u307e\u3060\u4f5c\u6226\u306f\u7d42\u308f\u3063\u3066\u306a\u3044\u305e\u3002\\n\u3053\u306e\u5206\u306a\u3089\u65e5\u304c\u66ae\u308c\u308b\u524d\u306b\u5012\u305b\u3070\u753a\u3092\u596a\u9084\u3067\u304d\u305d\u3046\u3060\u3002\\n\u5197\u8ac7\u3082\u8aac\u6559\u3082\u3001\u4efb\u52d9\u3092\u9042\u884c\u3057\u3066\u304b\u3089\u3060\u3002",
+    "Phrase": "冗談は慎め。まだ作戦は終わってないぞ。\\nこの分なら日が暮れる前に倒せば町を奪還できそうだ。\\n冗談も説教も、任務を遂行してからだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -674,30 +675,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 58201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30ad\u30e5\u30e9\u30b9",
-    "Phrase": "\u300c\u3084\u3063\u3071\u308a\u6012\u3063\u3066\u308b\u3093\u3058\u3083\u3093\uff01\\n\u3000\u3068\u306f\u3044\u3048\u3001\u3055\u3063\u3055\u3068\u6e08\u307e\u305b\u308b\u306e\u306f\u8cdb\u6210\u304b\u306a\u3002\\n\u3000\u30b7\u30e3\u30ef\u30fc\u6d74\u3073\u305f\u3044\u3057\u3001\u3055\u304f\u3063\u3068\u7247\u4ed8\u3051\u3088\u3063\u304b\u300d",
+    "Name": "オキュラス",
+    "Phrase": "「やっぱり怒ってるんじゃん！\\n　とはいえ、さっさと済ませるのは賛成かな。\\n　シャワー浴びたいし、さくっと片付けよっか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -711,30 +712,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 58201,
         "Position": 3,
         "Action": 3,
         "Emotion": 2,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u308c\u304b\u3089\u3082\u30aa\u30ad\u30e5\u30e9\u30b9\u306f\u7d76\u597d\u8abf\u3068\u3044\u3063\u305f\u69d8\u5b50\u3067\u3001\u753a\u4e2d\u3092\u5f98\u5f8a\u3059\u308b\\n\u30df\u30b9\u30c8\u30e2\u30f3\u30b9\u30bf\u30fc\u3092\u5012\u3057\u7d9a\u3051\u305f\u3002\\n\u3053\u3046\u3057\u3066\u753a\u306e\u89e3\u653e\u6226\u306f\u9806\u8abf\u306b\u3001\u4e88\u5b9a\u3088\u308a\u65e9\u304f\u5b8c\u4e86\u3057\u305f\u306e\u3060\u3063\u305f\u3002",
+    "Phrase": "それからもオキュラスは絶好調といった様子で、町中を徘徊する\\nミストモンスターを倒し続けた。\\nこうして町の解放戦は順調に、予定より早く完了したのだった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -748,14 +749,14 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

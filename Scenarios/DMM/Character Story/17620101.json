@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30a2\u30a4\u30bc\u30f3\u30b0\u30e9\u30fc\u30c8\u3067\u306e\u4efb\u52d9\u3082\u7d42\u3048\u3001\\n\u6240\u7528\u3067\u8857\u3092\u6b69\u3044\u3066\u3044\u308b\u3068\u3001\u30cf\u30d0\u30ed\u30d5\u30b9\u30af\u306e\u59ff\u3092\u898b\u304b\u3051\u305f\u3002\\n\u5f7c\u5973\u306f\u3053\u306e\u8857\u3092\u77e5\u3063\u3066\u3044\u308b\u306e\u3060\u308d\u3046\u3001\\n\u305d\u306e\u8db3\u53d6\u308a\u306b\u8ff7\u3044\u306f\u898b\u3089\u308c\u306a\u3044\u3002",
+    "Phrase": "アイゼングラートでの任務も終え、\\n所用で街を歩いていると、ハバロフスクの姿を見かけた。\\n彼女はこの街を知っているのだろう、\\nその足取りに迷いは見られない。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30cf\u30d0\u30ed\u30d5\u30b9\u30af",
-    "Phrase": "\u300c\u8eca\u638c\u304b\u3002\u3082\u3057\u304b\u3057\u3066\u3053\u306e\u5148\u3078\u884c\u304f\u3064\u3082\u308a\u304b\uff1f\\n\u3000\u3053\u306e\u5148\u306f\u6cbb\u5b89\u306e\u60aa\u3044\u5730\u533a\u3060\u3002\u30a2\u30a4\u30bc\u30f3\u30b0\u30e9\u30fc\u30c8\u4eba\u306a\u3089\u307e\u3060\u3057\u3082\u3001\\n\u3000\u5916\u56fd\u4eba\u306f\u5371\u967a\u306a\u76ee\u306b\u906d\u3044\u304b\u306d\u306a\u3044\u3002\\n\u3000\u60aa\u3044\u3053\u3068\u306f\u8a00\u308f\u3093\u3001\u5f15\u304d\u8fd4\u3057\u3066\u304a\u3051\u300d",
+    "Name": "ハバロフスク",
+    "Phrase": "「車掌か。もしかしてこの先へ行くつもりか？\\n　この先は治安の悪い地区だ。アイゼングラート人ならまだしも、\\n　外国人は危険な目に遭いかねない。\\n　悪いことは言わん、引き返しておけ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,30 +46,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u307e\u3042\u3001\u898b\u308b\u9650\u308a\u305d\u306e\u3088\u3046\u3060\u306a\u3002\\n\u3060\u304c\u6574\u5099\u73ed\u306e\u9023\u4e2d\u304b\u3089\u3001\u6025\u907d\u90e8\u54c1\u306e\u8abf\u9054\u3092\u983c\u307e\u308c\u3066\u306a\u3002\\n\u8abf\u3079\u305f\u3089\u3001\u3053\u306e\u5148\u306e\u5e97\u306a\u3093\u3060\u3002\\n\u8d64\u3044\u770b\u677f\u304c\u76ee\u5370\u3060\u3063\u3066\u8a71\u3060\u304c\u3001\u5206\u304b\u308b\u304b\uff1f",
+    "Phrase": "まあ、見る限りそのようだな。\\nだが整備班の連中から、急遽部品の調達を頼まれてな。\\n調べたら、この先の店なんだ。\\n赤い看板が目印だって話だが、分かるか？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -82,30 +83,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30cf\u30d0\u30ed\u30d5\u30b9\u30af",
-    "Phrase": "\u300c\u3042\u3042\u3001\u305d\u306e\u5e97\u306a\u3089\u77e5\u3063\u3066\u3044\u308b\u3002\\n\u3000\u5206\u304b\u3063\u305f\u3001\u79c1\u304c\u3064\u304d\u5408\u304a\u3046\u300d",
+    "Name": "ハバロフスク",
+    "Phrase": "「ああ、その店なら知っている。\\n　分かった、私がつき合おう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -119,30 +120,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30cf\u30d0\u30ed\u30d5\u30b9\u30af",
-    "Phrase": "\u300c\u6642\u306b\u8eca\u638c\u3002\u524d\u304b\u3089\u805e\u304d\u305f\u304b\u3063\u305f\u306e\u3060\u304c\u3001\\n\u3000\u304a\u524d\u306f\u4eca\u306e\u30a2\u30a4\u30bc\u30f3\u30b0\u30e9\u30fc\u30c8\u3092\u898b\u3066\u3001\u3069\u3046\u601d\u3046\uff1f\u300d",
+    "Name": "ハバロフスク",
+    "Phrase": "「時に車掌。前から聞きたかったのだが、\\n　お前は今のアイゼングラートを見て、どう思う？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -156,30 +157,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u96ea\u306b\u8ca0\u3051\u306a\u3044\u901e\u3057\u3044\u56fd\u3060\u304c\u3001\\n\u3084\u306f\u308a\u5e7b\u9727\u306e\u8105\u5a01\u306b\u6700\u3082\u6652\u3055\u308c\u3066\u3044\u3066\u3001\u53b3\u3057\u3044\u5834\u6240\u3060\u3068\u3082\u601d\u3046\u3002\\n\u305d\u306e\u305b\u3044\u304b\u3082\u3057\u308c\u306a\u3044\u304c\u2015\u2015",
+    "Phrase": "雪に負けない逞しい国だが、\\nやはり幻霧の脅威に最も晒されていて、厳しい場所だとも思う。\\nそのせいかもしれないが――",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -193,30 +194,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u8def\u5730\u88cf\u306b\u76ee\u3092\u3084\u308b\u3068\u3001\\n\u30ac\u30e9\u306e\u60aa\u305d\u3046\u306a\u8f29\u304c\u30b1\u30f3\u30ab\u3092\u3057\u3066\u3044\u305f\u3002",
+    "Phrase": "路地裏に目をやると、\\nガラの悪そうな輩がケンカをしていた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -230,38 +231,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 105,
         "Position": 2,
         "Action": 0,
         "Emotion": 3,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 110,
         "Position": 4,
         "Action": 0,
         "Emotion": 3,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30cf\u30d0\u30ed\u30d5\u30b9\u30af",
-    "Phrase": "\u300c\u78ba\u304b\u306b\u5e7b\u9727\u306f\u3001\u6cbb\u5b89\u304c\u60aa\u304f\u306a\u308b\u6700\u5927\u306e\u8981\u56e0\u306e\u3072\u3068\u3064\u3060\u306a\u3002\\n\u3000\u4f4f\u3080\u5834\u6240\u3092\u8ffd\u308f\u308c\u3001\u6d41\u308c\u7740\u3044\u3066\u3082\u8077\u306b\u3042\u308a\u3064\u3051\u305a\u3001\\n\u3000\u72af\u7f6a\u306b\u8d70\u308b\u306a\u3093\u3066\u3088\u304f\u3042\u308b\u8a71\u3060\u300d",
+    "Name": "ハバロフスク",
+    "Phrase": "「確かに幻霧は、治安が悪くなる最大の要因のひとつだな。\\n　住む場所を追われ、流れ着いても職にありつけず、\\n　犯罪に走るなんてよくある話だ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -275,30 +276,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30cf\u30d0\u30ed\u30d5\u30b9\u30af",
-    "Phrase": "\u300c\u3060\u304b\u3089\u3053\u305d\u6211\u3005\u304c\u7d50\u679c\u3092\u51fa\u3055\u306d\u3070\u306a\u3089\u306a\u3044\u306e\u3060\u304c\u2015\u2015\u300d",
+    "Name": "ハバロフスク",
+    "Phrase": "「だからこそ我々が結果を出さねばならないのだが――」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -312,30 +313,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30cf\u30d0\u30ed\u30d5\u30b9\u30af",
-    "Phrase": "\u300c\u8eca\u638c\u3001\u4f55\u3092\u3059\u308b\u6c17\u3060\uff1f\\n\u3000\u30b1\u30f3\u30ab\u3092\u6b62\u3081\u3088\u3046\u3068\u3057\u3066\u3044\u308b\u306e\u306a\u3089\u3001\u3084\u3081\u3066\u304a\u3051\u300d",
+    "Name": "ハバロフスク",
+    "Phrase": "「車掌、何をする気だ？\\n　ケンカを止めようとしているのなら、やめておけ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -349,30 +350,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3060\u304c\u4e00\u65b9\u7684\u3059\u304e\u308b\u3002\\n\u3055\u3059\u304c\u306b\u6b62\u3081\u306a\u3044\u3068\u53d6\u308a\u8fd4\u3057\u306e\u3064\u304b\u306a\u3044\u3053\u3068\u306b\u306a\u308b\u305e\u3002",
+    "Phrase": "だが一方的すぎる。\\nさすがに止めないと取り返しのつかないことになるぞ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -386,30 +387,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
-    "Name": "\u30cf\u30d0\u30ed\u30d5\u30b9\u30af",
-    "Phrase": "\u300c\u3069\u3063\u3061\u306e\u30b0\u30eb\u30fc\u30d7\u3082\u30ab\u30bf\u30ae\u3058\u3083\u306a\u3044\u3002\\n\u3000\u4e00\u822c\u4eba\u306b\u8ff7\u60d1\u3092\u304b\u3051\u306a\u3044\u3068\u3053\u308d\u3067\u6f70\u3057\u5408\u3063\u3066\u304f\u308c\u308b\u306a\u3089\u3001\\n\u3000\u8857\u306e\u6cbb\u5b89\u3068\u3057\u3066\u3082\u653e\u3063\u3066\u304a\u304f\u306e\u304c\u4e00\u756a\u3060\u300d",
+    "Name": "ハバロフスク",
+    "Phrase": "「どっちのグループもカタギじゃない。\\n　一般人に迷惑をかけないところで潰し合ってくれるなら、\\n　街の治安としても放っておくのが一番だ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -423,30 +424,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30cf\u30d0\u30ed\u30d5\u30b9\u30af",
-    "Phrase": "\u300c\u305d\u308c\u306b\u3001\u6297\u4e89\u306b\u306f\u767a\u5c55\u3057\u306a\u3044\u3002\\n\u3000\u4f55\u6545\u306a\u3089\u3053\u306e\u8857\u306b\u306f\u9000\u5f79\u8ecd\u4eba\u4f1a\u304c\u3044\u308b\u304b\u3089\u306a\u300d",
+    "Name": "ハバロフスク",
+    "Phrase": "「それに、抗争には発展しない。\\n　何故ならこの街には退役軍人会がいるからな」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -460,30 +461,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u9000\u5f79\u8ecd\u4eba\u4f1a\u3002\\n\u30cf\u30d0\u30ed\u30d5\u30b9\u30af\u304c\u4ee5\u524d\u3001\u4e00\u5ea6\u8ecd\u3092\u8f9e\u3081\u305f\u6642\u306b\u4f5c\u308a\u4e0a\u3052\u305f\u6c11\u9593\u7d44\u7e54\u3067\u3001\\n\u56fd\u306e\u624b\u304c\u56de\u3089\u306a\u3044\u8857\u306a\u3069\u306e\u6cbb\u5b89\u3092\u5b88\u3063\u3066\u3044\u308b\u3068\u805e\u304f\u3002",
+    "Phrase": "退役軍人会。\\nハバロフスクが以前、一度軍を辞めた時に作り上げた民間組織で、\\n国の手が回らない街などの治安を守っていると聞く。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -497,30 +498,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u306a\u308b\u307b\u3069\u3001\u5747\u8861\u306f\u53d6\u308c\u3066\u3044\u308b\u3068\u3044\u3046\u3053\u3068\u304b\u3002\\n\u3060\u304c\u305d\u308c\u3067\u3082\u3001\u3053\u308c\u4ee5\u4e0a\u5371\u967a\u306a\u72b6\u6cc1\u306b\u9665\u308b\u524d\u306b\u3001\\n\u4f55\u304b\u5bfe\u51e6\u3057\u305f\u65b9\u304c\u3044\u3044\u6c17\u3082\u3059\u308b\u3002",
+    "Phrase": "なるほど、均衡は取れているということか。\\nだがそれでも、これ以上危険な状況に陥る前に、\\n何か対処した方がいい気もする。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -534,30 +535,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u306e\u6642\u3001\u901a\u308a\u3092\u6b69\u3044\u3066\u3044\u305f\u5c0f\u3055\u306a\u5973\u306e\u5b50\u304c\u3001\\n\u8def\u5730\u88cf\u304b\u3089\u8ee2\u304c\u308a\u51fa\u3066\u304d\u305f\u8f29\u306b\u3076\u3064\u304b\u308a\u3001\u8ee2\u3093\u3067\u3057\u307e\u3063\u305f\u3002\\n\u8f29\u306f\u8b1d\u308b\u3069\u3053\u308d\u304b\u90aa\u9b54\u3060\u3068\u8a00\u3063\u3066\u3001\u3055\u3089\u306b\u5c11\u5973\u3092\u7a81\u304d\u98db\u3070\u3057\u305f\u3002",
+    "Phrase": "その時、通りを歩いていた小さな女の子が、\\n路地裏から転がり出てきた輩にぶつかり、転んでしまった。\\n輩は謝るどころか邪魔だと言って、さらに少女を突き飛ばした。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -571,30 +572,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u30cf\u30d0\u30ed\u30d5\u30b9\u30af",
-    "Phrase": "\u300c\u304a\u3044\u3001\u305d\u3053\u306e\u30c9\u30d6\u30cd\u30ba\u30df\u3069\u3082\u300d",
+    "Name": "ハバロフスク",
+    "Phrase": "「おい、そこのドブネズミども」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -608,30 +609,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u30cf\u30d0\u30ed\u30d5\u30b9\u30af",
-    "Phrase": "\u300c\u9670\u3067\u30b3\u30bd\u30b3\u30bd\u751f\u304d\u308b\u3057\u304b\u3067\u304d\u306c\u304a\u524d\u3089\u304c\u3001\\n\u3000\u30ab\u30bf\u30ae\u306e\u3001\u305d\u308c\u3082\u5b50\u4f9b\u306b\u624b\u3092\u4e0a\u3052\u308b\u3068\u306f\u3069\u3046\u3044\u3046\u3064\u3082\u308a\u3060\uff1f\u300d",
+    "Name": "ハバロフスク",
+    "Phrase": "「陰でコソコソ生きるしかできぬお前らが、\\n　カタギの、それも子供に手を上げるとはどういうつもりだ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -645,30 +646,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u624b\u3092\u51fa\u3059\u306e\u306f\u3084\u3081\u3066\u304a\u3051\u3068\u8a00\u3063\u3066\u3044\u305f\u30cf\u30d0\u30ed\u30d5\u30b9\u30af\u3060\u304c\u3001\\n\u3053\u308c\u306f\u898b\u904e\u3054\u305b\u306a\u3044\u3001\u3068\u7537\u305f\u3061\u306e\u3082\u3068\u3078\u5802\u3005\u3068\u8fd1\u3065\u3044\u3066\u3044\u304f\u3002",
+    "Phrase": "手を出すのはやめておけと言っていたハバロフスクだが、\\nこれは見過ごせない、と男たちのもとへ堂々と近づいていく。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -682,38 +683,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 105,
         "Position": 2,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 110,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u7537\u305f\u3061\u306f\u30b1\u30f3\u30ab\u3092\u3084\u3081\u3066\u3001\\n\u30cf\u30d0\u30ed\u30d5\u30b9\u30af\u3078\u3068\u30bf\u30fc\u30b2\u30c3\u30c8\u3092\u5909\u66f4\u3059\u308b\u3002\\n\u3060\u304c\u5f7c\u5973\u306f\u4eba\u6570\u5dee\u3092\u3082\u306e\u3068\u3082\u305b\u305a\u3001\\n\u3053\u3061\u3089\u304c\u52a0\u52e2\u306b\u5165\u308b\u3088\u308a\u3082\u65e9\u304f\u3001\u5168\u54e1\u3092\u5012\u3057\u3066\u3057\u307e\u3063\u305f\u3002",
+    "Phrase": "男たちはケンカをやめて、\\nハバロフスクへとターゲットを変更する。\\nだが彼女は人数差をものともせず、\\nこちらが加勢に入るよりも早く、全員を倒してしまった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -727,38 +728,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 105,
         "Position": 2,
         "Action": 4,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 110,
         "Position": 4,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
-    "Name": "\u30cf\u30d0\u30ed\u30d5\u30b9\u30af",
-    "Phrase": "\u300c\u65e5\u9670\u3067\u751f\u304d\u308b\u306a\u3089\u3001\u8868\u306b\u306f\u51fa\u3066\u304f\u308b\u306a\u3002\\n\u3000\u3044\u3044\u304b\u3001\u4e8c\u5ea6\u76ee\u306f\u306a\u3044\u305e\u300d",
+    "Name": "ハバロフスク",
+    "Phrase": "「日陰で生きるなら、表には出てくるな。\\n　いいか、二度目はないぞ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -772,30 +773,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30cf\u30d0\u30ed\u30d5\u30b9\u30af",
-    "Phrase": "\u300c\u304a\u5b22\u3061\u3083\u3093\u3001\u602a\u6211\u306f\u306a\u3044\uff1f\\n\u3000\u2015\u2015\u305d\u3046\u3001\u5927\u4e08\u592b\u306a\u306e\u306d\u3002\\n\u3000\u6ce3\u304b\u306a\u3044\u3067\u3048\u3089\u3044\u3048\u3089\u3044\u3002\\n\u3000\u3055\u3042\u3001\u65e9\u304f\u30de\u30de\u306e\u3068\u3053\u308d\u3078\u304a\u5e30\u308a\u300d",
+    "Name": "ハバロフスク",
+    "Phrase": "「お嬢ちゃん、怪我はない？\\n　――そう、大丈夫なのね。\\n　泣かないでえらいえらい。\\n　さあ、早くママのところへお帰り」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -809,30 +810,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 7,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u4eca\u307e\u3067\u306e\u53b3\u3057\u3044\u58f0\u8272\u3092\u4e00\u8ee2\u3055\u305b\u3001\\n\u512a\u3057\u3044\u53e3\u8abf\u3067\u5c11\u5973\u306e\u7121\u4e8b\u3092\u78ba\u8a8d\u3057\u3001\u898b\u9001\u308b\u30cf\u30d0\u30ed\u30d5\u30b9\u30af\u3002\\n\u5c11\u5973\u306f\u305d\u3093\u306a\u30cf\u30d0\u30ed\u30d5\u30b9\u30af\u306b\u5927\u304d\u304f\u624b\u3092\u632f\u308a\u306a\u304c\u3089\u3001\\n\u8d70\u308a\u53bb\u3063\u3066\u3044\u3063\u305f\u3002",
+    "Phrase": "今までの厳しい声色を一転させ、\\n優しい口調で少女の無事を確認し、見送るハバロフスク。\\n少女はそんなハバロフスクに大きく手を振りながら、\\n走り去っていった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -846,30 +847,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30cf\u30d0\u30ed\u30d5\u30b9\u30af",
-    "Phrase": "\u300c\u5b50\u3069\u3082\u306f\u30a2\u30a4\u30bc\u30f3\u30b0\u30e9\u30fc\u30c8\u306e\u5e0c\u671b\u3060\u304b\u3089\u306a\u3002\\n\u3000\u672a\u6765\u3092\u3057\u3063\u304b\u308a\u3068\u5922\u898b\u3089\u308c\u308b\u3088\u3046\u306b\u3001\\n\u3000\u512a\u3057\u304f\u3001\u5927\u5207\u306b\u3057\u306a\u3044\u3068\u3044\u3051\u306a\u3044\u300d",
+    "Name": "ハバロフスク",
+    "Phrase": "「子どもはアイゼングラートの希望だからな。\\n　未来をしっかりと夢見られるように、\\n　優しく、大切にしないといけない」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -883,30 +884,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 8,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\u30cf\u30d0\u30ed\u30d5\u30b9\u30af",
-    "Phrase": "\u300c\u3068\u306f\u3044\u3048\u3001\u3042\u306e\u304f\u3089\u3044\u306e\u6b73\u3067\u79c1\u306e\u3082\u3068\u306b\u9810\u3051\u3089\u308c\u305f\u3001\\n\u3000\u30e4\u30af\u30fc\u30c4\u30af\u3068\u59b9\u306e\u30d9\u30b9\u30c1\u30e3\u306b\u306f\u3001\u53b3\u3057\u304f\u6307\u5c0e\u3092\u3057\u3066\u3057\u307e\u3063\u305f\u304c\u300d",
+    "Name": "ハバロフスク",
+    "Phrase": "「とはいえ、あのくらいの歳で私のもとに預けられた、\\n　ヤクーツクと妹のベスチャには、厳しく指導をしてしまったが」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -920,30 +921,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u53b3\u3057\u3044\u6226\u7dda\u306e\u4e2d\u3067\u751f\u304d\u6b8b\u308b\u305f\u3081\u3060\u308d\u3046\u3002\\n\u305d\u308c\u304c\u512a\u3057\u3055\u3060\u3063\u3066\u3001\u3042\u306e\u59c9\u59b9\u3082\u5206\u304b\u3063\u3066\u3044\u308b\u3055\u3002",
+    "Phrase": "厳しい戦線の中で生き残るためだろう。\\nそれが優しさだって、あの姉妹も分かっているさ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -957,30 +958,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
-    "Name": "\u30cf\u30d0\u30ed\u30d5\u30b9\u30af",
-    "Phrase": "\u300c\u3042\u3042\u3002\u4f1d\u308f\u3063\u3066\u3044\u308b\u3068\u306f\u601d\u3063\u3066\u3044\u308b\u3002\\n\u3000\u305f\u3060\u5e74\u9803\u306e\u5a18\u306e\u697d\u3057\u307f\u3092\u4f55\u4e00\u3064\u3055\u305b\u3066\u3084\u308c\u306a\u304b\u3063\u305f\u306e\u3082\u3001\u307e\u305f\u4e8b\u5b9f\u3060\u300d",
+    "Name": "ハバロフスク",
+    "Phrase": "「ああ。伝わっているとは思っている。\\n　ただ年頃の娘の楽しみを何一つさせてやれなかったのも、また事実だ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -994,30 +995,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
-    "Name": "\u30cf\u30d0\u30ed\u30d5\u30b9\u30af",
-    "Phrase": "\u300c\u8eca\u638c\u3002\u30e4\u30af\u30fc\u30c4\u30af\u306f\u3061\u3083\u3093\u3068\u5143\u6c17\u306b\u3084\u3063\u3066\u3044\u308b\u304b\uff1f\\n\u3000\u79c1\u306e\u524d\u3060\u3068\u3001\u3042\u3044\u3064\u306f\u5143\u6c17\u3058\u3083\u306a\u304f\u3066\u3082\u5143\u6c17\u3060\u3068\u7b54\u3048\u308b\u304b\u3089\u3001\\n\u3000\u5c11\u3057\u6c17\u306b\u306a\u3063\u3066\u306f\u3044\u308b\u306e\u3060\u300d",
+    "Name": "ハバロフスク",
+    "Phrase": "「車掌。ヤクーツクはちゃんと元気にやっているか？\\n　私の前だと、あいつは元気じゃなくても元気だと答えるから、\\n　少し気になってはいるのだ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1031,30 +1032,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30cf\u30d0\u30ed\u30d5\u30b9\u30af\u306e\u524d\u3067\u3001\\n\u76f4\u7acb\u4e0d\u52d5\u3067\u8fd4\u4e8b\u3092\u3059\u308b\u30e4\u30af\u30fc\u30c4\u30af\u304c\u5bb9\u6613\u306b\u60f3\u50cf\u3067\u304d\u308b\u3002",
+    "Phrase": "ハバロフスクの前で、\\n直立不動で返事をするヤクーツクが容易に想像できる。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1068,30 +1069,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5927\u4e08\u592b\u3060\u3002\u30e4\u30af\u30fc\u30c4\u30af\u306f\u3061\u3083\u3093\u3068\u5143\u6c17\u306b\u3001\\n\u30c8\u30ec\u30a4\u30f3\u30ca\u30a4\u30c8\u3068\u3057\u3066\u3001\u3068\u3066\u3082\u3088\u304f\u3084\u3063\u3066\u304f\u308c\u3066\u3044\u308b\u3088\u3002",
+    "Phrase": "大丈夫だ。ヤクーツクはちゃんと元気に、\\nトレインナイトとして、とてもよくやってくれているよ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1105,30 +1106,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
-    "Name": "\u30cf\u30d0\u30ed\u30d5\u30b9\u30af",
-    "Phrase": "\u300c\u305d\u3046\u304b\u3002\u305d\u308c\u306a\u3089\u3088\u304b\u3063\u305f\u300d",
+    "Name": "ハバロフスク",
+    "Phrase": "「そうか。それならよかった」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1142,30 +1143,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
-    "Name": "\u30cf\u30d0\u30ed\u30d5\u30b9\u30af",
-    "Phrase": "\u300c\u3055\u3066\u3001\u8eca\u638c\u3002\\n\u3000\u90e8\u54c1\u306e\u8abf\u9054\u306e\u524d\u306b\u3001\u5148\u306b\u79c1\u306e\u7528\u4e8b\u306b\u3064\u304d\u3042\u3063\u3066\u304f\u308c\u306a\u3044\u304b\uff1f\u300d",
+    "Name": "ハバロフスク",
+    "Phrase": "「さて、車掌。\\n　部品の調達の前に、先に私の用事につきあってくれないか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1179,30 +1180,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3082\u3061\u308d\u3093\u69cb\u308f\u306a\u3044\u304c\u3001\u3069\u3053\u306b\u884c\u304f\u3093\u3060\uff1f",
+    "Phrase": "もちろん構わないが、どこに行くんだ？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1216,30 +1217,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u306e\u554f\u3044\u306b\u30cf\u30d0\u30ed\u30d5\u30b9\u30af\u306f\u7b54\u3048\u305a\u3001\u8996\u7dda\u3092\u901a\u308a\u306e\u5148\u3078\u3068\u5411\u3051\u305f\u3002",
+    "Phrase": "その問いにハバロフスクは答えず、視線を通りの先へと向けた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1253,30 +1254,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 76201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3053\u306b\u306f\u5f37\u9762\u306e\u30b9\u30fc\u30c4\u59ff\u306e\u7537\u304c\u3072\u3068\u308a\u3002\\n\u5f7c\u306f\u30cf\u30d0\u30ed\u30d5\u30b9\u30af\u3068\u76ee\u304c\u5408\u3046\u3068\u3001\\n\u5f7c\u5973\u306b\u5411\u304b\u3063\u3066\u6df1\u3005\u3068\u982d\u3092\u4e0b\u3052\u305f\u306e\u3060\u3063\u305f\u3002",
+    "Phrase": "そこには強面のスーツ姿の男がひとり。\\n彼はハバロフスクと目が合うと、\\n彼女に向かって深々と頭を下げたのだった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1290,14 +1291,14 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

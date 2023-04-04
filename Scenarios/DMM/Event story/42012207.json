@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u6edd\u88cf\u306e\u6d1e\u7a9f\u306f\u3001\\n\u9577\u3044\u3053\u3068\u4eba\u304c\u5165\u3063\u3066\u3044\u306a\u3044\u306e\u3060\u308d\u3046\u3001\\n\u8db3\u4e0b\u304c\u6ce5\u3084\u82d4\u3067\u3073\u3063\u3057\u308a\u3067\u3001\u6ed1\u308a\u3084\u3059\u304f\u306a\u3063\u3066\u3044\u305f\u3002",
+    "Phrase": "滝裏の洞窟は、\\n長いこと人が入っていないのだろう、\\n足下が泥や苔でびっしりで、滑りやすくなっていた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5e7b\u9727\u306f\u3053\u3093\u306a\u5834\u6240\u3067\u3082\u3001\\n\u304a\u69cb\u3044\u306a\u3057\u306b\u767a\u751f\u3057\u59cb\u3081\u3066\u3044\u305f\u3002\\n\u307e\u3060\u8584\u3044\u304c\u3001\u6025\u3044\u3060\u65b9\u304c\u3044\u3044\u3060\u308d\u3046\u3002",
+    "Phrase": "幻霧はこんな場所でも、\\nお構いなしに発生し始めていた。\\nまだ薄いが、急いだ方がいいだろう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,21 +46,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30cc\u30ac\u30ef",
-    "Phrase": "\u300c\u79c1\u304c\u5148\u982d\u3092\u9032\u307f\u307e\u3059\u3002\\n\u3000\u30aa\u30cf\u30ca\u3055\u3093\u306f\u8eca\u638c\u3055\u3093\u306e\u8b77\u885b\u3092\u3001\\n\u3000\u30cb\u30c3\u30b3\u30a6\u306f\u6700\u5f8c\u5c3e\u3092\u304a\u9858\u3044\u3057\u307e\u3059\u300d",
+    "Name": "キヌガワ",
+    "Phrase": "「私が先頭を進みます。\\n　オハナさんは車掌さんの護衛を、\\n　ニッコウは最後尾をお願いします」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -73,30 +75,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 87201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30cc\u30ac\u30ef",
-    "Phrase": "\u300c\u8fd1\u3065\u304f\u307b\u3069\u306b\u3001\\n\u3000\u4e0d\u6c17\u5473\u306a\u611f\u899a\u304c\u5f37\u307e\u3063\u3066\u3044\u304d\u307e\u3059\u306d\u3002\\n\u3000\u307e\u308b\u3067\u5fc3\u81d3\u3092\u63b4\u307e\u308c\u3066\u308b\u3088\u3046\u306a\u2026\u2026\u300d",
+    "Name": "キヌガワ",
+    "Phrase": "「近づくほどに、\\n　不気味な感覚が強まっていきますね。\\n　まるで心臓を掴まれてるような……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -110,30 +112,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 87201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30cc\u30ac\u30ef",
-    "Phrase": "\u300c\u3053\u308c\u3001\u5931\u6557\u3057\u305f\u3089\u672c\u5f53\u306b\u5927\u5909\u306a\u3053\u3068\u306b\u306a\u308a\u305d\u3046\u3067\u3059\u306d\u3047\u3002\\n\u3000\u307e\u3063\u305f\u304f\u3001\u9762\u5012\u306a\u8a71\u3067\u3059\u300d",
+    "Name": "キヌガワ",
+    "Phrase": "「これ、失敗したら本当に大変なことになりそうですねぇ。\\n　まったく、面倒な話です」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -147,30 +149,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 87201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30cc\u30ac\u30ef",
-    "Phrase": "\u300c\u3082\u3046\u3059\u3067\u306b\u9762\u5012\u306e\u771f\u3063\u6700\u4e2d\u3067\u306f\u3042\u308a\u307e\u3059\u304c\u3001\\n\u3000\u3053\u308c\u4ee5\u4e0a\u3001\u5384\u4ecb\u306a\u72b6\u6cc1\u306b\u306a\u308b\u306e\u306f\u3054\u3081\u3093\u3067\u3059\u3002\\n\u3000\u3055\u3063\u3055\u3068\u7247\u4ed8\u3051\u3066\u5e30\u308a\u307e\u3057\u3087\u3046\u300d",
+    "Name": "キヌガワ",
+    "Phrase": "「もうすでに面倒の真っ最中ではありますが、\\n　これ以上、厄介な状況になるのはごめんです。\\n　さっさと片付けて帰りましょう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -184,30 +186,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 87201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u30ad\u30cc\u30ac\u30ef\u3055\u3093\u3001\u5c11\u3057\u80a9\u306e\u529b\u3092\u629c\u304d\u307e\u3057\u3087\u3046\u300d",
+    "Name": "オハナ",
+    "Phrase": "「キヌガワさん、少し肩の力を抜きましょう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -221,30 +223,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30cc\u30ac\u30ef",
-    "Phrase": "\u300c\u30aa\u30cf\u30ca\u3055\u3093\u3001\\n\u3000\u79c1\u306f\u3044\u3064\u3060\u3063\u3066\u5168\u8eab\u306e\u529b\u3092\u629c\u3044\u3066\u751f\u304d\u3066\u307e\u3059\u3088\u3002\\n\u3000\u306a\u3093\u305f\u3063\u3066\u79c1\u306f\u9762\u5012\u81ed\u304c\u308a\u3067\u3059\u304b\u3089\u300d",
+    "Name": "キヌガワ",
+    "Phrase": "「オハナさん、\\n　私はいつだって全身の力を抜いて生きてますよ。\\n　なんたって私は面倒臭がりですから」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -258,38 +260,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 87201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u9762\u5012\u81ed\u304c\u308a\u306a\u4eba\u306f\u3001\\n\u3000\u4e00\u5ea6\u4f1a\u3063\u305f\u3060\u3051\u306e\u4eba\u306e\u60f3\u3044\u3092\u80cc\u8ca0\u3063\u305f\u308a\u306a\u3093\u3066\u3057\u307e\u305b\u3093\u3088\uff1f\u300d",
+    "Name": "オハナ",
+    "Phrase": "「面倒臭がりな人は、\\n　一度会っただけの人の想いを背負ったりなんてしませんよ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -303,38 +305,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 87201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30cc\u30ac\u30ef",
-    "Phrase": "\u300c\u2026\u2026\u2026\u2026\u300d",
+    "Name": "キヌガワ",
+    "Phrase": "「…………」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -348,38 +350,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 87201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30cc\u30ac\u30ef",
-    "Phrase": "\u300c\u30aa\u30cf\u30ca\u3055\u3093\u306b\u306f\u672c\u5f53\u3001\u6575\u308f\u306a\u3044\u3067\u3059\u306d\u3047\u300d",
+    "Name": "キヌガワ",
+    "Phrase": "「オハナさんには本当、敵わないですねぇ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -393,38 +395,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 87201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u8a71\u3057\u3066\u304f\u308c\u3066\u3082\u3044\u3044\u3093\u3067\u3059\u3088\uff1f\u300d",
+    "Name": "オハナ",
+    "Phrase": "「話してくれてもいいんですよ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -438,38 +440,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 87201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30cc\u30ac\u30ef",
-    "Phrase": "\u300c\u2026\u2026\u79c1\u306e\u6545\u90f7\u3063\u3066\u3001\u6e29\u6cc9\u8857\u3058\u3083\u306a\u3044\u3067\u3059\u304b\u3002\\n\u3000\u7269\u5fc3\u3064\u3044\u305f\u9803\u306b\u306f\u3001\u5e7b\u9727\u306e\u305b\u3044\u3082\u3042\u3063\u3066\u5bc2\u308c\u3066\u3044\u3066\u3001\\n\u3000\u30aa\u30cf\u30ca\u3055\u3093\u305f\u3061\u6708\u591c\u756a\u8846\u306e\u65b9\u3005\u304c\u4f7f\u3063\u3066\u304f\u308c\u306a\u3051\u308c\u3070\u3001\\n\u3000\u5ec3\u696d\u3057\u3066\u3044\u305f\u3053\u3068\u3067\u3057\u3087\u3046\u300d",
+    "Name": "キヌガワ",
+    "Phrase": "「……私の故郷って、温泉街じゃないですか。\\n　物心ついた頃には、幻霧のせいもあって寂れていて、\\n　オハナさんたち月夜番衆の方々が使ってくれなければ、\\n　廃業していたことでしょう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -483,38 +485,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 87201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u30ad\u30cc\u30ac\u30ef\u3055\u3093\u306e\u5bb6\u306e\u5bbf\u306b\u6cca\u307e\u308b\u3053\u3068\u304c\u3067\u304d\u3066\u3001\\n\u3000\u308f\u305f\u3057\u305f\u3061\u306f\u7d20\u6674\u3089\u3057\u3044\u6642\u9593\u3092\u904e\u3054\u3055\u305b\u3066\u9802\u304d\u307e\u3057\u305f\u3002\\n\u3000\u6708\u591c\u756a\u8846\u306e\u935b\u932c\u306b\u975e\u5e38\u306b\u9069\u3057\u305f\u5834\u6240\u3067\u3057\u305f\u3088\u300d",
+    "Name": "オハナ",
+    "Phrase": "「キヌガワさんの家の宿に泊まることができて、\\n　わたしたちは素晴らしい時間を過ごさせて頂きました。\\n　月夜番衆の鍛錬に非常に適した場所でしたよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -528,38 +530,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 87201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30cc\u30ac\u30ef",
-    "Phrase": "\u300c\u79c1\u306e\u6545\u90f7\u306b\u6e67\u304d\u51fa\u308b\u6e29\u6cc9\u306f\u3001\u672c\u5f53\u306b\u81ea\u6162\u3067\u3059\u304b\u3089\u3001\\n\u3000\u305d\u3046\u8a00\u3063\u3066\u9802\u3051\u308b\u306e\u306f\u5149\u6804\u3067\u3059\u306d\u300d",
+    "Name": "キヌガワ",
+    "Phrase": "「私の故郷に湧き出る温泉は、本当に自慢ですから、\\n　そう言って頂けるのは光栄ですね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -573,38 +575,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 87201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30cc\u30ac\u30ef",
-    "Phrase": "\u300c\u305d\u308c\u3067\u3001\u305d\u3046\u3084\u3063\u3066\u6708\u591c\u756a\u8846\u306e\u65b9\u3005\u306b\u4f7f\u3063\u3066\u9802\u3051\u308b\u3088\u3046\u306b\u306a\u308a\u3001\\n\u3000\u6642\u306b\u306f\u8857\u306e\u8b66\u8b77\u307e\u3067\u3057\u3066\u9802\u3044\u305f\u304a\u304b\u3052\u3067\u3001\\n\u3000\u6545\u90f7\u306e\u6e29\u6cc9\u8857\u306f\u5c11\u3057\u8a55\u5224\u3092\u53d6\u308a\u623b\u3057\u3001\\n\u3000\u4eca\u3082\u4f55\u3068\u304b\u5b58\u7d9a\u3067\u304d\u3066\u3044\u307e\u3059\u3002\u672c\u5f53\u306b\u79c1\u305f\u3061\u306f\u5e78\u904b\u3067\u3057\u305f\u300d",
+    "Name": "キヌガワ",
+    "Phrase": "「それで、そうやって月夜番衆の方々に使って頂けるようになり、\\n　時には街の警護までして頂いたおかげで、\\n　故郷の温泉街は少し評判を取り戻し、\\n　今も何とか存続できています。本当に私たちは幸運でした」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -618,38 +620,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 87201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30cc\u30ac\u30ef",
-    "Phrase": "\u300c\u3067\u3059\u304c\u3001\u3053\u306e\u6751\u306f\u3069\u3046\u3067\u3057\u3087\u3046\u3002\\n\u3000\u5e7b\u9727\u306e\u6fc3\u3044\u5730\u57df\u306b\u4f4f\u307f\u3001\u5730\u5834\u7523\u696d\u3092\u6301\u3064\u2015\u2015\u300d",
+    "Name": "キヌガワ",
+    "Phrase": "「ですが、この村はどうでしょう。\\n　幻霧の濃い地域に住み、地場産業を持つ――」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -663,38 +665,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 87201,
         "Position": 4,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30cc\u30ac\u30ef",
-    "Phrase": "\u300c\u7f6e\u304b\u308c\u305f\u72b6\u6cc1\u306f\u540c\u3058\u3067\u3059\u304c\u3001\\n\u3000\u3053\u3053\u306b\u306f\u6614\u306e\u30aa\u30cf\u30ca\u3055\u3093\u305f\u3061\u306e\u3088\u3046\u306a\u3001\\n\u3000\u5b88\u3063\u3066\u304f\u308c\u308b\u4eba\u305f\u3061\u304c\u3044\u306a\u304b\u3063\u305f\u300d",
+    "Name": "キヌガワ",
+    "Phrase": "「置かれた状況は同じですが、\\n　ここには昔のオハナさんたちのような、\\n　守ってくれる人たちがいなかった」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -708,38 +710,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 87201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30cc\u30ac\u30ef",
-    "Phrase": "\u300c\u3060\u304b\u3089\u3053\u3093\u306a\u306b\u3082\u88ab\u5bb3\u3092\u53d7\u3051\u3066\u3057\u307e\u3063\u305f\u3002\\n\u3000\u3053\u306e\u5834\u6240\u4ee5\u5916\u3067\u306f\u66ae\u3089\u3057\u3066\u3044\u3051\u306a\u3044\u306e\u306b\u3001\u3067\u3059\u300d",
+    "Name": "キヌガワ",
+    "Phrase": "「だからこんなにも被害を受けてしまった。\\n　この場所以外では暮らしていけないのに、です」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -753,38 +755,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 87201,
         "Position": 4,
         "Action": 0,
         "Emotion": 2,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u30ad\u30cc\u30ac\u30ef\u3055\u3093\u306f\u3001\\n\u3000\u305d\u306e\u5834\u6240\u3092\u96e2\u308c\u308b\u308f\u3051\u306b\u306f\u3044\u304b\u306a\u3044\u4eba\u305f\u3061\u306e\u60f3\u3044\u3092\\n\u3000\u77e5\u3063\u3066\u3044\u307e\u3059\u3082\u3093\u306d\u3002\u3060\u304b\u3089\u4f55\u3068\u304b\u3057\u3066\u3042\u3052\u306a\u3051\u308c\u3070\u3001\\n\u3000\u3068\u6c17\u3092\u5f35\u3063\u3066\u3089\u3063\u3057\u3083\u3063\u305f\u3093\u3067\u3059\u306d\u300d",
+    "Name": "オハナ",
+    "Phrase": "「キヌガワさんは、\\n　その場所を離れるわけにはいかない人たちの想いを\\n　知っていますもんね。だから何とかしてあげなければ、\\n　と気を張ってらっしゃったんですね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -798,38 +800,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 87201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30cc\u30ac\u30ef",
-    "Phrase": "\u300c\u306f\u3044\u3002\\n\u3000\u3059\u3067\u306b\u7015\u6b7b\u306e\u3053\u306e\u6751\u306b\u3053\u308c\u4ee5\u4e0a\u306e\u88ab\u5bb3\u304c\u51fa\u305f\u3089\u3001\\n\u3000\u3082\u3046\u53d6\u308a\u8fd4\u3057\u304c\u3064\u304d\u307e\u305b\u3093\u300d",
+    "Name": "キヌガワ",
+    "Phrase": "「はい。\\n　すでに瀕死のこの村にこれ以上の被害が出たら、\\n　もう取り返しがつきません」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -843,38 +845,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 87201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30cc\u30ac\u30ef",
-    "Phrase": "\u300c\u305d\u3046\u601d\u3063\u305f\u3089\u3001\u79c1\u304c\u4f55\u3068\u304b\u3057\u306a\u304f\u3066\u306f\u3063\u3066\u3001\\n\u3000\u7d76\u5bfe\u306b\u6b62\u3081\u306a\u3044\u3068\u3063\u3066\u610f\u8b58\u3057\u3066\u3057\u307e\u3063\u305f\u3093\u3067\u3059\u3002\\n\u3000\u2026\u2026\u6708\u591c\u756a\u8846\u3068\u3057\u3066\u306f\u5931\u683c\u3067\u3059\u306d\u3002\\n\u3000\u3044\u3064\u3044\u304b\u306a\u308b\u6642\u3082\u3001\u51b7\u9759\u3067\u3042\u308b\u3079\u304d\u306a\u306e\u306b\u300d",
+    "Name": "キヌガワ",
+    "Phrase": "「そう思ったら、私が何とかしなくてはって、\\n　絶対に止めないとって意識してしまったんです。\\n　……月夜番衆としては失格ですね。\\n　いついかなる時も、冷静であるべきなのに」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -888,38 +890,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 87201,
         "Position": 4,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u305d\u308c\u306f\u5225\u306b\u60aa\u3044\u3053\u3068\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3088\u3002\\n\u3000\u306d\u3048\u3001\u8eca\u638c\u3055\u3093\uff1f\u300d",
+    "Name": "オハナ",
+    "Phrase": "「それは別に悪いことではありませんよ。\\n　ねえ、車掌さん？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -933,38 +935,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 87201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3042\u3042\u3002\\n\u6751\u3092\u4f55\u3068\u3057\u3066\u3067\u3082\u52a9\u3051\u3066\u3042\u3052\u305f\u3044\u3001\\n\u305d\u3046\u601d\u3063\u305f\u3089\u6c17\u6301\u3061\u304c\u9038\u3063\u3066\u3082\u3057\u3087\u3046\u304c\u306a\u3044\u3002",
+    "Phrase": "ああ。\\n村を何としてでも助けてあげたい、\\nそう思ったら気持ちが逸ってもしょうがない。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -978,21 +980,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3053\u308c\u304c\uff11\u4eba\u306e\u4efb\u52d9\u3060\u3063\u305f\u3089\u3001\\n\u5982\u4f55\u306a\u308b\u6642\u3082\u51b7\u9759\u3067\u3042\u308b\u3079\u304d\u304b\u3082\u3057\u308c\u306a\u3044\u3002\\n\u3060\u304c\u4eca\u306f\u3001\u307f\u3093\u306a\u3044\u308b\u3002\\n\u52a9\u3051\u5408\u3048\u3070\u305d\u308c\u3067\u3044\u3044\u3093\u3060\u3002",
+    "Phrase": "これが１人の任務だったら、\\n如何なる時も冷静であるべきかもしれない。\\nだが今は、みんないる。\\n助け合えばそれでいいんだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1006,21 +1009,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u4f55\u3088\u308a\u3001\u304a\u5f1f\u5b50\u3055\u3093\u3060\u3051\u3069\u76f8\u68d2\u3055\u3093\u3067\u3082\u3042\u308b\u30cb\u30c3\u30b3\u30a6\u3055\u3093\u306e\u6c17\u9063\u3044\u3001\\n\u3000\u30ad\u30cc\u30ac\u30ef\u3055\u3093\u306b\u306f\u4f1d\u308f\u3063\u3066\u3044\u3089\u3063\u3057\u3083\u308b\u306e\u3067\u3057\u3087\u3046\uff1f\u300d",
+    "Name": "オハナ",
+    "Phrase": "「何より、お弟子さんだけど相棒さんでもあるニッコウさんの気遣い、\\n　キヌガワさんには伝わっていらっしゃるのでしょう？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1034,30 +1038,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30aa\u30cf\u30ca\u304c\u30ad\u30cc\u30ac\u30ef\u306e\u61d0\u3092\u6307\u3055\u3057\u3001\u5fae\u7b11\u3080\u3002",
+    "Phrase": "オハナがキヌガワの懐を指さし、微笑む。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1071,30 +1075,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30cc\u30ac\u30ef",
-    "Phrase": "\u300c\u3053\u306e\u6adb\u98fe\u308a\u2026\u2026\u300d",
+    "Name": "キヌガワ",
+    "Phrase": "「この櫛飾り……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1108,30 +1112,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 87201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u30cb\u30c3\u30b3\u30a6\u3055\u3093\u3001\\n\u3000\u30ad\u30cc\u30ac\u30ef\u3055\u3093\u306e\u3053\u3068\u304c\u5927\u597d\u304d\u3067\u3059\u304b\u3089\u306d\u266a\u300d",
+    "Name": "オハナ",
+    "Phrase": "「ニッコウさん、\\n　キヌガワさんのことが大好きですからね♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1145,30 +1149,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30cc\u30ac\u30ef",
-    "Phrase": "\u300c\u3042\u306e\u6642\u3001\u65e9\u304f\u4f55\u3068\u304b\u3057\u306a\u3051\u308c\u3070\u3068\u5185\u5fc3\u7126\u3063\u3066\u3044\u305f\u79c1\u3092\u3001\\n\u3000\u30cb\u30c3\u30b3\u30a6\u306f\u5fc3\u914d\u3057\u3066\u304f\u308c\u3066\u3044\u305f\u3093\u3067\u3059\u306d\u3002\\n\u3000\u3060\u304b\u3089\u3001\u3042\u3093\u306a\u4e0d\u81ea\u7136\u306a\u30bf\u30a4\u30df\u30f3\u30b0\u3067\u3053\u306e\u6adb\u98fe\u308a\u3092\u6e21\u3057\u3066\u304d\u305f\u2026\u2026\u300d",
+    "Name": "キヌガワ",
+    "Phrase": "「あの時、早く何とかしなければと内心焦っていた私を、\\n　ニッコウは心配してくれていたんですね。\\n　だから、あんな不自然なタイミングでこの櫛飾りを渡してきた……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1182,30 +1186,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 87201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30cc\u30ac\u30ef",
-    "Phrase": "\u300c\u307e\u3063\u305f\u304f\u3001\u5f1f\u5b50\u306b\u5fc3\u914d\u3055\u305b\u3066\u306f\u5e2b\u5320\u3082\u5f62\u7121\u3057\u3067\u3059\u300d",
+    "Name": "キヌガワ",
+    "Phrase": "「まったく、弟子に心配させては師匠も形無しです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1219,30 +1223,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 87201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30cc\u30ac\u30ef",
-    "Phrase": "\u300c\u30cb\u30c3\u30b3\u30a6\u3001\u3061\u3087\u3063\u3068\u3044\u3044\u3067\u3059\u304b\u300d",
+    "Name": "キヌガワ",
+    "Phrase": "「ニッコウ、ちょっといいですか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1256,30 +1260,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 87201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
-    "Name": "\u30cb\u30c3\u30b3\u30a6",
-    "Phrase": "\u300c\u304a\u5e2b\u5320\u3001\u4f55\u306b\u3083\uff1f\u300d",
+    "Name": "ニッコウ",
+    "Phrase": "「お師匠、何にゃ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1293,38 +1297,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 87201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 88201,
         "Position": 4,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
-    "Name": "\u30cb\u30c3\u30b3\u30a6",
-    "Phrase": "\u300c\u306b\u3083\u306b\u3083\u306b\u3083\uff01\uff1f\\n\u3000\u306a\u3093\u3067\u3044\u304d\u306a\u308a\u982d\u3092\u308f\u3057\u308f\u3057\u3059\u308b\u306e\u306b\u3083\uff01\uff1f\u300d",
+    "Name": "ニッコウ",
+    "Phrase": "「にゃにゃにゃ！？\\n　なんでいきなり頭をわしわしするのにゃ！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1338,38 +1342,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 87201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 88201,
         "Position": 4,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
-    "Name": "\u30ad\u30cc\u30ac\u30ef",
-    "Phrase": "\u300c\u30a4\u30e4\u306a\u5302\u3044\u304c\u304d\u3064\u3044\u3067\u3057\u3087\u3046\u3051\u3069\u3001\u5143\u6c17\u306a\u3088\u3046\u3067\u4f55\u3088\u308a\u3067\u3059\u3002\\n\u3000\u3055\u3042\u3001\u884c\u304d\u307e\u3057\u3087\u3046\u30cb\u30c3\u30b3\u30a6\u3002\\n\u3000\u7d76\u5bfe\u306b\u6751\u3092\u6551\u3044\u307e\u3059\u3088\u300d",
+    "Name": "キヌガワ",
+    "Phrase": "「イヤな匂いがきついでしょうけど、元気なようで何よりです。\\n　さあ、行きましょうニッコウ。\\n　絶対に村を救いますよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1383,38 +1387,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 87201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 1
-      },
-      {
+    },
+    {
         "MCharacterId": 88201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 36,
     "ViewOrder": 1,
-    "Name": "\u30cb\u30c3\u30b3\u30a6",
-    "Phrase": "\u300c\u306f\u3001\u306f\u3044\u306a\u306e\u306b\u3083\u300d",
+    "Name": "ニッコウ",
+    "Phrase": "「は、はいなのにゃ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1428,38 +1432,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 87201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 88201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 37,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u3075\u3075\u3001\u3044\u3064\u3082\u306e\u30ad\u30cc\u30ac\u30ef\u3055\u3093\u306b\u623b\u3063\u305f\u3088\u3046\u3067\u3059\u306d\u266a\u300d",
+    "Name": "オハナ",
+    "Phrase": "「ふふ、いつものキヌガワさんに戻ったようですね♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1473,30 +1477,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 5,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 38,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30cf\u30ca",
-    "Phrase": "\u300c\u305d\u308c\u3067\u306f\u8eca\u638c\u3055\u3093\u3001\u308f\u305f\u3057\u305f\u3061\u3082\u6025\u304e\u307e\u3057\u3087\u3046\u300d",
+    "Name": "オハナ",
+    "Phrase": "「それでは車掌さん、わたしたちも急ぎましょう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1510,23 +1514,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 6201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

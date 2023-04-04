@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u6226\u3044\u306e\u679c\u3066\u306b\u3001\\n\u3064\u3044\u306b\u30e6\u30fc\u30b9\u30c8\u30f3\u304c\u9b54\u69cd\u30c7\u30a3\u30eb\u30c9\u30a6\u3092\u8ffd\u3044\u3064\u3081\u305f\u3002\\n\u3057\u304b\u3057\u30c8\u30c9\u30e1\u3092\u523a\u305d\u3046\u3068\u3057\u305f\u3068\u3053\u308d\u3067\u3001\\n\u9006\u306b\u69cd\u3092\u5f3e\u304d\u98db\u3070\u3055\u308c\u3066\u3057\u307e\u3063\u305f\u3002",
+    "Phrase": "戦いの果てに、\\nついにユーストンが魔槍ディルドウを追いつめた。\\nしかしトドメを刺そうとしたところで、\\n逆に槍を弾き飛ばされてしまった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30e6\u30fc\u30b9\u30c8\u30f3",
-    "Phrase": "\u300c\u3057\u307e\u3063\u305f\u2026\u2026\uff01\u300d",
+    "Name": "ユーストン",
+    "Phrase": "「しまった……！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,30 +46,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 104201,
         "Position": 3,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u9b54\u69cd\u30c7\u30a3\u30eb\u30c9\u30a6",
-    "Phrase": "\u300c\u304f\u304f\u3001\u3053\u308c\u3067\u6211\u306e\u52dd\u3061\u3060\uff01\u300d",
+    "Name": "魔槍ディルドウ",
+    "Phrase": "「くく、これで我の勝ちだ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -82,30 +83,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 25,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30e9\u30ab\u30ef",
-    "Phrase": "\u300c\u30e6\u30fc\u3061\u3083\u3093\uff01\u300d",
+    "Name": "カラカワ",
+    "Phrase": "「ユーちゃん！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -119,30 +120,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 14201,
         "Position": 3,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u9b54\u69cd\u30c7\u30a3\u30eb\u30c9\u30a6\u306e\u69cd\u304c\u3001\\n\u30e6\u30fc\u30b9\u30c8\u30f3\u306e\u80f8\u5143\u3081\u304c\u3051\u3066\u7e70\u308a\u51fa\u3055\u308c\u308b\u3002\\n\u30ab\u30e9\u30ab\u30ef\u3082\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u3082\u3001\\n\u4f4d\u7f6e\u7684\u306b\u52a9\u3051\u306b\u306f\u5165\u308c\u306a\u3044\u3002",
+    "Phrase": "魔槍ディルドウの槍が、\\nユーストンの胸元めがけて繰り出される。\\nカラカワもオステルリッツも、\\n位置的に助けには入れない。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -156,30 +157,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 104201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u7d76\u4f53\u7d76\u547d\u306e\u77ac\u9593\u304c\u8a2a\u308c\u308b\u3001\u305d\u306e\u5bf8\u524d\u3002\\n\u30e6\u30fc\u30b9\u30c8\u30f3\u306f\u81ea\u5206\u304c\u7d75\u7b46\u306e\u69cd\u306e\u53f0\u5ea7\u306b\u3044\u308b\u3053\u3068\u306b\u6c17\u3065\u304d\u3001\\n\u8ff7\u308f\u305a\u305d\u308c\u3092\u63b4\u3093\u3060\u3002",
+    "Phrase": "絶体絶命の瞬間が訪れる、その寸前。\\nユーストンは自分が絵筆の槍の台座にいることに気づき、\\n迷わずそれを掴んだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -193,30 +194,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 104201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u9b54\u69cd\u30c7\u30a3\u30eb\u30c9\u30a6",
-    "Phrase": "\u300c\u6b7b\u306d\uff01\u300d",
+    "Name": "魔槍ディルドウ",
+    "Phrase": "「死ね！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -230,30 +231,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 25,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5f15\u304d\u629c\u3051\u306a\u304b\u3063\u305f\u306f\u305a\u306e\u7d75\u7b46\u306e\u69cd\u306f\u3001\\n\u898b\u4e8b\u306b\u30e6\u30fc\u30b9\u30c8\u30f3\u306e\u624b\u306e\u4e2d\u306b\u53ce\u307e\u3063\u305f\u3002\\n\u305d\u308c\u3092\u5f7c\u5973\u306f\u632f\u308a\u5411\u304d\u3056\u307e\u306b\u3001\\n\u9b54\u69cd\u30c7\u30a3\u30eb\u30c9\u30a6\u306b\u5411\u304b\u3063\u3066\u7a81\u304d\u51fa\u3059\u3002",
+    "Phrase": "引き抜けなかったはずの絵筆の槍は、\\n見事にユーストンの手の中に収まった。\\nそれを彼女は振り向きざまに、\\n魔槍ディルドウに向かって突き出す。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -267,30 +268,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 25,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30e6\u30fc\u30b9\u30c8\u30f3",
-    "Phrase": "\u300c\u306f\u3041\u3041\u3041\u3063\uff01\uff01\u300d",
+    "Name": "ユーストン",
+    "Phrase": "「はぁぁぁっ！！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -304,30 +305,30 @@
     "Effect": 5,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 104201,
         "Position": 3,
         "Action": 7,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u9b54\u69cd\u30c7\u30a3\u30eb\u30c9\u30a6",
-    "Phrase": "\u300c\u99ac\u9e7f\u306a\u3063\u2026\u2026\u300d",
+    "Name": "魔槍ディルドウ",
+    "Phrase": "「馬鹿なっ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -341,30 +342,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 25,
         "Position": 3,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u7d75\u7b46\u306e\u69cd\u306b\u7a81\u304b\u308c\u3001\\n\u9b54\u69cd\u30c7\u30a3\u30eb\u30c9\u30a6\u304c\u9a5a\u6115\u306e\u8868\u60c5\u3068\u5171\u306b\u6d88\u3048\u308b\u3002",
+    "Phrase": "絵筆の槍に突かれ、\\n魔槍ディルドウが驚愕の表情と共に消える。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -378,30 +379,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 25,
         "Position": 3,
         "Action": 6,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u69cd\u3068\u3057\u3066\u306e\u6a5f\u80fd\u306f\u3042\u307e\u308a\u306a\u3044\u3088\u3046\u306b\u601d\u3048\u308b\u306e\u3067\u3001\\n\u5b8c\u5168\u306b\u5012\u3057\u305f\u304b\u3069\u3046\u304b\u306f\u7591\u554f\u3060\u304c\u3001\\n\u3072\u3068\u307e\u305a\u8105\u5a01\u304c\u53bb\u3063\u305f\u3053\u3068\u306f\u78ba\u304b\u3060\u3002",
+    "Phrase": "槍としての機能はあまりないように思えるので、\\n完全に倒したかどうかは疑問だが、\\nひとまず脅威が去ったことは確かだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -415,21 +416,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30e6\u30fc\u30b9\u30c8\u30f3",
-    "Phrase": "\u300c\u5371\u306a\u3044\u3068\u3053\u308d\u3067\u3057\u305f\u308f\u300d",
+    "Name": "ユーストン",
+    "Phrase": "「危ないところでしたわ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -443,38 +445,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 104201,
         "Position": 2,
         "Action": 8,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 14201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30e9\u30ab\u30ef",
-    "Phrase": "\u300c\u30e6\u30fc\u3061\u3083\u3093\u3001\u7121\u4e8b\u3067\u3088\u304b\u3063\u305f\u3041\u2026\u2026\u300d",
+    "Name": "カラカワ",
+    "Phrase": "「ユーちゃん、無事でよかったぁ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -488,38 +490,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 104201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 14201,
         "Position": 4,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u4e00\u77ac\u30d2\u30e4\u30c3\u3068\u3057\u307e\u3057\u305f\u304c\u3001\\n\u3000\u7d75\u7b46\u306e\u69cd\u3092\u4f7f\u3044\u3053\u306a\u3059\u3068\u306f\u3001\\n\u3000\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u306f\u9a5a\u304f\u30ea\u30c3\u30c4\u3067\u3059\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「一瞬ヒヤッとしましたが、\\n　絵筆の槍を使いこなすとは、\\n　オステルリッツは驚くリッツです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -533,30 +535,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30e9\u30ab\u30ef",
-    "Phrase": "\u300c\u305d\u3046\u3044\u3048\u3070\u3055\u3063\u304d\u306f\u629c\u3051\u306a\u304b\u3063\u305f\u306e\u306b\u3001\\n\u3000\u3088\u304f\u5f15\u304d\u629c\u3051\u305f\u306d\u3001\u30e6\u30fc\u3061\u3083\u3093\u300d",
+    "Name": "カラカワ",
+    "Phrase": "「そういえばさっきは抜けなかったのに、\\n　よく引き抜けたね、ユーちゃん」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -570,30 +572,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 14201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u30e6\u30fc\u30b9\u30c8\u30f3",
-    "Phrase": "\u300c\u7121\u6211\u5922\u4e2d\u3060\u3063\u305f\u306e\u3067\u3001\\n\u3000\u308f\u305f\u304f\u3057\u306b\u3082\u3069\u3046\u3057\u3066\u5f15\u304d\u629c\u3051\u305f\u306e\u304b\u2026\u2026\u300d",
+    "Name": "ユーストン",
+    "Phrase": "「無我夢中だったので、\\n　わたくしにもどうして引き抜けたのか……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -607,30 +609,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 104201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u30e6\u30fc\u30b9\u30c8\u30f3\u3055\u3093\u3001\u30dd\u30b1\u30c3\u30c8\u304c\u5149\u3063\u3066\u307e\u305b\u3093\u304b\uff1f\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「ユーストンさん、ポケットが光ってませんか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -644,30 +646,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85201,
         "Position": 3,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30e6\u30fc\u30b9\u30c8\u30f3",
-    "Phrase": "\u300c\u3042\u3089\u3001\u672c\u5f53\u3067\u3059\u308f\u3002\\n\u3000\u5149\u308b\u3082\u306e\u306a\u3093\u3066\u5165\u308c\u305f\u899a\u3048\u306f\u306a\u3044\u306e\u3067\u3059\u304c\u300d",
+    "Name": "ユーストン",
+    "Phrase": "「あら、本当ですわ。\\n　光るものなんて入れた覚えはないのですが」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -681,30 +683,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 104201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
-    "Name": "\u30e6\u30fc\u30b9\u30c8\u30f3",
-    "Phrase": "\u300c\u3053\u308c\u306f\u2026\u2026\u795e\u793e\u3067\u8cb7\u3063\u305f\u30c8\u30e9\u306e\u304a\u5b88\u308a\u300d",
+    "Name": "ユーストン",
+    "Phrase": "「これは……神社で買ったトラのお守り」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -718,30 +720,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 104201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u304a\u5b88\u308a\u3092\u898b\u3064\u3081\u308b\u30e6\u30fc\u30b9\u30c8\u30f3\u306e\u5143\u306b\u3001\\n\u3053\u308c\u307e\u3067\u7121\u611b\u60f3\u3060\u3063\u305f\u864e\u304c\u8fd1\u3065\u304d\u3001\u982c\u3092\u3059\u308a\u5bc4\u305b\u305f\u3002",
+    "Phrase": "お守りを見つめるユーストンの元に、\\nこれまで無愛想だった虎が近づき、頬をすり寄せた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -755,30 +757,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 104201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30e6\u30fc\u30b9\u30c8\u30f3",
-    "Phrase": "\u300c\u3082\u3057\u304b\u3057\u3066\u308f\u305f\u304f\u3057\u3092\u8a8d\u3081\u3066\u304f\u308c\u305f\u3093\u3067\u3059\u306e\u2026\u2026\uff1f\u300d",
+    "Name": "ユーストン",
+    "Phrase": "「もしかしてわたくしを認めてくれたんですの……？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -792,30 +794,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 104201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u305d\u306e\u304a\u5b88\u308a\u3084\u3001\u9014\u4e2d\u306e\u7740\u3050\u308b\u307f\u306a\u3069\u3001\\n\u3000\u864e\u306b\u5bfe\u3057\u3066\u8ab0\u3088\u308a\u3082\u771f\u646f\u306b\u5411\u304d\u5408\u3063\u305f\u306e\u306f\u30e6\u30fc\u30b9\u30c8\u30f3\u3055\u3093\u3067\u3059\u3002\\n\u3000\u3060\u304b\u3089\u8a8d\u3081\u3089\u308c\u305f\u3093\u3060\u3068\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u306f\u601d\u6848\u3057\u307e\u3059\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「そのお守りや、途中の着ぐるみなど、\\n　虎に対して誰よりも真摯に向き合ったのはユーストンさんです。\\n　だから認められたんだとオステルリッツは思案します」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -829,30 +831,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30e9\u30ab\u30ef",
-    "Phrase": "\u300c\u305d\u3046\u3060\u306d\u266a\\n\u3000\u30e6\u30fc\u3061\u3083\u3093\u304c\u3044\u3061\u3070\u3093\u9811\u5f35\u3063\u305f\u3082\u3093\u306d\u300d",
+    "Name": "カラカワ",
+    "Phrase": "「そうだね♪\\n　ユーちゃんがいちばん頑張ったもんね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -866,30 +868,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 14201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30e9\u30ab\u30ef",
-    "Phrase": "\u300c\u305d\u3046\u3060\u30e6\u30fc\u3061\u3083\u3093\u3001\\n\u3000\u305b\u3063\u304b\u304f\u3060\u304b\u3089\u4f55\u304b\u63cf\u3044\u3066\u307f\u306a\u3044\uff1f\u300d",
+    "Name": "カラカワ",
+    "Phrase": "「そうだユーちゃん、\\n　せっかくだから何か描いてみない？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -903,30 +905,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 14201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u3053\u3093\u306a\u3053\u3068\u3082\u3042\u308d\u3046\u304b\u3068\u3001\\n\u3000\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u306f\u3057\u3063\u304b\u308a\u3068\u5de8\u5927\u306a\u7d19\u3092\u7528\u610f\u3057\u3066\u304d\u307e\u3057\u305f\u3002\\n\u3000\u3069\u3046\u305e\u3001\u304a\u597d\u304d\u306b\u304a\u4f7f\u3044\u4e0b\u3055\u3044\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「こんなこともあろうかと、\\n　オステルリッツはしっかりと巨大な紙を用意してきました。\\n　どうぞ、お好きにお使い下さい」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -940,30 +942,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
-    "Name": "\u30e6\u30fc\u30b9\u30c8\u30f3",
-    "Phrase": "\u300c\u3042\u3001\u3042\u308a\u304c\u305f\u3044\u306e\u3060\u3051\u3069\u3001\\n\u3000\u308f\u305f\u304f\u3057\u7d75\u5fc3\u304c\u306a\u3044\u3093\u3067\u3059\u306e\u3002\\n\u3000\u304d\u3063\u3068\u9177\u3044\u3082\u306e\u304c\u5177\u73fe\u5316\u3055\u308c\u3066\u3057\u307e\u3044\u307e\u3059\u308f\u300d",
+    "Name": "ユーストン",
+    "Phrase": "「あ、ありがたいのだけど、\\n　わたくし絵心がないんですの。\\n　きっと酷いものが具現化されてしまいますわ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -977,38 +979,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 104201,
         "Position": 2,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 14201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30e9\u30ab\u30ef",
-    "Phrase": "\u300c\u7d75\u3058\u3083\u306a\u304f\u3066\u3082\u3044\u3044\u3068\u601d\u3046\u306a\u300d",
+    "Name": "カラカワ",
+    "Phrase": "「絵じゃなくてもいいと思うな」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1022,38 +1024,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 104201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 14201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\u30e6\u30fc\u30b9\u30c8\u30f3",
-    "Phrase": "\u300c\u3068\u8a00\u3046\u3068\u2026\u2026\uff1f\u300d",
+    "Name": "ユーストン",
+    "Phrase": "「と言うと……？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1067,38 +1069,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 104201,
         "Position": 2,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 14201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30e9\u30ab\u30ef",
-    "Phrase": "\u300c\u30cb\u30b7\u30ad\u306b\u306f\u306d\u3001\u66f8\u304d\u521d\u3081\u3063\u3066\u3044\u3046\u6587\u5316\u304c\u3042\u308b\u3093\u3060\u3088\u3002\\n\u3000\uff11\u5e74\u306e\u521d\u3081\u306b\u3001\u7b46\u3067\u6587\u5b57\u3084\u7d75\u3092\u66f8\u304f\u306e\u3002\\n\u3000\u5fc3\u3092\u8fbc\u3081\u3066\u3001\u4eca\u5e74\u306e\u62b1\u8ca0\u3068\u304b\u66f8\u304d\u305f\u3044\u6587\u5b57\u3092\u7db4\u308b\u4eba\u304c\u591a\u3044\u304b\u306a\u300d",
+    "Name": "カラカワ",
+    "Phrase": "「ニシキにはね、書き初めっていう文化があるんだよ。\\n　１年の初めに、筆で文字や絵を書くの。\\n　心を込めて、今年の抱負とか書きたい文字を綴る人が多いかな」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1112,38 +1114,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 104201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 14201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
-    "Name": "\u30e6\u30fc\u30b9\u30c8\u30f3",
-    "Phrase": "\u300c\u66f8\u304d\u305f\u3044\u6587\u5b57\u3001\u3067\u3059\u304b\u300d",
+    "Name": "ユーストン",
+    "Phrase": "「書きたい文字、ですか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1157,38 +1159,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 104201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 14201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u7279\u9244\u968a\u3067\u306e\u62b1\u8ca0\u3068\u304b\u3001\u3054\u81ea\u8eab\u306e\u597d\u304d\u306a\u8a00\u8449\u3068\u304b\u3001\\n\u3000\u982d\u306b\u6d6e\u304b\u3093\u3060\u3082\u306e\u3092\u66f8\u3051\u3070\u3044\u3044\u3068\u601d\u3044\u307e\u3059\u3088\u3002\\n\u3000\u3061\u306a\u307f\u306b\u308f\u305f\u304f\u3057\u304c\u4eca\u66f8\u304d\u305f\u3044\u8a00\u8449\u306f\u300e\u68d2\u300f\u3067\u3059\u304c\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「特鉄隊での抱負とか、ご自身の好きな言葉とか、\\n　頭に浮かんだものを書けばいいと思いますよ。\\n　ちなみにわたくしが今書きたい言葉は『棒』ですが」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1202,30 +1204,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u304c\u7d75\u7b46\u306e\u69cd\u306b\u9078\u3070\u308c\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f\u2026\u2026\u3002",
+    "Phrase": "オステルリッツが絵筆の槍に選ばれてなくてよかった……。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1239,30 +1241,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 85201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
-    "Name": "\u30e6\u30fc\u30b9\u30c8\u30f3",
-    "Phrase": "\u300c\u5206\u304b\u308a\u307e\u3057\u305f\u3002\\n\u3000\u308f\u305f\u304f\u3057\u3001\u66f8\u304d\u305f\u3044\u8a00\u8449\u306f\u6c7a\u307e\u3063\u3066\u3044\u308b\u306e\u3067\u3059\u300d",
+    "Name": "ユーストン",
+    "Phrase": "「分かりました。\\n　わたくし、書きたい言葉は決まっているのです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1276,21 +1278,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30e9\u30ab\u30ef",
-    "Phrase": "\u300c\u3058\u3083\u3042\u30ab\u30e9\u30ab\u30ef\u3068\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4\u3061\u3083\u3093\u3067\u62bc\u3055\u3048\u3066\u307e\u3059\u304b\u3089\u3001\\n\u3000\u601d\u3044\u5207\u3063\u3066\u7db4\u3063\u3061\u3083\u3063\u3066\u3001\u30e6\u30fc\u3061\u3083\u3093\uff01\u300d",
+    "Name": "カラカワ",
+    "Phrase": "「じゃあカラカワとオステルリッツちゃんで押さえてますから、\\n　思い切って綴っちゃって、ユーちゃん！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1304,21 +1307,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 36,
     "ViewOrder": 1,
-    "Name": "\u30aa\u30b9\u30c6\u30eb\u30ea\u30c3\u30c4",
-    "Phrase": "\u300c\u9593\u9055\u3063\u3066\u308f\u305f\u304f\u3057\u306e\u8eab\u4f53\u3092\\n\u3000\u7b46\u5148\u3067\u306a\u305e\u3063\u3066\u4e0b\u3055\u3063\u3066\u3082\u69cb\u3044\u307e\u305b\u3093\u304b\u3089\u306d\u300d",
+    "Name": "オステルリッツ",
+    "Phrase": "「間違ってわたくしの身体を\\n　筆先でなぞって下さっても構いませんからね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1332,21 +1336,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 37,
     "ViewOrder": 1,
-    "Name": "\u30e6\u30fc\u30b9\u30c8\u30f3",
-    "Phrase": "\u300c\u3075\u3075\u3001\u67c4\u306e\u9577\u3044\u3082\u306e\u3092\u6301\u305f\u305b\u305f\u3089\u3001\\n\u3000\u308f\u305f\u304f\u3057\u5931\u6557\u306a\u3093\u3066\u3057\u307e\u305b\u3093\u306e\u3088\u300d",
+    "Name": "ユーストン",
+    "Phrase": "「ふふ、柄の長いものを持たせたら、\\n　わたくし失敗なんてしませんのよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1360,21 +1365,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 38,
     "ViewOrder": 1,
-    "Name": "\u30e6\u30fc\u30b9\u30c8\u30f3",
-    "Phrase": "\u300c\u305d\u308c\u3067\u306f\u7279\u9244\u968a\u306e\u3053\u306e\u5148\u3092\u9858\u3063\u3066\u3001\\n\u3000\u66f8\u304b\u305b\u3066\u3044\u305f\u3060\u304d\u307e\u3059\u308f\uff01\u300d",
+    "Name": "ユーストン",
+    "Phrase": "「それでは特鉄隊のこの先を願って、\\n　書かせていただきますわ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1388,21 +1394,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 39,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30e6\u30fc\u30b9\u30c8\u30f3\u304c\u7d75\u7b46\u306e\u69cd\u3092\u632f\u308a\u304b\u3076\u308a\u3001\\n\u8c6a\u5feb\u306b\u7d19\u306b\u7b46\u5148\u3092\u4e0b\u308d\u3059\u3002",
+    "Phrase": "ユーストンが絵筆の槍を振りかぶり、\\n豪快に紙に筆先を下ろす。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1416,21 +1423,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 40,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3057\u3066\u8e8d\u52d5\u611f\u306b\u6ea2\u308c\u305f\u5b57\u4f53\u3067\u3001\\n\u300e\u304d\u3000\u307c\u3000\u3046\u300f\u3068\u3044\u3046\uff13\u6587\u5b57\u3092\u7db4\u3063\u305f\u306e\u3060\u3063\u305f\u3002",
+    "Phrase": "そして躍動感に溢れた字体で、\\n『き　ぼ　う』という３文字を綴ったのだった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1444,21 +1452,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 41,
     "ViewOrder": 1,
-    "Name": "\u30e6\u30fc\u30b9\u30c8\u30f3",
-    "Phrase": "\u300c\u8eca\u638c\u3055\u307e\u3001\u307f\u306a\u3055\u3093\uff01\\n\u3000\u3053\u308c\u304b\u3089\u3082\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\u308f\uff01\u300d",
+    "Name": "ユーストン",
+    "Phrase": "「車掌さま、みなさん！\\n　これからもよろしくお願いしますわ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1472,14 +1481,14 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

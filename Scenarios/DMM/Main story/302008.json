@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2\u306e\u63d0\u6848\u306b\u3088\u308a\u5730\u4e0b\u7262\u306e\u30ab\u30ae\u3092\u5168\u3066\u958b\u3051\u3066\u304d\u305f\u3002\\n\u4eca\u306e\u3068\u3053\u308d\u3001\u9b54\u7269\u304c\u89e3\u304d\u653e\u305f\u308c\u308b\u306a\u3069\u306e\u5f0a\u5bb3\u306f\u306a\u3055\u305d\u3046\u3060\u304c\u3001\\n\u601d\u3063\u3066\u3044\u305f\u3088\u308a\u3082\u7262\u5c4b\u306e\u6570\u304c\u3042\u3063\u305f\u305f\u3081\u8131\u51fa\u304c\u30ae\u30ea\u30ae\u30ea\u306b\u306a\u3063\u3066\u3057\u307e\u3063\u305f\u3002",
+    "Phrase": "ヴィクトリアの提案により地下牢のカギを全て開けてきた。\\n今のところ、魔物が解き放たれるなどの弊害はなさそうだが、\\n思っていたよりも牢屋の数があったため脱出がギリギリになってしまった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u306a\u3093\u3068\u304b\u5168\u54e1\u7121\u4e8b\u306b\u8131\u51fa\u3067\u304d\u307e\u3057\u305f\u306d\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「なんとか全員無事に脱出できましたね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,38 +46,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 2,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 35201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3",
-    "Phrase": "\u300c\u6d78\u6c34\u3057\u3066\u305f\u305b\u3044\u3067\u601d\u3063\u305f\u3088\u308a\u624b\u3053\u305a\u3063\u3061\u3083\u3063\u305f\u308f\u306d\u3002\\n\u3000\u8db3\u306f\u601d\u3046\u3088\u3046\u306b\u52d5\u304b\u306a\u3044\u3057\u3001\u9244\u683c\u5b50\u306f\u91cd\u305f\u3044\u3057\u3001\u30d7\u30c8\u30e9\u306f\u6cf3\u3050\u3057\u300d",
+    "Name": "ヴィヴィアン",
+    "Phrase": "「浸水してたせいで思ったより手こずっちゃったわね。\\n　足は思うように動かないし、鉄格子は重たいし、プトラは泳ぐし」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -90,38 +91,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 35201,
         "Position": 4,
         "Action": 0,
         "Emotion": 2,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30e8\u30b7\u30ce",
-    "Phrase": "\u300c\u304a\u304a\u304d\u3044\u4eba\u305f\u3061\u3001\u304a\u3064\u304b\u308c\u3055\u307e\u3067\u3059\u3002\\n\u3000\u30df\u30cb\u30de\u30e0\u30ba\u306f\u305d\u3046\u304d\u3085\u3046\u306b\u3042\u304d\u3089\u3081\u3066\u968e\u6bb5\u306b\u907f\u96e3\u3057\u3066\u3044\u305f\u306e\u3067\\n\u3000\u304a\u3057\u308a\u304b\u3089\u4e0a\u306f\u305d\u3093\u306a\u306b\u6fe1\u308c\u3066\u307e\u305b\u3093\u300d",
+    "Name": "ヨシノ",
+    "Phrase": "「おおきい人たち、おつかれさまです。\\n　ミニマムズはそうきゅうにあきらめて階段に避難していたので\\n　おしりから上はそんなに濡れてません」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -135,30 +136,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u79c1\u306f\u6fe1\u308c\u305f\u308f\u3088\uff01\\n\u3000\u3042\u3093\u305f\u306e\u304a\u3057\u308a\u3068\u3057\u3063\u307d\u306b\u5f3e\u304b\u308c\u3066\u8ee2\u3093\u3060\u304b\u3089\u306d\uff01\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「私は濡れたわよ！\\n　あんたのおしりとしっぽに弾かれて転んだからね！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -172,38 +173,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 3
-      },
-      {
+    },
+    {
         "MCharacterId": 24201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30e8\u30b7\u30ce",
-    "Phrase": "\u300c\u30e4\u30af\u305f\u3093\u306f\u3001\u663c\u591c\u3092\u3068\u308f\u305a\u30e8\u30b7\u30ce\u306e\u304a\u3057\u308a\u306e\u305d\u3070\u306b\u3044\u308b\u300d",
+    "Name": "ヨシノ",
+    "Phrase": "「ヤクたんは、昼夜をとわずヨシノのおしりのそばにいる」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -217,38 +218,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 24201,
         "Position": 4,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u554f\u984c\u306f\u3053\u306e\u5148\u3067\u3059\u306d\u3002\\n\u3000\u30a2\u30f3\u30ca\u3055\u3093\u306f\u30db\u30fc\u30eb\u306b\u306f\u51fa\u305a\u3053\u306e\u77f3\u5854\u306e\u4e00\u756a\u4e0a\u307e\u3067\u884c\u3063\u305f\u306e\u3067\u3057\u3087\u3046\u304b\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「問題はこの先ですね。\\n　アンナさんはホールには出ずこの石塔の一番上まで行ったのでしょうか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -262,30 +263,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u305d\u3046\u3060\u3068\u601d\u3044\u307e\u3059\u3002\\n\u3000\u5c0f\u90e8\u5c4b\u306e\u3042\u308b\u5225\u5854\u3068\u3044\u3046\u306e\u304c\u3059\u3050\u898b\u3064\u304b\u308c\u3070\u3088\u3044\u306e\u3067\u3059\u304c\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「そうだと思います。\\n　小部屋のある別塔というのがすぐ見つかればよいのですが」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -299,30 +300,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u3042\u3068\u306f\u5929\u5019\u3067\u3059\u306d\u3002\\n\u3000\u96e8\u304c\u964d\u3063\u3066\u3044\u308b\u306e\u306f\u4ed5\u65b9\u306a\u3044\u306b\u3057\u3066\u3082\u3001\\n\u3000\u300e\u591c\u300f\u306b\u306a\u3063\u3066\u3044\u305f\u3089\u90fd\u5408\u304c\u60aa\u3044\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「あとは天候ですね。\\n　雨が降っているのは仕方ないにしても、\\n　『夜』になっていたら都合が悪い」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -336,30 +337,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u3042\uff5e\u3089\u305d\u3046\uff1f\\n\u3000\u305d\u308c\u3058\u3083\u3042\u300e\u591c\u300f\u306b\u3057\u3066\u3042\u3052\u308b\u30a5\u300d",
+    "Name": "？？？",
+    "Phrase": "「あ～らそう？\\n　それじゃあ『夜』にしてあげるゥ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -373,30 +374,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u706f\u308a\u304c\uff01\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「灯りが！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -410,21 +411,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u4eca\u306e\u58f0\u306f\u2026\u2026\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「今の声は……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -438,21 +440,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\uff1f\uff1f\uff1f",
-    "Phrase": "\u300c\u3046\u3075\u3075\u2026\u2026\u3046\u3075\u3075\u3075\u3075\u30a5\u300d",
+    "Name": "？？？",
+    "Phrase": "「うふふ……うふふふふゥ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -466,21 +469,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u30cf\u30a1\uff5e\u30a2\uff5e\u30a4\u3002\\n\u3000\u304a\u4e45\u3057\u3076\u308a\u3001\u7279\u9244\u968a\u306e\u307f\u3093\u306a\u30a1\u3002\\n\u3000\u304b\u306a\u30fc\u308a\u5371\u306a\u3044\u30ab\u30ca\u30fc\u30ea\u30a2\u3088\u30a9\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「ハァ～ア～イ。\\n　お久しぶり、特鉄隊のみんなァ。\\n　かなーり危ないカナーリアよォ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -494,30 +498,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 5,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u30ab\u30ca\u30fc\u30ea\u30a2\uff01\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「カナーリア！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -531,38 +535,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 35201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3",
-    "Phrase": "\u300c\u3046\u305d\u3001\u3042\u306e\u3068\u304d\u72ed\u9593\u306e\u4e16\u754c\u306b\u9589\u3058\u8fbc\u3081\u3089\u308c\u305f\u306f\u305a\u3058\u3083\u2026\u2026\u300d",
+    "Name": "ヴィヴィアン",
+    "Phrase": "「うそ、あのとき狭間の世界に閉じ込められたはずじゃ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -576,38 +580,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 35201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u305d\u3093\u306a\u3053\u3068\u3082\u3042\u3063\u305f\u308f\u306d\u3047\u3002\\n\u3000\u3042\u306e\u30af\u30bd\u5973\u306e\u305b\u3044\u3067\u6b7b\u306c\u307b\u3069\u75db\u3044\u601d\u3044\u3092\u3057\u305f\u308f\u30a1\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「そんなこともあったわねぇ。\\n　あのクソ女のせいで死ぬほど痛い思いをしたわァ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -621,30 +625,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u6697\u95c7\u3068\u5171\u306b\u73fe\u308c\u305f\u306e\u306f\u30ab\u30ca\u30fc\u30ea\u30a2\u3002\\n\u30ec\u30b8\u30b9\u30bf\u30f3\u30b9\u306e\u30e1\u30f3\u30d0\u30fc\u3067\u3042\u308a\u3001\\n\u30af\u30a4\u30fc\u30f3\u30ed\u30fc\u30ba\u3084\u30ea\u30ab\u30eb\u30c9\u3068\u306f\u7570\u306a\u308b\u76ee\u7684\u3092\u6301\u3063\u305f\u5371\u967a\u4eba\u7269\u3060\u3002",
+    "Phrase": "暗闇と共に現れたのはカナーリア。\\nレジスタンスのメンバーであり、\\nクイーンローズやリカルドとは異なる目的を持った危険人物だ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -658,21 +662,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3044\u308d\u3044\u308d\u3068\u8a0a\u304d\u305f\u3044\u3053\u3068\u306f\u3042\u308b\u304c\u3001\\n\u4f55\u3088\u308a\u3082\u5148\u306b\u89e3\u6c7a\u3057\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u306e\u306f\\n\u30ab\u30ca\u30fc\u30ea\u30a2\u306b\u56da\u308f\u308c\u305f\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3\u3092\u52a9\u3051\u51fa\u3059\u3053\u3068\u3067\u3042\u308b\u3002",
+    "Phrase": "いろいろと訊きたいことはあるが、\\n何よりも先に解決しなければならないのは\\nカナーリアに囚われたパディントンを助け出すことである。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -686,21 +691,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3",
-    "Phrase": "\u300c\u306f\u308f\u308f\uff01\u3000\u4f55\u3092\u3059\u308b\u3093\u3067\u3059\u304b\uff01\\n\u3000\u79c1\u3092\u98df\u3079\u305f\u3063\u3066\u304a\u3044\u3057\u304f\u3042\u308a\u307e\u305b\u3093\u3088\uff01\u300d",
+    "Name": "パディントン",
+    "Phrase": "「はわわ！　何をするんですか！\\n　私を食べたっておいしくありませんよ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -714,38 +720,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u8cca\u3081\uff01\u3000\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3\u304a\u5b22\u3055\u307e\u3092\u653e\u3057\u306a\u3055\u3044\uff01\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「賊め！　パディントンお嬢さまを放しなさい！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -759,30 +765,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u3042\u3089\u3042\u3089\u3042\u3089\u3001\u52d5\u3044\u3061\u3083\u30c0\u30e1\u3088\u30a9\uff1f\\n\u3000\u9593\u9055\u3063\u3066\u30ca\u30a4\u30d5\u304c\u523a\u3055\u3063\u3061\u3083\u3046\u304b\u3082\u3057\u308c\u306a\u3044\u304b\u3089\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「あらあらあら、動いちゃダメよォ？\\n　間違ってナイフが刺さっちゃうかもしれないから」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -796,38 +802,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u76ee\u7684\u306f\u4f55\u3067\u3059\uff1f\\n\u3000\u3053\u306e\u57ce\u306b\u306f\u3042\u306a\u305f\u304c\u671b\u3080\u3088\u3046\u306a\u30aa\u30e2\u30c1\u30e3\u306f\u3042\u308a\u307e\u305b\u3093\u3088\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「目的は何です？\\n　この城にはあなたが望むようなオモチャはありませんよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -841,30 +847,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u3042\u308b\u308f\u3088\u3002\\n\u3000\u3053\u308c\u304b\u3089\u3042\u306a\u305f\u305f\u3061\u304c\u884c\u3053\u3046\u3068\u3057\u3066\u3044\u308b\u5834\u6240\u306b\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「あるわよ。\\n　これからあなたたちが行こうとしている場所に」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -878,38 +884,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u306a\u3093\u3067\u3059\u3063\u3066\uff1f\\n\u3000\u3053\u306e\u57ce\u306b\u53e4\u4ee3\u306e\u6a5f\u68b0\u90e8\u54c1\u3084\u5175\u5668\u304c\u7720\u3063\u3066\u3044\u308b\u3068\u3067\u3082\u8a00\u3046\u306e\u3067\u3059\u304b\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「なんですって？\\n　この城に古代の機械部品や兵器が眠っているとでも言うのですか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -923,30 +929,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u305d\u3046\u3044\u3046\u306e\u3082\u3042\u308c\u3070\u3088\u304b\u3063\u305f\u306e\u306d\u3047\u3002\\n\u3000\u6b8b\u5ff5\u306a\u304c\u3089\u79c1\u304c\u56de\u53ce\u3059\u308b\u306e\u306f\u30aa\u30e2\u30c1\u30e3\u3058\u3083\u306a\u304f\u3066\u4fbf\u5229\u306a\u9053\u5177\u3088\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「そういうのもあればよかったのねぇ。\\n　残念ながら私が回収するのはオモチャじゃなくて便利な道具よ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -960,38 +966,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u4fbf\u5229\u306a\u9053\u5177\uff1f\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「便利な道具？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1005,30 +1011,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u305d\u3046\u3002\u96e8\u3092\u964d\u3089\u305b\u308b\u9053\u5177\u3088\u3002\\n\u3000\u300e\u5de8\u5927\u6a39\u306e\u5b88\u308a\u4eba\u300f\u306e\u306a\u308a\u640d\u306a\u3044\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「そう。雨を降らせる道具よ。\\n　『巨大樹の守り人』のなり損ない」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1042,38 +1048,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u96e8\u3092\u964d\u3089\u305b\u308b\u9053\u5177\u3060\u3068\uff01\\n\u3000\u57ce\u4e3b\u306e\u5a18\u3092\u30e2\u30ce\u547c\u3070\u308f\u308a\u3059\u308b\u306e\u304b\uff01\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「雨を降らせる道具だと！\\n　城主の娘をモノ呼ばわりするのか！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1087,30 +1093,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6\u3055\u3093\u3001\u3053\u3053\u306f\u6291\u3048\u3066\u3002\\n\u3000\u4eba\u8cea\u3092\u53d6\u3089\u308c\u3066\u3044\u308b\u3093\u3067\u3059\u3088\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「ヴェルサイユさん、ここは抑えて。\\n　人質を取られているんですよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1124,38 +1130,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 2,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 110201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u2026\u2026\u7533\u3057\u8a33\u3042\u308a\u307e\u305b\u3093\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「……申し訳ありません」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1169,38 +1175,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 110201,
         "Position": 4,
         "Action": 0,
         "Emotion": 2,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u3042\u306a\u305f\u305f\u3061\u306f\u4f55\u3057\u306b\u30e1\u30c8\u30ed\u307e\u3067\u6765\u305f\u306e\uff1f\\n\u3000\u307e\u3055\u304b\u79c1\u3092\u8ffd\u3044\u304b\u3051\u3066\u304d\u305f\u3093\u3058\u3083\u306a\u3044\u3067\u3057\u3087\u3046\uff1f\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「あなたたちは何しにメトロまで来たの？\\n　まさか私を追いかけてきたんじゃないでしょう？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1214,38 +1220,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
-    "Name": "\u30e4\u30af\u30fc\u30c4\u30af",
-    "Phrase": "\u300c\u305d\u3093\u306a\u308f\u3051\u306a\u3044\u3067\u3057\u3087\u3002\\n\u3000\u5bdd\u8a00\u306f\u5bdd\u3066\u3044\u3044\u306a\u3055\u3044\u3088\u300d",
+    "Name": "ヤクーツク",
+    "Phrase": "「そんなわけないでしょ。\\n　寝言は寝ていいなさいよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1259,30 +1265,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 20201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u79c1\u305f\u3061\u306f\u300e\u5de8\u5927\u6a39\u306e\u5b88\u308a\u4eba\u300f\u3092\u63a2\u3057\u306b\u6765\u305f\u306e\u3067\u3059\u3002\\n\u3000\u6b8b\u308b\u56db\u4eba\u306e\u5b88\u308a\u4eba\u3082\u3001\u30ea\u30ab\u30eb\u30c9\u3055\u307e\u3068\u540c\u69d8\u306b\\n\u3000\u300e\u6bd2\u300f\u306b\u82e6\u3057\u3093\u3067\u3044\u308b\u304b\u3082\u3057\u308c\u307e\u305b\u3093\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「私たちは『巨大樹の守り人』を探しに来たのです。\\n　残る四人の守り人も、リカルドさまと同様に\\n　『毒』に苦しんでいるかもしれません」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1296,30 +1302,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u3082\u3057\u300e\u6bd2\u300f\u306b\u82e6\u3057\u3093\u3067\u3044\u305f\u3089\u3069\u3046\u3059\u308b\u306e\uff1f\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「もし『毒』に苦しんでいたらどうするの？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1333,38 +1339,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 36,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u89e3\u653e\u3057\u307e\u3059\u3002\u8eca\u638c\u3055\u307e\u306e\u304a\u529b\u3092\u501f\u308a\u3066\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「解放します。車掌さまのお力を借りて」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1378,30 +1384,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 37,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u306a\u308b\u307b\u3069\u306d\u3047\u3002\u76f8\u5909\u308f\u3089\u305a\u6b63\u7fa9\u611f\u306e\u5f37\u3044\u4eba\u305f\u3061\u3002\\n\u3000\u7729\u3057\u304f\u3066\u76ee\u304c\u3068\u3051\u3061\u3083\u3044\u305d\u3046\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「なるほどねぇ。相変わらず正義感の強い人たち。\\n　眩しくて目がとけちゃいそう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1415,38 +1421,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 38,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u3067\u3082\u6c17\u3092\u3064\u3051\u3066\uff1f\u3000\u300e\u5de8\u5927\u6a39\u306e\u5b88\u308a\u4eba\u300f\u3092\u6bba\u3057\u3066\u3057\u307e\u3063\u305f\u3089\u5927\u5909\u3088\uff1f\\n\u3000\u4e0d\u5b8c\u5168\u306a\u529b\u3092\u3082\u3064\u300e\u306a\u308a\u640d\u306a\u3044\u300f\u304c\u3069\u3093\u3069\u3093\u5897\u3048\u3066\u3044\u304f\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「でも気をつけて？　『巨大樹の守り人』を殺してしまったら大変よ？\\n　不完全な力をもつ『なり損ない』がどんどん増えていく」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1460,38 +1466,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 39,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u4e0d\u5b8c\u5168\u306a\u529b\u3092\u6301\u3064\u300e\u306a\u308a\u640d\u306a\u3044\u300f\u3068\u306f\u4f55\u3060\uff1f\\n\u795e\u5b50\u306e\u3053\u3068\u304b\uff1f\u3000\u305d\u308c\u3068\u3082\u30c8\u30ec\u30a4\u30f3\u30ca\u30a4\u30c8\u306e\u3053\u3068\u304b\uff1f",
+    "Phrase": "不完全な力を持つ『なり損ない』とは何だ？\\n神子のことか？　それともトレインナイトのことか？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1505,38 +1511,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 40,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u305d\u3093\u306a\u5927\u3057\u305f\u5b58\u5728\u3058\u3083\u306a\u3044\u308f\u3002\\n\u3000\u305f\u3060\u81ea\u5206\u3092\u4eba\u9593\u3060\u3068\u601d\u3063\u3066\u3044\u308b\u9b54\u7269\u306e\u3053\u3068\u3088\u3002\\n\u3000\u3053\u306e\u4e16\u754c\u3067\u306f\u306a\u3044\u5225\u306e\u4e16\u754c\u304b\u3089\u3084\u3063\u3066\u304d\u305f\u53ef\u611b\u3044\u30e2\u30f3\u30b9\u30bf\u30fc\u3002\\n\u3000\u5b88\u4eba\u306e\u4ee3\u308f\u308a\u306b\u5de8\u5927\u6a39\u3092\u5b88\u308d\u3046\u3068\u3057\u3066\u3044\u308b\u306e\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「そんな大した存在じゃないわ。\\n　ただ自分を人間だと思っている魔物のことよ。\\n　この世界ではない別の世界からやってきた可愛いモンスター。\\n　守人の代わりに巨大樹を守ろうとしているの」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1550,38 +1556,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 9,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 41,
     "ViewOrder": 1,
-    "Name": "\u30d7\u30c8\u30e9",
-    "Phrase": "\u300c\u5b88\u308a\u4eba\u306e\u4ee3\u308f\u308a\u306b\u5de8\u5927\u6a39\u3092\u5b88\u308d\u3046\u3068\u3057\u3066\u3044\u308b\u3063\u3066\uff1f\\n\u3000\u30bb\u30f3\u30c8\u30a4\u30ea\u30b9\u306e\u5de8\u5927\u6a39\u306f\u6d44\u5316\u3055\u308c\u305f\u3093\u3060\u3088\u306d\uff1f\u300d",
+    "Name": "プトラ",
+    "Phrase": "「守り人の代わりに巨大樹を守ろうとしているって？\\n　セントイリスの巨大樹は浄化されたんだよね？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1595,38 +1601,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 13201,
         "Position": 4,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 42,
     "ViewOrder": 1,
-    "Name": "\u30e8\u30b7\u30ce",
-    "Phrase": "\u300c\u30ea\u30ab\u30eb\u30c9\u304c\u3044\u306a\u304f\u306a\u3063\u305f\u304b\u3089\u300e\u514d\u75ab\u300f\u304c\u306a\u304f\u306a\u3063\u305f\u3001\\n\u3000\u3063\u3066\u52d8\u9055\u3044\u3057\u3061\u3083\u3046\u4eba\u304c\u3044\u308b\u3093\u3058\u3083\u306a\u3044\u304b\u306a\u300d",
+    "Name": "ヨシノ",
+    "Phrase": "「リカルドがいなくなったから『免疫』がなくなった、\\n　って勘違いしちゃう人がいるんじゃないかな」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1640,38 +1646,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 13201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 43,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u3082\u3057\u304b\u3057\u305f\u3089\u5de8\u5927\u6a39\u304c\u7121\u610f\u8b58\u306e\u3046\u3061\u306b\\n\u3000\u547c\u3073\u3088\u305b\u3066\u3044\u308b\u306e\u304b\u3082\u3057\u308c\u306a\u3044\u308f\u306d\u3002\\n\u3000\u3060\u304b\u3089\u4e16\u754c\u5404\u5730\u3067\u300e\u51fa\u6765\u640d\u306a\u3044\u300f\u304c\u5897\u3048\u3066\u3044\u308b\u306e\u304b\u3082\u3002\\n\u3000\u307b\u3089\u3001\u3088\u304f\u8a00\u3046\u3058\u3083\u306a\u3044\uff1f\u3000\u30af\u30b5\u3044\u3082\u306e\u306b\u306f\u30d5\u30bf\u3092\u3001\u3063\u3066\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「もしかしたら巨大樹が無意識のうちに\\n　呼びよせているのかもしれないわね。\\n　だから世界各地で『出来損ない』が増えているのかも。\\n　ほら、よく言うじゃない？　クサいものにはフタを、って」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1685,38 +1691,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 44,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u308c\u3060\u3068\u77db\u76fe\u3057\u3066\u3044\u308b\u305e\u3002\\n\u300e\u5de8\u5927\u6a39\u306e\u5b88\u308a\u4eba\u300f\u304c\u3044\u306a\u3044\u306e\u306f\u30bb\u30f3\u30c8\u30a4\u30ea\u30b9\u3060\u3051\u306e\u306f\u305a\u3060\u3002\\n\u4ed6\u306e\u56fd\u306e\u5b88\u4eba\u306f\u3069\u3053\u304b\u306b\u3044\u308b\u3093\u3060\u308d\u3046\uff1f",
+    "Phrase": "それだと矛盾しているぞ。\\n『巨大樹の守り人』がいないのはセントイリスだけのはずだ。\\n他の国の守人はどこかにいるんだろう？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1730,38 +1736,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 45,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u56db\u4eba\u306e\u5b88\u308a\u4eba\u306f\u751f\u304d\u3066\u308b\u308f\u3088\uff1f\\n\u3000\u3067\u3082\u3042\u306a\u305f\u305f\u3061\u306e\u305b\u3044\u3067\u3069\u3053\u304b\u306b\u9003\u3052\u3061\u3083\u3063\u305f\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「四人の守り人は生きてるわよ？\\n　でもあなたたちのせいでどこかに逃げちゃった」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1775,38 +1781,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 46,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u5f85\u3063\u3066\u304f\u3060\u3055\u3044\u3002\\n\u3000\u305d\u308c\u3058\u3083\u3042\u3001\u6b8b\u308b\u56db\u3064\u306e\u5de8\u5927\u6a39\u306f\u300e\u6bd2\u300f\u306b\u5bfe\u3057\u3066\\n\u3000\u7121\u9632\u5099\u306a\u72b6\u614b\u3068\u3044\u3046\u3053\u3068\u3067\u3059\u304b\uff1f\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「待ってください。\\n　それじゃあ、残る四つの巨大樹は『毒』に対して\\n　無防備な状態ということですか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1820,30 +1826,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 47,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u305d\u3046\u3044\u3046\u3053\u3068\u306b\u306a\u308b\u308f\u306d\u3002\\n\u3000\u30ea\u30ab\u30eb\u30c9\u307f\u305f\u3044\u306b\u30d0\u30ab\u306a\u5b88\u308a\u4eba\u3070\u304b\u308a\u3067\u306f\u306a\u3044\u3068\u3044\u3046\u3053\u3068\u3088\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「そういうことになるわね。\\n　リカルドみたいにバカな守り人ばかりではないということよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1857,38 +1863,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 9,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 48,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u3053\u306e\u57ce\u306b\u3044\u308b\u96e8\u964d\u3089\u3057\u306e\u59eb\u306f\u5f37\u3044\u529b\u3092\u6301\u3063\u3066\u3044\u308b\u3002\\n\u3000\u4e0d\u5b8c\u5168\u306a\u72b6\u614b\u3067\u300e\u6bd2\u300f\u3092\u4e00\u6ef4\u5782\u3089\u305b\u3070\u9762\u767d\u3044\u30e2\u30ce\u306b\u751f\u307e\u308c\u5909\u308f\u308b\u306f\u305a\u3088\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「この城にいる雨降らしの姫は強い力を持っている。\\n　不完全な状態で『毒』を一滴垂らせば面白いモノに生まれ変わるはずよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1902,38 +1908,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 49,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u3084\u306f\u308a\u72d9\u3044\u306f\u30a2\u30f3\u30ca\u306e\u3054\u4e3b\u4eba\u69d8\u306a\u306e\u3067\u3059\u306d\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「やはり狙いはアンナのご主人様なのですね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1947,30 +1953,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 50,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u30a2\u30f3\u30ca\uff1f\u3000\u96e8\u964d\u3089\u3057\u306e\u59eb\u304c\u53ef\u611b\u304c\u3063\u3066\u305f\u30c9\u30d6\u30cd\u30ba\u30df\u306e\u3053\u3068\uff1f\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「アンナ？　雨降らしの姫が可愛がってたドブネズミのこと？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1984,38 +1990,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 51,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u30c9\u30d6\u30cd\u30ba\u30df\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002\\n\u3000\u5f7c\u5973\u306f\u3053\u306e\u57ce\u3067\u50cd\u304f\u30e1\u30a4\u30c9\u3067\u3059\u3002\\n\u3000\u4e3b\u306b\u5c3d\u304f\u3057\u3001\u8ab0\u3088\u308a\u3082\u4e3b\u306b\u611b\u3055\u308c\u305f\u5b58\u5728\u300d\u3000",
+    "Name": "ヴィクトリア",
+    "Phrase": "「ドブネズミではありません。\\n　彼女はこの城で働くメイドです。\\n　主に尽くし、誰よりも主に愛された存在」　",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2029,30 +2035,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 52,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u3053\u306e\u57ce\u304c\u5e7b\u9727\u3068\u5171\u306b\u73fe\u308c\u305f\u3053\u3068\u306f\u77e5\u3063\u3066\u3044\u307e\u3059\u3002\\n\u3000\u30a2\u30f3\u30ca\u304c\u3053\u306e\u4e16\u306e\u8005\u3067\u306f\u306a\u3044\u3053\u3068\u3082\u3001\u96e8\u3092\u964d\u3089\u305b\u308b\u53ef\u54c0\u60f3\u306a\u304a\u5b22\u3055\u307e\u304c\\n\u3000\u3053\u306e\u5730\u306b\u4e0d\u5e78\u3092\u3082\u305f\u3089\u3059\u3068\u3044\u3046\u3053\u3068\u3082\u3067\u3059\u3002\\n\u3000\u79c1\u305f\u3061\u306f\u30a2\u30f3\u30ca\u306e\u4e3b\u3092\u8a0e\u305f\u306d\u3070\u306a\u3089\u306a\u3044\u3053\u3068\u3067\u3057\u3087\u3046\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「この城が幻霧と共に現れたことは知っています。\\n　アンナがこの世の者ではないことも、雨を降らせる可哀想なお嬢さまが\\n　この地に不幸をもたらすということもです。\\n　私たちはアンナの主を討たねばならないことでしょう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2066,30 +2072,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 53,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u3067\u3059\u304c\u3001\u3042\u306a\u305f\u306e\u3088\u3046\u306a\u60aa\u4eba\u306b\u4fae\u8fb1\u3055\u308c\u308b\u3088\u3046\u306a\u65b9\u3005\u3067\u306f\u3054\u3056\u3044\u307e\u305b\u3093\u3002\\n\u3000\u64a4\u56de\u3057\u3066\u304f\u3060\u3055\u3044\u3002\u30a2\u30f3\u30ca\u3092\u30c9\u30d6\u30cd\u30ba\u30df\u3068\u547c\u3093\u3060\u3053\u3068\u3092\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「ですが、あなたのような悪人に侮辱されるような方々ではございません。\\n　撤回してください。アンナをドブネズミと呼んだことを」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2103,30 +2109,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 54,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u3053\u3053\u306e\u57ce\u4e3b\u306f\u4eba\u9593\u76f8\u624b\u306b\u6226\u3092\u3057\u3066\u3044\u305f\u306e\u3088\u3002\\n\u3000\u79c1\u3088\u308a\u60aa\u4eba\u304b\u3082\u3057\u308c\u306a\u3044\u308f\u3088\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「ここの城主は人間相手に戦をしていたのよ。\\n　私より悪人かもしれないわよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2140,38 +2146,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 55,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u3053\u3053\u306e\u57ce\u306b\u4f4f\u3093\u3067\u3044\u305f\u4eba\u3005\u304c\u60aa\u4eba\u304b\u3069\u3046\u304b\u3092\u8a0a\u3044\u3066\u3044\u308b\u306e\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002\\n\u3000\u30a2\u30f3\u30ca\u3092\u4fae\u8fb1\u3057\u305f\u3053\u3068\u3092\u64a4\u56de\u3057\u308d\u3068\u8a00\u3063\u3066\u3044\u308b\u306e\u3067\u3059\uff01\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「ここの城に住んでいた人々が悪人かどうかを訊いているのではありません。\\n　アンナを侮辱したことを撤回しろと言っているのです！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2185,30 +2191,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 56,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3084\u3081\u308d\u30f4\u30a3\u30af\u30c8\u30ea\u30a2\u3002\\n\u76f8\u624b\u306f\u307e\u3068\u3082\u306a\u4eba\u9593\u3058\u3083\u306a\u3044\u3002\\n\u3053\u308c\u4ee5\u4e0a\u523a\u6fc0\u3059\u308b\u306e\u306f\u5f97\u7b56\u3067\u306f\u306a\u3044\u305e\u3002",
+    "Phrase": "やめろヴィクトリア。\\n相手はまともな人間じゃない。\\nこれ以上刺激するのは得策ではないぞ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2222,30 +2228,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 57,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u305d\u3046\u3088\uff1f\u3000\u3042\u3093\u307e\u308a\u5927\u58f0\u51fa\u3059\u3068\u624b\u5143\u304c\u72c2\u3063\u3066\u3057\u307e\u3046\u308f\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「そうよ？　あんまり大声出すと手元が狂ってしまうわ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2259,38 +2265,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 58,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u8981\u6c42\u306f\u4f55\u3067\u3059\u304b\uff1f\\n\u3000\u671b\u307f\u304c\u306a\u3051\u308c\u3070\u4eba\u8cea\u306a\u3069\u3068\u3089\u306a\u3044\u306f\u305a\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「要求は何ですか？\\n　望みがなければ人質などとらないはず」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2304,30 +2310,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 59,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u3042\u306a\u305f\u3001\u30ab\u30ae\u3092\u6301\u3063\u3066\u308b\u3067\u3057\u3087\u3046\uff1f\\n\u3000\u305d\u308c\u3092\u79c1\u306b\u3061\u3087\u3046\u3060\u3044\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「あなた、カギを持ってるでしょう？\\n　それを私にちょうだい」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2341,38 +2347,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 60,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u2026\u2026\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2386,30 +2392,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 61,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u96a0\u3057\u3066\u3082\u7121\u99c4\u3088\u3002\\n\u3000\u9996\u304b\u3089\u63d0\u3052\u3066\u3044\u308b\u308f\u306d\u3002\\n\u3000\u79c1\u306b\u306f\u898b\u3048\u308b\u306e\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「隠しても無駄よ。\\n　首から提げているわね。\\n　私には見えるの」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2423,38 +2429,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 62,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u2026\u2026\u4ed5\u65b9\u3042\u308a\u307e\u305b\u3093\u3002\\n\u3000\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3\u304a\u5b22\u3055\u307e\u306e\u547d\u306b\u306f\u4ee3\u3048\u3089\u308c\u307e\u305b\u3093\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「……仕方ありません。\\n　パディントンお嬢さまの命には代えられません」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2468,30 +2474,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 63,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u3058\u3083\u3042\u3068\u3063\u3068\u3068\u305d\u306e\u9375\u675f\u3092\u3061\u3087\u3046\u3060\u3044\uff1f\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「じゃあとっととその鍵束をちょうだい？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2505,38 +2511,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 64,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3\u304a\u5b22\u3055\u307e\u306e\u89e3\u653e\u304c\u5148\u3067\u3059\u3002\\n\u3000\u9375\u675f\u306f\u5fc5\u305a\u304a\u6e21\u3057\u3057\u307e\u3059\u3002\\n\u3000\u3067\u3059\u304b\u3089\u307e\u305a\u6b66\u5668\u3092\u4e0b\u308d\u3057\u3066\u3001\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3\u304a\u5b22\u3055\u307e\u3092\u3053\u3061\u3089\u306b\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「パディントンお嬢さまの解放が先です。\\n　鍵束は必ずお渡しします。\\n　ですからまず武器を下ろして、パディントンお嬢さまをこちらに」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2550,30 +2556,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 65,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u3044\u3044\u308f\u3088\u3002\u3067\u3082\u3001\u5618\u3060\u3063\u305f\u3089\u672c\u5f53\u306b\u6bba\u3059\u304b\u3089\u306d\uff1f\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「いいわよ。でも、嘘だったら本当に殺すからね？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2587,30 +2593,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 66,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u30d1\u30c7\u30a3\uff01\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「パディ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2624,30 +2630,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 0,
         "Position": 3,
         "Action": 7,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 67,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3",
-    "Phrase": "\u300c\u306f\u308f\u308f\uff01\u3000\u30f4\u30a3\u30af\u30c8\u30ea\u30a2\uff5e\uff01\u300d",
+    "Name": "パディントン",
+    "Phrase": "「はわわ！　ヴィクトリア～！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2661,38 +2667,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 3
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 8,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 68,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u3082\u3046\u5927\u4e08\u592b\u3002\\n\u3000\u7d76\u5bfe\u306b\u96e2\u3055\u306a\u3044\u308f\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「もう大丈夫。\\n　絶対に離さないわ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2706,38 +2712,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 0,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 69,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u307b\u3089\u3001\u65e9\u304f\u9375\u675f\u3092\u3088\u3053\u3057\u306a\u3055\u3044\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「ほら、早く鍵束をよこしなさい」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2751,30 +2757,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 70,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u308f\u304b\u3063\u3066\u3044\u307e\u3059\u3002\\n\u3000\u7d04\u675f\u306f\u5b88\u308a\u307e\u3059\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「わかっています。\\n　約束は守ります」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2788,30 +2794,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 71,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30d1\u30c7\u30a3\u30f3\u30c8\u30f3\u306e\u7121\u4e8b\u3092\u78ba\u8a8d\u3057\u305f\u30f4\u30a3\u30af\u30c8\u30ea\u30a2\u306f\\n\u9996\u304b\u3089\u63d0\u3052\u3066\u3044\u305f\u3042\u306e\u9375\u675f\u3092\u5916\u3057\u3001\u30ab\u30ca\u30fc\u30ea\u30a2\u306b\u5411\u304b\u3063\u3066\u6295\u3052\u305f\u3002",
+    "Phrase": "パディントンの無事を確認したヴィクトリアは\\n首から提げていたあの鍵束を外し、カナーリアに向かって投げた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2825,21 +2831,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 72,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3060\u304c\u3001\u7686\u3082\u6c17\u3065\u3044\u3066\u3044\u308b\u306f\u305a\u3060\u3002",
+    "Phrase": "だが、皆も気づいているはずだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2853,21 +2860,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 73,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3042\u306e\u9375\u675f\u306f\u5730\u4e0b\u7262\u3092\u958b\u3051\u308b\u30ab\u30ae\u3060\u3002\\n\u30ab\u30ca\u30fc\u30ea\u30a2\u304c\u958b\u3051\u3088\u3046\u3068\u3057\u3066\u3044\u308b\u5854\u306e\u30ab\u30ae\u3067\u306f\u306a\u3044\u3002",
+    "Phrase": "あの鍵束は地下牢を開けるカギだ。\\nカナーリアが開けようとしている塔のカギではない。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2881,21 +2889,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 74,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u756a\u53f7\u304c\u3064\u3044\u3066\u3044\u308b\u308f\u306d\u3002\\n\u3000\u4f55\u756a\u306e\u30ab\u30ae\u3092\u4f7f\u3048\u3070\u5854\u306e\u5c0f\u90e8\u5c4b\u3092\u958b\u3051\u3089\u308c\u308b\u306e\uff1f\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「番号がついているわね。\\n　何番のカギを使えば塔の小部屋を開けられるの？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2909,30 +2918,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 75,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u4e00\u3064\u306e\u30ab\u30ae\u3060\u3051\u3067\u306f\u958b\u304d\u307e\u305b\u3093\u3002\\n\u3000\u5854\u306e\u6249\u306b\u306f\u7279\u6b8a\u306a\u4ed5\u639b\u3051\u304c\u3042\u3063\u3066\u3001\\n\u3000\u8907\u6570\u306e\u30ab\u30ae\u3092\u7d44\u307f\u5408\u308f\u305b\u3066\u958b\u3051\u308b\u306e\u3060\u3068\u30a2\u30f3\u30ca\u304c\u8a00\u3063\u3066\u3044\u307e\u3057\u305f\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「一つのカギだけでは開きません。\\n　塔の扉には特殊な仕掛けがあって、\\n　複数のカギを組み合わせて開けるのだとアンナが言っていました」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2946,30 +2955,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 76,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u30f4\u30a3\u30af\u30c8\u30ea\u30a2\u3055\u3093\u3001\u305d\u308c\u3063\u3066\u2026\u2026\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「ヴィクトリアさん、それって……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2983,30 +2992,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 77,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u3044\u3044\u306e\u3067\u3059\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6\u3055\u3093\u3002\\n\u3000\u3053\u3053\u306f\u7121\u8336\u3092\u3059\u308b\u3068\u3053\u308d\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「いいのですヴェルサイユさん。\\n　ここは無茶をするところではありません」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3020,30 +3029,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 78,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\uff08\u308f\u304b\u3063\u3066\u3044\u307e\u3059\u3002\u3053\u3053\u306f\u79c1\u306b\u4efb\u305b\u3066\uff09",
+    "Name": "ヴィクトリア",
+    "Phrase": "（わかっています。ここは私に任せて）",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3057,30 +3066,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 79,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u2026\u2026\u308f\u304b\u308a\u307e\u3057\u305f\u3002\\n\u3000\u305d\u306e\u3088\u3046\u306b\u3059\u308b\u306e\u304c\u4e00\u756a\u3067\u3059\u306d\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「……わかりました。\\n　そのようにするのが一番ですね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3094,30 +3103,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 80,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u3054\u7406\u89e3\u3044\u305f\u3060\u3044\u3066\u4f55\u3088\u308a\u3067\u3059\u3002\\n\u3000\u30ab\u30ca\u30fc\u30ea\u30a2\u306f\u79c1\u304c\u5168\u529b\u3067\u304b\u304b\u3063\u3066\u3082\u82e6\u6226\u3059\u308b\u307b\u3069\u306e\u5f37\u6575\u3002\\n\u3000\u4ee5\u524d\u4f1a\u3063\u305f\u3068\u304d\u3088\u308a\u3082\u529b\u3092\u3064\u3051\u3066\u3044\u308b\u3088\u3046\u306a\u306e\u3067\\n\u3000\u3053\u306e\u3088\u3046\u306a\u60aa\u6761\u4ef6\u4e0b\u3067\u6226\u3046\u3053\u3068\u306f\u907f\u3051\u305f\u3044\u306e\u3067\u3059\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「ご理解いただいて何よりです。\\n　カナーリアは私が全力でかかっても苦戦するほどの強敵。\\n　以前会ったときよりも力をつけているようなので\\n　このような悪条件下で戦うことは避けたいのです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3131,30 +3140,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 81,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u305d\u308c\u3067\uff1f\u3000\u30ab\u30ae\u306e\u958b\u3051\u65b9\u306f\uff1f\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「それで？　カギの開け方は？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3168,30 +3177,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 82,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u30ab\u30ae\u306b\u306f\u756a\u53f7\u304c\u304b\u304b\u308c\u3066\u3044\u307e\u3059\u3002\\n\u3000\u5947\u6570\u306e\u30ab\u30ae\u3092\u4e09\u3064\u9023\u7d9a\u3067\u9375\u7a74\u306b\u901a\u3059\u3053\u3068\u3067\u89e3\u9320\u3055\u308c\u308b\u305d\u3046\u3067\u3059\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「カギには番号がかかれています。\\n　奇数のカギを三つ連続で鍵穴に通すことで解錠されるそうです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3205,30 +3214,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 83,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u9762\u767d\u3044\u3051\u3069\u6025\u3044\u3067\u3044\u308b\u3068\u304d\u306b\u306f\u4f7f\u3044\u305f\u304f\u306a\u3044\u30ab\u30ae\u306d\u3002\\n\u3000\u5947\u6570\u3063\u3066\u3044\u3063\u3066\u3082\u305f\u304f\u3055\u3093\u3042\u308b\u3051\u3069\uff1f\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「面白いけど急いでいるときには使いたくないカギね。\\n　奇数っていってもたくさんあるけど？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3242,30 +3251,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 84,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u66dc\u65e5\u306b\u3088\u3063\u3066\u6700\u521d\u306e\u6570\u5b57\u3092\u5909\u3048\u3066\u3044\u305f\u305d\u3046\u3067\u3059\u3088\u3002\\n\u3000\u4eca\u65e5\u304c\u3069\u306e\u6570\u5b57\u304b\u3089\u59cb\u307e\u308b\u65e5\u306a\u306e\u304b\u307e\u3067\u306f\u308f\u304b\u308a\u307e\u305b\u3093\u3002\\n\u3000\u5b9f\u969b\u306b\u9375\u7a74\u306b\u3055\u3057\u3066\u8a66\u3057\u3066\u307f\u308b\u3057\u304b\u306a\u3044\u3067\u3057\u3087\u3046\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「曜日によって最初の数字を変えていたそうですよ。\\n　今日がどの数字から始まる日なのかまではわかりません。\\n　実際に鍵穴にさして試してみるしかないでしょう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3279,30 +3288,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 85,
     "ViewOrder": 1,
-    "Name": "\u30ab\u30ca\u30fc\u30ea\u30a2",
-    "Phrase": "\u300c\u30c1\u30c3\u3001\u3081\u3093\u3069\u304f\u3055\u3044\u308f\u306d\u3047\u3002\\n\u3000\u307e\u3042\u3044\u3044\u308f\u3002\u3042\u306a\u305f\u305f\u3061\u306f\u3053\u3053\u3067\u4ef2\u826f\u304f\u6c34\u904a\u3073\u3067\u3082\u3057\u3066\u306a\u3055\u3044\u300d",
+    "Name": "カナーリア",
+    "Phrase": "「チッ、めんどくさいわねぇ。\\n　まあいいわ。あなたたちはここで仲良く水遊びでもしてなさい」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3316,30 +3325,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 11,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 86,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u81ea\u529b\u3067\u30e1\u30c8\u30ed\u30db\u30fc\u30eb\u3092\u51fa\u73fe\u3055\u305b\u305f\uff01\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「自力でメトロホールを出現させた！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3353,30 +3362,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 87,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u3042\u308c\u304c\u30b2\u30fc\u30c8\u3067\u3059\u3002\\n\u3000\u30e1\u30a2\u30ea\u30fc\u304c\u4f7f\u3046\u3068\u3044\u3046\u8ee2\u9001\u9b54\u6cd5\u306e\u3088\u3046\u306a\u3082\u306e\u3067\u3059\u3088\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「あれがゲートです。\\n　メアリーが使うという転送魔法のようなものですよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3390,30 +3399,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 88,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u306a\u3093\u3066\u304a\u305d\u308d\u3057\u3044\u9b54\u6cd5\u306a\u306e\u3067\u3057\u3087\u3046\u3002\\n\u3000\u898b\u305f\u76ee\u306f\u30e1\u30c8\u30ed\u30db\u30fc\u30eb\u306b\u4f3c\u3066\u3044\u307e\u3059\u304c\u3001\\n\u3000\u3042\u306e\u9ed2\u3044\u6249\u304b\u3089\u611f\u3058\u308b\u529b\u306f\u307e\u308b\u3067\u9055\u3046\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「なんておそろしい魔法なのでしょう。\\n　見た目はメトロホールに似ていますが、\\n　あの黒い扉から感じる力はまるで違う」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3427,30 +3436,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 89,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30ab\u30ca\u30fc\u30ea\u30a2\u306f\u30b2\u30fc\u30c8\u3092\u4f7f\u3063\u3066\u3053\u306e\u5834\u3092\u53bb\u3063\u305f\u3002\\n\u30f4\u30a3\u30af\u30c8\u30ea\u30a2\u306e\u6a5f\u8ee2\u306b\u3088\u3063\u3066\u3057\u3070\u3089\u304f\u6642\u9593\u3092\u7a3c\u3050\u3053\u3068\u304c\u3067\u304d\u308b\u3067\u3042\u308d\u3046\u3002",
+    "Phrase": "カナーリアはゲートを使ってこの場を去った。\\nヴィクトリアの機転によってしばらく時間を稼ぐことができるであろう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3464,21 +3473,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 90,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3060\u304c\u3001\u307e\u3060\u5b89\u5fc3\u306f\u3067\u304d\u306a\u3044\u3002\\n\u6211\u3005\u306f\u2026\u2026\u3053\u3053\u304b\u3089\u8131\u51fa\u3059\u308b\u65b9\u6cd5\u3092\u8003\u3048\u306a\u3051\u308c\u3070\u3002",
+    "Phrase": "だが、まだ安心はできない。\\n我々は……ここから脱出する方法を考えなければ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3492,21 +3502,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 91,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3",
-    "Phrase": "\u300c\u6249\u304c\u958b\u304b\u306a\u3044\u3002\\n\u3000\u9b54\u529b\u3067\u5c01\u3058\u3089\u308c\u3066\u3044\u308b\u308f\u300d",
+    "Name": "ヴィヴィアン",
+    "Phrase": "「扉が開かない。\\n　魔力で封じられているわ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3520,38 +3531,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 35201,
         "Position": 4,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 92,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u30ab\u30ca\u30fc\u30ea\u30a2\u306e\u4ed5\u696d\u3067\u3059\u3002\\n\u3000\u53bb\u308a\u969b\u306b\u4f55\u304b\u4ed5\u639b\u3051\u3066\u3044\u304d\u307e\u3057\u305f\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「カナーリアの仕業です。\\n　去り際に何か仕掛けていきました」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3565,38 +3576,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 35201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 93,
     "ViewOrder": 1,
-    "Name": "\u30d7\u30c8\u30e9",
-    "Phrase": "\u300c\u3082\u3057\u304b\u3057\u3066\u3060\u3051\u3069\u3001\\n\u3000\u30db\u30fc\u30eb\u306b\u623b\u308b\u5927\u6249\u3082\u3075\u3055\u304c\u308c\u3066\u3044\u308b\u306a\u3093\u3066\u3053\u3068\u306f\u306a\u3044\u3088\u306d\uff1f\u300d",
+    "Name": "プトラ",
+    "Phrase": "「もしかしてだけど、\\n　ホールに戻る大扉もふさがれているなんてことはないよね？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3610,30 +3621,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 13201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 94,
     "ViewOrder": 1,
-    "Name": "\u30e8\u30b7\u30ce",
-    "Phrase": "\u300c\u30ab\u30ca\u30fc\u30ea\u30a2\u306f\u306a\u304b\u3088\u304f\u6c34\u904a\u3073\u3057\u3066\u306a\u3055\u3044\u3063\u3066\u8a00\u3063\u3066\u305f\u300d",
+    "Name": "ヨシノ",
+    "Phrase": "「カナーリアはなかよく水遊びしてなさいって言ってた」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3647,38 +3658,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 13201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 95,
     "ViewOrder": 1,
-    "Name": "\u30d7\u30c8\u30e9",
-    "Phrase": "\u300c\u3046\u3093\u3001\u6c34\u904a\u3073\u306f\u597d\u304d\u3060\u3088\uff1f\\n\u3000\u3067\u3082\u3082\u3046\u3061\u3087\u3063\u3068\u308f\u304b\u308a\u3084\u3059\u304f\u8a00\u3063\u3066\u304f\u308c\u308b\u3068\u304a\u59c9\u3055\u3093\u5b09\u3057\u3044\u306a\u300d",
+    "Name": "プトラ",
+    "Phrase": "「うん、水遊びは好きだよ？\\n　でももうちょっとわかりやすく言ってくれるとお姉さん嬉しいな」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3692,38 +3703,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 13201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 96,
     "ViewOrder": 1,
-    "Name": "\u30e8\u30b7\u30ce",
-    "Phrase": "\u300c\u305d\u308c\u3058\u3083\u3042\u3001\u3082\u3063\u3068\u308f\u304b\u308a\u3084\u3059\u304f\u8a00\u3063\u3066\u307f\u307e\u3059\u300d",
+    "Name": "ヨシノ",
+    "Phrase": "「それじゃあ、もっとわかりやすく言ってみます」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3737,38 +3748,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 13201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 97,
     "ViewOrder": 1,
-    "Name": "\u30e8\u30b7\u30ce",
-    "Phrase": "\u300c\u30e8\u30b7\u30ce\u305f\u3061\u3092\u6c88\u3081\u308b\u6c17\u306a\u306e\u3067\u306f\uff1f\u300d",
+    "Name": "ヨシノ",
+    "Phrase": "「ヨシノたちを沈める気なのでは？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3782,38 +3793,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 13201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 98,
     "ViewOrder": 1,
-    "Name": "\u30d7\u30c8\u30e9",
-    "Phrase": "\u300c\u3067\u3059\u3088\u306d\uff5e\u300d",
+    "Name": "プトラ",
+    "Phrase": "「ですよね～」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3827,38 +3838,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 13201,
         "Position": 4,
         "Action": 3,
         "Emotion": 2,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 99,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3",
-    "Phrase": "\u300c\u305d\u3093\u306a\u306e\u3093\u304d\u306a\u3053\u3068\u8a00\u3063\u3066\u308b\u5834\u5408\uff01\uff1f\\n\u3000\u6025\u3044\u3067\u3042\u306e\u5927\u6249\u3092\u78ba\u8a8d\u3057\u306b\u623b\u3089\u306a\u3044\u3068\u300d",
+    "Name": "ヴィヴィアン",
+    "Phrase": "「そんなのんきなこと言ってる場合！？\\n　急いであの大扉を確認しに戻らないと」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3872,30 +3883,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 35201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 100,
     "ViewOrder": 1,
-    "Name": "\u30d7\u30c8\u30e9",
-    "Phrase": "\u300c\u3044\u3044\u3051\u3069\u3001\u305f\u3076\u3093\u305d\u308c\u304c\u3067\u304d\u308b\u306e\u306f\u3042\u305f\u3057\u3057\u304b\u3044\u306a\u3044\u304b\u306a\u300d",
+    "Name": "プトラ",
+    "Phrase": "「いいけど、たぶんそれができるのはあたししかいないかな」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3909,38 +3920,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 13201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 35201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 101,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3",
-    "Phrase": "\u300c\u3069\u3046\u3057\u3066\u3088\uff1f\u300d",
+    "Name": "ヴィヴィアン",
+    "Phrase": "「どうしてよ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3954,38 +3965,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 13201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 35201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 102,
     "ViewOrder": 1,
-    "Name": "\u30d7\u30c8\u30e9",
-    "Phrase": "\u300c\u6c34\u304c\u3059\u3050\u305d\u3053\u307e\u3067\u6765\u3066\u308b\u304b\u3089\u300d",
+    "Name": "プトラ",
+    "Phrase": "「水がすぐそこまで来てるから」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3999,38 +4010,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 13201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 35201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 103,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3",
-    "Phrase": "\u300c\u2026\u2026\u300d",
+    "Name": "ヴィヴィアン",
+    "Phrase": "「……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -4044,38 +4055,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 13201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 35201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 104,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30d7\u30c8\u30e9\u306e\u8a00\u3046\u901a\u308a\u3067\u3042\u308b\u3002\\n\u3053\u306e\u77f3\u5854\u306f\u3059\u3067\u306b\u5927\u534a\u304c\u6c34\u6ca1\u3057\u3066\u3044\u308b\u3002\\n\u5730\u4e0b\u7262\u306e\u6d78\u6c34\u306f\u96e8\u306e\u305b\u3044\u3067\u306f\u306a\u304f\u3001\u3053\u306e\u57ce\u306b\u639b\u3051\u3089\u308c\u305f\u546a\u3044\u3060\u3063\u305f\u306e\u3060\u3002",
+    "Phrase": "プトラの言う通りである。\\nこの石塔はすでに大半が水没している。\\n地下牢の浸水は雨のせいではなく、この城に掛けられた呪いだったのだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -4089,21 +4100,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 105,
     "ViewOrder": 1,
-    "Name": "\u30d7\u30c8\u30e9",
-    "Phrase": "\u300c\u3042\u305f\u3057\u306f\u6f5c\u308c\u308b\u3088\u3002\\n\u3000\u884c\u3063\u3066\u623b\u3063\u3066\u6765\u308b\u306e\u3082\u305f\u3076\u3093\u5927\u4e08\u592b\u3002\\n\u3000\u3067\u3082\u3001\u4f5c\u696d\u3092\u3059\u308b\u306e\u306f\u3061\u3087\u3063\u3068\u53b3\u3057\u3044\u304b\u306a\u3002\\n\u3000\u3042\u306e\u5927\u6249\u304c\u9589\u307e\u3063\u3066\u3044\u305f\u3089\u3069\u306e\u307f\u3061\u30c0\u30e1\u3060\u3088\u300d",
+    "Name": "プトラ",
+    "Phrase": "「あたしは潜れるよ。\\n　行って戻って来るのもたぶん大丈夫。\\n　でも、作業をするのはちょっと厳しいかな。\\n　あの大扉が閉まっていたらどのみちダメだよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -4117,30 +4129,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 13201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 106,
     "ViewOrder": 1,
-    "Name": "\u30e8\u30b7\u30ce",
-    "Phrase": "\u300c\u3044\u304b\u306a\u3044\u307b\u3046\u304c\u3044\u3044\u3088\u3002\\n\u3000\u884c\u3063\u3066\u623b\u3063\u3066\u304f\u308b\u3060\u3051\u3068\u306f\u9650\u3089\u306a\u3044\u3057\u3001\\n\u3000\u30db\u30fc\u30eb\u306b\u51fa\u3089\u308c\u3066\u3082\u7384\u95a2\u304c\u3075\u3055\u304c\u3063\u3066\u3044\u305f\u3089\u3082\u3046\u304a\u624b\u4e0a\u3052\u306b\u306a\u308b\u300d",
+    "Name": "ヨシノ",
+    "Phrase": "「いかないほうがいいよ。\\n　行って戻ってくるだけとは限らないし、\\n　ホールに出られても玄関がふさがっていたらもうお手上げになる」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -4154,30 +4166,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 24201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 107,
     "ViewOrder": 1,
-    "Name": "\u30d7\u30c8\u30e9",
-    "Phrase": "\u300c\u305d\u3046\u3060\u3088\u306d\u3002\\n\u3000\u30db\u30fc\u30eb\u3082\u6c34\u6ca1\u3057\u3066\u308b\u3063\u3066\u8003\u3048\u306a\u3044\u3068\u2026\u2026\u300d",
+    "Name": "プトラ",
+    "Phrase": "「そうだよね。\\n　ホールも水没してるって考えないと……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -4191,30 +4203,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 13201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 108,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3",
-    "Phrase": "\u300c\u9b54\u6cd5\u3067\u58c1\u3092\u58ca\u3057\u307e\u3057\u3087\u3046\u3002\\n\u3000\u6249\u3092\u958b\u3051\u308b\u3053\u3068\u306f\u3067\u304d\u306a\u304f\u3066\u3082\u5854\u3092\u58ca\u3059\u3053\u3068\u306f\u3067\u304d\u308b\u3093\u3058\u3083\u306a\u3044\uff1f\u300d",
+    "Name": "ヴィヴィアン",
+    "Phrase": "「魔法で壁を壊しましょう。\\n　扉を開けることはできなくても塔を壊すことはできるんじゃない？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -4228,30 +4240,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 35201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 109,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2015\u2015\u305d\u306e\u5fc5\u8981\u306f\u3042\u308a\u307e\u305b\u3093\u3002\u6249\u306e\u30ab\u30ae\u306f\u958b\u3051\u307e\u3057\u305f\u3002",
+    "Phrase": "――その必要はありません。扉のカギは開けました。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -4265,30 +4277,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 35201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 110,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30f4\u30a3\u30a2\u30f3",
-    "Phrase": "\u300c\u306a\u306b\u2026\u2026\u4eca\u306e\u58f0\uff1f\u300d",
+    "Name": "ヴィヴィアン",
+    "Phrase": "「なに……今の声？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -4302,30 +4314,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 35201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 111,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u30a2\u30f3\u30ca\u306e\u58f0\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u306d\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「アンナの声ではありませんね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -4339,30 +4351,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 112,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2015\u2015\u79c1\u305f\u3061\u306f\u30a2\u30f3\u30ca\u3092\u9577\u5e74\u898b\u5b88\u3063\u3066\u304d\u305f\u8005\u3067\u3059\u3002\\n\u2015\u2015\u3069\u3046\u304b\u3042\u306e\u4e8c\u4eba\u3092\u52a9\u3051\u3066\u3084\u3063\u3066\u304f\u3060\u3055\u3044\u3002\\n\u2015\u2015\u304a\u5b22\u3055\u307e\u304c\u3042\u306e\u9b54\u7269\u306b\u3055\u3089\u308f\u308c\u308b\u524d\u306b\u3001\u3069\u3046\u304b\uff01",
+    "Phrase": "――私たちはアンナを長年見守ってきた者です。\\n――どうかあの二人を助けてやってください。\\n――お嬢さまがあの魔物にさらわれる前に、どうか！",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -4376,21 +4388,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 113,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u3069\u306a\u305f\u304b\u306f\u5b58\u3058\u307e\u305b\u3093\u304c\u3001\u611f\u8b1d\u3044\u305f\u3057\u307e\u3059\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「どなたかは存じませんが、感謝いたします」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -4404,30 +4417,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 114,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2\u306f\u8ff7\u3044\u306a\u304f\u6249\u306b\u624b\u3092\u304b\u3051\u308b\u3002\\n\u9053\u5177\u3082\u4f7f\u308f\u305a\u3001\u8db3\u3082\u4f7f\u308f\u305a\u3001\u6249\u306e\u53d6\u3063\u624b\u3092\u63b4\u3093\u3067\u3086\u3063\u304f\u308a\u3068\u62bc\u3057\u958b\u3051\u308b\u3002",
+    "Phrase": "ヴィクトリアは迷いなく扉に手をかける。\\n道具も使わず、足も使わず、扉の取っ手を掴んでゆっくりと押し開ける。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -4441,30 +4454,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 115,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u958b\u3044\u305f\uff01\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「開いた！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -4478,30 +4491,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 116,
     "ViewOrder": 1,
-    "Name": "\u30af\u30a4\u30f3\u30ba\u30a6\u30a7\u30a4",
-    "Phrase": "\u300c\u3053\u308c\u3067\u9000\u8def\u306f\u78ba\u4fdd\u3067\u304d\u307e\u3057\u305f\u306d\u300d",
+    "Name": "クインズウェイ",
+    "Phrase": "「これで退路は確保できましたね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -4515,30 +4528,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 10201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 117,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u3044\u3044\u3048\u3001\u307e\u3060\u3067\u3059\u3002\\n\u3000\u307e\u3060\u30a2\u30f3\u30ca\u3068\u304a\u5b22\u3055\u307e\u3092\u6551\u3063\u3066\u3044\u306a\u3044\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「いいえ、まだです。\\n　まだアンナとお嬢さまを救っていない」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -4552,30 +4565,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 118,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a7\u30eb\u30b5\u30a4\u30e6",
-    "Phrase": "\u300c\u30f4\u30a3\u30af\u30c8\u30ea\u30a2\u3055\u3093\u2026\u2026\u300d",
+    "Name": "ヴェルサイユ",
+    "Phrase": "「ヴィクトリアさん……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -4589,30 +4602,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 110201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 119,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u5411\u3053\u3046\u306e\u898b\u3048\u308b\u306e\u304c\u5225\u5854\u3067\u3059\u3002\\n\u3000\u30ab\u30ca\u30fc\u30ea\u30a2\u306e\u59ff\u306f\u306a\u3044\u3002\\n\u3000\u884c\u304f\u306a\u3089\u4eca\u3057\u304b\u3042\u308a\u307e\u305b\u3093\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「向こうの見えるのが別塔です。\\n　カナーリアの姿はない。\\n　行くなら今しかありません」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -4626,30 +4639,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 120,
     "ViewOrder": 1,
-    "Name": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2",
-    "Phrase": "\u300c\u3042\u306e\u4e8c\u4eba\u3092\u6551\u308f\u306a\u3051\u308c\u3070\u3053\u3053\u306f\u6c34\u5e95\u306b\u6c88\u3080\u3002\\n\u3000\u884c\u304d\u307e\u3057\u3087\u3046\u3002\u79c1\u305f\u3061\u306a\u3089\u304d\u3063\u3068\u6249\u3092\u958b\u3051\u3089\u308c\u307e\u3059\u300d",
+    "Name": "ヴィクトリア",
+    "Phrase": "「あの二人を救わなければここは水底に沈む。\\n　行きましょう。私たちならきっと扉を開けられます」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -4663,30 +4676,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 52201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 121,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30f4\u30a3\u30af\u30c8\u30ea\u30a2\u306e\u63d0\u6848\u306b\u53cd\u5bfe\u3059\u308b\u8005\u306f\u8ab0\u4e00\u4eba\u3068\u3057\u3066\u3044\u306a\u304b\u3063\u305f\u3002",
+    "Phrase": "ヴィクトリアの提案に反対する者は誰一人としていなかった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -4700,14 +4713,14 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

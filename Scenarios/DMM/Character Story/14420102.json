@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u7b2c\u4e00\u8a71\u307e\u3067\u306e\u3042\u3089\u3059\u3058\u3002\\n\u7279\u9244\u968a\u306e\u65b0\u5165\u308a\u3067\u3042\u308b\u30c1\u30c8\u30bb\u3068\u4e8c\u4eba\u3067\u300e\u5ec3\u99c5\u300f\u306b\u4e57\u308a\u3053\u307f\u3001\\n\u305d\u3053\u3067\u767a\u751f\u3057\u305f\u3068\u3044\u3046\u7570\u5909\u306b\u3064\u3044\u3066\u8aac\u660e\u3057\u3066\u3044\u308b\u3002",
+    "Phrase": "第一話までのあらすじ。\\n特鉄隊の新入りであるチトセと二人で『廃駅』に乗りこみ、\\nそこで発生したという異変について説明している。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30c1\u30c8\u30bb",
-    "Phrase": "\u300c\u3075\u3080\u3002\u3053\u306e\u300e\u5ec3\u99c5\u300f\u3092\u6539\u7bc9\u3057\u3088\u3046\u3068\u3057\u305f\u5927\u5de5\u3055\u3093\u305f\u3061\u304c\u3001\\n\u3000\u5947\u5999\u306a\u3082\u306e\u3092\u76ee\u6483\u3057\u305f\u3068\u3044\u3046\u306e\u3067\u3042\u308b\u306a\u3002\\n\u3000\u304a\u5316\u3051\u306e\u3088\u3046\u306a\u3082\u306e\u3092\u2015\u2015\\n\u3000\u9762\u5996\u3067\u3042\u308b\u306a\u3001\u602a\u8ac7\u306e\u5b63\u7bc0\u3067\u3082\u3042\u308b\u307e\u3044\u306b\u300d",
+    "Name": "チトセ",
+    "Phrase": "「ふむ。この『廃駅』を改築しようとした大工さんたちが、\\n　奇妙なものを目撃したというのであるな。\\n　お化けのようなものを――\\n　面妖であるな、怪談の季節でもあるまいに」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,30 +46,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3042\u3041\u3001\u307e\u3055\u306b\u602a\u8ac7\u3060\u3002\\n\u5927\u5de5\u305f\u3061\u304c\u76ee\u6483\u3057\u305f\u306e\u306f\u3001\u3059\u3067\u306b\u4ea1\u304f\u306a\u3063\u3066\u3044\u308b\u53cb\u4eba\u77e5\u4eba\u3084\u89aa\u621a\u3001\\n\u5bb6\u65cf\u306a\u3069\u3060\u3063\u305f\u3088\u3046\u3067\u2026\u2026\u5e7d\u970a\u3001\u3068\u8868\u73fe\u3059\u308b\u3057\u304b\u306a\u3044\u3002",
+    "Phrase": "あぁ、まさに怪談だ。\\n大工たちが目撃したのは、すでに亡くなっている友人知人や親戚、\\n家族などだったようで……幽霊、と表現するしかない。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -82,30 +83,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5e7d\u970a\u306f\u7279\u306b\u66b4\u308c\u305f\u308a\u3059\u308b\u308f\u3051\u3067\u306f\u306a\u304b\u3063\u305f\u3088\u3046\u3060\u304c\u3001\\n\u307f\u3093\u306a\u4e0d\u6c17\u5473\u304c\u3063\u3066\u300e\u5ec3\u99c5\u300f\u306b\u8fd1\u3065\u304b\u306a\u304f\u306a\u3063\u3066\u3057\u307e\u3063\u305f\u3002\\n\u5de5\u4e8b\u304c\u4e88\u5b9a\u901a\u308a\u306b\u9032\u307e\u306a\u3044\u306e\u306f\u3001\u305d\u306e\u305b\u3044\u3060\u306a\u3002",
+    "Phrase": "幽霊は特に暴れたりするわけではなかったようだが、\\nみんな不気味がって『廃駅』に近づかなくなってしまった。\\n工事が予定通りに進まないのは、そのせいだな。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -119,30 +120,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30c1\u30c8\u30bb",
-    "Phrase": "\u300c\u5b9f\u969b\u3001\u305d\u308c\u306f\u9b3c\u3063\u5b50\u3069\u3082\u304c\u8a0e\u3061\u6f0f\u3089\u3057\u305f\u9b54\u7269\u3067\u306f\u306a\u304b\u308d\u3046\u304b\uff1f\\n\u3000\u4eba\u9593\u306b\u306f\u970a\u9b42\u306a\u3069\u306a\u3044\u3001\u6b7b\u5f8c\u306e\u4e16\u754c\u3082\u306a\u3044\u2015\u2015\\n\u3000\u6b7b\u306d\u3070\u3059\u3079\u3066\u304c\u304a\u7d42\u3044\u3001\u865a\u7121\u3067\u3042\u308b\u3002\\n\u3000\u7a7a\u5373\u662f\u8272\u3001\u8272\u5373\u662f\u7a7a\u300d",
+    "Name": "チトセ",
+    "Phrase": "「実際、それは鬼っ子どもが討ち漏らした魔物ではなかろうか？\\n　人間には霊魂などない、死後の世界もない――\\n　死ねばすべてがお終い、虚無である。\\n　空即是色、色即是空」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -156,30 +157,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3046\u306a\u306e\u304b\uff1f\\n\u30c1\u30c8\u30bb\u306f\u300e\u51a5\u5e9c\u300f\u3068\u3044\u3046\u3001\\n\u6b7b\u5f8c\u306e\u4e16\u754c\u3089\u3057\u304d\u3082\u306e\u306b\u30a2\u30af\u30bb\u30b9\u3067\u304d\u308b\u3068\u805e\u3044\u305f\u306e\u3060\u304c\u3002",
+    "Phrase": "そうなのか？\\nチトセは『冥府』という、\\n死後の世界らしきものにアクセスできると聞いたのだが。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -193,30 +194,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30c1\u30c8\u30bb\u304c\u7279\u9244\u968a\u306b\u5165\u3063\u305f\u969b\u306b\u63d0\u51fa\u3057\u3066\u3082\u3089\u3063\u305f\u8cc7\u6599\u306b\u3082\u3001\\n\u306f\u3063\u304d\u308a\u3068\u660e\u8a18\u3055\u308c\u3066\u3044\u305f\u3002\\n\u30c1\u30c8\u30bb\u306f\u300e\u51a5\u5e9c\u300f\u3092\u901a\u3057\u3066\u6b7b\u8005\u3068\u5bfe\u8a71\u304c\u3067\u304d\u308b\u3001\u3068\u3002",
+    "Phrase": "チトセが特鉄隊に入った際に提出してもらった資料にも、\\nはっきりと明記されていた。\\nチトセは『冥府』を通して死者と対話ができる、と。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -230,30 +231,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30c1\u30c8\u30bb",
-    "Phrase": "\u300c\u305d\u308c\u306f\u7136\u308a\u3002\\n\u3000\u306a\u308c\u3069\u543e\u304c\u77e5\u899a\u3057\u5e72\u6e09\u3059\u308b\u300e\u51a5\u5e9c\u300f\u304c\u2015\u2015\u4e8b\u5b9f\u3001\\n\u3000\u4e16\u9593\u306e\u3082\u306e\u304c\u7a7a\u60f3\u3059\u308b\u300e\u6b7b\u5f8c\u306e\u4e16\u754c\u300f\u3067\u3042\u308b\u304b\u3069\u3046\u304b\u306f\u308f\u304b\u3089\u306c\u3002\\n\u3000\u543e\u4ee5\u5916\u306b\u306f\u306f\u3063\u304d\u308a\u3068\u306f\u8a8d\u8b58\u3067\u304d\u306c\u3057\u306a\u3001\u305d\u306e\u5b9f\u5728\u3092\u8a3c\u660e\u3082\u3067\u304d\u306c\u300d",
+    "Name": "チトセ",
+    "Phrase": "「それは然り。\\n　なれど吾が知覚し干渉する『冥府』が――事実、\\n　世間のものが空想する『死後の世界』であるかどうかはわからぬ。\\n　吾以外にははっきりとは認識できぬしな、その実在を証明もできぬ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -267,30 +268,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30c1\u30c8\u30bb",
-    "Phrase": "\u300c\u300e\u51a5\u5e9c\u300f\u306b\u306f\u6b7b\u8005\u3089\u3057\u304d\u3082\u306e\u304c\u6f02\u3063\u3066\u304a\u308a\u3001\\n\u3000\u305d\u306e\u58f0\u306b\u8033\u3092\u50be\u3051\u308c\u3070\u751f\u8005\u306b\u306f\u624b\u304c\u5c4a\u304b\u306c\u77e5\u898b\u3082\u5f97\u3089\u308c\u308b\u304c\u3002\\n\u3000\u3042\u308c\u306f\u6b7b\u8005\u305d\u306e\u3082\u306e\u3067\u306f\u306a\u304f\u3001\\n\u3000\u305d\u306e\u9b54\u529b\u306e\u540d\u6b8b\u2015\u2015\u6b8b\u308a\u9999\u306e\u3088\u3046\u306a\u3082\u306e\u3067\u3042\u308d\u3046\u3088\u300d",
+    "Name": "チトセ",
+    "Phrase": "「『冥府』には死者らしきものが漂っており、\\n　その声に耳を傾ければ生者には手が届かぬ知見も得られるが。\\n　あれは死者そのものではなく、\\n　その魔力の名残――残り香のようなものであろうよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -304,30 +305,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30c1\u30c8\u30bb",
-    "Phrase": "\u300c\u5927\u62b5\u3001\u6b7b\u8005\u3069\u3082\u3068\u306f\u5bfe\u8a71\u3082\u6210\u7acb\u305b\u306c\u3057\u2015\u2015\\n\u3000\u9854\u3069\u3053\u308d\u304b\u8f2a\u90ed\u307e\u3067\u6727\u6c17\u3067\u3001\\n\u3000\u306a\u304b\u306b\u306f\u8907\u6570\u306e\u6b7b\u8005\u304c\u6df7\u3058\u308a\u5408\u3063\u305f\u3088\u3046\u306a\u3082\u306e\u307e\u3067\u5b58\u5728\u3059\u308b\u300d",
+    "Name": "チトセ",
+    "Phrase": "「大抵、死者どもとは対話も成立せぬし――\\n　顔どころか輪郭まで朧気で、\\n　なかには複数の死者が混じり合ったようなものまで存在する」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -341,30 +342,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30c1\u30c8\u30bb",
-    "Phrase": "\u300c\u307e\u3055\u306b\u5e7b\u9727\u306e\u5982\u304f\u66d6\u6627\u3067\u3001\u6a21\u7cca\u3068\u3057\u305f\u3001\\n\u3000\u9b54\u529b\u306e\u6e26\u306e\u3088\u3046\u306a\u3082\u306e\u3067\u3042\u308b\u3002\\n\u3000\u306a\u308c\u3069\u5927\u5de5\u3055\u3093\u305f\u3061\u304c\u76ee\u6483\u3057\u305f\u3082\u306e\u306f\u3001\\n\u3000\u305d\u308c\u3053\u305d\u8b1b\u8ac7\u306a\u3069\u3067\u8a9e\u3089\u308c\u308b\u304a\u5316\u3051\u306e\u3088\u3046\u306a\u3082\u306e\u3067\u3042\u308d\uff1f\u300d",
+    "Name": "チトセ",
+    "Phrase": "「まさに幻霧の如く曖昧で、模糊とした、\\n　魔力の渦のようなものである。\\n　なれど大工さんたちが目撃したものは、\\n　それこそ講談などで語られるお化けのようなものであろ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -378,30 +379,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
-    "Name": "\u30c1\u30c8\u30bb",
-    "Phrase": "\u300c\u300e\u51a5\u5e9c\u300f\u3092\u6f02\u3046\u3082\u306e\u3069\u3082\u3068\u306f\u3001\u3084\u3084\u8da3\u304c\u7570\u306a\u308b\u3088\u3046\u306b\u601d\u3046\u3002\\n\u3000\u543e\u304c\u77e5\u308b\u304b\u304e\u308a\u3001\u300e\u51a5\u5e9c\u300f\u3092\u3055\u8ff7\u3046\u3082\u306e\u3069\u3082\u306f\u2015\u2015\\n\u3000\u543e\u304c\u300e\u9580\u300f\u3092\u958b\u304b\u306c\u304b\u304e\u308a\u3001\u6211\u3089\u304c\u751f\u304d\u308b\u3053\u306e\u6d6e\u4e16\u306b\u306f\u5e72\u6e09\u3067\u304d\u306c\u3057\u306a\u300d",
+    "Name": "チトセ",
+    "Phrase": "「『冥府』を漂うものどもとは、やや趣が異なるように思う。\\n　吾が知るかぎり、『冥府』をさ迷うものどもは――\\n　吾が『門』を開かぬかぎり、我らが生きるこの浮世には干渉できぬしな」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -415,30 +416,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30c1\u30c8\u30bb",
-    "Phrase": "\u300c\u3068\u306f\u3044\u3048\u3002\\n\u3000\u305d\u308c\u304c\u4e8b\u5b9f\u3001\u6b7b\u8005\u306e\u970a\u9b42\u306a\u3089\u3070\u93ae\u64ab\u3059\u308b\u306e\u3082\u5893\u5b88\u305f\u308b\u543e\u306e\u5f79\u76ee\u304b\u3002\\n\u3000\u543e\u306f\u50e7\u4fb6\u3067\u306f\u306a\u3044\u306e\u3067\u3042\u308b\u304c\u2015\u2015\\n\u3000\u4ed5\u4e8b\u67c4\u3001\u305d\u3046\u3044\u3046\u3082\u306e\u306e\u6271\u3044\u306b\u306f\u6163\u308c\u3066\u304a\u308b\u300d",
+    "Name": "チトセ",
+    "Phrase": "「とはいえ。\\n　それが事実、死者の霊魂ならば鎮撫するのも墓守たる吾の役目か。\\n　吾は僧侶ではないのであるが――\\n　仕事柄、そういうものの扱いには慣れておる」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -452,30 +453,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30c1\u30c8\u30bb",
-    "Phrase": "\u300c\u3082\u3057\u3082\u3001\u305d\u308c\u3089\u304c\u6b7b\u8005\u3092\u9a19\u308b\u5996\u3057\u3044\u9b54\u7269\u306e\u305f\u3050\u3044\u306a\u3089\u3070\u3001\\n\u3000\u3055\u3063\u3055\u3068\u99c6\u9664\u3059\u308c\u3070\u826f\u3044\u306e\u3060\u3057\u306a\u3002\\n\u3000\u6b7b\u8005\u306e\u5c0a\u53b3\u3092\u8e0f\u307f\u306b\u3058\u308a\u3001\u751f\u8005\u3092\u60d1\u308f\u3059\u60aa\u3057\u304d\u9b54\u7269\u306f\u2015\u2015\\n\u3000\u543e\u304c\u300e\u51a5\u5e9c\u300f\u3078\u9001\u3063\u3066\u3057\u3093\u305c\u3088\u3046\u305e\u300d",
+    "Name": "チトセ",
+    "Phrase": "「もしも、それらが死者を騙る妖しい魔物のたぐいならば、\\n　さっさと駆除すれば良いのだしな。\\n　死者の尊厳を踏みにじり、生者を惑わす悪しき魔物は――\\n　吾が『冥府』へ送ってしんぜようぞ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -489,30 +490,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3042\u3041\u3001\u983c\u3080\u3002\\n\u3053\u306e\u300e\u5ec3\u99c5\u300f\u3092\u6f02\u3046\u304a\u5316\u3051\u3089\u3057\u304d\u3082\u306e\u306e\u6b63\u4f53\u3092\u66b4\u304d\u3001\\n\u53ef\u80fd\u306a\u3089\u3070\u9664\u53bb\u3057\u3088\u3046\u3002",
+    "Phrase": "あぁ、頼む。\\nこの『廃駅』を漂うお化けらしきものの正体を暴き、\\n可能ならば除去しよう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -526,30 +527,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3059\u304f\u306a\u304f\u3068\u3082\u771f\u76f8\u3092\u89e3\u660e\u3057\u3001\u300e\u554f\u984c\u306a\u3044\u300f\u3068\u7279\u9244\u968a\u304c\u592a\u9f13\u5224\u3092\u62bc\u305b\u3070\u3001\\n\u696d\u8005\u3082\u5b89\u5fc3\u3057\u3066\u5de5\u4e8b\u304c\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u308b\u3002",
+    "Phrase": "すくなくとも真相を解明し、『問題ない』と特鉄隊が太鼓判を押せば、\\n業者も安心して工事ができるようになる。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -563,30 +564,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u30c1\u30c8\u30bb",
-    "Phrase": "\u300c\u59d4\u7d30\u627f\u77e5\u3002\\n\u3000\u306a\u3089\u3070\u3001\u3044\u3056\u5f81\u304b\u3093\u2015\u2015\u6b7b\u51fa\u306e\u65c5\u3002\\n\u3000\u5893\u5b88\u30c1\u30c8\u30bb\u3001\u63a8\u3057\u3066\u53c2\u308b\u300d",
+    "Name": "チトセ",
+    "Phrase": "「委細承知。\\n　ならば、いざ征かん――死出の旅。\\n　墓守チトセ、推して参る」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -600,30 +601,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u30c1\u30c8\u30bb",
-    "Phrase": "\u300c\u5426\u3002\u3075\u3075\u3001\u543e\u3082\u7279\u9244\u968a\u306e\u4e00\u54e1\u3068\u306a\u3063\u305f\u306e\u3067\u3042\u308b\u304b\u3089\u2026\u2026\u3002\\n\u3000\u4ed6\u306e\u540d\u4e57\u308a\u3092\u8003\u3048\u308b\u3079\u304d\u304b\u3002\\n\u3000\u3053\u308c\u8eca\u638c\u306e\u574a\u4e3b\u3001\u4f55\u304b\u5999\u6848\u306f\u3042\u308b\u304b\uff1f\u300d",
+    "Name": "チトセ",
+    "Phrase": "「否。ふふ、吾も特鉄隊の一員となったのであるから……。\\n　他の名乗りを考えるべきか。\\n　これ車掌の坊主、何か妙案はあるか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -637,30 +638,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u300e\u51a5\u5e9c\u306e\u529b\u3067\u60aa\u3092\u9000\u6cbb\u3059\u308b\u3001\u9b54\u5973\u3063\u5a18\u30c1\u30c8\u30bb\u3061\u3083\u3093\u898b\u53c2\u2606\u300f\u3068\u3044\u3046\u2015\u2015\\n\u3069\u3053\u304b\u3089\u53d7\u4fe1\u3057\u305f\u304b\u308f\u304b\u3089\u306a\u3044\u8b0e\u306e\u5984\u60f3\u304c\u6e67\u3044\u305f\u304c\u3001\\n\u63d0\u6848\u3057\u305f\u3089\u6012\u3089\u308c\u305d\u3046\u306a\u306e\u3067\u9ed9\u3063\u3066\u304a\u304f\u3002\\n\u30c1\u30c8\u30bb\u306f\u305d\u3046\u3044\u3046\u5197\u8ac7\u304c\u4e00\u5207\u3001\u901a\u3058\u306a\u3044\u6c17\u96e3\u3057\u3044\u4eba\u67c4\u3060\u3057\u3002",
+    "Phrase": "『冥府の力で悪を退治する、魔女っ娘チトセちゃん見参☆』という――\\nどこから受信したかわからない謎の妄想が湧いたが、\\n提案したら怒られそうなので黙っておく。\\nチトセはそういう冗談が一切、通じない気難しい人柄だし。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -674,30 +675,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
-    "Name": "\u30c1\u30c8\u30bb",
-    "Phrase": "\u300c\u2026\u2026\u9b54\u5973\u3063\u5a18\u3068\u306f\u3001\u4f55\u305e\uff1f\u300d",
+    "Name": "チトセ",
+    "Phrase": "「……魔女っ娘とは、何ぞ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -711,30 +712,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5fc3\u3092\u8aad\u3093\u3060\u306e\u304b\uff01\uff1f",
+    "Phrase": "心を読んだのか！？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -748,30 +749,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30c1\u30c8\u30bb",
-    "Phrase": "\u300c\u8aad\u3080\u307e\u3067\u3082\u306a\u304b\u308d\u3046\u3001\u6c5d\u306f\u3076\u3064\u3076\u3064\u3068\u72ec\u308a\u8a00\u3092\u53e3\u306b\u3057\u3066\u304a\u3063\u305f\u305e\u3002\\n\u3000\u3069\u3046\u3082\u69d8\u5b50\u304c\u304a\u304b\u3057\u3044\u306e\u3067\u3042\u308b\u2015\u2015\\n\u3000\u5927\u4e08\u592b\u304b\u3001\u5177\u5408\u304c\u60aa\u3044\u306e\u3067\u3042\u308b\u304b\uff1f\\n\u3000\u80cc\u4e2d\u3092\u3055\u3059\u3063\u3066\u3057\u3093\u305c\u3088\u3046\u304b\uff1f\u300d",
+    "Name": "チトセ",
+    "Phrase": "「読むまでもなかろう、汝はぶつぶつと独り言を口にしておったぞ。\\n　どうも様子がおかしいのである――\\n　大丈夫か、具合が悪いのであるか？\\n　背中をさすってしんぜようか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -785,30 +786,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5927\u4e08\u592b\u3060\u3001\u554f\u984c\u306a\u3044\uff01\\n\u30c1\u30c8\u30bb\u306b\u306f\u30e9\u30d6\u30ea\u30fc\u306a\u3075\u308a\u3075\u308a\u306e\u8863\u88c5\u3082\u4f3c\u5408\u3044\u305d\u3046\u3001\\n\u306a\u3069\u3068\u306f\u6c7a\u3057\u3066\u8003\u3048\u3066\u3044\u306a\u3044\u305e\uff01",
+    "Phrase": "大丈夫だ、問題ない！\\nチトセにはラブリーなふりふりの衣装も似合いそう、\\nなどとは決して考えていないぞ！",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -822,30 +823,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30c1\u30c8\u30bb",
-    "Phrase": "\u300c\u3075\u308a\u3075\u308a\u2026\u2026\uff1f\u300d",
+    "Name": "チトセ",
+    "Phrase": "「ふりふり……？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -859,30 +860,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\u30c1\u30c8\u30bb",
-    "Phrase": "\u300c\u307e\u3041\u3001\u514e\u3082\u89d2\u3002\\n\u3000\u3053\u306e\u5e83\u5927\u306a\u300e\u5ec3\u99c5\u300f\u3092\u6b69\u304d\u56de\u308b\u306e\u3082\u5104\u52ab\u3067\u3042\u308b\u3001\\n\u3000\u624b\u3063\u53d6\u308a\u65e9\u304f\u89e3\u6c7a\u3059\u308b\u3053\u3068\u306b\u3057\u3088\u3046\u305e\u3002\\n\u3000\u4e00\u6642\u7684\u306b\u300e\u51a5\u5e9c\u300f\u306e\u9580\u3092\u958b\u304d\u3001\u6b7b\u8005\u306e\u58f0\u306b\u8033\u3092\u6f84\u307e\u305b\u308b\u3053\u3068\u3068\u3059\u308b\u300d",
+    "Name": "チトセ",
+    "Phrase": "「まぁ、兎も角。\\n　この広大な『廃駅』を歩き回るのも億劫である、\\n　手っ取り早く解決することにしようぞ。\\n　一時的に『冥府』の門を開き、死者の声に耳を澄ませることとする」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -896,30 +897,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
-    "Name": "\u30c1\u30c8\u30bb",
-    "Phrase": "\u300c\u6b64\u51e6\u306f\u4eca\u3067\u306f\u5ec3\u589f\u3067\u3042\u308b\u304c\u3001\\n\u3000\u304b\u3064\u3066\u306f\u4eba\u3005\u3082\u51fa\u5165\u308a\u3057\u305f\u306e\u3067\u3042\u308d\u3046\u3002\\n\u3000\u4eba\u9593\u306b\u4f7f\u308f\u308c\u308b\u305f\u3081\u306e\u69cb\u9020\u306b\u306a\u3063\u3066\u304a\u308b\u3057\u306a\u2015\u2015\\n\u3000\u305d\u308c\u3089\u306e\u4eba\u3005\u306e\u6b8b\u308a\u9999\u3092\u3001\u6b8b\u7559\u601d\u5ff5\u3092\u624b\u7e70\u3063\u3066\u307f\u3088\u3046\u305e\u300d",
+    "Name": "チトセ",
+    "Phrase": "「此処は今では廃墟であるが、\\n　かつては人々も出入りしたのであろう。\\n　人間に使われるための構造になっておるしな――\\n　それらの人々の残り香を、残留思念を手繰ってみようぞ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -933,30 +934,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 44201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u7b2c\u4e09\u8a71\u3078\u3064\u3065\u304f\u3002",
+    "Phrase": "第三話へつづく。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -970,14 +971,14 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

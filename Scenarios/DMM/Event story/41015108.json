@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u306e\u5f8c\u2026\u2026\u3002\\n\u3069\u3046\u306b\u304b\u7070\u306e\u7802\u6f20\u306e\u753a\uff08\u6b63\u5f0f\u540d\u79f0\u306f\u4e0d\u660e\u3002\u30ca\u30dd\u30ea\u3082\u77e5\u3089\u306a\u3044\u3089\u3057\u3044\uff09\\n\u306b\u9003\u3052\u3053\u3093\u3060\u6211\u3005\u306f\u3001\u305d\u306e\u5834\u306b\u5ea7\u308a\u3053\u3093\u3067\u3057\u3070\u3057\u306e\u4f11\u606f\u3092\u53d6\u3063\u305f\u3002",
+    "Phrase": "その後……。\\nどうにか灰の砂漠の町（正式名称は不明。ナポリも知らないらしい）\\nに逃げこんだ我々は、その場に座りこんでしばしの休息を取った。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u306f\u3041\u3063\u3001\u306f\u3041\u3063\u2015\u2015\u3052\u307b\u3049\u3063!?\u3000\u3054\u307b\u3052\u307c\u3063\uff01\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「はぁっ、はぁっ――げほぉっ!?　ごほげぼっ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,30 +46,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 3,
         "Action": 0,
         "Emotion": 2,
         "FacialExpression": 8,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed",
-    "Phrase": "\u300c\u3061\u3087\u3063\u3001\u30ba\u30a8\u3061\u3083\u3093\u5927\u4e08\u592b\uff1f\u300d",
+    "Name": "モンテカルロ",
+    "Phrase": "「ちょっ、ズエちゃん大丈夫？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -82,38 +83,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 100201,
         "Position": 4,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 4
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u3059\u3001\u3059\u307f\u307e\u305b\u2026\u2026\u3051\u307b\u3063\uff01\\n\u3000\u821e\u3044\u4e0a\u304c\u3063\u305f\u7070\u306e\u305b\u3044\u3067\u57c3\u3063\u307d\u304f\u3066\u3001\u3064\u3044\u54b3\u304d\u3053\u3093\u3058\u3083\u3044\u307e\u3059\uff01\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「す、すみませ……けほっ！\\n　舞い上がった灰のせいで埃っぽくて、つい咳きこんじゃいます！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -127,38 +128,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 100201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30bb\u30a4\u30e9\u30e0",
-    "Phrase": "\u300c\u3042\u305f\u304f\u3057\u3001\u304a\u6c34\u306a\u3069\u3092\u3082\u3089\u3063\u3066\u53c2\u308a\u307e\u3059\uff01\u300d",
+    "Name": "セイラム",
+    "Phrase": "「あたくし、お水などをもらって参ります！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -172,30 +173,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 36201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u75c5\u5f31\u3067\u547c\u5438\u5668\u7cfb\u306b\u75be\u60a3\u3092\u62b1\u3048\u305f\u30ba\u30a8\u30e9\u30c3\u30c8\u3092\u6848\u3058\u3066\u3001\\n\u30bb\u30a4\u30e9\u30e0\u304c\u5468\u56f2\u306b\u5bc6\u96c6\u3057\u3066\u751f\u3048\u3066\u3044\u308b\u5bb6\u5c4b\u306b\u99c6\u3051\u5bc4\u3063\u3066\u3044\u304f\u3002\\n\u305d\u3057\u3066\u3001\u6249\u3092\u30c9\u30f3\u30c9\u30f3\u3068\u53e9\u3044\u3066\u547c\u3073\u304b\u3051\u305f\u3002",
+    "Phrase": "病弱で呼吸器系に疾患を抱えたズエラットを案じて、\\nセイラムが周囲に密集して生えている家屋に駆け寄っていく。\\nそして、扉をドンドンと叩いて呼びかけた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -209,30 +210,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 36201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u30bb\u30a4\u30e9\u30e0",
-    "Phrase": "\u300c\u3082\u3057\u3001\u3082\u3057\uff1f\u3000\u4e0d\u8ebe\u3067\u306f\u3054\u3056\u3044\u307e\u3059\u304c\u3001\u304a\u6c34\u3092\u2015\u2015\u3075\u3072\u3083\u3042\u3063!?\u300d",
+    "Name": "セイラム",
+    "Phrase": "「もし、もし？　不躾ではございますが、お水を――ふひゃあっ!?」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -246,30 +247,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 36201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u77ac\u9593\u3001\u958b\u3044\u305f\u7a93\u304b\u3089\u5927\u91cf\u306e\u6c5a\u6c34\u304c\u6492\u304d\u6563\u3089\u3055\u308c\u305f\u3002\\n\u3069\u3046\u3082\u5c4b\u5185\u306b\u3044\u308b\u753a\u306e\u4f4f\u6c11\u304c\u3001\u30d0\u30b1\u30c4\u306b\u6e9c\u307e\u3063\u305f\u6c34\u3092\u3076\u3061\u307e\u3051\u305f\u3089\u3057\u3044\u3002",
+    "Phrase": "瞬間、開いた窓から大量の汚水が撒き散らされた。\\nどうも屋内にいる町の住民が、バケツに溜まった水をぶちまけたらしい。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -283,30 +284,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 36201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30bb\u30a4\u30e9\u30e0",
-    "Phrase": "\u300c\u3042\u3072\u3043\u2026\u2026\u266a\u3000\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3057\u3085\u3046\u3063\u3001\\n\u3000\u3053\u306e\u3088\u3046\u306a\u5927\u6b53\u8fce\u3092\u53d7\u3051\u308b\u3068\u306f\u6050\u60a6\u81f3\u6975\u306b\u5b58\u3058\u307e\u3059\u3063\uff01\\n\u3000\u3051\u308c\u3069\u3001\u304a\u6c34\u304c\u6b32\u3057\u3044\u3068\u306f\u305d\u3046\u3044\u3046\u3053\u3068\u3067\u306f\u306a\u304f\u3063\uff1f\u300d",
+    "Name": "セイラム",
+    "Phrase": "「あひぃ……♪　ありがとうございましゅうっ、\\n　このような大歓迎を受けるとは恐悦至極に存じますっ！\\n　けれど、お水が欲しいとはそういうことではなくっ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -320,30 +321,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 36201,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed",
-    "Phrase": "\u300c\u3044\u3084\u3044\u3084\u3063\uff1f\u3000\u4eca\u306e\u4f55\uff1f\u3000\u6709\u308a\u5f97\u306a\u3044\u308f\u3088\u3093\u3063\uff01\\n\u3000\u3044\u304d\u306a\u308a\u30ad\u30c3\u30bf\u30ca\u3044\u6c34\u3092\u6d74\u3073\u305b\u3066\u304f\u308b\u306a\u3093\u3066\u2026\u2026\uff01\u300d",
+    "Name": "モンテカルロ",
+    "Phrase": "「いやいやっ？　今の何？　有り得ないわよんっ！\\n　いきなりキッタナい水を浴びせてくるなんて……！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -357,30 +358,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 100201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed",
-    "Phrase": "\u300c\u3063\u3066\u3001\u75db\u3044\u75db\u3044\u75db\u3044!?\\n\u3000\u306a\u3001\u4f55\u304b\u77f3\u3053\u308d\u3068\u304b\u3001\u751f\u5375\u3068\u304b\u98db\u3093\u3067\u304f\u308b\u3063\uff01\u300d",
+    "Name": "モンテカルロ",
+    "Phrase": "「って、痛い痛い痛い!?\\n　な、何か石ころとか、生卵とか飛んでくるっ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -394,30 +395,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 100201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3042\u3061\u3053\u3061\u306e\u5bb6\u5c4b\u306e\u7a93\u304c\u958b\u304d\u3001\\n\u5c4b\u5185\u306b\u3044\u308b\u4f4f\u4eba\u304c\u8272\u3093\u306a\u3082\u306e\u3092\u6295\u3052\u3064\u3051\u3066\u304f\u308b\u3002\\n\u3069\u306e\u4eba\u3005\u3082\u6012\u308a\u306b\u9854\u3092\u6b6a\u3081\u3066\u3044\u3066\u3001\u3042\u304b\u3089\u3055\u307e\u306b\u69d8\u5b50\u304c\u5909\u3060\u3002",
+    "Phrase": "あちこちの家屋の窓が開き、\\n屋内にいる住人が色んなものを投げつけてくる。\\nどの人々も怒りに顔を歪めていて、あからさまに様子が変だ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -431,21 +432,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30bb\u30a4\u30e9\u30e0",
-    "Phrase": "\u300c\u3042\u3041\u3063\u3001\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\uff01\\n\u3000\u3042\u305f\u304f\u3057\u3001\u3053\u306e\u3088\u3046\u306a\u6b53\u5f85\u3092\u53d7\u3051\u3066\u611f\u7121\u91cf\u3067\u3054\u3056\u3044\u307e\u3057\u3085\u3046\u3063\u266a\u300d",
+    "Name": "セイラム",
+    "Phrase": "「あぁっ、ありがとうございますありがとうございます！\\n　あたくし、このような歓待を受けて感無量でございましゅうっ♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -459,30 +461,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 36201,
         "Position": 3,
         "Action": 1,
         "Emotion": 1,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed",
-    "Phrase": "\u300c\u3044\u3084\u3044\u3084\u3001\u3053\u308c\u3092\u300e\u6b53\u5f85\u300f\u3060\u3068\u601d\u3048\u308b\u306e\u306f\u30bb\u30a4\u3061\u3083\u3093\u3060\u3051\u3088\u3093!?\u300d",
+    "Name": "モンテカルロ",
+    "Phrase": "「いやいや、これを『歓待』だと思えるのはセイちゃんだけよん!?」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -496,38 +498,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 100201,
         "Position": 4,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u3069\u3001\u3069\u3046\u8003\u3048\u3066\u3082\u3042\u305f\u3057\u305f\u3061\u3001\u6b53\u8fce\u3055\u308c\u3066\u307e\u305b\u3093\u3088\u306d\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「ど、どう考えてもあたしたち、歓迎されてませんよね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -541,38 +543,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 100201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed",
-    "Phrase": "\u300c\u753a\u306e\u3072\u3068\u305f\u3061\u306f\u4f59\u6240\u8005\u3092\u5acc\u3046\u3001\u3063\u3066\u30ca\u30dd\u3061\u3083\u3093\u304b\u3089\u805e\u3044\u3066\u306f\u3044\u305f\u3051\u3069\u3002\\n\u3000\u4e88\u60f3\u4ee5\u4e0a\u306b\u9177\u3044\u308f\u306d\u3093\u3001\u898b\u3066\u3088\u3042\u308c\u2015\u2015\u300d",
+    "Name": "モンテカルロ",
+    "Phrase": "「町のひとたちは余所者を嫌う、ってナポちゃんから聞いてはいたけど。\\n　予想以上に酷いわねん、見てよあれ――」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -586,38 +588,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 100201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed\u304c\u984e\u3067\u793a\u3057\u305f\u5148\u3001\u3044\u304f\u3064\u3082\u306e\u7a93\u304b\u3089\u306f\u9283\u53e3\u304c\u8997\u3044\u3066\u3044\u308b\u3002",
+    "Phrase": "モンテカルロが顎で示した先、いくつもの窓からは銃口が覗いている。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -631,38 +633,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 100201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u3046\u308f\u2026\u2026\u3002\u6c5a\u3044\u304a\u6c34\u3084\u5375\u3092\u3076\u3064\u3051\u3089\u308c\u308b\u7a0b\u5ea6\u306a\u3089\u3001\\n\u3000\u307e\u3041\u300e\u5acc\u304c\u3089\u305b\u300f\u3067\u6e08\u3080\u304b\u3082\u3067\u3059\u3051\u3069\u3002\\n\u3000\u3042\u308c\u306f\u3082\u3046\u3001\u3042\u304b\u3089\u3055\u307e\u306b\u6bba\u3057\u306b\u304d\u3066\u307e\u3059\u3088\u306d\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「うわ……。汚いお水や卵をぶつけられる程度なら、\\n　まぁ『嫌がらせ』で済むかもですけど。\\n　あれはもう、あからさまに殺しにきてますよね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -676,38 +678,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 100201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u4f59\u6240\u8005\u3092\u5acc\u3046\u3001\u3069\u3053\u308d\u3058\u3083\u306a\u3044\u3067\u3059\u3088\u3002\\n\u3000\u5909\u3067\u3059\u3001\u3053\u306e\u753a\u2026\u2026\u3002\u4f55\u306a\u3093\u3067\u3057\u3087\u3046\u3001\u610f\u5473\u304c\u308f\u304b\u308a\u307e\u305b\u3093\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「余所者を嫌う、どころじゃないですよ。\\n　変です、この町……。何なんでしょう、意味がわかりません」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -721,38 +723,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 100201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30dd\u30ea",
-    "Phrase": "\u300c\u3067\u3082\u3002\u3053\u306e\u753a\u306f\u3001\u3044\u3064\u3082\u3053\u3046\u3067\u3057\u300d",
+    "Name": "ナポリ",
+    "Phrase": "「でも。この町は、いつもこうでし」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -766,30 +768,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 102201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u4f55\u3060\u304b\u7533\u3057\u8a33\u306a\u3055\u305d\u3046\u306a\u9854\u3067\u3001\u30ca\u30dd\u30ea\u304c\u307f\u3093\u306a\u3092\u5e87\u3046\u3088\u3046\u306b\u77e2\u9762\u306b\u7acb\u3064\u3002",
+    "Phrase": "何だか申し訳なさそうな顔で、ナポリがみんなを庇うように矢面に立つ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -803,30 +805,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 102201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3093\u306a\u5f7c\u5973\u306b\u3001\u3072\u3063\u304d\u308a\u306a\u3057\u306b\u6c5a\u7269\u306a\u3069\u304c\u3076\u3064\u3051\u3089\u308c\u308b\u3002\\n\u300e\u51fa\u3066\u884c\u3051\uff01\u300f\u300e\u6b7b\u306d\uff01\u300f\u300e\u304a\u307e\u3048\u306e\u305b\u3044\u3060\uff01\u300f\u2015\u2015\\n\u306a\u3069\u306e\u3001\u805e\u304f\u306b\u582a\u3048\u306a\u3044\u7f75\u58f0\u3082\u3002",
+    "Phrase": "そんな彼女に、ひっきりなしに汚物などがぶつけられる。\\n『出て行け！』『死ね！』『おまえのせいだ！』――\\nなどの、聞くに堪えない罵声も。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -840,30 +842,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 102201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30dd\u30ea",
-    "Phrase": "\u300c\u30ca\u30dd\u30ea\u304c\u751f\u307e\u308c\u305f\u3068\u304d\u304b\u3089\u305a\u3063\u3068\u3001\u3053\u306e\u753a\u306f\u3053\u3093\u306a\u611f\u3058\u3060\u3063\u305f\u3067\u3057\u300d",
+    "Name": "ナポリ",
+    "Phrase": "「ナポリが生まれたときからずっと、この町はこんな感じだったでし」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -877,30 +879,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 102201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30dd\u30ea",
-    "Phrase": "\u300c\u307f\u3093\u306a\u304c\u4e92\u3044\u306b\u618e\u307f\u3042\u3063\u3066\u3001\u7f75\u308a\u3042\u3063\u3066\u50b7\u3064\u3051\u3042\u3063\u3066\u2026\u2026\u300d",
+    "Name": "ナポリ",
+    "Phrase": "「みんなが互いに憎みあって、罵りあって傷つけあって……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -914,30 +916,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 102201,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30dd\u30ea",
-    "Phrase": "\u300c\u3060\u304b\u3089\u30ca\u30dd\u30ea\u3001\u4ef2\u826f\u304f\u7b11\u3044\u3042\u3063\u3066\u308b\u300e\u30c6\u30eb\u30df\u30cb\u6559\u5ba4\u300f\u306e\u307f\u3093\u306a\u3092\u898b\u3066\u3001\\n\u3000\u9006\u306b\u9a5a\u3044\u3061\u3083\u3063\u305f\u3067\u3057\u3002\\n\u3000\u8ab0\u304b\u3068\u4e00\u7dd2\u306b\u3001\u3042\u3093\u306a\u3075\u3046\u306b\u5e78\u305b\u306a\u6642\u9593\u304c\u904e\u3054\u305b\u308b\u306a\u3093\u3066\u2015\u2015\u300d",
+    "Name": "ナポリ",
+    "Phrase": "「だからナポリ、仲良く笑いあってる『テルミニ教室』のみんなを見て、\\n　逆に驚いちゃったでし。\\n　誰かと一緒に、あんなふうに幸せな時間が過ごせるなんて――」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -951,30 +953,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 102201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30dd\u30ea",
-    "Phrase": "\u300c\u4fe1\u3058\u3089\u308c\u306a\u304f\u3066\u3001\u5618\u307f\u305f\u3044\u3067\u3001\u4e0d\u601d\u8b70\u3060\u3063\u305f\u3067\u3057\u300d",
+    "Name": "ナポリ",
+    "Phrase": "「信じられなくて、嘘みたいで、不思議だったでし」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -988,30 +990,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 102201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u305c\u3001\u305c\u3093\u305c\u3093\u4e0d\u601d\u8b70\u306a\u3053\u3068\u3058\u3083\u306a\u3044\u3067\u3059\u3088\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「ぜ、ぜんぜん不思議なことじゃないですよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1025,30 +1027,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u305d\u308c\u304c\u666e\u901a\u306a\u3093\u3067\u3059\u3002\\n\u3000\u307f\u3093\u306a\u611b\u3057\u3042\u3063\u3066\u3001\u5e78\u305b\u306a\u6642\u9593\u3092\u904e\u3054\u3057\u305f\u3044\u3063\u3066\u601d\u3063\u3066\u308b\u306f\u305a\u3067\u3059\u3002\\n\u3000\u3053\u306e\u753a\u304c\u3001\u3053\u3053\u3067\u66ae\u3089\u3057\u3066\u308b\u3072\u3068\u305f\u3061\u304c\u5909\u306a\u3093\u3067\u3059\u3088\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「それが普通なんです。\\n　みんな愛しあって、幸せな時間を過ごしたいって思ってるはずです。\\n　この町が、ここで暮らしてるひとたちが変なんですよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1062,30 +1064,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\u30bb\u30a4\u30e9\u30e0",
-    "Phrase": "\u300c\u3075\u3080\u3002\u3042\u305f\u304f\u3057\u306e\u6545\u90f7\u306e\u300e\u9b54\u5973\u306e\u68ee\u300f\u3082\u3001\u9589\u9396\u7684\u306a\u74b0\u5883\u3086\u3048\u306b\u3001\\n\u3000\u4e00\u822c\u7684\u306b\u306f\u5909\u3060\u3068\u601d\u308f\u308c\u308b\u4fa1\u5024\u89b3\u304c\u7f77\u308a\u901a\u3063\u3066\u3044\u307e\u3057\u305f\u3051\u3069\u300d",
+    "Name": "セイラム",
+    "Phrase": "「ふむ。あたくしの故郷の『魔女の森』も、閉鎖的な環境ゆえに、\\n　一般的には変だと思われる価値観が罷り通っていましたけど」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1099,30 +1101,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 36201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
-    "Name": "\u30bb\u30a4\u30e9\u30e0",
-    "Phrase": "\u300c\u3053\u306e\u753a\u306e\u4eba\u3005\u306f\u4f55\u3086\u3048\u306b\u3001\\n\u3000\u3053\u306e\u3088\u3046\u306b\u60aa\u610f\u306b\u51dd\u308a\u56fa\u307e\u3063\u3066\u3044\u308b\u306e\u3067\u3057\u3087\u3046\uff1f\u300d",
+    "Name": "セイラム",
+    "Phrase": "「この町の人々は何ゆえに、\\n　このように悪意に凝り固まっているのでしょう？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1136,30 +1138,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 36201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u3093\uff5e\u3002\u306a\u304b\u306a\u304b\u8208\u5473\u6df1\u3044\u3057\u3001\u8003\u5bdf\u3057\u3066\u307f\u308b\u4fa1\u5024\u306f\u3042\u308a\u305d\u3046\u3060\u3051\u3069\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「ん～。なかなか興味深いし、考察してみる価値はありそうだけど」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1173,30 +1175,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u305d\u306e\u524d\u306b\u3001\u300e\u3042\u308c\u300f\u306e\u5bfe\u51e6\u3092\u3059\u308b\u3079\u304d\u304b\u3082\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「その前に、『あれ』の対処をするべきかも」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1210,30 +1212,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
-    "Name": "\u30bb\u30a4\u30e9\u30e0",
-    "Phrase": "\u300c\u300e\u3042\u308c\u300f\u2026\u2026\uff1f\u300d",
+    "Name": "セイラム",
+    "Phrase": "「『あれ』……？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1247,30 +1249,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 36201,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
-    "Name": "\u30ae\u30e3\u30f3\u30b0",
-    "Phrase": "\u300e\u30d1\u30e9\u30ea\u30e9\uff01\u3000\u30d1\u30e9\u30ea\u30e9\uff01\u300f",
+    "Name": "ギャング",
+    "Phrase": "『パラリラ！　パラリラ！』",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1284,38 +1286,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 10,
         "EnterAction": 4
-      },
-      {
+    },
+    {
         "MCharacterId": 127,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 10,
         "EnterAction": 4
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
-    "Name": "\u30ae\u30e3\u30f3\u30b0",
-    "Phrase": "\u300e\u30d1\u30e9\u30ea\u30e9\uff01\u3000\u30d1\u30e9\u30ea\u30e9\uff01\u300f",
+    "Name": "ギャング",
+    "Phrase": "『パラリラ！　パラリラ！』",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1329,38 +1331,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 10,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 127,
         "Position": 4,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 10,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 36,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u308f\u3063\u2026\u2026\u3002\u3042\u308c\u3063\u3066\u6628\u65e5\u3001\u898b\u304b\u3051\u305f\u3084\u3064\u3089\u3067\u3059\u3088\u306d\uff1f\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「わっ……。あれって昨日、見かけたやつらですよね？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1374,30 +1376,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 37,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u3046\u3093\u3002\u30ca\u30dd\u30ea\u305f\u3093\u306f\u3001\u30ae\u30e3\u30f3\u30b0\u3063\u3066\u547c\u3093\u3067\u305f\u3051\u3069\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「うん。ナポリたんは、ギャングって呼んでたけど」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1411,30 +1413,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 38,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u306a\u3001\u4f55\u3067\u753a\u306e\u306a\u304b\u306b\uff1f\\n\u3000\u666e\u901a\u3001\u753a\u306e\u306a\u304b\u306f\u7d50\u754c\u304c\u6577\u304b\u308c\u3066\u3066\u5b89\u5168\u306a\u306f\u305a\u306a\u306e\u306b\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「な、何で町のなかに？\\n　普通、町のなかは結界が敷かれてて安全なはずなのに」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1448,30 +1450,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 39,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u2015\u2015\u3063\u3066\u3001\u3053\u306e\u753a\u3001\u7d50\u754c\u304c\u6577\u304b\u308c\u3066\u306a\u304f\u306a\u3044\u3067\u3059\u304b\u3063\uff1f\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「――って、この町、結界が敷かれてなくないですかっ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1485,30 +1487,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 40,
     "ViewOrder": 1,
-    "Name": "\u30bb\u30a4\u30e9\u30e0",
-    "Phrase": "\u300c\u306f\u3044\u2026\u2026\u3002\u305d\u306e\u3088\u3046\u3067\u3054\u3056\u3044\u307e\u3059\u306d\u3002\\n\u3000\u3042\u305f\u304f\u3057\u3082\u3001\u3044\u307e\u6c17\u3065\u304d\u307e\u3057\u305f\u3051\u3069\u300d",
+    "Name": "セイラム",
+    "Phrase": "「はい……。そのようでございますね。\\n　あたくしも、いま気づきましたけど」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1522,30 +1524,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 36201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 41,
     "ViewOrder": 1,
-    "Name": "\u30bb\u30a4\u30e9\u30e0",
-    "Phrase": "\u300c\u7d50\u754c\u3082\u306a\u3044\u306e\u306b\u3001\u3053\u306e\u753a\u306e\u4eba\u3005\u306f\\n\u3000\u3069\u3046\u3084\u3063\u3066\u5e7b\u9727\u3084\u9b54\u7269\u306e\u8105\u5a01\u304b\u3089\u8eab\u3092\u5b88\u3063\u3066\u304a\u3089\u308c\u308b\u306e\u3067\u3057\u3087\u3046\uff1f\u300d",
+    "Name": "セイラム",
+    "Phrase": "「結界もないのに、この町の人々は\\n　どうやって幻霧や魔物の脅威から身を守っておられるのでしょう？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1559,30 +1561,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 36201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 42,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30dd\u30ea",
-    "Phrase": "\u300c\u3093\u3063\u3068\u3002\u306a\u3001\u4f55\u304b\u5909\u306a\u3093\u3067\u3057\uff1f\u3000\u7d50\u754c\u3063\u3066\u4f55\u3067\u3057\uff1f\u300d",
+    "Name": "ナポリ",
+    "Phrase": "「んっと。な、何か変なんでし？　結界って何でし？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1596,30 +1598,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 102201,
         "Position": 3,
         "Action": 5,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 43,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u666e\u901a\u306e\u753a\u306f\u3001\u7d50\u754c\u3063\u3066\u3044\u3046\u306e\u3092\u7528\u3044\u3066\u5b89\u5168\u3092\u78ba\u4fdd\u3057\u3066\u308b\u3093\u3060\u3088\u3002\\n\u3000\u305d\u308c\u3063\u3066\u3001\u308f\u308a\u3068\u4e00\u822c\u5e38\u8b58\u306e\u306f\u305a\u3060\u3051\u3069\u2015\u2015\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「普通の町は、結界っていうのを用いて安全を確保してるんだよ。\\n　それって、わりと一般常識のはずだけど――」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1633,38 +1635,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 102201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 44,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u30ca\u30dd\u30ea\u305f\u3093\u306e\u69d8\u5b50\u304b\u3089\u3044\u3063\u3066\u3001\\n\u3000\u3069\u3046\u3082\u3053\u306e\u753a\u3067\u306f\u7d50\u754c\u304c\u6577\u304b\u308c\u3066\u306a\u3044\u306e\u304c\u666e\u901a\u307f\u305f\u3044\u3060\u306d\u3002\\n\u3000\u305d\u3093\u306a\u753a\u3001\u3059\u3050\u306b\u6ec5\u3093\u3058\u3083\u3044\u305d\u3046\u3060\u3051\u3069\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「ナポリたんの様子からいって、\\n　どうもこの町では結界が敷かれてないのが普通みたいだね。\\n　そんな町、すぐに滅んじゃいそうだけど」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1678,38 +1680,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 102201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 45,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30dd\u30ea",
-    "Phrase": "\u300c\u3060\u3001\u5927\u4e08\u592b\u3067\u3057\u3088\u3002\u9b54\u7269\u3068\u304b\u304c\u5165\u3063\u3066\u304d\u305f\u3089\u3001\\n\u3000\u30ae\u30e3\u30f3\u30b0\u306e\u3072\u3068\u305f\u3061\u304c\u8ffd\u3044\u6255\u3063\u3066\u304f\u308c\u308b\u3067\u3057\u304b\u3089\u3002\\n\u3000\u305d\u306e\u3001\u7d50\u754c\uff1f\u3000\u3063\u3066\u3044\u3046\u306e\u304c\u7121\u304f\u3066\u3082\u5b89\u5168\u3067\u3057\uff01\u300d",
+    "Name": "ナポリ",
+    "Phrase": "「だ、大丈夫でしよ。魔物とかが入ってきたら、\\n　ギャングのひとたちが追い払ってくれるでしから。\\n　その、結界？　っていうのが無くても安全でし！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1723,38 +1725,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 102201,
         "Position": 4,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 46,
     "ViewOrder": 1,
-    "Name": "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed",
-    "Phrase": "\u300c\u3044\u3084\u3001\u305d\u306e\u30ae\u30e3\u30f3\u30b0\u3063\u3066\u3044\u3046\u306e\u3082\u3001\\n\u3000\u898b\u305f\u611f\u3058\u9b54\u7269\u305d\u306e\u3082\u306e\u306a\u3093\u3060\u3051\u3069\u306d\u3093\u300d",
+    "Name": "モンテカルロ",
+    "Phrase": "「いや、そのギャングっていうのも、\\n　見た感じ魔物そのものなんだけどねん」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1768,30 +1770,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 100201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 47,
     "ViewOrder": 1,
-    "Name": "\u30ae\u30e3\u30f3\u30b0",
-    "Phrase": "\u300e\u30d1\u30e9\u30ea\u30e9\uff01\u3000\u30d1\u30e9\u30ea\u30e9\uff01\u300f",
+    "Name": "ギャング",
+    "Phrase": "『パラリラ！　パラリラ！』",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1805,38 +1807,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 2,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 10,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 127,
         "Position": 4,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 10,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 48,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u9b54\u7269\u306b\u8de8\u304c\u308a\u3001\u30ae\u30e3\u30f3\u30b0\u305f\u3061\u306f\u753a\u306e\u9053\u3092\u6211\u304c\u7269\u9854\u3067\u9a40\u9032\u3057\u3066\u3044\u308b\u3002\\n\u666e\u901a\u306e\u753a\u3067\u306f\u307e\u305a\u898b\u3089\u308c\u306a\u3044\u3001\u7570\u69d8\u3059\u304e\u308b\u5149\u666f\u3067\u3042\u308b\u3002",
+    "Phrase": "魔物に跨がり、ギャングたちは町の道を我が物顔で驀進している。\\n普通の町ではまず見られない、異様すぎる光景である。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1850,38 +1852,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 10,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 127,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 10,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 49,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u7d50\u754c\u3082\u306a\u3044\u3057\u3001\u9b54\u7269\u304c\u666e\u901a\u306b\u8d70\u308a\u56de\u3063\u3066\u308b\u2026\u2026\u3002\\n\u3000\u3064\u307e\u308a\u3001\u3053\u3053\u3063\u3066\u4eba\u9593\u3058\u3083\u306a\u304f\u3066\u9b54\u7269\u306e\u753a\u306a\u3093\u3067\u3057\u3087\u3046\u304b\uff1f\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「結界もないし、魔物が普通に走り回ってる……。\\n　つまり、ここって人間じゃなくて魔物の町なんでしょうか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1895,30 +1897,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 50,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u3042\u305f\u3057\u304c\u4ee5\u524d\u3001\u4efb\u52d9\u4e2d\u306b\u8ff7\u3044\u3053\u3093\u3060\\n\u3000\u300e\u30b7\u30e3\u30cf\u30e9\u7802\u6f20\u306e\u87fb\u5730\u7344\u300f\u307f\u305f\u3044\u306a\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「あたしが以前、任務中に迷いこんだ\\n　『シャハラ砂漠の蟻地獄』みたいな」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1932,30 +1934,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 51,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u3046\uff5e\u3093\u3002\u9b54\u7269\u306e\u753a\u3001\u3063\u3066\u611f\u3058\u3067\u3082\u306a\u3044\u3093\u3060\u3088\u306d\u3002\\n\u3000\u9b54\u7269\u306b\u4e57\u3063\u3066\u308b\u30ae\u30e3\u30f3\u30b0\u3068\u304b\u3001\u5bb6\u5c4b\u306e\u306a\u304b\u306b\u5f15\u3063\u3053\u3093\u3067\u308b\u4f4f\u6c11\u3068\u304b\u306f\\n\u3000\u666e\u901a\u306b\u4eba\u9593\u307f\u305f\u3044\u3060\u3057\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「う～ん。魔物の町、って感じでもないんだよね。\\n　魔物に乗ってるギャングとか、家屋のなかに引っこんでる住民とかは\\n　普通に人間みたいだし」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1969,30 +1971,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 52,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u3053\u3053\u3067\u306f\u5947\u5999\u306a\u3053\u3068\u306b\u3001\u9b54\u7269\u3068\u4eba\u9593\u304c\u5171\u751f\u3057\u3066\u308b\u307f\u305f\u3044\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「ここでは奇妙なことに、魔物と人間が共生してるみたい」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2006,30 +2008,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 53,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u305d\u3001\u305d\u3093\u306a\u306e\u3063\u3066\u6709\u308a\u5f97\u308b\u3093\u3067\u3059\u304b\u2026\u2026\uff1f\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「そ、そんなのって有り得るんですか……？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2043,30 +2045,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 54,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u666e\u901a\u306f\u6709\u308a\u5f97\u306a\u3044\u3088\u3001\u9b54\u7269\u306f\u4eba\u985e\u306e\u5929\u6575\u3060\u3057\u306d\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「普通は有り得ないよ、魔物は人類の天敵だしね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2080,30 +2082,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 55,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u9b54\u7269\u306b\u3068\u3063\u3066\u3001\u4eba\u9593\u306f\u5358\u306a\u308b\u990c\u306b\u904e\u304e\u306a\u3044\u3002\\n\u3000\u9b54\u7269\u3068\u4e00\u7dd2\u306b\u66ae\u3089\u3059\u3063\u3066\u3044\u3046\u306e\u306f\u3001\u9b54\u7269\u306e\u80c3\u888b\u306e\u306a\u304b\u3067\u66ae\u3089\u3059\u306e\u3068\u540c\u3058\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「魔物にとって、人間は単なる餌に過ぎない。\\n　魔物と一緒に暮らすっていうのは、魔物の胃袋のなかで暮らすのと同じ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2117,30 +2119,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 56,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u300e\u767d\u9be8\u300f\u3063\u3066\u3044\u3046\u9b54\u7269\u306e\u304a\u8179\u306e\u306a\u304b\u3067\u66ae\u3089\u3057\u3066\u305f\u3001\\n\u3000\u30db\u30ce\u30eb\u30eb\u3061\u3083\u3093\u307f\u305f\u3044\u306a\u4f8b\u5916\u306f\u3042\u308b\u3051\u3069\u306d\u3002\\n\u3000\u666e\u901a\u306f\u3001\u8010\u3048\u3089\u308c\u306a\u3044\u3088\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「『白鯨』っていう魔物のお腹のなかで暮らしてた、\\n　ホノルルちゃんみたいな例外はあるけどね。\\n　普通は、耐えられないよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2154,30 +2156,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 57,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u3046\u3046\u3093\u3002\u3060\u304b\u3089\u3053\u305d\u3001\u3053\u306e\u753a\u306e\u3072\u3068\u305f\u3061\u306f\u5909\u306b\u6bba\u6c17\u7acb\u3063\u3066\u308b\u306e\u304b\u306a\u3002\\n\u3000\u3044\u3064\u98df\u3044\u6bba\u3055\u308c\u308b\u304b\u3082\u308f\u304b\u3089\u306a\u3044\u3093\u3058\u3083\u3001\u5fc3\u3092\u75c5\u3093\u3067\u3082\u4ed5\u65b9\u306a\u3044\u3088\u306d\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「ううん。だからこそ、この町のひとたちは変に殺気立ってるのかな。\\n　いつ食い殺されるかもわからないんじゃ、心を病んでも仕方ないよね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2191,30 +2193,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 58,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30dd\u30ea",
-    "Phrase": "\u300c\u305d\u308c\u3067\u3082\u3002\u3053\u306e\u753a\u306e\u3072\u3068\u305f\u3061\u306f\u3001\u4ed6\u306b\u884c\u304f\u5834\u6240\u3082\u306a\u3044\u3067\u3057\u300d",
+    "Name": "ナポリ",
+    "Phrase": "「それでも。この町のひとたちは、他に行く場所もないでし」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2228,30 +2230,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 102201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 59,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30dd\u30ea",
-    "Phrase": "\u300c\u3053\u306e\u8fd1\u6240\u306b\u306f\u753a\u306f\u3053\u3053\u306b\u3057\u304b\u306a\u304f\u3066\u3001\\n\u3000\u5468\u56f2\u306b\u306f\u3069\u3053\u307e\u3067\u3082\u7070\u306e\u7802\u6f20\u304c\u5e83\u304c\u3063\u3066\u308b\u3067\u3057\u3002\\n\u3000\u3053\u306e\u753a\u304c\u5acc\u306b\u306a\u3063\u3066\u9003\u3052\u51fa\u3057\u3066\u3082\u3001\u91ce\u5782\u308c\u6b7b\u306b\u3057\u3061\u3083\u3046\u3060\u3051\u3001\u3067\u3057\u300d",
+    "Name": "ナポリ",
+    "Phrase": "「この近所には町はここにしかなくて、\\n　周囲にはどこまでも灰の砂漠が広がってるでし。\\n　この町が嫌になって逃げ出しても、野垂れ死にしちゃうだけ、でし」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2265,30 +2267,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 102201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 60,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u3060\u304b\u3089\u6211\u6162\u3057\u3066\u3001\u307f\u3093\u306a\u3053\u3053\u3067\u66ae\u3089\u3057\u3066\u308b\u2026\u2026\u3063\u3066\u3053\u3068\u3067\u3057\u3087\u3046\u304b\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「だから我慢して、みんなここで暮らしてる……ってことでしょうか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2302,38 +2304,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 102201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 61,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30dd\u30ea",
-    "Phrase": "\u300c\u3042\u3044\u3002\u305f\u3076\u3093\u3002\u30ca\u30dd\u30ea\u306f\u305d\u3093\u306a\u753a\u306b\u3082\u5165\u308c\u3066\u3082\u3089\u3048\u306a\u304f\u3066\u3001\\n\u3000\u304a\u5916\u306b\u9b54\u8853\u3067\u5bb6\u3092\u3064\u304f\u3063\u3066\u4f4f\u3093\u3067\u308b\u3067\u3057\u3051\u3069\u300d",
+    "Name": "ナポリ",
+    "Phrase": "「あい。たぶん。ナポリはそんな町にも入れてもらえなくて、\\n　お外に魔術で家をつくって住んでるでしけど」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2347,38 +2349,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 102201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 62,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u306a\u3001\u4f55\u3067\u305d\u3093\u306a\u9177\u3044\u6271\u3044\u3092\u53d7\u3051\u3066\u308b\u3093\u3067\u3059\u304b\uff1f\\n\u3000\u3053\u3093\u306a\u3061\u3063\u3061\u3083\u3044\u5b50\u3092\u304a\u5916\u306b\u653e\u308a\u51fa\u3059\u306a\u3093\u3066\u3001\u975e\u4eba\u9053\u7684\u3067\u3059\uff01\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「な、何でそんな酷い扱いを受けてるんですか？\\n　こんなちっちゃい子をお外に放り出すなんて、非人道的です！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2392,38 +2394,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 102201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 63,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30dd\u30ea",
-    "Phrase": "\u300c\u3093\u3093\u3002\u30ca\u30dd\u30ea\u306b\u3068\u3063\u3066\u306f\u305d\u308c\u304c\u5f53\u305f\u308a\u524d\u3060\u3063\u305f\u306e\u3067\u3001\\n\u3000\u3042\u3093\u307e\u308a\u9177\u3044\u3068\u306f\u601d\u308f\u306a\u3044\u3067\u3057\u3051\u3069\u300d",
+    "Name": "ナポリ",
+    "Phrase": "「んん。ナポリにとってはそれが当たり前だったので、\\n　あんまり酷いとは思わないでしけど」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2437,38 +2439,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 102201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 64,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30dd\u30ea",
-    "Phrase": "\u300c\u753a\u306e\u3072\u3068\u305f\u3061\u306f\u4e92\u3044\u306b\u618e\u307f\u3042\u3063\u3066\u308b\u3051\u3069\u3001\\n\u3000\u3068\u304f\u306b\u30ca\u30dd\u30ea\u306e\u3053\u3068\u304c\u5acc\u3044\u307f\u305f\u3044\u3067\u3057\u3002\\n\u3000\u9854\u3092\u898b\u308b\u3060\u3051\u3067\u82db\u3005\u3059\u308b\u3089\u3057\u3044\u306e\u3067\u3001\u30ca\u30dd\u30ea\u306f\u304a\u5916\u3067\u66ae\u3089\u3057\u3066\u308b\u3067\u3057\u300d",
+    "Name": "ナポリ",
+    "Phrase": "「町のひとたちは互いに憎みあってるけど、\\n　とくにナポリのことが嫌いみたいでし。\\n　顔を見るだけで苛々するらしいので、ナポリはお外で暮らしてるでし」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2482,38 +2484,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 102201,
         "Position": 4,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 65,
     "ViewOrder": 1,
-    "Name": "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed",
-    "Phrase": "\u300c\u3093\uff5e\uff1f\u3000\u4f55\u3067\u305d\u3093\u306a\u306b\u5acc\u308f\u308c\u3066\u308b\u306e\u3093\uff1f\\n\u3000\u30ca\u30dd\u3061\u3083\u3093\u3001\u3053\u3093\u306a\u306b\u53ef\u611b\u3044\u306e\u306b\uff1f\u300d",
+    "Name": "モンテカルロ",
+    "Phrase": "「ん～？　何でそんなに嫌われてるのん？\\n　ナポちゃん、こんなに可愛いのに？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2527,30 +2529,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 100201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 66,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30dd\u30ea",
-    "Phrase": "\u300c\u3042\u3046\u3042\u3046\u300d",
+    "Name": "ナポリ",
+    "Phrase": "「あうあう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2564,38 +2566,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 100201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 102201,
         "Position": 4,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 67,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed\u306b\u62b1\u304d\u3057\u3081\u3089\u308c\u3066\u3001\u30ca\u30dd\u30ea\u304c\u6065\u3058\u3089\u3063\u3066\u8eab\u60b6\u3048\u3059\u308b\u3002\\n\u305d\u306e\u59ff\u306f\u611b\u3089\u3057\u304f\u3001\u898b\u3066\u3044\u308b\u3060\u3051\u3067\u548c\u3093\u3067\u3057\u307e\u3046\u3002",
+    "Phrase": "モンテカルロに抱きしめられて、ナポリが恥じらって身悶えする。\\nその姿は愛らしく、見ているだけで和んでしまう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2609,38 +2611,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 100201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 102201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 68,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3060\u304b\u3089\u3053\u305d\u3001\u3084\u306f\u308a\u7591\u554f\u3092\u62b1\u3044\u3066\u3057\u307e\u3046\u3002\\n\u4f55\u6545\u3001\u30ca\u30dd\u30ea\u306f\u753a\u306e\u4eba\u3005\u306b\u618e\u307e\u308c\u3001\\n\u307b\u3068\u3093\u3069\u8feb\u5bb3\u3055\u308c\u308b\u3088\u3046\u306b\u3057\u3066\u751f\u304d\u3066\u3044\u305f\u306e\u3060\u308d\u3046\u3002",
+    "Phrase": "だからこそ、やはり疑問を抱いてしまう。\\n何故、ナポリは町の人々に憎まれ、\\nほとんど迫害されるようにして生きていたのだろう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2654,38 +2656,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 100201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 102201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 69,
     "ViewOrder": 1,
-    "Name": "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed",
-    "Phrase": "\u300c\u306d\u3047\u3001\u3053\u3046\u3057\u3066\u5de1\u308a\u4f1a\u3048\u305f\u306e\u3082\u4f55\u304b\u306e\u7e01\u3060\u3057\u2015\u2015\\n\u3000\u30ca\u30dd\u3061\u3083\u3093\u3001\u826f\u304b\u3063\u305f\u3089\u3046\u3061\u306e\u8fd1\u6240\u306b\u3067\u3082\u5f15\u3063\u8d8a\u3055\u306a\u3044\uff1f\u300d",
+    "Name": "モンテカルロ",
+    "Phrase": "「ねぇ、こうして巡り会えたのも何かの縁だし――\\n　ナポちゃん、良かったらうちの近所にでも引っ越さない？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2699,38 +2701,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 100201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 102201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 70,
     "ViewOrder": 1,
-    "Name": "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed",
-    "Phrase": "\u300c\u3053\u3093\u306a\u30a6\u30f3\u30b3\u307f\u305f\u3044\u306a\u753a\u3067\u3001\u6211\u6162\u3057\u3066\u66ae\u3089\u3059\u5fc5\u8981\u306a\u3044\u308f\u3088\u3093\uff01\u300d",
+    "Name": "モンテカルロ",
+    "Phrase": "「こんなウンコみたいな町で、我慢して暮らす必要ないわよん！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2744,38 +2746,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 100201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 102201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 71,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u5973\u306e\u5b50\u304c\u3001\u30a6\u30f3\u2026\u2026\u3063\u3066\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「女の子が、ウン……って」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2789,38 +2791,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 36201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 72,
     "ViewOrder": 1,
-    "Name": "\u30bb\u30a4\u30e9\u30e0",
-    "Phrase": "\u300c\u3075\u3075\u3002\u305d\u3093\u306a\u3054\u304f\u4e00\u822c\u7684\u306a\u8912\u3081\u8a00\u8449\u3092\u53e3\u306b\u3059\u308b\u306e\u3092\u8e8a\u8e87\u3046\u306a\u3093\u3066\u3001\\n\u3000\u30ba\u30a8\u30e9\u30c3\u30c8\u3055\u307e\u306f\u304a\u304b\u3057\u306a\u304b\u305f\u3067\u3059\u306d\u266a\u300d",
+    "Name": "セイラム",
+    "Phrase": "「ふふ。そんなごく一般的な褒め言葉を口にするのを躊躇うなんて、\\n　ズエラットさまはおかしなかたですね♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2834,38 +2836,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 36201,
         "Position": 4,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 73,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u3048\u3048\u3048\uff1f\u3000\u3042\u305f\u3057\u304c\u5909\u306a\u3093\u3067\u3059\u304b\uff1f\\n\u3000\u4f55\u304b\u7279\u9244\u968a\u306e\u3072\u3068\u305f\u3061\u3068\u4e00\u7dd2\u306b\u3044\u308b\u3068\u3001\u5e38\u8b58\u304c\u63fa\u3089\u3050\uff01\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「えええ？　あたしが変なんですか？\\n　何か特鉄隊のひとたちと一緒にいると、常識が揺らぐ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2879,38 +2881,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 36201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 74,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30dd\u30ea",
-    "Phrase": "\u300c\u2026\u2026\u2026\u266a\u300d",
+    "Name": "ナポリ",
+    "Phrase": "「………♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2924,38 +2926,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 100201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 102201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 75,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u548c\u6c17\u85f9\u3005\u3068\u8a9e\u308a\u3042\u3046\u5973\u306e\u5b50\u305f\u3061\u3092\u898b\u3066\u3001\u30ca\u30dd\u30ea\u304c\u5fae\u7b11\u3080\u3002\\n\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed\u306b\u62b1\u304d\u3057\u3081\u3089\u308c\u305f\u307e\u307e\u3001\\n\u305d\u306e\u4f53\u6e29\u3092\u611f\u3058\u306a\u304c\u3089\u2015\u2015\u5f7c\u5973\u306f\u4f55\u3092\u60f3\u3063\u3066\u3044\u308b\u306e\u3060\u308d\u3046\u3002",
+    "Phrase": "和気藹々と語りあう女の子たちを見て、ナポリが微笑む。\\nモンテカルロに抱きしめられたまま、\\nその体温を感じながら――彼女は何を想っているのだろう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -2969,38 +2971,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 100201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 102201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 7,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 76,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30dd\u30ea",
-    "Phrase": "\u300c\u30ca\u30dd\u30ea\u3001\u306f\u2026\u2026\u3002\\n\u3000\u30ca\u30dd\u30ea\u3082\u3001\u3082\u3057\u3082\u305d\u3093\u306a\u672a\u6765\u304c\u3042\u308b\u306e\u306a\u3089\u300d",
+    "Name": "ナポリ",
+    "Phrase": "「ナポリ、は……。\\n　ナポリも、もしもそんな未来があるのなら」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3014,38 +3016,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 100201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 102201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 77,
     "ViewOrder": 1,
-    "Name": "\u304c\u3057\u3083\u3069\u304f\u308d",
-    "Phrase": "\u300e\u2026\u2026\u2026\u2026\u300f",
+    "Name": "がしゃどくろ",
+    "Phrase": "『…………』",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3059,38 +3061,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 100201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 102201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 78,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30ca\u30dd\u30ea\u304c\u4f55\u304b\u8a00\u3044\u304b\u3051\u305f\u306e\u3068\u540c\u6642\u306b\u3001\u753a\u306b\u5de8\u5927\u306a\u5f71\u304c\u843d\u3061\u308b\u3002\\n\u9a5a\u3044\u3066\u898b\u308b\u3068\u2015\u2015\\n\u753a\u306e\u5468\u308a\u3092\u3001\u7121\u6570\u306e\u300e\u304c\u3057\u3083\u3069\u304f\u308d\u300f\u304c\u53d6\u308a\u56f2\u3093\u3067\u3044\u305f\u3002",
+    "Phrase": "ナポリが何か言いかけたのと同時に、町に巨大な影が落ちる。\\n驚いて見ると――\\n町の周りを、無数の『がしゃどくろ』が取り囲んでいた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3104,38 +3106,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 100201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 102201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 79,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u3046\u308f\u3001\u3082\u3046\u5fa9\u6d3b\u3057\u3066\u304d\u305f\u3093\u3067\u3059\u304b\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「うわ、もう復活してきたんですか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3149,30 +3151,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 80,
     "ViewOrder": 1,
-    "Name": "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed",
-    "Phrase": "\u300c\u3064\u3046\u304b\u3002\u30ae\u30e3\u30f3\u30b0\u304c\u753a\u3092\u5b88\u3063\u3066\u304f\u308c\u308b\u3001\u307f\u305f\u3044\u306a\u8a71\u3060\u3063\u305f\u3051\u3069\u2015\u2015\u300d",
+    "Name": "モンテカルロ",
+    "Phrase": "「つうか。ギャングが町を守ってくれる、みたいな話だったけど――」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3186,30 +3188,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 100201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 81,
     "ViewOrder": 1,
-    "Name": "\u30ae\u30e3\u30f3\u30b0",
-    "Phrase": "\u300e\u30d1\u30e9\u30ea\u30e9\uff01\u3000\u30d1\u30e9\u30ea\u30e9\uff01\u300f",
+    "Name": "ギャング",
+    "Phrase": "『パラリラ！　パラリラ！』",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3223,38 +3225,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 122,
         "Position": 2,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 10,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 127,
         "Position": 4,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 10,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 82,
     "ViewOrder": 1,
-    "Name": "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed",
-    "Phrase": "\u300c\u3042\u3044\u3064\u3089\u7121\u99c4\u306b\u8d70\u308a\u56de\u3063\u3066\u308b\u3060\u3051\u3067\u3001\\n\u3000\u300e\u304c\u3057\u3083\u3069\u304f\u308d\u300f\u3068\u6226\u3046\u6c17\u304c\u306a\u3055\u305d\u3046\u306a\u3093\u3060\u3051\u3069\u300d",
+    "Name": "モンテカルロ",
+    "Phrase": "「あいつら無駄に走り回ってるだけで、\\n　『がしゃどくろ』と戦う気がなさそうなんだけど」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3268,30 +3270,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 100201,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 83,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u3069\u3063\u3061\u3082\u9b54\u7269\u306b\u898b\u3048\u307e\u3059\u3057\u3001\\n\u3000\u3084\u3063\u3071\u308a\u3042\u3044\u3064\u3089\u4ef2\u9593\u306a\u3093\u3058\u3083\u306a\u3044\u3067\u3057\u3087\u3046\u304b\u3002\\n\u3000\u9b54\u7269\u3063\u3066\u3001\u4e0d\u601d\u8b70\u3068\u5171\u98df\u3044\u306f\u3057\u307e\u305b\u3093\u3057\u2015\u2015\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「どっちも魔物に見えますし、\\n　やっぱりあいつら仲間なんじゃないでしょうか。\\n　魔物って、不思議と共食いはしませんし――」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3305,38 +3307,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 36201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 84,
     "ViewOrder": 1,
-    "Name": "\u30bb\u30a4\u30e9\u30e0",
-    "Phrase": "\u300c\u3042\u305f\u304f\u3057\u305f\u3061\u306b\u3068\u3063\u3066\u306f\u6700\u521d\u304b\u3089\u3001\\n\u3000\u3069\u3061\u3089\u3082\u6575\u3067\u3054\u3056\u3044\u307e\u3059\u3088\u300d",
+    "Name": "セイラム",
+    "Phrase": "「あたくしたちにとっては最初から、\\n　どちらも敵でございますよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3350,38 +3352,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 36201,
         "Position": 4,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 85,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u751f\u5f92\u306e\u306a\u304b\u3067\u306f\u6700\u3082\u7d4c\u9a13\u8c4a\u5bcc\u306a\u30bb\u30a4\u30e9\u30e0\u304c\u3001\u7387\u5148\u3057\u3066\u6756\u3092\u632f\u308a\u304b\u3056\u3057\u305f\u3002",
+    "Phrase": "生徒のなかでは最も経験豊富なセイラムが、率先して杖を振りかざした。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3395,38 +3397,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 36201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 86,
     "ViewOrder": 1,
-    "Name": "\u30bb\u30a4\u30e9\u30e0",
-    "Phrase": "\u300c\u6211\u3089\u306f\u3001\u4e16\u754c\u306e\u5e73\u548c\u3092\u5b88\u308b\u305f\u3081\u306b\u6226\u3046\u7279\u9244\u968a\uff01\\n\u3000\u305d\u306e\u4f7f\u547d\u3092\u679c\u305f\u3059\u305f\u3081\u306b\u3001\u4eba\u985e\u306e\u5929\u6575\u305f\u308b\u9b54\u7269\u3092\u8a0e\u4f10\u3044\u305f\u3057\u307e\u3057\u3087\u3046\uff01\u300d",
+    "Name": "セイラム",
+    "Phrase": "「我らは、世界の平和を守るために戦う特鉄隊！\\n　その使命を果たすために、人類の天敵たる魔物を討伐いたしましょう！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3440,38 +3442,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 36201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 87,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u306f\u3001\u306f\u3044\uff01\u3000\u3053\u3093\u306a\u4e0d\u6109\u5feb\u306a\u753a\u3092\u5b88\u308b\u306e\u306f\u6b63\u76f4\u30a4\u30e4\u3067\u3059\u304c\u3001\\n\u3000\u305d\u308c\u304c\u3042\u305f\u3057\u305f\u3061\u306e\u4ed5\u4e8b\u3067\u3059\u304b\u3089\u306d\uff01\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「は、はい！　こんな不愉快な町を守るのは正直イヤですが、\\n　それがあたしたちの仕事ですからね！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3485,38 +3487,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 36201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 88,
     "ViewOrder": 1,
-    "Name": "\u30ba\u30a8\u30e9\u30c3\u30c8",
-    "Phrase": "\u300c\u3044\u3064\u3082\u3069\u304a\u308a\u306b\u3001\u307f\u3093\u306a\u3067\u529b\u3092\u5408\u308f\u305b\u3066\u304c\u3093\u3070\u308a\u307e\u3057\u3087\u3046\u2026\u2026\uff01\u300d",
+    "Name": "ズエラット",
+    "Phrase": "「いつもどおりに、みんなで力を合わせてがんばりましょう……！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3530,38 +3532,38 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 77201,
         "Position": 2,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      },
-      {
+    },
+    {
         "MCharacterId": 36201,
         "Position": 4,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 89,
     "ViewOrder": 1,
-    "Name": "\u30e2\u30f3\u30c6\u30ab\u30eb\u30ed",
-    "Phrase": "\u300c\u3046\u3093\uff01\u3000\u65b0\u3057\u304f\u3067\u304d\u305f\u304a\u53cb\u9054\u306b\u3001\u826f\u3044\u3068\u3053\u308d\u3092\u898b\u305b\u308b\u305f\u3081\u306b\u3082\u306d\u3093\u266a\u300d",
+    "Name": "モンテカルロ",
+    "Phrase": "「うん！　新しくできたお友達に、良いところを見せるためにもねん♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3575,30 +3577,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 100201,
         "Position": 3,
         "Action": 0,
         "Emotion": 1,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 90,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30dd\u30ea",
-    "Phrase": "\u300c\u304a\u53cb\u9054\u2015\u2015\u300d",
+    "Name": "ナポリ",
+    "Phrase": "「お友達――」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3612,30 +3614,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 102201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 91,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u3075\u3075\u3002\u30ca\u30dd\u30ea\u305f\u3093\u306b\u3068\u3063\u3066\u306f\u3001\u672a\u77e5\u306e\u5358\u8a9e\u306a\u306e\u304b\u3082\u3057\u308c\u306a\u3044\u3051\u3069\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「ふふ。ナポリたんにとっては、未知の単語なのかもしれないけど」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3649,30 +3651,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 92,
     "ViewOrder": 1,
-    "Name": "\u30c6\u30eb\u30df\u30cb",
-    "Phrase": "\u300c\u308f\u305f\u3057\u304c\u6559\u3048\u3066\u3042\u3052\u306a\u304f\u3066\u3082\u3001\\n\u3000\u305d\u306e\u8a00\u8449\u306e\u610f\u5473\u3092\u3001\u3042\u306a\u305f\u306f\u305f\u3076\u3093\u3082\u3046\u7406\u89e3\u3057\u3066\u308b\u3093\u3058\u3083\u306a\u3044\u304b\u306a\u300d",
+    "Name": "テルミニ",
+    "Phrase": "「わたしが教えてあげなくても、\\n　その言葉の意味を、あなたはたぶんもう理解してるんじゃないかな」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -3686,23 +3688,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 51201,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30e4\u30af\u30fc\u30c4\u30af\u306e\u90e8\u5c4b\u306b\u4fb5\u5165\u3057\u305f\u3053\u3068\u304c\u4ed6\u306e\u5bee\u751f\u306b\u30d0\u30ec\u305f\u3089\u4e0d\u5473\u3044\u306e\u3067\u3001\\n\u300c\u8cb7\u3044\u7269\u306b\u4ed8\u304d\u5408\u3046\u300d\u3068\u3044\u3046\u540d\u76ee\u3067\u30d9\u30b9\u30c1\u30e3\u3092\u8857\u3078\u3068\u9023\u308c\u51fa\u3057\u305f\u3002",
+    "Phrase": "ヤクーツクの部屋に侵入したことが他の寮生にバレたら不味いので、\\n「買い物に付き合う」という名目でベスチャを街へと連れ出した。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u3055\u3059\u304c\u306f\u30bb\u30f3\u30c8\u30a4\u30ea\u30b9\u306e\u4e2d\u5fc3\u8857\u3002\\n\u3000\u53e4\u4eca\u6771\u897f\u3042\u308a\u3068\u3042\u3089\u3086\u308b\u3082\u306e\u304c\u58f2\u3063\u3066\u307e\u3059\u306d\u3002\\n\u3000\u5fc5\u8981\u306a\u3082\u306e\u306f\u5927\u4f53\u3053\u3053\u3067\u8cb7\u3044\u305d\u308d\u3048\u3089\u308c\u305d\u3046\u3067\u3059\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「さすがはセントイリスの中心街。\\n　古今東西ありとあらゆるものが売ってますね。\\n　必要なものは大体ここで買いそろえられそうです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,30 +46,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u52a9\u304b\u308a\u307e\u3057\u305f\u3002\\n\u3000\u307e\u3060\u3053\u306e\u8fba\u308a\u306e\u5730\u7406\u306b\u8a73\u3057\u304f\u306a\u3044\u305f\u3081\u3001\\n\u3000\u4e00\u4eba\u3067\u8cb7\u3044\u7269\u3092\u3059\u308b\u306e\u306f\u5c11\u3057\u4e0d\u5b89\u3060\u3063\u305f\u306e\u3067\u3059\u3002\\n\u3000\u3053\u308c\u306a\u3089\u59c9\u3055\u307e\u306e\u304a\u90e8\u5c4b\u304b\u3089\u7269\u3092\u62dd\u501f\u3057\u306a\u304f\u3066\u6e08\u307f\u305d\u3046\u3067\u3059\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「助かりました。\\n　まだこの辺りの地理に詳しくないため、\\n　一人で買い物をするのは少し不安だったのです。\\n　これなら姉さまのお部屋から物を拝借しなくて済みそうです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -82,30 +83,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u306f\u3058\u3081\u304b\u3089\u8eca\u638c\u6bbf\u306b\u76f8\u8ac7\u3092\u3059\u308c\u3070\u3088\u304b\u3063\u305f\u306e\u3067\u3059\u3002\\n\u3000\u59c9\u3055\u307e\u306b\u76f8\u8ac7\u3057\u3066\u3082\u300e\u79c1\u304c\u4f55\u3068\u304b\u3059\u308b\u304b\u3089\u300f\u306e\u4e00\u70b9\u5f35\u308a\u3002\\n\u3000\u304a\u5e97\u306e\u30ea\u30b9\u30c8\u3068\u5730\u56f3\u3055\u3048\u3082\u3089\u3048\u305f\u3089\u3001\u79c1\u4e00\u4eba\u3067\u3082\u5e73\u6c17\u306a\u306e\u306b\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「はじめから車掌殿に相談をすればよかったのです。\\n　姉さまに相談しても『私が何とかするから』の一点張り。\\n　お店のリストと地図さえもらえたら、私一人でも平気なのに」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -119,30 +120,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u59c9\u3055\u307e\u306f\u305d\u308d\u305d\u308d\u300e\u59b9\u96e2\u308c\u300f\u3092\u3059\u308b\u3079\u304d\u3067\u3059\u3002\\n\u3000\u79c1\u306e\u3053\u3068\u3092\u307e\u308b\u3067\u5c0f\u3055\u306a\u5b50\u4f9b\u306e\u3088\u3046\u306b\u6271\u3046\u3093\u3067\u3059\u3088\uff1f\\n\u3000\u6614\u304b\u3089\u59c9\u3055\u307e\u306f\u904e\u4fdd\u8b77\u306a\u3093\u3067\u3059\u3088\u3002\u540c\u3044\u5e74\u306a\u306e\u306b\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「姉さまはそろそろ『妹離れ』をするべきです。\\n　私のことをまるで小さな子供のように扱うんですよ？\\n　昔から姉さまは過保護なんですよ。同い年なのに」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -156,30 +157,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30d9\u30b9\u30c1\u30e3\u306f\u3053\u3046\u8a00\u3063\u3066\u3044\u308b\u304c\u3001\\n\u300c\u8cb7\u3044\u7269\u306b\u3044\u304f\u300d\u3068\u6c7a\u3081\u305f\u5f8c\u3082\u3001\u30d9\u30b9\u30c1\u30e3\u306f\u30e4\u30af\u30fc\u30c4\u30af\u306e\u90e8\u5c4b\u304b\u3089\\n\u3051\u3063\u3053\u3046\u306a\u91cf\u306e\u7269\u54c1\u3092\u6301\u3061\u51fa\u3057\u3066\u3044\u3063\u305f\u3002\\n\u3069\u3046\u898b\u3066\u3082\u300c\u5fc5\u8981\u306a\u3082\u306e\u300d\u3067\u306f\u306a\u3044\u3082\u306e\u304c\u5927\u534a\u3092\u5360\u3081\u3066\u3044\u305f\u3088\u3046\u3060\u304c\u2026\u2026\u3002",
+    "Phrase": "ベスチャはこう言っているが、\\n「買い物にいく」と決めた後も、ベスチャはヤクーツクの部屋から\\nけっこうな量の物品を持ち出していった。\\nどう見ても「必要なもの」ではないものが大半を占めていたようだが……。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -193,21 +194,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u308c\u306b\u3001\u59c9\u306e\u30e4\u30af\u30fc\u30c4\u30af\u304c\u4f55\u3092\u8cb7\u3063\u3066\u5e30\u3063\u3066\u304f\u308b\u304b\u3001\\n\u30d9\u30b9\u30c1\u30e3\u306f\u3068\u3066\u3082\u697d\u3057\u307f\u306b\u3057\u3066\u3044\u308b\u3088\u3046\u3060\u3063\u305f\u3002",
+    "Phrase": "それに、姉のヤクーツクが何を買って帰ってくるか、\\nベスチャはとても楽しみにしているようだった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -221,21 +223,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u306e\u305b\u3044\u3067\u3001\u30d9\u30b9\u30c1\u30e3\u306e\u300e\u8cb7\u3046\u3082\u306e\u30ea\u30b9\u30c8\u300f\u306f\u7a7a\u767d\u3060\u3089\u3051\u3002\\n\u30e4\u30af\u30fc\u30c4\u30af\u304c\u8cb7\u3063\u3066\u6765\u3066\u304f\u308c\u305d\u3046\u306a\u3082\u306e\u306f\u8cb7\u308f\u306a\u3044\u3088\u3046\u306b\u3057\u3066\u3044\u308b\u306e\u3060\u3002",
+    "Phrase": "そのせいで、ベスチャの『買うものリスト』は空白だらけ。\\nヤクーツクが買って来てくれそうなものは買わないようにしているのだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -249,21 +252,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u3042\u3001\u3053\u306e\u670d\u2026\u2026\u3002\\n\u3000\u59c9\u3055\u307e\u306b\u4f3c\u5408\u3044\u305d\u3046\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「あ、この服……。\\n　姉さまに似合いそう」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -277,30 +281,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 8,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u3053\u3063\u3061\u306e\u30c6\u30a3\u30fc\u30ab\u30c3\u30d7\u3082\u3001\u59c9\u3055\u307e\u304c\u4f7f\u3063\u3066\u3044\u305f\u3082\u306e\u306b\u305d\u3063\u304f\u308a\u3002\\n\u3000\u3053\u306e\u304a\u5e97\u306f\u3001\u304d\u3063\u3068\u59c9\u3055\u307e\u3082\u3088\u304f\u5229\u7528\u3057\u3066\u3044\u308b\u306f\u305a\u3067\u3059\u3088\u3002\\n\u3000\u6271\u3063\u3066\u3044\u308b\u5546\u54c1\u304c\u59c9\u3055\u307e\u306e\u597d\u304d\u305d\u3046\u306a\u3082\u306e\u3070\u304b\u308a\u3067\u3059\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「こっちのティーカップも、姉さまが使っていたものにそっくり。\\n　このお店は、きっと姉さまもよく利用しているはずですよ。\\n　扱っている商品が姉さまの好きそうなものばかりです」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -314,30 +318,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30d9\u30b9\u30c1\u30e3\u306f\u81ea\u5206\u304c\u8cb7\u3044\u305f\u3044\u3082\u306e\u3067\u306f\u306a\u304f\\n\u30e4\u30af\u30fc\u30c4\u30af\u304c\u6b32\u3057\u304c\u308a\u305d\u3046\u306a\u3082\u306e\u3070\u304b\u308a\u898b\u3066\u306f\u76ee\u3092\u8f1d\u304b\u305b\u3066\u3044\u308b\u3002\\n\u30e4\u30af\u30fc\u30c4\u30af\u304c\u59b9\u96e2\u308c\u3067\u304d\u3066\u3044\u306a\u3044\u306e\u3082\u4f55\u3068\u306a\u304f\u308f\u304b\u308b\u304c\u3001\\n\u30d9\u30b9\u30c1\u30e3\u3068\u3066\u59c9\u96e2\u308c\u3067\u304d\u3066\u3044\u306a\u3044\u306e\u3067\u306f\u306a\u3044\u3060\u308d\u3046\u304b\u3002",
+    "Phrase": "ベスチャは自分が買いたいものではなく\\nヤクーツクが欲しがりそうなものばかり見ては目を輝かせている。\\nヤクーツクが妹離れできていないのも何となくわかるが、\\nベスチャとて姉離れできていないのではないだろうか。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -351,30 +355,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3060\u304c\u3001\u3053\u308c\u3067\u3044\u3044\u306e\u3060\u3068\u601d\u3046\u3002\\n\u4e00\u7dd2\u306b\u3044\u305f\u3044\u306e\u306b\u5f15\u304d\u96e2\u3055\u308c\u308b\u3088\u308a\u3082\u305a\u3063\u3068\u3044\u3044\u3002",
+    "Phrase": "だが、これでいいのだと思う。\\n一緒にいたいのに引き離されるよりもずっといい。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -388,30 +392,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30e4\u30af\u30fc\u30c4\u30af\u3082\u30d9\u30b9\u30c1\u30e3\u306f\u4f55\u5e74\u3082\u306e\u3042\u3044\u3060\u96e2\u308c\u3070\u306a\u308c\u306b\u306a\u3063\u3066\u3044\u305f\u3002\\n\u3069\u3053\u3067\u4f55\u3092\u3057\u3066\u3044\u308b\u304b\u3082\u77e5\u3089\u305a\u3001\u305d\u308c\u305e\u308c\u306e\u6226\u5834\u3067\u6226\u3044\u7d9a\u3051\u3066\u3044\u305f\u306e\u3060\u3002\\n\u3088\u3046\u3084\u304f\u4e00\u7dd2\u306b\u66ae\u3089\u305b\u308b\u3088\u3046\u306b\u306a\u3063\u305f\u306e\u3060\u304b\u3089\u3001\\n\u540c\u3058\u6642\u9593\u3092\u5171\u6709\u3067\u304d\u308b\u559c\u3073\u3092\u3046\u3093\u3068\u5473\u308f\u3063\u305f\u3089\u3044\u3044\u306e\u3060\u3002",
+    "Phrase": "ヤクーツクもベスチャは何年ものあいだ離ればなれになっていた。\\nどこで何をしているかも知らず、それぞれの戦場で戦い続けていたのだ。\\nようやく一緒に暮らせるようになったのだから、\\n同じ時間を共有できる喜びをうんと味わったらいいのだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -425,30 +429,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2015\u2015\u3042\u3063\uff01\u3000\u30e4\u30af\u30fc\u30c4\u30af\u3060\uff01",
+    "Phrase": "――あっ！　ヤクーツクだ！",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -462,30 +466,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u2026\u2026\uff1f\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「……？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -499,30 +503,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 8,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30d9\u30b9\u30c1\u30e3\u304c\u5e97\u306e\u5916\u3067\u30a6\u30a3\u30f3\u30c9\u30a6\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u3057\u3066\u3044\u308b\u3068\u3001\\n\u6570\u4eba\u306e\u5b50\u3069\u3082\u9054\u304c\u30d9\u30b9\u30c1\u30e3\u306e\u307b\u3046\u3092\u898b\u3066\u300c\u30e4\u30af\u30fc\u30c4\u30af\u300d\u3068\u547c\u3093\u3060\u3002",
+    "Phrase": "ベスチャが店の外でウィンドウショッピングしていると、\\n数人の子ども達がベスチャのほうを見て「ヤクーツク」と呼んだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -536,30 +540,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u307e\u3042\u3001\u9593\u9055\u3048\u3089\u308c\u3066\u3057\u307e\u3046\u306e\u306f\u4ed5\u65b9\u304c\u306a\u3044\u3002\\n\u30e4\u30af\u30fc\u30c4\u30af\u306f\u4eca\u3084\u30bb\u30f3\u30c8\u30a4\u30ea\u30b9\u306e\u90fd\u5fc3\u90e8\u3067\u8d85\u304c\u3064\u304f\u307b\u3069\u306e\u6709\u540d\u4eba\u3060\u3002\\n\u30d9\u30b9\u30c1\u30e3\u306e\u3053\u3068\u3092\u77e5\u3089\u306a\u3044\u4eba\u304c\u898b\u305f\u3089\\n\u8ab0\u3060\u3063\u3066\u30e4\u30af\u30fc\u30c4\u30af\u3068\u547c\u3093\u3067\u3057\u307e\u3046\u3060\u308d\u3046\u3002",
+    "Phrase": "まあ、間違えられてしまうのは仕方がない。\\nヤクーツクは今やセントイリスの都心部で超がつくほどの有名人だ。\\nベスチャのことを知らない人が見たら\\n誰だってヤクーツクと呼んでしまうだろう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -573,30 +577,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2015\u2015\u5927\u30e4\u30af\u30fc\u30c4\u30af\u3060\uff01\u3000\u4f55\u304b\u304b\u3063\u3053\u3044\u3044\u30bb\u30ea\u30d5\u8a00\u3063\u3066\u304f\u308c\u3088\uff01\\n\u2015\u2015\u305d\u3046\u305d\u3046\u3001\u300c\u30a2\u30a4\u30bc\u30f3\u30b0\u30e9\u30fc\u30c8\u8ecd\u4eba\u3068\u3057\u3066\uff01\u300d\u3063\u3066\u3084\u3063\u3066\uff01",
+    "Phrase": "――大ヤクーツクだ！　何かかっこいいセリフ言ってくれよ！\\n――そうそう、「アイゼングラート軍人として！」ってやって！",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -610,30 +614,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u3044\u3084\u3001\u79c1\u306f\u59c9\u3055\u307e\u2026\u2026\u30e4\u30af\u30fc\u30c4\u30af\u3058\u3083\u306a\u3044\u306e\u3088\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「いや、私は姉さま……ヤクーツクじゃないのよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -647,30 +651,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 5,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30d9\u30b9\u30c1\u30e3\u304c\u8a00\u3046\u3068\u3001\u5b50\u4f9b\u305f\u3061\u306f\u58f0\u3092\u305d\u308d\u3048\u3066\\n\u300c\u3053\u3093\u306a\u306b\u305d\u3063\u304f\u308a\u306a\u306e\u306b\uff01\uff1f\u300d\u3068\u8a00\u3063\u305f\u3002",
+    "Phrase": "ベスチャが言うと、子供たちは声をそろえて\\n「こんなにそっくりなのに！？」と言った。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -684,30 +688,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3060\u304c\u3053\u308c\u306f\u30d9\u30b9\u30c1\u30e3\u306b\u3068\u3063\u3066\u3044\u3044\u6a5f\u4f1a\u3060\u3002\\n\u304d\u3061\u3093\u3068\u753a\u306e\u4eba\u305f\u3061\u306b\u81ea\u5df1\u7d39\u4ecb\u3092\u3057\u3066\u3001\\n\u81ea\u5206\u3082\u7279\u9244\u968a\u306e\u4e00\u54e1\u3067\u3042\u308b\u3053\u3068\u3092\u8a8d\u77e5\u3057\u3066\u3082\u3089\u3046\u3068\u3044\u3044\u3002",
+    "Phrase": "だがこれはベスチャにとっていい機会だ。\\nきちんと町の人たちに自己紹介をして、\\n自分も特鉄隊の一員であることを認知してもらうといい。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -721,30 +725,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u305d\u308c\u3082\u305d\u3046\u3067\u3059\u306d\u3002\\n\u3000\u4ee5\u524d\u306e\u3088\u3046\u306b\u3001\u7d20\u6027\u3092\u96a0\u3059\u5fc5\u8981\u306f\u306a\u304f\u306a\u3063\u305f\u308f\u3051\u3067\u3059\u304b\u3089\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「それもそうですね。\\n　以前のように、素性を隠す必要はなくなったわけですから」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -758,30 +762,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u79c1\u306e\u540d\u524d\u306f\u30d9\u30b9\u30c1\u30e3\u3002\\n\u3000\u307f\u3093\u306a\u304c\u77e5\u3063\u3066\u3044\u308b\u30e4\u30af\u30fc\u30c4\u30af\u306e\u59b9\u3067\u3059\u3002\\n\u3000\u9854\u304c\u305d\u3063\u304f\u308a\u306a\u306e\u306f\u53cc\u5b50\u3060\u304b\u3089\u3002\\n\u3000\u3088\u304b\u3063\u305f\u3089\u79c1\u306e\u3053\u3068\u3082\u899a\u3048\u3066\u3044\u3066\u304f\u3060\u3055\u3044\u306d\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「私の名前はベスチャ。\\n　みんなが知っているヤクーツクの妹です。\\n　顔がそっくりなのは双子だから。\\n　よかったら私のことも覚えていてくださいね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -795,30 +799,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2015\u2015\u30d9\u30b9\u30c1\u30e3\uff01\u3000\u899a\u3048\u305f\uff01\\n\u2015\u2015\u53cc\u5b50\uff01\u3000\u304b\u3063\u3051\u30fc\uff01",
+    "Phrase": "――ベスチャ！　覚えた！\\n――双子！　かっけー！",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -832,21 +836,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 25,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u4e0d\u5b89\u3052\u3060\u3063\u305f\u30d9\u30b9\u30c1\u30e3\u3060\u304c\u3001\\n\u5b50\u4f9b\u305f\u3061\u306e\u7d14\u7c8b\u306a\u8a00\u8449\u306b\u3064\u3089\u308c\u3066\u601d\u308f\u305a\u53e3\u5143\u3092\u7de9\u3081\u308b\u3002",
+    "Phrase": "不安げだったベスチャだが、\\n子供たちの純粋な言葉につられて思わず口元を緩める。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -860,21 +865,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 26,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30e4\u30af\u30fc\u30c4\u30af\u306e\u53cc\u5b50\u306e\u59b9\u3068\u77e5\u3063\u3066\u304b\u3001\u5730\u5143\u306e\u5b50\u3069\u3082\u9054\u306f\u5927\u306f\u3057\u3083\u304e\u3002\\n\u4ef2\u9593\u3092\u547c\u3093\u3067\u3001\u30b5\u30a4\u30f3\u3092\u306d\u3060\u3063\u3066\u3001\\n\u3044\u3064\u306e\u307e\u306b\u304b\u30d9\u30b9\u30c1\u30e3\u306e\u5468\u308a\u306b\u306f\u4eba\u3060\u304b\u308a\u304c\u3067\u304d\u3066\u3044\u305f\u3002",
+    "Phrase": "ヤクーツクの双子の妹と知ってか、地元の子ども達は大はしゃぎ。\\n仲間を呼んで、サインをねだって、\\nいつのまにかベスチャの周りには人だかりができていた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -888,21 +894,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 27,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3060\u304c\u3001\u5b50\u4f9b\u305f\u3061\u306e\u6301\u3061\u7269\u306b\u30b5\u30a4\u30f3\u3092\u66f8\u304f\u30d9\u30b9\u30c1\u30e3\u306f\u3001\\n\u3069\u3053\u304b\u6d6e\u304b\u306a\u3044\u9854\u3092\u3057\u3066\u3044\u305f\u3002",
+    "Phrase": "だが、子供たちの持ち物にサインを書くベスチャは、\\nどこか浮かない顔をしていた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -916,21 +923,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 28,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u3084\u306f\u308a\u3053\u3053\u3067\u3082\u300e\u30e4\u30af\u30fc\u30c4\u30af\u306e\u59b9\u300f\u3067\u3059\u304b\u2026\u2026\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「やはりここでも『ヤクーツクの妹』ですか……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -944,30 +952,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 29,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u2026\u2026\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -981,30 +989,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 30,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u59c9\u306e\u30e4\u30af\u30fc\u30c4\u30af\u3068\u6bd4\u3079\u3089\u308c\u3066\u304d\u305f\u30d9\u30b9\u30c1\u30e3\u306b\u3068\u3063\u3066\u3001\\n\u300c\u30e4\u30af\u30fc\u30c4\u30af\u306e\u59b9\u300d\u3068\u3057\u3066\u30b5\u30a4\u30f3\u3092\u306d\u3060\u3089\u308c\u308b\u306e\u306f\u8907\u96d1\u306a\u6c17\u6301\u3061\u306a\u306e\u3060\u308d\u3046\u3002",
+    "Phrase": "姉のヤクーツクと比べられてきたベスチャにとって、\\n「ヤクーツクの妹」としてサインをねだられるのは複雑な気持ちなのだろう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1018,30 +1026,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 31,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3060\u304c\u3001\u305d\u306e\u3053\u3068\u3067\u6bce\u56de\u9805\u5782\u308c\u3066\u3044\u3066\u306f\u3044\u3051\u306a\u3044\u305e\u3002\\n\u3053\u3053\u304b\u3089\u5148\u3001\u30c8\u30ec\u30a4\u30f3\u30ca\u30a4\u30c8\u3068\u3057\u3066\u306f\u59c9\u3082\u59b9\u3082\u5bfe\u7b49\u3060\u3002\\n\u30d9\u30b9\u30c1\u30e3\u304c\u81ea\u5206\u3067\u52aa\u529b\u3057\u3066\u3001\u4eba\u3005\u306e\u4fe1\u983c\u3092\u52dd\u3061\u53d6\u3089\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u306e\u3060\u3002",
+    "Phrase": "だが、そのことで毎回項垂れていてはいけないぞ。\\nここから先、トレインナイトとしては姉も妹も対等だ。\\nベスチャが自分で努力して、人々の信頼を勝ち取らなければならないのだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1055,30 +1063,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 32,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u3082\u3061\u308d\u3093\u3001\u305d\u308c\u306f\u308f\u304b\u3063\u3066\u3044\u307e\u3059\u3002\\n\u3000\u30a2\u30a4\u30bc\u30f3\u30b0\u30e9\u30fc\u30c8\u8ecd\u306b\u5165\u3063\u305f\u6642\u3068\u306f\u9055\u3046\u3002\\n\u3000\u59c9\u3055\u307e\u306f\u3001\u79c1\u306e\u6d3b\u8e8d\u3092\u5fdc\u63f4\u3057\u3066\u304f\u308c\u3066\u3044\u308b\u306e\u3067\u3059\u304b\u3089\u2026\u2026\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「もちろん、それはわかっています。\\n　アイゼングラート軍に入った時とは違う。\\n　姉さまは、私の活躍を応援してくれているのですから……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1092,30 +1100,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 33,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2015\u2015\u306d\u3048\u3001\u30d9\u30b9\u30c1\u30e3\u3082\u5f37\u3044\uff1f",
+    "Phrase": "――ねえ、ベスチャも強い？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1129,30 +1137,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 34,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u3048\uff1f\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「え？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1166,30 +1174,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 35,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u4eba\u6df7\u307f\u306e\u4e2d\u304b\u3089\u3001\u4e00\u4eba\u306e\u5c11\u5973\u304c\u9854\u3092\u51fa\u3057\u3066\u30d9\u30b9\u30c1\u30e3\u306b\u554f\u3046\u305f\u3002",
+    "Phrase": "人混みの中から、一人の少女が顔を出してベスチャに問うた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1203,30 +1211,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 143,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 36,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2015\u2015\u30d9\u30b9\u30c1\u30e3\u3082\u3001\u30e4\u30af\u30fc\u30c4\u30af\u3068\u540c\u3058\u304f\u3089\u3044\u5f37\u3044\uff1f",
+    "Phrase": "――ベスチャも、ヤクーツクと同じくらい強い？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1240,30 +1248,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 143,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 37,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5f37\u3055\u306b\u95a2\u3059\u308b\u8cea\u554f\u3092\u6295\u3052\u304b\u3051\u305f\u5c11\u5973\u306f\u3001\\n\u3069\u3053\u304b\u4e0d\u5b89\u3052\u306a\u8868\u60c5\u3092\u6d6e\u304b\u3079\u3066\u3044\u305f\u3002",
+    "Phrase": "強さに関する質問を投げかけた少女は、\\nどこか不安げな表情を浮かべていた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1277,30 +1285,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 143,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 38,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30d9\u30b9\u30c1\u30e3\u304c\u300c\u3048\u3048\u3001\u5f37\u3044\u3067\u3059\u3088\u300d\u3068\u81ea\u4fe1\u3092\u6301\u3063\u3066\u7b54\u3048\u308b\u3068\u3001\\n\u5c11\u5973\u306f\u81ea\u5206\u3088\u308a\u8eab\u4f53\u306e\u5927\u304d\u3044\u5c11\u5e74\u305f\u3061\u3092\u62bc\u3057\u306e\u3051\u3066\u3001\u30d9\u30b9\u30c1\u30e3\u306e\u524d\u306b\u7acb\u3063\u305f\u3002",
+    "Phrase": "ベスチャが「ええ、強いですよ」と自信を持って答えると、\\n少女は自分より身体の大きい少年たちを押しのけて、ベスチャの前に立った。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1314,30 +1322,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 143,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 39,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u2015\u2015\u308f\u305f\u3057\u306e\u59b9\u3092\u52a9\u3051\u3066\u307b\u3057\u3044\u306e\u3002",
+    "Phrase": "――わたしの妹を助けてほしいの。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1351,30 +1359,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 143,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 40,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u59b9\u3055\u3093\u306e\u8eab\u306b\u4f55\u304b\u3042\u3063\u305f\u306e\u3067\u3059\u304b\uff01\uff1f\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「妹さんの身に何かあったのですか！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1388,30 +1396,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 41,
     "ViewOrder": 1,
-    "Name": "\u30d9\u30b9\u30c1\u30e3",
-    "Phrase": "\u300c\u3059\u3050\u306b\u73fe\u5834\u3078\u3068\u6025\u884c\u3057\u307e\u3057\u3087\u3046\u3002\\n\u3000\u304a\u5b22\u3055\u3093\u3001\u59b9\u3055\u3093\u306e\u3068\u3053\u308d\u3078\u6848\u5185\u3057\u3066\u304f\u3060\u3055\u3044\u300d",
+    "Name": "ベスチャ",
+    "Phrase": "「すぐに現場へと急行しましょう。\\n　お嬢さん、妹さんのところへ案内してください」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1425,30 +1433,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 3,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 42,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u6b69\u3044\u3066\u3044\u3066\u306f\u9593\u306b\u5408\u308f\u306a\u3044\u3002\\n\u305d\u3046\u8a00\u3063\u3066\u30d9\u30b9\u30c1\u30e3\u306f\u5c11\u5973\u3092\u80cc\u8ca0\u3063\u3066\u3001\\n\u30bb\u30f3\u30c8\u30a4\u30ea\u30b9\u306e\u8857\u4e2d\u3092\u99c6\u3051\u3060\u3057\u305f\u3002",
+    "Phrase": "歩いていては間に合わない。\\nそう言ってベスチャは少女を背負って、\\nセントイリスの街中を駆けだした。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -1462,14 +1470,14 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5947\u5999\u306a\u7570\u5909\u306b\u898b\u821e\u308f\u308c\u305f\u30f4\u30a7\u30eb\u30d5\u30a9\u30ec\u30c3\u30c8\u306e\u5c71\u6751\u306b\u3001\\n\u7279\u9244\u968a\u54e1\u30a2\u30f3\u30c4\u30a3\u30aa\u3068\u3068\u3082\u306b\u3084\u3063\u3066\u304d\u305f\u3002",
+    "Phrase": "奇妙な異変に見舞われたヴェルフォレットの山村に、\\n特鉄隊員アンツィオとともにやってきた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u7dda\u8def\u3082\u901a\u3063\u3066\u3044\u306a\u3044\u3088\u3046\u306a\u8fba\u9119\u306a\u571f\u5730\u67c4\u3067\u3001\\n\u5ef6\u3005\u3068\u5c71\u767b\u308a\u3092\u3059\u308b\u7fbd\u76ee\u306b\u9665\u3063\u305f\u305f\u3081\u2015\u2015\\n\u8fbf\u308a\u7740\u3044\u305f\u3053\u308d\u306b\u306f\u3001\u3068\u3063\u3077\u308a\u3068\u65e5\u304c\u66ae\u308c\u3066\u3044\u305f\u3002",
+    "Phrase": "線路も通っていないような辺鄙な土地柄で、\\n延々と山登りをする羽目に陥ったため――\\n辿り着いたころには、とっぷりと日が暮れていた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,21 +46,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30f3\u30c4\u30a3\u30aa",
-    "Phrase": "\u300c\u306f\u3042\u3001\u3072\u3044\u3001\u306f\u3075\u3045\u3046\u3093\u2026\u2026\u266a\u300d",
+    "Name": "アンツィオ",
+    "Phrase": "「はあ、ひい、はふぅうん……♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -73,30 +75,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u76ee\u7684\u5730\u306b\u5230\u7740\u3057\u305f\u305e\u3001\u30a2\u30f3\u30c4\u30a3\u30aa\u3002\\n\u6d41\u77f3\u306b\u3055\u3093\u3056\u3093\u5c71\u9053\u3092\u6b69\u3044\u3066\u8db3\u8170\u304c\u9650\u754c\u3060\u3057\u3001\\n\u3044\u3044\u304b\u3052\u3093\u81ea\u529b\u3067\u79fb\u52d5\u3057\u3066\u307b\u3057\u3044\u3002",
+    "Phrase": "目的地に到着したぞ、アンツィオ。\\n流石にさんざん山道を歩いて足腰が限界だし、\\nいいかげん自力で移動してほしい。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -110,30 +112,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30f3\u30c4\u30a3\u30aa",
-    "Phrase": "\u300c\u306f\u3072\u3085\u3044\uff01\uff1f\\n\u3000\u3054\u3054\u3054\u3001\u3054\u3081\u3093\u306a\u3055\u3044\u8eca\u638c\u3055\u307e\uff01\\n\u3000\u304a\u624b\u6570\u3092\u304a\u304b\u3051\u3057\u307e\u3057\u305f\u3051\u3069\u3082\uff01\u300d",
+    "Name": "アンツィオ",
+    "Phrase": "「はひゅい！？\\n　ごごご、ごめんなさい車掌さま！\\n　お手数をおかけしましたけども！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -147,30 +149,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30301,
         "Position": 3,
         "Action": 1,
         "Emotion": 4,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3053\u3061\u3089\u306b\u80cc\u8ca0\u308f\u308c\u3001\\n\u306a\u305c\u304b\u604d\u60da\u3068\u3057\u3066\u3044\u305f\u30a2\u30f3\u30c4\u30a3\u30aa\u304c\u614c\u3066\u3066\u9854\u3092\u4e0a\u3052\u308b\u3002\\n\u5f7c\u5973\u306f\u5c71\u9053\u3092\u6b69\u3044\u3066\u3044\u308b\u9014\u4e2d\u3067\u52d5\u3051\u306a\u304f\u306a\u3063\u3066\u3057\u307e\u3044\u3001\\n\u4ed5\u65b9\u306a\u304f\u81ea\u5206\u304c\u3053\u3053\u307e\u3067\u304a\u3093\u3076\u3057\u3066\u904b\u3093\u3067\u304d\u305f\u306e\u3060\u3063\u305f\u3002",
+    "Phrase": "こちらに背負われ、\\nなぜか恍惚としていたアンツィオが慌てて顔を上げる。\\n彼女は山道を歩いている途中で動けなくなってしまい、\\n仕方なく自分がここまでおんぶして運んできたのだった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -184,30 +186,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30f3\u30c4\u30a3\u30aa",
-    "Phrase": "\u300c\u3046\u3046\u3001\u305f\u3044\u3078\u3093\u304a\u624b\u6570\u3092\u304a\u304b\u3051\u3057\u307e\u3057\u305f\u3051\u3069\u3082\uff01\\n\u3000\u3067\u3082\u3001\u3067\u3082\u2015\u2015\u5c71\u9053\u306f\u523a\u6fc0\u304c\u3044\u3063\u3071\u3044\u3067\u3057\u3066\uff01\\n\u3000\u5fc5\u6b7b\u306b\u5598\u304e\u306a\u304c\u3089\u5c71\u9053\u3092\u6b69\u304f\u8eca\u638c\u3055\u307e\u3082\u30a8\u30ed\u304f\u3066\u3063\u3001\\n\u3000\u5c0f\u8056\u306f\u8208\u596e\u3057\u3059\u304e\u3066\u8170\u7815\u3051\u306b\u306a\u3063\u3066\u3057\u307e\u3044\u307e\u3057\u305f\u304b\u3089\u3041\uff01\u300d",
+    "Name": "アンツィオ",
+    "Phrase": "「うう、たいへんお手数をおかけしましたけども！\\n　でも、でも――山道は刺激がいっぱいでして！\\n　必死に喘ぎながら山道を歩く車掌さまもエロくてっ、\\n　小聖は興奮しすぎて腰砕けになってしまいましたからぁ！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -221,30 +223,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30301,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u72ec\u7279\u306a\u53e3\u8abf\u3067\u8a9e\u308b\u30a2\u30f3\u30c4\u30a3\u30aa\u306f\u3001\\n\u7570\u5e38\u306b\u523a\u6fc0\u3084\u71b1\u306b\u654f\u611f\u306a\u7279\u7570\u4f53\u8cea\u3067\u3042\u308b\u3002\\n\u3061\u3087\u3063\u3068\u6c34\u6ef4\u304c\u9854\u306b\u304b\u304b\u3063\u305f\u3060\u3051\u3067\u60b6\u3048\u8ee2\u304c\u308a\u3001\\n\u300e\u30a8\u30af\u30b9\u30bf\u30b7\u30fc\u72b6\u614b\u300f\u306b\u9665\u3063\u3066\u3057\u307e\u3046\u3002",
+    "Phrase": "独特な口調で語るアンツィオは、\\n異常に刺激や熱に敏感な特異体質である。\\nちょっと水滴が顔にかかっただけで悶え転がり、\\n『エクスタシー状態』に陥ってしまう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -258,21 +260,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u300e\u30a8\u30af\u30b9\u30bf\u30b7\u30fc\u72b6\u614b\u300f\u306b\u9665\u3063\u305f\u5f7c\u5973\u306f\u932f\u4e71\u3057\u3001\\n\u9154\u3063\u6255\u3044\u306e\u3088\u3046\u306a\u8a00\u52d5\u3092\u3057\u59cb\u3081\u308b\u3002\\n\u666e\u6bb5\u306f\u7d20\u6734\u3067\u771f\u9762\u76ee\u306a\u826f\u3044\u5b50\u306a\u306e\u3060\u304c\u3001\\n\u3053\u306e\u5909\u306a\u4f53\u8cea\u306e\u305b\u3044\u3067\u5f7c\u5973\u306f\u901a\u5e38\u306e\u4efb\u52d9\u3067\u306f\u6271\u3044\u3065\u3089\u3044\u4eba\u6750\u3068\u306a\u3063\u3066\u3044\u308b\u3002",
+    "Phrase": "『エクスタシー状態』に陥った彼女は錯乱し、\\n酔っ払いのような言動をし始める。\\n普段は素朴で真面目な良い子なのだが、\\nこの変な体質のせいで彼女は通常の任務では扱いづらい人材となっている。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -286,21 +289,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3060\u304c\u4eca\u56de\u306f\u3001\u4e8b\u524d\u306b\u4f1d\u3048\u3089\u308c\u305f\u4e8b\u4ef6\u306e\u6027\u8cea\u4e0a\u2015\u2015\\n\u30a2\u30f3\u30c4\u30a3\u30aa\u4ee5\u5916\u306e\u7279\u9244\u968a\u54e1\u3092\u53ec\u96c6\u3082\u3067\u304d\u306a\u304b\u3063\u305f\u305f\u3081\u3001\\n\u5f7c\u5973\u3068\u4e8c\u4eba\u3067\u4efb\u52d9\u3092\u679c\u305f\u3055\u306a\u304f\u3066\u306f\u306a\u3089\u306a\u3044\u306e\u3060\u3002",
+    "Phrase": "だが今回は、事前に伝えられた事件の性質上――\\nアンツィオ以外の特鉄隊員を召集もできなかったため、\\n彼女と二人で任務を果たさなくてはならないのだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -314,21 +318,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30f3\u30c4\u30a3\u30aa",
-    "Phrase": "\u300c\u3046\u3046\u3002\u8eca\u638c\u3055\u307e\u3092\u304a\u5b88\u308a\u3067\u304d\u308b\u6226\u529b\u306f\u5c0f\u8056\u3060\u3051\u306a\u306e\u306b\u3001\\n\u3000\u305d\u306e\u5c0f\u8056\u304c\u3053\u3093\u306a\u4e0d\u69d8\u306a\u72b6\u614b\u3067\u3059\u307f\u307e\u305b\u3093\u2026\u2026\u3002\\n\u3000\u3044\u3001\u4eca\u304b\u3089\u3067\u3082\u5f15\u304d\u8fd4\u3057\u3066\u3001\\n\u3000\u4ed6\u306e\u968a\u54e1\u306b\u4e8b\u4ef6\u306e\u89e3\u6c7a\u3092\u4efb\u305b\u308b\u3079\u304d\u3067\u306f\u306a\u3044\u3067\u3057\u3087\u3046\u304b\uff1f\u300d",
+    "Name": "アンツィオ",
+    "Phrase": "「うう。車掌さまをお守りできる戦力は小聖だけなのに、\\n　その小聖がこんな不様な状態ですみません……。\\n　い、今からでも引き返して、\\n　他の隊員に事件の解決を任せるべきではないでしょうか？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -342,30 +347,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30301,
         "Position": 3,
         "Action": 3,
         "Emotion": 2,
         "FacialExpression": 7,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3046\u3082\u3044\u304b\u306a\u3044\u3001\\n\u305b\u3063\u304b\u304f\u5c71\u3092\u767b\u3063\u3066\u304d\u305f\u306e\u306b\u307e\u305f\u5f15\u304d\u8fd4\u3059\u306e\u306f\u5104\u52ab\u3060\u3057\u306a\u3002\\n\u5927\u4e08\u592b\u3060\u3001\u30a2\u30f3\u30c4\u30a3\u30aa\u306f\u3084\u308c\u3070\u3067\u304d\u308b\u5b50\u3060\u2015\u2015\\n\u304c\u3093\u3070\u3063\u3066\u4e00\u7dd2\u306b\u4efb\u52d9\u3092\u679c\u305f\u305d\u3046\u3002",
+    "Phrase": "そうもいかない、\\nせっかく山を登ってきたのにまた引き返すのは億劫だしな。\\n大丈夫だ、アンツィオはやればできる子だ――\\nがんばって一緒に任務を果たそう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -379,30 +384,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30f3\u30c4\u30a3\u30aa",
-    "Phrase": "\u300c\u2026\u2026\u3093\u3072\u3043\u266a\u300d",
+    "Name": "アンツィオ",
+    "Phrase": "「……んひぃ♪」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -416,30 +421,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30301,
         "Position": 3,
         "Action": 0,
         "Emotion": 4,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3069\u3046\u3057\u305f\u3001\u30a2\u30f3\u30c4\u30a3\u30aa\uff1f\\n\u8033\u5143\u3067\u5909\u306a\u58f0\u3092\u51fa\u3059\u306a\uff01",
+    "Phrase": "どうした、アンツィオ？\\n耳元で変な声を出すな！",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -453,30 +458,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30f3\u30c4\u30a3\u30aa",
-    "Phrase": "\u300c\u3060\u3063\u3066\u3001\u3060\u3063\u3066\u8eca\u638c\u3055\u307e\u304c\u512a\u3057\u3044\u304b\u3089\u3041\uff01\\n\u3000\u5c0f\u8056\u306a\u3093\u304b\u3092\u52b1\u307e\u3057\u3066\u304f\u308c\u308b\u3093\u3067\u3059\u306d\u3063\uff01\\n\u3000\u3055\u3066\u306f\u826f\u3044\u6c17\u5206\u306b\u3055\u305b\u3064\u3064\u62bc\u3057\u5012\u3057\u3066\u3001\\n\u3000\u30e9\u30d6\u30e9\u30d6\u3044\u3061\u3083\u3044\u3061\u3083\u306a\u30bb\u30c3\u2015\u2015\u304f\u3072\u3085\u3093\uff01\uff1f\u300d",
+    "Name": "アンツィオ",
+    "Phrase": "「だって、だって車掌さまが優しいからぁ！\\n　小聖なんかを励ましてくれるんですねっ！\\n　さては良い気分にさせつつ押し倒して、\\n　ラブラブいちゃいちゃなセッ――くひゅん！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -490,30 +495,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30301,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5999\u306a\u3053\u3068\u3092\u8a00\u3044\u304b\u3051\u305f\u30a2\u30f3\u30c4\u30a3\u30aa\u304c\u3001\u3073\u304f\u3093\u3068\u9707\u3048\u3066\u606f\u3092\u5451\u3080\u3002\\n\u5f7c\u5973\u306e\u8996\u7dda\u306e\u5148\u2015\u2015\\n\u5915\u713c\u3051\u8272\u306b\u67d3\u307e\u3063\u305f\u5c71\u6751\u306e\u3042\u3061\u3053\u3061\u306b\u3001\u5947\u5999\u306a\u30aa\u30d6\u30b8\u30a7\u304c\u93ae\u5ea7\u3057\u3066\u3044\u308b\u3002",
+    "Phrase": "妙なことを言いかけたアンツィオが、びくんと震えて息を呑む。\\n彼女の視線の先――\\n夕焼け色に染まった山村のあちこちに、奇妙なオブジェが鎮座している。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -527,30 +532,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30f3\u30c4\u30a3\u30aa",
-    "Phrase": "\u300c\u306a\u3001\u306a\u306a\u306a\u3001\u306a\u306a\u306a\uff01\uff1f\u300d",
+    "Name": "アンツィオ",
+    "Phrase": "「な、ななな、ななな！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -564,30 +569,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30301,
         "Position": 3,
         "Action": 2,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3053\u3061\u3089\u306b\u80cc\u8ca0\u308f\u308c\u305f\u307e\u307e\u3001\u30a2\u30f3\u30c4\u30a3\u30aa\u304c\u304a\u304a\u304d\u304f\u4ef0\u3051\u53cd\u3063\u305f\u3002",
+    "Phrase": "こちらに背負われたまま、アンツィオがおおきく仰け反った。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -601,30 +606,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30f3\u30c4\u30a3\u30aa",
-    "Phrase": "\u300c\u306a\u306a\u306a\u4f55\u3067\u3053\u3093\u306a\u5927\u91cf\u306b\u3001\\n\u3000\u5c0f\u8056\u306e\u77f3\u50cf\u304c\u3041\u3042\u3042\u3042\uff01\uff1f\u300d",
+    "Name": "アンツィオ",
+    "Phrase": "「ななな何でこんな大量に、\\n　小聖の石像がぁあああ！？」",
     "PhraseFontSize": 3,
     "PhraseSpeed": 3,
     "IsPhraseCenter": true,
@@ -638,30 +643,30 @@
     "Effect": 5,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3046\u2015\u2015\u5f7c\u5973\u304c\u8a00\u3063\u305f\u3068\u304a\u308a\u3001\\n\u3054\u304f\u5e73\u51e1\u306a\u5c71\u6751\u306e\u3042\u3061\u3053\u3061\u306b\u306f\u77f3\u50cf\u304c\u93ae\u5ea7\u3057\u3066\u3044\u308b\u3002\\n\u3061\u3087\u3063\u3068\u5c0b\u5e38\u3067\u306f\u306a\u3044\u6570\u3060\u3001\u3053\u3053\u304b\u3089\u78ba\u8a8d\u3067\u304d\u308b\u3060\u3051\u3067\u3082\u5341\u6570\u4f53\u306f\u3042\u308b\u3002",
+    "Phrase": "そう――彼女が言ったとおり、\\nごく平凡な山村のあちこちには石像が鎮座している。\\nちょっと尋常ではない数だ、ここから確認できるだけでも十数体はある。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -675,30 +680,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30301,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 21,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u308c\u3089\u306e\u77f3\u50cf\u306f\u3059\u3079\u3066\u3001\u30a2\u30f3\u30c4\u30a3\u30aa\u305d\u3063\u304f\u308a\u3060\u3002\\n\u3055\u3059\u304c\u306b\u8089\u3068\u77f3\u3067\u306f\u6750\u8cea\u304c\u9055\u3044\u3059\u304e\u308b\u306e\u3067\u672c\u4eba\u3068\u898b\u9593\u9055\u3048\u308b\u3053\u3068\u306f\u306a\u3044\u304c\u3001\\n\u9854\u7acb\u3061\u3068\u3044\u3044\u8eab\u4f53\u3064\u304d\u3068\u3044\u3044\u975e\u5e38\u306b\u3088\u304f\u4f3c\u3066\u3044\u308b\u3002",
+    "Phrase": "それらの石像はすべて、アンツィオそっくりだ。\\nさすがに肉と石では材質が違いすぎるので本人と見間違えることはないが、\\n顔立ちといい身体つきといい非常によく似ている。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -712,30 +717,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 22,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30f3\u30c4\u30a3\u30aa",
-    "Phrase": "\u300c\u3057\u304b\u3082\u5168\u88f8\uff01\u3000\u5168\u88f8\u306e\u5c0f\u8056\u304c\u5927\u91cf\u306b\uff01\\n\u3000\u5c0f\u8056\u306e\u8ca7\u5f31\u306a\u8089\u4f53\u304c\u5320\u306e\u6280\u3067\u518d\u73fe\u3055\u308c\u3066\u308a\u3085\u3046\u3046\uff01\u300d",
+    "Name": "アンツィオ",
+    "Phrase": "「しかも全裸！　全裸の小聖が大量に！\\n　小聖の貧弱な肉体が匠の技で再現されてりゅうう！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -749,30 +754,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30301,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 23,
     "ViewOrder": 1,
-    "Name": "\u30a2\u30f3\u30c4\u30a3\u30aa",
-    "Phrase": "\u300c\u4f55\u3067\u3057\u3085\u304b\u3053\u306e\u672a\u77e5\u306e\u7f9e\u6065\u30d7\u30ec\u30a4\uff01\uff1f\\n\u3000\u5acc\u3041\u3042\u3042\u3042\u3042\u2015\u2015\u8ab0\u306b\u3082\u898b\u305b\u305f\u304f\u306a\u3044\u5c0f\u8056\u306e\u6065\u305a\u304b\u3057\u3044\u90e8\u5206\u304c\u3001\\n\u3000\u767d\u65e5\u306e\u4e0b\u306b\u6652\u3055\u308c\u3066\u307e\u3072\u3085\u3046\u3046\u3046\uff01\uff1f\u300d",
+    "Name": "アンツィオ",
+    "Phrase": "「何でしゅかこの未知の羞恥プレイ！？\\n　嫌ぁああああ――誰にも見せたくない小聖の恥ずかしい部分が、\\n　白日の下に晒されてまひゅううう！？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -786,30 +791,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 30301,
         "Position": 3,
         "Action": 3,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 24,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u7b2c\u4e8c\u8a71\u3078\u3064\u3065\u304f\u3002",
+    "Phrase": "第二話へつづく。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -823,14 +828,14 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

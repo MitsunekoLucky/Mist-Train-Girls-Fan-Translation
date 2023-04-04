@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u663c\u4f11\u307f\u3002\u5eca\u4e0b\u3092\u901a\u308a\u304b\u304b\u308b\u3068\u30d1\u30c3\u30b9\u30a3\u304c\u7acb\u3063\u3066\u3044\u305f\u3002\\n\u540d\u524d\u3092\u547c\u307c\u3046\u3068\u3057\u3066\u2026\u2026\u305f\u3081\u3089\u3046\u3002\\n\u306a\u306b\u3084\u3089\u3001\u5f7c\u5973\u304c\u81ea\u554f\u81ea\u7b54\u3057\u3066\u3044\u308b\u69d8\u5b50\u3060\u3063\u305f\u304b\u3089\u3060\u3002",
+    "Phrase": "昼休み。廊下を通りかかるとパッスィが立っていた。\\n名前を呼ぼうとして……ためらう。\\nなにやら、彼女が自問自答している様子だったからだ。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c3\u30b9\u30a3",
-    "Phrase": "\u300c\u306f\u3042\u2026\u2026\u306a\u3093\u3066\u3001\u3044\u3001\u3044\u3084\u3089\u3057\u3044\uff01\u300d",
+    "Name": "パッスィ",
+    "Phrase": "「はあ……なんて、い、いやらしい！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,30 +46,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 41401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c3\u30b9\u30a3",
-    "Phrase": "\u300c\u2026\u2026\u3044\u3044\u3048\uff01\u3000\u3042\u308c\u306f\u5b50\u30d6\u30bf\u3061\u3083\u3093\uff01\\n\u3000\u305d\u3046\u3001\u5b50\u30d6\u30bf\u3061\u3083\u3093\uff01\u300d",
+    "Name": "パッスィ",
+    "Phrase": "「……いいえ！　あれは子ブタちゃん！\\n　そう、子ブタちゃん！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -82,30 +83,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 41401,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u76db\u5927\u306a\u305f\u3081\u606f\u3092\u3064\u3044\u305f\u308a\u3001\u767e\u9762\u76f8\u306e\u3088\u3046\u306b\u8868\u60c5\u3092\u5909\u3048\u305f\u308a\u3057\u3066\u3044\u308b\u3002\\n\u72ec\u308a\u8a00\u306b\u3057\u3066\u306f\u3044\u3055\u3055\u304b\u3001\u5927\u3052\u3055\u3060\u3002\\n\u305d\u308d\u305d\u308d\u4e8b\u60c5\u3092\u805e\u3044\u3066\u307f\u308b\u3053\u3068\u306b\u3059\u308b\u3002",
+    "Phrase": "盛大なため息をついたり、百面相のように表情を変えたりしている。\\n独り言にしてはいささか、大げさだ。\\nそろそろ事情を聞いてみることにする。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -119,30 +120,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 41401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c3\u30b9\u30a3",
-    "Phrase": "\u300c\u8eca\u638c\u3055\u307e\uff01\u3000\u898b\u3066\u3044\u305f\u3093\u3067\u3059\u304b\uff01\uff1f\\n\u3000\u3042\u3042\u3063\uff01\u3000\u6065\u305a\u304b\u3057\u3044\u3067\u3059\uff01\u300d",
+    "Name": "パッスィ",
+    "Phrase": "「車掌さま！　見ていたんですか！？\\n　ああっ！　恥ずかしいです！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -156,30 +157,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 41401,
         "Position": 3,
         "Action": 5,
         "Emotion": 5,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30d1\u30c3\u30b9\u30a3\u304c\u3001\u9854\u3092\u8d64\u304f\u3057\u305f\u3002\\n\u77e5\u3089\u306a\u3044\u9593\u67c4\u3067\u306f\u306a\u3044\u3057\u3001\u6c17\u306b\u3059\u308b\u5fc5\u8981\u306f\u306a\u3044\u3068\u601d\u3046\u306e\u3060\u304c\u3002\\n\u4e00\u4f53\u3001\u4f55\u304c\u3042\u3063\u305f\u306e\u304b\u3002\u305d\u308c\u3068\u306a\u304f\u8a71\u3092\u3059\u308b\u3088\u3046\u306b\u4fc3\u3057\u3066\u307f\u308b\u3068\u2026\u2026\u3002",
+    "Phrase": "パッスィが、顔を赤くした。\\n知らない間柄ではないし、気にする必要はないと思うのだが。\\n一体、何があったのか。それとなく話をするように促してみると……。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -193,30 +194,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 41401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c3\u30b9\u30a3",
-    "Phrase": "\u300c\u81ea\u7136\u306e\u6442\u7406\u3068\u3067\u3082\u3044\u3046\u306e\u3067\u3057\u3087\u3046\u304b\u300d",
+    "Name": "パッスィ",
+    "Phrase": "「自然の摂理とでもいうのでしょうか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -230,30 +231,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 41401,
         "Position": 3,
         "Action": 0,
         "Emotion": 6,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c3\u30b9\u30a3",
-    "Phrase": "\u300c\u305d\u306e\u3063\u3001\u7537\u6027\u306a\u3089\u4ed5\u65b9\u306a\u3044\u3068\u601d\u3046\u3093\u3067\u3059\u304c\u2026\u2026\u3002\\n\u3000\u3084\u3001\u5c4b\u6577\u306e\u4f7f\u7528\u4eba\u305f\u3061\u304c\u2026\u2026\uff01\u300d",
+    "Name": "パッスィ",
+    "Phrase": "「そのっ、男性なら仕方ないと思うんですが……。\\n　や、屋敷の使用人たちが……！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -267,30 +268,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 41401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30d1\u30c3\u30b9\u30a3\u306e\u8aac\u660e\u306b\u3088\u308b\u3068\u3001\u5c4b\u6577\u3067\u50cd\u3044\u3066\u3044\u308b\u7537\u6027\u305f\u3061\u304c\\n\u8fd1\u5834\u306e\u30b9\u30c8\u30ea\u30c3\u30d7\u5287\u5834\u306b\u5922\u4e2d\u3089\u3057\u3044\u3002\\n\u30d1\u30c3\u30b9\u30a3\u306f\u8cb4\u65cf\u306e\u304a\u59eb\u69d8\u3060\u3057\u3001\u591a\u611f\u306a\u5e74\u9803\u306e\u5973\u306e\u5b50\u3060\u3002\\n\u7121\u8ad6\u3001\u62b5\u6297\u306f\u3042\u308b\u3060\u308d\u3046\u3002",
+    "Phrase": "パッスィの説明によると、屋敷で働いている男性たちが\\n近場のストリップ劇場に夢中らしい。\\nパッスィは貴族のお姫様だし、多感な年頃の女の子だ。\\n無論、抵抗はあるだろう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -304,30 +305,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 41401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c3\u30b9\u30a3",
-    "Phrase": "\u300c\u3046\u3046\u3063\u3001\u7537\u6027\u306a\u3089\u305d\u3046\u3044\u3046\u6b32\u671b\u304c\u3042\u308b\u306e\u306f\\n\u3000\u81f4\u3057\u65b9\u306a\u3044\u3068\u306f\u5206\u304b\u3063\u3066\u3044\u308b\u3093\u3067\u3059\uff01\u300d",
+    "Name": "パッスィ",
+    "Phrase": "「ううっ、男性ならそういう欲望があるのは\\n　致し方ないとは分かっているんです！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -341,30 +342,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 41401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c3\u30b9\u30a3",
-    "Phrase": "\u300c\u3060\u304b\u3089\u3001\u308f\u305f\u3057\u2015\u2015\u305d\u3046\u3044\u3046\u306e\u306f\u305c\u3093\u3076\u3001\\n\u3000\u5b50\u30d6\u30bf\u3061\u3083\u3093\u304c\u3059\u308b\u3053\u3068\u3060\u3068\u601d\u3046\u3053\u3068\u306b\u3057\u305f\u3093\u3067\u3059\uff01\\n\u3000\u7f6a\u306e\u306a\u3044\u884c\u70ba\u3060\u3068\u2026\u2026\uff01\u300d",
+    "Name": "パッスィ",
+    "Phrase": "「だから、わたし――そういうのはぜんぶ、\\n　子ブタちゃんがすることだと思うことにしたんです！\\n　罪のない行為だと……！」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -378,30 +379,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 41401,
         "Position": 3,
         "Action": 1,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5229\u53e3\u306a\u5f7c\u5973\u3089\u3057\u3044\u8a00\u3044\u5206\u3060\u3002\u5fae\u7b11\u307e\u3057\u304f\u3059\u3089\u3042\u308b\u3002\\n\u307e\u3042\u3001\u3053\u308c\u306f\u30d5\u30a9\u30ed\u30fc\u3059\u3079\u304d\u3060\u308d\u3046\u3002",
+    "Phrase": "利口な彼女らしい言い分だ。微笑ましくすらある。\\nまあ、これはフォローすべきだろう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -415,30 +416,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 41401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 3,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c3\u30b9\u30a3",
-    "Phrase": "\u300c\u8eca\u638c\u3055\u307e\u3082\u3001\u305d\u306e\u2026\u2026\u3082\u3057\u304b\u3057\u3066\u3001\\n\u3000\u305d\u3046\u3044\u3046\u3053\u3068\u306b\u8208\u5473\u304c\u3042\u308a\u307e\u3059\u304b\u2026\u2026\uff1f\u300d",
+    "Name": "パッスィ",
+    "Phrase": "「車掌さまも、その……もしかして、\\n　そういうことに興味がありますか……？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -452,30 +453,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 41401,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u308c\u306f\u3068\u3082\u304b\u304f\u3001\u3068\u8a00\u8449\u3092\u5207\u308b\u3002\\n\u4eba\u4e26\u306e\u7537\u6027\u3060\u304b\u3089\u6c17\u306b\u306a\u3089\u306a\u3044\u3068\u8a00\u3063\u305f\u3089\u5618\u306b\u306a\u308b\u304c\u3001\\n\u4eca\u3001\u305d\u308c\u3092\u6b63\u76f4\u306b\u4f1d\u3048\u308b\u3079\u304d\u3067\u306f\u306a\u3044\u3002",
+    "Phrase": "それはともかく、と言葉を切る。\\n人並の男性だから気にならないと言ったら嘘になるが、\\n今、それを正直に伝えるべきではない。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -489,30 +490,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 41401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u8a00\u8449\u3092\u9078\u3093\u3067\u3001\u8003\u3048\u3092\u53e3\u306b\u3057\u305f\u3002\\n\u305d\u3046\u3044\u3046\u5351\u7325\u3060\u3068\u3055\u308c\u308b\u3082\u306e\u306b\u3082\u3001\u7f8e\u306f\u3042\u308b\u306e\u3067\u306f\u306a\u3044\u304b\u3002\\n\u3080\u3057\u308d\u82b8\u8853\u306e\u539f\u70b9\u306e\uff11\u3064\u3058\u3083\u306a\u3044\u304b\uff1f",
+    "Phrase": "言葉を選んで、考えを口にした。\\nそういう卑猥だとされるものにも、美はあるのではないか。\\nむしろ芸術の原点の１つじゃないか？",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -526,30 +527,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 41401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c3\u30b9\u30a3",
-    "Phrase": "\u300c\u82b8\u8853\u306e\u539f\u70b9\u2015\u2015\u308f\u305f\u3057\u306b\u306f\u306a\u3044\u767a\u60f3\u3067\u3057\u305f\u2026\u2026\u300d",
+    "Name": "パッスィ",
+    "Phrase": "「芸術の原点――わたしにはない発想でした……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -563,30 +564,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 41401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 17,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u5b9f\u969b\u3001\u30b9\u30c8\u30ea\u30c3\u30d7\u5287\u5834\u306e\u5973\u306e\u5b50\u305f\u3061\u306e\u5b9f\u614b\u306f\u30a2\u30b9\u30ea\u30fc\u30c8\u306b\u8fd1\u3044\u3002\\n\u8276\u3081\u304b\u3057\u304f\u898b\u3048\u308b\u3088\u3046\u3001\u7537\u6027\u306e\u8208\u596e\u3092\u8a98\u3046\u3088\u3046\u82b8\u306e\u6280\u8853\u3092\u78e8\u304f\u3002\\n\u305d\u306e\u6280\u8853\u306f\u3051\u3057\u3066\u3001\u4e00\u671d\u4e00\u5915\u3067\u57f9\u308f\u308c\u305f\u3082\u306e\u3067\u306f\u306a\u3044\u3002",
+    "Phrase": "実際、ストリップ劇場の女の子たちの実態はアスリートに近い。\\n艶めかしく見えるよう、男性の興奮を誘うよう芸の技術を磨く。\\nその技術はけして、一朝一夕で培われたものではない。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -600,30 +601,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 41401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 18,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u982d\u304b\u3089\u4e0b\u54c1\u3060\u3068\u65ad\u3058\u308b\u306e\u306f\u9055\u3046\u6c17\u304c\u3059\u308b\u3002",
+    "Phrase": "頭から下品だと断じるのは違う気がする。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -637,30 +638,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 41401,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 1,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 19,
     "ViewOrder": 1,
-    "Name": "\u30d1\u30c3\u30b9\u30a3",
-    "Phrase": "\u300c\u2026\u2026\u305d\u3046\u3067\u3059\u306d\u3063\uff01\u3000\u305d\u3046\u601d\u3046\u3068\u62b5\u6297\u304c\u5c11\u306a\u304f\u306a\u308a\u307e\u3059\u306d\uff01\\n\u3000\u30e1\u30eb\u30b9\u30a3\uff01\u3000\u8eca\u638c\u3055\u307e\u306b\u76f8\u8ac7\u3057\u3066\u826f\u304b\u3063\u305f\u3067\u3059\u3002\\n\u3000\u308f\u305f\u3057\u3001\u7686\u3055\u3093\u306e\u3053\u3068\u3092\u8aa4\u89e3\u3057\u3066\u3044\u305f\u304b\u3082\u3057\u308c\u307e\u305b\u3093\u300d",
+    "Name": "パッスィ",
+    "Phrase": "「……そうですねっ！　そう思うと抵抗が少なくなりますね！\\n　メルスィ！　車掌さまに相談して良かったです。\\n　わたし、皆さんのことを誤解していたかもしれません」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -674,30 +675,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 41401,
         "Position": 3,
         "Action": 5,
         "Emotion": 1,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 20,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u30d1\u30c3\u30b9\u30a3\u304c\u7b11\u3046\u3002\\n\u4e0a\u624b\u304f\u611f\u60c5\u3092\u6607\u83ef\u3067\u304d\u305f\u306e\u306a\u3089\u3001\u826f\u304b\u3063\u305f\u3002\\n\u3084\u306f\u308a\u3001\u5f7c\u5973\u306b\u306f\u660e\u308b\u3044\u8868\u60c5\u304c\u4f3c\u5408\u3046\u3002",
+    "Phrase": "パッスィが笑う。\\n上手く感情を昇華できたのなら、良かった。\\nやはり、彼女には明るい表情が似合う。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -711,14 +712,14 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]

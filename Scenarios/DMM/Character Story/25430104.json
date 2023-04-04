@@ -1,9 +1,9 @@
 ﻿[
-  {
+{
     "GroupOrder": 1,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u9752\u3044\u7a7a\u3001\u767d\u3044\u7802\u6d5c\u3002\u305d\u3057\u3066\u7e70\u308a\u8fd4\u3059\u6ce2\u306e\u97f3\u3002\\n\u5168\u8eab\u3067\u6d77\u3092\u611f\u3058\u306a\u304c\u3089\u30ca\u30e9\u3068\u6d77\u8fba\u3092\u6b69\u3044\u3066\u3044\u308b\u3068\u2015\u2015",
+    "Phrase": "青い空、白い砂浜。そして繰り返す波の音。\\n全身で海を感じながらナラと海辺を歩いていると――",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -17,21 +17,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 2,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30e9",
-    "Phrase": "\u300c\u8eca\u638c\u3055\u3093\u3001\u306a\u3093\u3084\u3046\u3061\u304a\u304b\u3057\u3044\u3093\u3084\u308d\u304b\u3002\\n\u3000\u982d\u304c\u307c\u3046\u3063\u3068\u3057\u3066\u2026\u2026\u3001\u8eab\u4f53\u304c\u5909\u306b\u71b1\u304f\u306a\u3063\u3068\u308b\u3093\u3088\u300d",
+    "Name": "ナラ",
+    "Phrase": "「車掌さん、なんやうちおかしいんやろか。\\n　頭がぼうっとして……、身体が変に熱くなっとるんよ」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -45,30 +46,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 54301,
         "Position": 3,
         "Action": 0,
         "Emotion": 5,
         "FacialExpression": 4,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 3,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3088\u304f\u898b\u308b\u3068\u3001\u30ca\u30e9\u306e\u982c\u304c\u5c11\u3057\u8d64\u304f\u306a\u3063\u3066\u3044\u308b\u3002\\n\u76ee\u3082\u3069\u3053\u304b\u865a\u308d\u306a\u72b6\u614b\u3067\u3001\u305f\u3060\u3054\u3068\u3067\u306f\u306a\u3044\u69d8\u5b50\u3060\u3063\u305f\u3002",
+    "Phrase": "よく見ると、ナラの頬が少し赤くなっている。\\n目もどこか虚ろな状態で、ただごとではない様子だった。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -82,30 +83,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 54301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 4,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30e9",
-    "Phrase": "\u300c\u8eab\u4f53\u3082\u3001\u30d5\u30e9\u30d5\u30e9\u3057\u3066\u306a\u3002\u65e5\u5c04\u3057\u306e\u305b\u3044\u304b\u6c57\u3082\u6b62\u307e\u3089\u3093\u304f\u3066\u2026\u2026\u300d",
+    "Name": "ナラ",
+    "Phrase": "「身体も、フラフラしてな。日射しのせいか汗も止まらんくて……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -119,30 +120,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 54301,
         "Position": 3,
         "Action": 2,
         "Emotion": 0,
         "FacialExpression": 8,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 5,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u3069\u3046\u3084\u3089\u71b1\u4e2d\u75c7\u306b\u306a\u3063\u3066\u3044\u308b\u3088\u3046\u3060\u3002\\n\u4e00\u523b\u3082\u65e9\u304f\u6dbc\u3057\u3044\u5834\u6240\u3067\u4f11\u307e\u305b\u305f\u65b9\u304c\u3044\u3044\u3002\\n\u8ee2\u3070\u306a\u3044\u3088\u3046\u30ca\u30e9\u306b\u80a9\u3092\u8cb8\u3057\u3001\u5bbf\u306b\u5411\u304b\u3063\u3066\u6b69\u304d\u59cb\u3081\u305f\u3002",
+    "Phrase": "どうやら熱中症になっているようだ。\\n一刻も早く涼しい場所で休ませた方がいい。\\n転ばないようナラに肩を貸し、宿に向かって歩き始めた。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -156,21 +157,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 6,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30e9",
-    "Phrase": "\u300c\u3059\u3093\u307e\u3078\u3093\u2026\u2026\u3002\\n\u3000\u3046\u3061\u304c\u3057\u3063\u304b\u308a\u4f53\u8abf\u7ba1\u7406\u51fa\u6765\u3066\u305f\u3089\u3001\u8ff7\u60d1\u304b\u3051\u308b\u3053\u3068\u306a\u304b\u3063\u305f\u306e\u306b\u2026\u2026\u3002\\n\u3000\u3053\u3053\u307e\u3067\u904b\u3076\u306e\u3001\u91cd\u304f\u3066\u5927\u5909\u3084\u3063\u305f\u3084\u308d\uff1f\u300d",
+    "Name": "ナラ",
+    "Phrase": "「すんまへん……。\\n　うちがしっかり体調管理出来てたら、迷惑かけることなかったのに……。\\n　ここまで運ぶの、重くて大変やったやろ？」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -184,30 +186,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 54301,
         "Position": 3,
         "Action": 0,
         "Emotion": 2,
         "FacialExpression": 4,
         "EnterAction": 1
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 7,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u81ea\u5206\u306e\u65b9\u3053\u305d\u3001\u3059\u3050\u306b\u6c17\u4ed8\u3044\u3066\u3084\u308c\u305a\u3001\u30ca\u30e9\u306b\u7121\u7406\u3092\u3055\u305b\u3066\u3057\u307e\u3063\u305f\u3002\\n\u7533\u3057\u8a33\u306a\u3044\u3002\u826f\u304f\u306a\u308b\u307e\u3067\u90e8\u5c4b\u3067\u4f11\u3093\u3067\u3044\u3088\u3046\u3002\\n\u5c11\u3057\u305a\u3064\u3067\u3082\u3001\u6c34\u306f\u98f2\u3081\u305d\u3046\u3060\u308d\u3046\u304b\u3002",
+    "Phrase": "自分の方こそ、すぐに気付いてやれず、ナラに無理をさせてしまった。\\n申し訳ない。良くなるまで部屋で休んでいよう。\\n少しずつでも、水は飲めそうだろうか。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -221,30 +223,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 54301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 4,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 8,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30e9",
-    "Phrase": "\u300c\u3093\u3063\u2026\u2026\u3001\u3075\u3045\u3002\u4e94\u81d3\u516d\u8151\u306b\u67d3\u307f\u6e21\u308b\u308f\u3041\u3002\\n\u3000\u8eca\u638c\u3055\u3093\u304c\u6df9\u308c\u3066\u304f\u308c\u305f\u304a\u6c34\u3084\u304b\u3089\u3001\u4f59\u8a08\u7f8e\u5473\u3057\u304f\u611f\u3058\u308b\u306e\u304b\u3082\u3057\u308c\u3093\u306d\u300d",
+    "Name": "ナラ",
+    "Phrase": "「んっ……、ふぅ。五臓六腑に染み渡るわぁ。\\n　車掌さんが淹れてくれたお水やから、余計美味しく感じるのかもしれんね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -258,30 +260,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 54301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 9,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3046\u8a00\u3063\u3066\u7b11\u3046\u30ca\u30e9\u306e\u9854\u8272\u306f\u3001\u5148\u7a0b\u3088\u308a\u3082\u826f\u304f\u306a\u3063\u3066\u3044\u308b\u3088\u3046\u306b\u898b\u3048\u305f\u3002\\n\u8fd1\u304f\u306b\u3042\u3063\u305f\u3046\u3061\u308f\u3067\u4ef0\u3050\u3068\u3001\u30ca\u30e9\u306f\u6c17\u6301\u3061\u3088\u3055\u305d\u3046\u306b\u76ee\u3092\u7d30\u3081\u308b\u3002",
+    "Phrase": "そう言って笑うナラの顔色は、先程よりも良くなっているように見えた。\\n近くにあったうちわで仰ぐと、ナラは気持ちよさそうに目を細める。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -295,30 +297,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 54301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 10,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30e9",
-    "Phrase": "\u300c\u306a\u3093\u3084\u3001\u6d77\u306e\u98a8\u3068\u306f\u307e\u305f\u9055\u3046\u5fc3\u5730\u3088\u3055\u3084\u306d\u3002\\n\u3000\u305d\u3088\u305d\u3088\u3001\u3063\u3066\u512a\u3057\u304f\u3066\u61d0\u304b\u3057\u3044\u98a8\u3084\u3002\u304a\u5c71\u3092\u601d\u3044\u51fa\u3059\u306a\u3041\u2026\u2026\u300d",
+    "Name": "ナラ",
+    "Phrase": "「なんや、海の風とはまた違う心地よさやね。\\n　そよそよ、って優しくて懐かしい風や。お山を思い出すなぁ……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -332,30 +334,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 54301,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 11,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30e9",
-    "Phrase": "\u300c\u304a\u304a\u304d\u306b\u306a\u3001\u8eca\u638c\u3055\u3093\u3002\\n\u3000\u3055\u3063\u304d\u306f\u30d5\u30e9\u30d5\u30e9\u3057\u3066\u3001\u3069\u3046\u306a\u308b\u3053\u3068\u3084\u601d\u3063\u305f\u3051\u3069\u2026\u2026\\n\u3000\u5c11\u3057\u697d\u306b\u306a\u3063\u3066\u304d\u305f\u307f\u305f\u3044\u3084\u300d",
+    "Name": "ナラ",
+    "Phrase": "「おおきにな、車掌さん。\\n　さっきはフラフラして、どうなることや思ったけど……\\n　少し楽になってきたみたいや」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -369,30 +371,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 54301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 12,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u308c\u306f\u826f\u304b\u3063\u305f\u3002\u5c11\u3057\u3067\u3082\u30ca\u30e9\u306e\u5f79\u306b\u7acb\u3066\u305f\u306e\u306a\u3089\u5b09\u3057\u3044\u3002\\n\u4ed6\u306b\u81ea\u5206\u304c\u624b\u4f1d\u3048\u308b\u3053\u3068\u304c\u3042\u308c\u3070\u3001\u306a\u3093\u3067\u3082\u805e\u3053\u3046\u3002",
+    "Phrase": "それは良かった。少しでもナラの役に立てたのなら嬉しい。\\n他に自分が手伝えることがあれば、なんでも聞こう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -406,30 +408,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 54301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 0,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 13,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30e9",
-    "Phrase": "\u300c\u306a\u3093\u3067\u3082\u2026\u2026\uff1f\u3000\u306a\u3001\u306a\u3042\u8eca\u638c\u3055\u3093\u3002\\n\u3000\u305b\u3084\u3063\u305f\u3089\u3001\u3082\u3046\u3072\u3068\u3064\u3060\u3051\u3001\u3046\u3061\u3001\u304a\u9858\u3044\u304c\u3042\u308b\u3093\u3084\u3051\u3069\u2026\u2026\u300d",
+    "Name": "ナラ",
+    "Phrase": "「なんでも……？　な、なあ車掌さん。\\n　せやったら、もうひとつだけ、うち、お願いがあるんやけど……」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -443,30 +445,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 54301,
         "Position": 3,
         "Action": 5,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 14,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30e9",
-    "Phrase": "\u300c\u65e9\u304f\u3088\u304f\u306a\u308b\u3088\u3046\u306b\u3001\u305d\u306e\u2026\u2026\u982d\u64ab\u3067\u3066\u6b32\u3057\u3044\u3093\u3088\u3002\\n\u3000\u3046\u3061\u3001\u8eca\u638c\u3055\u3093\u306b\u982d\u64ab\u3067\u3066\u3082\u3089\u3046\u306e\u597d\u304d\u306a\u3093\u3084\u3002\u3060\u3001\u99c4\u76ee\u2026\u2026\u3084\u308d\u304b\u300d",
+    "Name": "ナラ",
+    "Phrase": "「早くよくなるように、その……頭撫でて欲しいんよ。\\n　うち、車掌さんに頭撫でてもらうの好きなんや。だ、駄目……やろか」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -480,30 +482,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 54301,
         "Position": 3,
         "Action": 0,
         "Emotion": 6,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 15,
     "ViewOrder": 1,
     "Name": "",
-    "Phrase": "\u305d\u3093\u306a\u53ef\u611b\u3044\u304a\u9858\u3044\u4e8b\u306a\u3089\u3001\u3044\u304f\u3089\u3067\u3082\u53f6\u3048\u3088\u3046\u3002",
+    "Phrase": "そんな可愛いお願い事なら、いくらでも叶えよう。",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -517,30 +519,30 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 54301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 6,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  },
-  {
+},
+{
     "GroupOrder": 16,
     "ViewOrder": 1,
-    "Name": "\u30ca\u30e9",
-    "Phrase": "\u300c\u307b\u3093\u307e\uff1f\u3000\u3048\u3078\u3078\u3001\u5b09\u3057\u3044\u308f\u3041\u3002\u4eca\u3060\u3051\u306f\u8eca\u638c\u3055\u3093\u3092\u72ec\u308a\u5360\u3081\u3084\u306d\u300d",
+    "Name": "ナラ",
+    "Phrase": "「ほんま？　えへへ、嬉しいわぁ。今だけは車掌さんを独り占めやね」",
     "PhraseFontSize": 2,
     "PhraseSpeed": 3,
     "IsPhraseCenter": false,
@@ -554,23 +556,22 @@
     "Effect": null,
     "BackgroundEffectType": 0,
     "StandCharacters": [
-      {
+    {
         "MCharacterId": 54301,
         "Position": 3,
         "Action": 0,
         "Emotion": 0,
         "FacialExpression": 5,
         "EnterAction": 0
-      }
-    ],
-    "StillDetail": {
-      "AnimationName": "",
-      "AnimationSpeed": null,
-      "CameraZoomRatio": null,
-      "CameraPositionX": null,
-      "CameraPositionY": null,
-      "CameraWorkDuration": null,
-      "CameraRotation": null
+    }],
+    "StillDetail":
+    {
+        "AnimationName": "",
+        "AnimationSpeed": null,
+        "CameraZoomRatio": null,
+        "CameraPositionX": null,
+        "CameraPositionY": null,
+        "CameraWorkDuration": null,
+        "CameraRotation": null
     }
-  }
-]
+}]
